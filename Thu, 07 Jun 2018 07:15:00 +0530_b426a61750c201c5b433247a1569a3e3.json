@@ -1,0 +1,47 @@
+{
+    "title": "Retrospective benefits on gratuity not on the cards, says NDA govt",
+    "link": "https://www.business-standard.com/article/economy-policy/retrospective-benefits-on-gratuity-not-on-the-cards-says-nda-govt-118060700030_1.html",
+    "pubDate": "Thu, 07 Jun 2018 07:15:00 +0530",
+    "content": "The law was amended to bring parity between public and private sector employees (including PSUs) after the gratuity limit was raised for central government on similar lines",
+    "contentSnippet": "The law was amended to bring parity between public and private sector employees (including PSUs) after the gratuity limit was raised for central government on similar lines",
+    "guid": "https://www.business-standard.com/article/economy-policy/retrospective-benefits-on-gratuity-not-on-the-cards-says-nda-govt-118060700030_1.html",
+    "isoDate": "2018-06-07T01:45:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.18181818181818182,
+        "tokens": [
+            "retrospective",
+            "benefits",
+            "on",
+            "gratuity",
+            "not",
+            "on",
+            "the",
+            "cards",
+            "says",
+            "nda",
+            "govt"
+        ],
+        "words": [
+            "benefits"
+        ],
+        "positive": [
+            "benefits"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "similar",
+        "Retrospective",
+        "raised",
+        "private",
+        "amended",
+        "public",
+        "central"
+    ],
+    "verbs": [
+        "bring",
+        "limit"
+    ]
+}

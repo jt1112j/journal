@@ -1,0 +1,51 @@
+{
+    "title": "MARKET WRAP: Sensex ends 109 pts lower, Nifty at 10,593 ahead of RBI policy",
+    "link": "https://www.business-standard.com/article/markets/markets-live-markets-nifty-sensex-rbi-rate-hike-asian-shares-rbi-118060500113_1.html",
+    "pubDate": "Tue, 05 Jun 2018 15:30:00 +0530",
+    "content": "Bharti Airtel and Larsen & Toubro were among the top losers in BSE Sensex today, while Tata Steel was the top gainer, which rose around 1%.",
+    "contentSnippet": "Bharti Airtel and Larsen & Toubro were among the top losers in BSE Sensex today, while Tata Steel was the top gainer, which rose around 1%.",
+    "guid": "https://www.business-standard.com/article/markets/markets-live-markets-nifty-sensex-rbi-rate-hike-asian-shares-rbi-118060500113_1.html",
+    "isoDate": "2018-06-05T10:00:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.14285714285714285,
+        "tokens": [
+            "market",
+            "wrap",
+            "sensex",
+            "ends",
+            "109",
+            "pts",
+            "lower",
+            "nifty",
+            "at",
+            "10593",
+            "ahead",
+            "of",
+            "rbi",
+            "policy"
+        ],
+        "words": [
+            "nifty"
+        ],
+        "positive": [
+            "nifty"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "10",
+        "Nifty",
+        "top",
+        "ahead",
+        "rose"
+    ],
+    "verbs": [
+        "MARKET",
+        "lower",
+        "Steel",
+        "top",
+        "WRAP"
+    ]
+}

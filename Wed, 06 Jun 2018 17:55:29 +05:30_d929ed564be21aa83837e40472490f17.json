@@ -1,0 +1,86 @@
+{
+    "creator": "PTI",
+    "title": "Interest rate hike to hurt India’s growth prospects: Industry",
+    "link": "https://www.financialexpress.com/economy/interest-rate-hike-to-hurt-indias-growth-prospects-industry/1196000/",
+    "pubDate": "Wed, 06 Jun 2018 17:55:29 +05:30",
+    "dc:creator": "PTI",
+    "content": "HDFC Bank said the Reserve Bank is likely to go for more rate hikes like the one today on risks from factors like the minimum support prices for farm produce and firm global commodity prices. ",
+    "contentSnippet": "HDFC Bank said the Reserve Bank is likely to go for more rate hikes like the one today on risks from factors like the minimum support prices for farm produce and firm global commodity prices.",
+    "guid": "https://www.financialexpress.com/?p=1196000",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-06T12:25:29.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.2222222222222222,
+        "tokens": [
+            "interest",
+            "rate",
+            "hike",
+            "to",
+            "hurt",
+            "india’s",
+            "growth",
+            "prospects",
+            "industry"
+        ],
+        "words": [
+            "prospects",
+            "growth",
+            "hurt",
+            "interest"
+        ],
+        "positive": [
+            "prospects",
+            "growth",
+            "interest"
+        ],
+        "negative": [
+            "hurt"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "likely",
+        "go",
+        "one",
+        "minimum",
+        "firm",
+        "global",
+        "hurt"
+    ],
+    "nouns": [
+        "Interest",
+        "rate",
+        "hike",
+        "India",
+        "Industry",
+        "growth",
+        "hurt",
+        "produce",
+        "Bank",
+        "Reserve",
+        "one",
+        "today",
+        "minimum",
+        "support",
+        "go",
+        "farm",
+        "firm",
+        "commodity"
+    ],
+    "verbs": [
+        "Interest",
+        "rate",
+        "hike",
+        "hurt",
+        "produce",
+        "Bank",
+        "Reserve",
+        "go",
+        "support",
+        "farm",
+        "firm"
+    ]
+}

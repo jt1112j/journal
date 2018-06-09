@@ -1,0 +1,64 @@
+{
+    "title": "Nifty slips below 10,750-mark as markets see correction",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/nifty-slips-below-10750-mark-as-markets-see-correction/articleshow/64502820.cms",
+    "pubDate": "Fri, 08 Jun 2018 03:58:44 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/nifty-slips-below-10750-mark-as-markets-see-correction/articleshow/64502820.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64502820.cms\" /></a>",
+    "contentSnippet": "",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/nifty-slips-below-10750-mark-as-markets-see-correction/articleshow/64502820.cms",
+    "isoDate": "2018-06-08T03:58:44.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.25,
+        "tokens": [
+            "nifty",
+            "slips",
+            "below",
+            "10750-mark",
+            "as",
+            "markets",
+            "see",
+            "correction"
+        ],
+        "words": [
+            "nifty"
+        ],
+        "positive": [
+            "nifty"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "Nifty slips below 10,750-mark as markets see correction",
+        "content": "<div class=\"loadingblock ajaxarticleloading\"><div class=\"loadingnext\"><p><span class=\"loadingnextstory\"><b>Companies linked to ICICI Bank row under govt lens, says official</b></span></p></div></div>"
+    },
+    "adjectives": [
+        "10",
+        "left",
+        "top",
+        "right",
+        "Nifty",
+        "nifty"
+    ],
+    "nouns": [
+        "india",
+        "business",
+        "border",
+        "10",
+        "left",
+        "style",
+        "mark",
+        "margin",
+        "top",
+        "right",
+        "photo",
+        "correction"
+    ],
+    "verbs": [
+        "border",
+        "align",
+        "style",
+        "mark",
+        "top",
+        "right"
+    ]
+}

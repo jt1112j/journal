@@ -1,0 +1,72 @@
+{
+    "title": "World's fastest GDP growth rate sets stage for an interest rate hike by RBI",
+    "link": "https://www.business-standard.com/article/finance/world-s-fastest-gdp-growth-rate-sets-stage-for-an-interest-rate-hike-by-rbi-118060100243_1.html",
+    "pubDate": "Fri, 01 Jun 2018 11:12:00 +0530",
+    "content": "The RBI expects growth to hit 7.4 percent in the year to March 2019 amid improved demand, broadly in line with the market consensus",
+    "contentSnippet": "The RBI expects growth to hit 7.4 percent in the year to March 2019 amid improved demand, broadly in line with the market consensus",
+    "guid": "https://www.business-standard.com/article/finance/world-s-fastest-gdp-growth-rate-sets-stage-for-an-interest-rate-hike-by-rbi-118060100243_1.html",
+    "isoDate": "2018-06-01T05:42:00.000Z",
+    "sentiment": {
+        "score": 3,
+        "comparative": 0.21428571428571427,
+        "tokens": [
+            "world's",
+            "fastest",
+            "gdp",
+            "growth",
+            "rate",
+            "sets",
+            "stage",
+            "for",
+            "an",
+            "interest",
+            "rate",
+            "hike",
+            "by",
+            "rbi"
+        ],
+        "words": [
+            "interest",
+            "growth"
+        ],
+        "positive": [
+            "interest",
+            "growth"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "improved",
+        "World"
+    ],
+    "nouns": [
+        "year",
+        "March",
+        "market",
+        "RBI",
+        "consensus",
+        "hit",
+        "interest",
+        "World",
+        "demand",
+        "growth",
+        "percent",
+        "rate",
+        "stage",
+        "line",
+        "hike",
+        "GDP"
+    ],
+    "verbs": [
+        "March",
+        "market",
+        "hit",
+        "interest",
+        "demand",
+        "rate",
+        "stage",
+        "line",
+        "hike"
+    ]
+}

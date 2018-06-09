@@ -1,0 +1,47 @@
+{
+    "title": "Select stocks under ASM framework recover after falling for two days",
+    "link": "https://www.business-standard.com/article/markets/select-stocks-under-asm-framework-recover-after-two-days-fall-118060600210_1.html",
+    "pubDate": "Wed, 06 Jun 2018 10:21:00 +0530",
+    "content": "Rain Ind, Alok Ind, Graphite India, Man Ind, HEG, Mirc Electronics, Prakash Ind, HIL, Waterbase and GVK Power have rallied an over 7% from their respective intra-day lows on the BSE on Wednesday.",
+    "contentSnippet": "Rain Ind, Alok Ind, Graphite India, Man Ind, HEG, Mirc Electronics, Prakash Ind, HIL, Waterbase and GVK Power have rallied an over 7% from their respective intra-day lows on the BSE on Wednesday.",
+    "guid": "https://www.business-standard.com/article/markets/select-stocks-under-asm-framework-recover-after-two-days-fall-118060600210_1.html",
+    "isoDate": "2018-06-06T04:51:00.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.09090909090909091,
+        "tokens": [
+            "select",
+            "stocks",
+            "under",
+            "asm",
+            "framework",
+            "recover",
+            "after",
+            "falling",
+            "for",
+            "two",
+            "days"
+        ],
+        "words": [
+            "falling"
+        ],
+        "positive": [],
+        "negative": [
+            "falling"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "falling",
+        "two",
+        "respective",
+        "Select"
+    ],
+    "verbs": [
+        "Power",
+        "recover",
+        "Man",
+        "Select",
+        "Rain"
+    ]
+}

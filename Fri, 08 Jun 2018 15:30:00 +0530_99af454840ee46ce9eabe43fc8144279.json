@@ -1,0 +1,61 @@
+{
+    "title": "MARKET WRAP: Sensex ends 19 pts down, Nifty at 10,768; Sun Pharma up 8%",
+    "link": "https://www.business-standard.com/article/markets/markets-live-nifty-sensex-rbi-rate-hike-asian-shares-morgan-stanley-118060800132_1.html",
+    "pubDate": "Fri, 08 Jun 2018 15:30:00 +0530",
+    "content": "Sun Pharma surged over 8%, while Dr. Reddy ended nearly 5% higher on the BSE.",
+    "contentSnippet": "Sun Pharma surged over 8%, while Dr. Reddy ended nearly 5% higher on the BSE.",
+    "guid": "https://www.business-standard.com/article/markets/markets-live-nifty-sensex-rbi-rate-hike-asian-shares-morgan-stanley-118060800132_1.html",
+    "isoDate": "2018-06-08T10:00:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.14285714285714285,
+        "tokens": [
+            "market",
+            "wrap",
+            "sensex",
+            "ends",
+            "19",
+            "pts",
+            "down",
+            "nifty",
+            "at",
+            "10768",
+            "sun",
+            "pharma",
+            "up",
+            "8"
+        ],
+        "words": [
+            "nifty"
+        ],
+        "positive": [
+            "nifty"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "19",
+        "Nifty",
+        "higher",
+        "ended",
+        "down",
+        "10"
+    ],
+    "nouns": [
+        "BSE",
+        "19",
+        "MARKET",
+        "WRAP",
+        "down",
+        "10",
+        "Sun",
+        "Pharma"
+    ],
+    "verbs": [
+        "MARKET",
+        "WRAP",
+        "down",
+        "Sun"
+    ]
+}

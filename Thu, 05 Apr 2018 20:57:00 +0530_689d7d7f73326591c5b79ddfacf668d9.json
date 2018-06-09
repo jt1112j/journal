@@ -1,0 +1,66 @@
+{
+    "title": "#MeToo movement reaches S Korea, one of world's worst workplaces for women",
+    "link": "https://www.business-standard.com/article/international/metoo-movement-reaches-s-korea-one-of-world-s-worst-workplaces-for-women-118040501191_1.html",
+    "pubDate": "Thu, 05 Apr 2018 20:57:00 +0530",
+    "content": "Last month, thousands of women rallied at Seoul's historic Gwanghwamun Square",
+    "contentSnippet": "Last month, thousands of women rallied at Seoul's historic Gwanghwamun Square",
+    "guid": "https://www.business-standard.com/article/international/metoo-movement-reaches-s-korea-one-of-world-s-worst-workplaces-for-women-118040501191_1.html",
+    "isoDate": "2018-04-05T15:27:00.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.16666666666666666,
+        "tokens": [
+            "metoo",
+            "movement",
+            "reaches",
+            "s",
+            "korea",
+            "one",
+            "of",
+            "world's",
+            "worst",
+            "workplaces",
+            "for",
+            "women"
+        ],
+        "words": [
+            "worst",
+            "reaches"
+        ],
+        "positive": [
+            "reaches"
+        ],
+        "negative": [
+            "worst"
+        ]
+    },
+    "article": {
+        "title": "#MeToo movement reaches S Korea, one of world's worst workplaces for women",
+        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t<p>\n\t\n\tWhile slower to emerge than in the US, the #MeToo movement is reverberating quickly in <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=south+korea\" target=\"_blank\">South Korea </a>where a flurry of headline-grabbing accusations have ignited calls for overhauling one of the world’s worst workplaces for women.</p>\n<p>\n\tA series of high-profile sexual assault and harassment allegations against some of Korea’s most prominent politicians, actors and professors in the past two months is inciting women’s rights rallies reminiscent of the 1960’s feminist movement in the US. The allegations already have led to the downfall of a presidential contender, Ahn Hee-jung, who resigned as a provincial governor after his secretary accused him of rape. It also has all but crushed prospects of a Nobel Prize for a noted Korean poet Ko Un, whose works have been removed from the country’s textbooks in the wake of allegations he sexually harassed other poets. Both have denied the allegations.<br></p>\n<p>\n\tIn similar step with the US, where the movement has ended the careers of Hollywood mogul Harvey Weinstein and US Senator Al Franken, the #MeToo movement in <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=south+korea\" target=\"_blank\">South Korea </a>is drawing attention to what activists say are the country’s deep-rooted societal and economic bias against women.<br></p>\n<p>\n\tLast month, thousands of women rallied at Seoul’s historic Gwanghwamun Square, where demonstrators held up signs “Feminism will save our democracy” and “I deserve the same pay as my male colleagues.” More rallies are planned for this weekend and next.<br></p>\n<p>\n\t“While previous approaches to improve gender inequality were focused on changing the law and the system, I expect the #MeToo campaign to trigger movements to alter the culture and people’s attitude,” said Chung Hyun-back, the country’s minister of gender equality. “2018 will go down as a historic year for women’s moment in Korea.”<br></p>\n<p>\n\tSouth Korea’s embrace of the #MeToo movement contrasts with its Asian neighbours such as Japan where the cause has barely registered. That may be in part due to weak representation of women in the media, according to Mieko Takenobu, professor of sociology at Wako University in Tokyo. She notes the movement in the West was spearheaded by the media’s willingness to keep writing on the issue, while the Japanese media hasn’t been able to push the dialogue into the public sphere. “To put it simply, the media isn’t spreading it here,” Takenobu said.<br></p>\n<p>\n\tThat hasn’t been the case in <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=south+korea\" target=\"_blank\">South Korea </a>where many of the reporters writing about the #MeToo movement have been women and very few days go by without banner headlines on new allegations.<br></p>\n<p>\n\tThe movement underscores a glaring gender disparity in the workplace, women’s rights activities say. Despite being the world’s 11th-largest economy, South Korea is among the world’s worst in terms of women in managerial roles and gaps in pay.</p>\n<p>\n\tA 2017 research by the gender ministry found that at the country’s 500 biggest companies, only 2.7 percent of the executives were women, compared to about 26 percent for S&amp;P 500 companies in the US. Of the Korean companies surveyed, majority of them, or 336 companies, had no women on their corporate boards.</p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
+    },
+    "adjectives": [
+        "world",
+        "worst",
+        "one",
+        "Last",
+        "historic",
+        "Square"
+    ],
+    "nouns": [
+        "world",
+        "worst",
+        "movement",
+        "S",
+        "Korea",
+        "one",
+        "Last",
+        "month",
+        "Seoul",
+        "Square"
+    ],
+    "verbs": [
+        "worst",
+        "Last",
+        "Square"
+    ]
+}

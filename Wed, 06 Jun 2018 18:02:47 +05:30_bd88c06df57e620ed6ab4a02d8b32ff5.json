@@ -1,0 +1,67 @@
+{
+    "creator": "PTI",
+    "title": "RBI Governor Urjit Patel says, no impact on NPAs due to farm loan waivers by states",
+    "link": "https://www.financialexpress.com/economy/rbi-governor-urjit-patel-says-no-impact-on-npas-due-to-farm-loan-waivers-by-states/1196032/",
+    "pubDate": "Wed, 06 Jun 2018 18:02:47 +05:30",
+    "dc:creator": "PTI",
+    "content": "There are no implications on non-performing assets (NPAs) of banks because of farm loan waivers provided by various states, RBI Governor Urjit Patel. ",
+    "contentSnippet": "There are no implications on non-performing assets (NPAs) of banks because of farm loan waivers provided by various states, RBI Governor Urjit Patel.",
+    "guid": "https://www.financialexpress.com/?p=1196032",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-06T12:32:47.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.0625,
+        "tokens": [
+            "rbi",
+            "governor",
+            "urjit",
+            "patel",
+            "says",
+            "no",
+            "impact",
+            "on",
+            "npas",
+            "due",
+            "to",
+            "farm",
+            "loan",
+            "waivers",
+            "by",
+            "states"
+        ],
+        "words": [
+            "no"
+        ],
+        "positive": [],
+        "negative": [
+            "no"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "no",
+        "due",
+        "various"
+    ],
+    "nouns": [
+        "RBI",
+        "Governor",
+        "no",
+        "impact",
+        "due",
+        "farm",
+        "loan",
+        "There",
+        "performing",
+        "assets",
+        "banks"
+    ],
+    "verbs": [
+        "impact",
+        "farm",
+        "loan"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "creator": "Nanda Kasabe",
+    "title": "Sugar export contracts fail to take off over price difference",
+    "link": "https://www.financialexpress.com/market/commodities/sugar-export-contracts-fail-to-take-off-over-price-difference/1195056/",
+    "pubDate": "Wed, 06 Jun 2018 04:37:25 +05:30",
+    "dc:creator": "Nanda Kasabe",
+    "content": "The government is likely to announce a slew of measures for the sugar sector and the relief package is likely to be around Rs 8,000 crore.",
+    "contentSnippet": "The government is likely to announce a slew of measures for the sugar sector and the relief package is likely to be around Rs 8,000 crore.",
+    "guid": "https://www.financialexpress.com/?p=1195056",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-05T23:07:25.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.2,
+        "tokens": [
+            "sugar",
+            "export",
+            "contracts",
+            "fail",
+            "to",
+            "take",
+            "off",
+            "over",
+            "price",
+            "difference"
+        ],
+        "words": [
+            "fail"
+        ],
+        "positive": [],
+        "negative": [
+            "fail"
+        ]
+    },
+    "article": {
+        "title": "Sugar export contracts fail to take off over price difference",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1195060\" src=\"https://images.financialexpress.com/2018/06/unnamed-file.jpg\" alt=\"sugar export, sugar export contract, sugar price difference, sugar price per quintal\" srcset=\"https://images.financialexpress.com/2018/06/unnamed-file.jpg 660w, https://images.financialexpress.com/2018/06/unnamed-file-300x200.jpg 300w, https://images.financialexpress.com/2018/06/unnamed-file-620x413.jpg 620w, https://images.financialexpress.com/2018/06/unnamed-file-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> Export contracts that were signed by sugar mills in Maharashtra, Karnataka and Gujarat have apparently turned out to be non-starters, thanks to the difference in the existing sugar prices and rates at the time of signing contracts. (Reuters)</figure>\n\t\t\t</section></div><span>\n</span><p>Export contracts that were signed by sugar mills in Maharashtra, Karnataka and Gujarat have apparently turned out to be non-starters, thanks to the difference in the existing sugar prices and rates at the time of signing contracts. According to industry sources, contracts were signed for barely some 1.5 lakh tonne by millers when domestic prices were at Rs 2,300-2,400 per quintal. Prices later touched Rs 2,800-2,900 per quintal, thus making it difficult for millers to fill in the gap. Moreover, according to millers, some ambiguity still remains in the criteria as per the subsidy scheme announced by the Centre making it difficult for millers to fulfill the parameters laid down by the government, industry sources revealed.</p><span>\n</span><p>According to Mukesh Kuvediya, secretary-general, Bombay Sugar Merchants Association, although international prices have gone up to $320-340 per tonne, exports are still not viable for millers in the country since local prices are much higher. Moreover, the industry is awaiting the possible announcement of a package from the Centre and may hold onto their stock instead of exports, he said.</p><span>\n</span><p>He said a small amount of 1.5 lakh tonne would do little for the industry and with predictions of a good monsoon, exports from the country should exceed 30-50 lakh tonnes for the benefit of the sugar sector. In March 2018, the food and consumer affairs (FCA) ministry allowed for sugar exports of 20 lakh tonnes under the Minimum Indicative Export Quota (MIEQ) scheme during SY2018. Under this scheme, the export quota has been fixed, taking into account the average production of mills achieved in the last two years and up to February of this marketing year.</p><span>\n</span><p>Meanwhile, ahead of a possible Union Cabinet meet slated on Wednesday, cooperative sugar millers informally met top officials at the Centre to apprise them of the situation as far as Maharashtra is concerned. Prakash Naiknavare, MD, National Federation of Cooperative Sugar Factories, said he had met top officials of the department of finance, food and agriculture along with senior officials of the Maharashtra government to brief the government about the ground reality situation in the state.</p><span>\n</span><p>The government is likely to announce a slew of measures for the sugar sector and the relief package is likely to be around Rs 8,000 crore. The package is aimed at reducing the stress in the sugar industry with an eye on clearing the dues of sugarcane farmers. The proposed Rs 8,000-crore package includes creation of sugar buffer stock of 30 lakh tonnes, interest subsidy on Rs 4,500 crore loan to mills for expansion and creation of new ethanol capacity, among others. Last month, the government had announced a Rs 1,500 crore production-linked subsidy for sugarcane farmers to help millers pay cane dues.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "off",
+        "likely"
+    ],
+    "nouns": [
+        "Sugar",
+        "sugar",
+        "export",
+        "price",
+        "difference",
+        "government",
+        "slew",
+        "sector",
+        "relief",
+        "package",
+        "crore"
+    ],
+    "verbs": [
+        "Sugar",
+        "sugar",
+        "export",
+        "fail",
+        "off",
+        "price",
+        "announce",
+        "slew",
+        "package"
+    ]
+}

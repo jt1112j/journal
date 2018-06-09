@@ -1,0 +1,68 @@
+{
+    "title": "Nomura sees Nifty at 11,380 by December 2018; HDFC Bank, RIL among top bets",
+    "link": "https://www.business-standard.com/article/markets/nomura-sees-nifty-at-11-380-by-december-2018-hdfc-bank-ril-among-top-bets-118060600221_1.html",
+    "pubDate": "Wed, 06 Jun 2018 23:13:00 +0530",
+    "content": "Nomura expects the consolidated earnings for Nifty companies to rise 51% over FY18-20, largely driven by low base of financials.",
+    "contentSnippet": "Nomura expects the consolidated earnings for Nifty companies to rise 51% over FY18-20, largely driven by low base of financials.",
+    "guid": "https://www.business-standard.com/article/markets/nomura-sees-nifty-at-11-380-by-december-2018-hdfc-bank-ril-among-top-bets-118060600221_1.html",
+    "isoDate": "2018-06-06T17:43:00.000Z",
+    "sentiment": {
+        "score": 4,
+        "comparative": 0.2857142857142857,
+        "tokens": [
+            "nomura",
+            "sees",
+            "nifty",
+            "at",
+            "11380",
+            "by",
+            "december",
+            "2018",
+            "hdfc",
+            "bank",
+            "ril",
+            "among",
+            "top",
+            "bets"
+        ],
+        "words": [
+            "top",
+            "nifty"
+        ],
+        "positive": [
+            "top",
+            "nifty"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "consolidated",
+        "Nifty",
+        "low",
+        "top",
+        "20",
+        "11",
+        "51",
+        "driven",
+        "base"
+    ],
+    "nouns": [
+        "Bank",
+        "rise",
+        "December",
+        "earnings",
+        "low",
+        "top",
+        "20",
+        "11",
+        "base"
+    ],
+    "verbs": [
+        "Bank",
+        "rise",
+        "low",
+        "top",
+        "base"
+    ]
+}

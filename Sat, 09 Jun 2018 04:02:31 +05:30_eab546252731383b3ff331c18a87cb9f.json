@@ -1,0 +1,64 @@
+{
+    "creator": "Associated Press",
+    "title": "Facebook shared user data with select companies",
+    "link": "https://www.financialexpress.com/industry/facebook-shared-user-data-with-select-companies/1199359/",
+    "pubDate": "Sat, 09 Jun 2018 04:02:31 +05:30",
+    "dc:creator": "Associated Press",
+    "content": "Facebook shared personal information culled from its users' profiles with other companies after the date when executives have said the social network prevented third-party developers from gaining access to the data.",
+    "contentSnippet": "Facebook shared personal information culled from its users' profiles with other companies after the date when executives have said the social network prevented third-party developers from gaining access to the data.",
+    "guid": "https://www.financialexpress.com/?p=1199359",
+    "categories": [
+        "Industry"
+    ],
+    "isoDate": "2018-06-08T22:32:31.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.14285714285714285,
+        "tokens": [
+            "facebook",
+            "shared",
+            "user",
+            "data",
+            "with",
+            "select",
+            "companies"
+        ],
+        "words": [
+            "shared"
+        ],
+        "positive": [
+            "shared"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "Facebook shared user data with select companies",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1199381\" src=\"https://images.financialexpress.com/2018/06/Facebook-reuters-1.jpg\" alt=\"Facebook, personal information, facebook data leak, Wall Street Journal, industry\" srcset=\"https://images.financialexpress.com/2018/06/Facebook-reuters-1.jpg 660w, https://images.financialexpress.com/2018/06/Facebook-reuters-1-300x200.jpg 300w, https://images.financialexpress.com/2018/06/Facebook-reuters-1-620x413.jpg 620w, https://images.financialexpress.com/2018/06/Facebook-reuters-1-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> Facebook didn’t immediately respond to a request for comment. (Reuters)</figure>\n\t\t\t</section></div><span>\n</span><p>Facebook shared personal information culled from its users’ profiles with other companies after the date when executives have said the social network prevented third-party developers from gaining access to the data.</p><span>\n</span><p>That’s according to a report published Friday by The Wall Street Journal, which cited court documents, company officials and unidentified people familiar with the matter.Facebook didn’t immediately respond to a request for comment.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "select",
+        "shared",
+        "personal",
+        "social",
+        "third"
+    ],
+    "nouns": [
+        "party",
+        "access",
+        "information",
+        "user",
+        "data",
+        "date",
+        "personal",
+        "network",
+        "third",
+        "social"
+    ],
+    "verbs": [
+        "select",
+        "party",
+        "access",
+        "date",
+        "network"
+    ]
+}

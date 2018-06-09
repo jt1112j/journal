@@ -1,0 +1,53 @@
+{
+    "title": "Petrol, diesel to be under GST soon, says Dharmendra Pradhan",
+    "link": "https://www.business-standard.com/article/economy-policy/it-s-a-matter-of-time-before-petrol-diesel-are-brought-under-gst-pradhan-118060800002_1.html",
+    "pubDate": "Fri, 08 Jun 2018 01:12:00 +0530",
+    "content": "Oil prices are on the decline over last few days during which it has come down by one rupee aggregately",
+    "contentSnippet": "Oil prices are on the decline over last few days during which it has come down by one rupee aggregately",
+    "guid": "https://www.business-standard.com/article/economy-policy/it-s-a-matter-of-time-before-petrol-diesel-are-brought-under-gst-pradhan-118060800002_1.html",
+    "isoDate": "2018-06-07T19:42:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "petrol",
+            "diesel",
+            "to",
+            "be",
+            "under",
+            "gst",
+            "soon",
+            "says",
+            "dharmendra",
+            "pradhan"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "last",
+        "down",
+        "one",
+        "few"
+    ],
+    "nouns": [
+        "days",
+        "last",
+        "down",
+        "Oil",
+        "one",
+        "few",
+        "decline",
+        "diesel",
+        "Petrol",
+        "rupee"
+    ],
+    "verbs": [
+        "last",
+        "down",
+        "Oil",
+        "decline"
+    ]
+}

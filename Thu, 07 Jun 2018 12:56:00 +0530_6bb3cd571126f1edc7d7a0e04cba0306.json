@@ -1,0 +1,72 @@
+{
+    "title": "Facing trouble, Indian public sector banks need leaders but are headless",
+    "link": "https://www.business-standard.com/article/finance/facing-trouble-indian-public-sector-banks-need-leaders-but-are-headless-118060700462_1.html",
+    "pubDate": "Thu, 07 Jun 2018 12:56:00 +0530",
+    "content": "Four of the country's 21 state banks have yet to appoint replacements for departed chief executive officers, and another has seen its CEO stripped of her powers due to fraud charges",
+    "contentSnippet": "Four of the country's 21 state banks have yet to appoint replacements for departed chief executive officers, and another has seen its CEO stripped of her powers due to fraud charges",
+    "guid": "https://www.business-standard.com/article/finance/facing-trouble-indian-public-sector-banks-need-leaders-but-are-headless-118060700462_1.html",
+    "isoDate": "2018-06-07T07:26:00.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.18181818181818182,
+        "tokens": [
+            "facing",
+            "trouble",
+            "indian",
+            "public",
+            "sector",
+            "banks",
+            "need",
+            "leaders",
+            "but",
+            "are",
+            "headless"
+        ],
+        "words": [
+            "trouble"
+        ],
+        "positive": [],
+        "negative": [
+            "trouble"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "Indian",
+        "stripped",
+        "due",
+        "public",
+        "headless",
+        "Four",
+        "21",
+        "departed",
+        "chief",
+        "executive"
+    ],
+    "nouns": [
+        "Indian",
+        "state",
+        "due",
+        "banks",
+        "Facing",
+        "trouble",
+        "public",
+        "sector",
+        "need",
+        "leaders",
+        "Four",
+        "country",
+        "21",
+        "departed",
+        "chief",
+        "executive",
+        "CEO",
+        "fraud"
+    ],
+    "verbs": [
+        "state",
+        "trouble",
+        "need",
+        "appoint"
+    ]
+}

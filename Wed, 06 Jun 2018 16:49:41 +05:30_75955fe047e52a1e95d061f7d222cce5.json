@@ -1,0 +1,52 @@
+{
+    "creator": "PTI",
+    "title": "RBI may go for more rate hikes, says HDFC Bank",
+    "link": "https://www.financialexpress.com/economy/rbi-may-go-for-more-rate-hikes-says-hdfc-bank/1195917/",
+    "pubDate": "Wed, 06 Jun 2018 16:49:41 +05:30",
+    "dc:creator": "PTI",
+    "content": "HDFC Bank said the central bank is likely to go for more rate hikes on risks from factors like the minimum support prices for farm produce and firm global commodity prices.",
+    "contentSnippet": "HDFC Bank said the central bank is likely to go for more rate hikes on risks from factors like the minimum support prices for farm produce and firm global commodity prices.",
+    "guid": "https://www.financialexpress.com/?p=1195917",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-06T11:19:41.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "rbi",
+            "may",
+            "go",
+            "for",
+            "more",
+            "rate",
+            "hikes",
+            "says",
+            "hdfc",
+            "bank"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "go",
+        "central",
+        "likely",
+        "minimum",
+        "firm",
+        "global"
+    ],
+    "verbs": [
+        "go",
+        "rate",
+        "Bank",
+        "bank",
+        "support",
+        "farm",
+        "produce",
+        "firm"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Gruh Finance trades ex-bonus today; stock up 3%",
+    "link": "https://www.business-standard.com/article/markets/gruh-finance-trades-ex-bonus-today-stock-up-3-118060600187_1.html",
+    "pubDate": "Wed, 06 Jun 2018 09:53:00 +0530",
+    "content": "The company had announced a 1:1 bonus  i.e. one new bonus equity share of Rs 2 each for every one existing equity share of Rs 2 each for its shareholders.",
+    "contentSnippet": "The company had announced a 1:1 bonus  i.e. one new bonus equity share of Rs 2 each for every one existing equity share of Rs 2 each for its shareholders.",
+    "guid": "https://www.business-standard.com/article/markets/gruh-finance-trades-ex-bonus-today-stock-up-3-118060600187_1.html",
+    "isoDate": "2018-06-06T04:23:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "gruh",
+            "finance",
+            "trades",
+            "ex-bonus",
+            "today",
+            "stock",
+            "up",
+            "3"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "one",
+        "new",
+        "stock",
+        "announced",
+        "every",
+        "ex",
+        "existing"
+    ],
+    "nouns": [
+        "one",
+        "company",
+        "stock",
+        "today",
+        "share",
+        "bonus",
+        "Finance",
+        "equity",
+        "ex"
+    ],
+    "verbs": [
+        "company",
+        "stock",
+        "share",
+        "Finance"
+    ]
+}

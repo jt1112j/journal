@@ -1,0 +1,66 @@
+{
+    "title": "Finance Ministry pulls up officers of I-T department for poor GST mop-up",
+    "link": "https://www.business-standard.com/article/economy-policy/finance-ministry-pulls-up-officers-of-i-t-department-for-poor-gst-mop-up-118060800053_1.html",
+    "pubDate": "Fri, 08 Jun 2018 01:20:00 +0530",
+    "content": "GST receipts for the month of May have slipped to Rs 940 billion against a target of Rs 1 trillion set for each month of 2018-19",
+    "contentSnippet": "GST receipts for the month of May have slipped to Rs 940 billion against a target of Rs 1 trillion set for each month of 2018-19",
+    "guid": "https://www.business-standard.com/article/economy-policy/finance-ministry-pulls-up-officers-of-i-t-department-for-poor-gst-mop-up-118060800053_1.html",
+    "isoDate": "2018-06-07T19:50:00.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.16666666666666666,
+        "tokens": [
+            "finance",
+            "ministry",
+            "pulls",
+            "up",
+            "officers",
+            "of",
+            "i-t",
+            "department",
+            "for",
+            "poor",
+            "gst",
+            "mop-up"
+        ],
+        "words": [
+            "poor"
+        ],
+        "positive": [],
+        "negative": [
+            "poor"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "trillion",
+        "19",
+        "billion",
+        "I",
+        "poor",
+        "set"
+    ],
+    "nouns": [
+        "trillion",
+        "May",
+        "month",
+        "19",
+        "department",
+        "Finance",
+        "billion",
+        "Ministry",
+        "I",
+        "T",
+        "mop",
+        "receipts",
+        "target",
+        "set",
+        "poor"
+    ],
+    "verbs": [
+        "Finance",
+        "mop",
+        "target",
+        "set"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "title": "MARKET WRAP: Sensex ends 284 points higher, Nifty at 10,768; midcaps shine",
+    "link": "https://www.business-standard.com/article/markets/markets-live-nifty-sensex-rbi-rate-hike-rate-hike-rbi-asian-shares-118060700120_1.html",
+    "pubDate": "Thu, 07 Jun 2018 15:30:00 +0530",
+    "content": "Mid-cap, small-cap stocks outperform. Among sectoral indices, the Nifty Realty index surged nearly 3% on Thursday, led by Unitech and Prestige Estates Projects",
+    "contentSnippet": "Mid-cap, small-cap stocks outperform. Among sectoral indices, the Nifty Realty index surged nearly 3% on Thursday, led by Unitech and Prestige Estates Projects",
+    "guid": "https://www.business-standard.com/article/markets/markets-live-nifty-sensex-rbi-rate-hike-rate-hike-rbi-asian-shares-118060700120_1.html",
+    "isoDate": "2018-06-07T10:00:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.16666666666666666,
+        "tokens": [
+            "market",
+            "wrap",
+            "sensex",
+            "ends",
+            "284",
+            "points",
+            "higher",
+            "nifty",
+            "at",
+            "10768",
+            "midcaps",
+            "shine"
+        ],
+        "words": [
+            "nifty"
+        ],
+        "positive": [
+            "nifty"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "10",
+        "Nifty",
+        "small",
+        "higher",
+        "Mid"
+    ],
+    "verbs": [
+        "MARKET",
+        "index",
+        "outperform",
+        "WRAP",
+        "shine",
+        "cap"
+    ],
+    "nouns": [
+        "MARKET",
+        "index",
+        "10",
+        "Prestige",
+        "stocks",
+        "Realty",
+        "Thursday",
+        "small",
+        "WRAP",
+        "cap",
+        "led",
+        "shine"
+    ]
+}

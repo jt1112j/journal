@@ -1,0 +1,62 @@
+{
+    "title": "GST exclusion costs oil industry Rs 200 bn input credit annually: Pradhan",
+    "link": "https://www.business-standard.com/article/economy-policy/gst-exclusion-costs-oil-industry-rs-200-bn-input-credit-annually-pradhan-118060701202_1.html",
+    "pubDate": "Thu, 07 Jun 2018 19:19:00 +0530",
+    "content": "However, he said, with the GST regime stabilising and apprehensions over GST collection gradually receding, \"it is a matter of time petrol and diesel are brought under GST\"",
+    "contentSnippet": "However, he said, with the GST regime stabilising and apprehensions over GST collection gradually receding, \"it is a matter of time petrol and diesel are brought under GST\"",
+    "guid": "https://www.business-standard.com/article/economy-policy/gst-exclusion-costs-oil-industry-rs-200-bn-input-credit-annually-pradhan-118060701202_1.html",
+    "isoDate": "2018-06-07T13:49:00.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.08333333333333333,
+        "tokens": [
+            "gst",
+            "exclusion",
+            "costs",
+            "oil",
+            "industry",
+            "rs",
+            "200",
+            "bn",
+            "input",
+            "credit",
+            "annually",
+            "pradhan"
+        ],
+        "words": [
+            "exclusion"
+        ],
+        "positive": [],
+        "negative": [
+            "exclusion"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "stabilising",
+        "receding",
+        "200"
+    ],
+    "nouns": [
+        "petrol",
+        "industry",
+        "oil",
+        "matter",
+        "credit",
+        "regime",
+        "receding",
+        "time",
+        "exclusion",
+        "costs",
+        "input",
+        "collection",
+        "diesel"
+    ],
+    "verbs": [
+        "oil",
+        "matter",
+        "credit",
+        "time",
+        "input"
+    ]
+}

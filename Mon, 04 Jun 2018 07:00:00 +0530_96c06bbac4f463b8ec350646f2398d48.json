@@ -1,0 +1,44 @@
+{
+    "title": "RBI to defer putting lending, expansion curbs on PNB till Q1 results",
+    "link": "https://www.business-standard.com/article/finance/rbi-to-defer-putting-lending-expansion-curbs-on-pnb-till-q1-results-118060300585_1.html",
+    "pubDate": "Mon, 04 Jun 2018 07:00:00 +0530",
+    "content": "Andhra Bank, Punjab and Sind Bank, and Canara Bank, too, are likely to make a similar presentation before the regulator",
+    "contentSnippet": "Andhra Bank, Punjab and Sind Bank, and Canara Bank, too, are likely to make a similar presentation before the regulator",
+    "guid": "https://www.business-standard.com/article/finance/rbi-to-defer-putting-lending-expansion-curbs-on-pnb-till-q1-results-118060300585_1.html",
+    "isoDate": "2018-06-04T01:30:00.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.08333333333333333,
+        "tokens": [
+            "rbi",
+            "to",
+            "defer",
+            "putting",
+            "lending",
+            "expansion",
+            "curbs",
+            "on",
+            "pnb",
+            "till",
+            "q1",
+            "results"
+        ],
+        "words": [
+            "defer"
+        ],
+        "positive": [],
+        "negative": [
+            "defer"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "likely",
+        "similar"
+    ],
+    "verbs": [
+        "Bank",
+        "defer",
+        "till"
+    ]
+}

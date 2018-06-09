@@ -1,0 +1,55 @@
+{
+    "title": "Pharma shares in focus as Nifty Pharma index rises 2%",
+    "link": "https://www.business-standard.com/article/markets/pharma-shares-in-focus-nifty-pharma-index-up-2-118060800188_1.html",
+    "pubDate": "Fri, 08 Jun 2018 10:10:00 +0530",
+    "content": "Sun Pharma, Cadila Healthcare, Dr Reddy's Laboratories, Cipla, Glenmark Pharma and Lupin from the Nifty Pharma index were up in the range of 2% to 3% on the NSE.",
+    "contentSnippet": "Sun Pharma, Cadila Healthcare, Dr Reddy's Laboratories, Cipla, Glenmark Pharma and Lupin from the Nifty Pharma index were up in the range of 2% to 3% on the NSE.",
+    "guid": "https://www.business-standard.com/article/markets/pharma-shares-in-focus-nifty-pharma-index-up-2-118060800188_1.html",
+    "isoDate": "2018-06-08T04:40:00.000Z",
+    "sentiment": {
+        "score": 4,
+        "comparative": 0.4,
+        "tokens": [
+            "pharma",
+            "shares",
+            "in",
+            "focus",
+            "as",
+            "nifty",
+            "pharma",
+            "index",
+            "rises",
+            "2"
+        ],
+        "words": [
+            "rises",
+            "nifty",
+            "shares"
+        ],
+        "positive": [
+            "rises",
+            "nifty",
+            "shares"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "Nifty"
+    ],
+    "nouns": [
+        "index",
+        "Healthcare",
+        "focus",
+        "Sun",
+        "Pharma",
+        "range",
+        "Lupin"
+    ],
+    "verbs": [
+        "index",
+        "focus",
+        "Sun",
+        "range"
+    ]
+}

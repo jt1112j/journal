@@ -1,0 +1,50 @@
+{
+    "title": "M D Mallya the frontrunner to succeed Sharma as ICICI non-exec chairman",
+    "link": "https://www.business-standard.com/article/finance/m-d-mallya-the-frontrunner-to-succeed-sharma-as-icici-non-exec-chairman-118060400522_1.html",
+    "pubDate": "Mon, 04 Jun 2018 16:42:00 +0530",
+    "content": "As the term of the current chairman M K Sharma is coming to an end so a new chairman has to be appointed",
+    "contentSnippet": "As the term of the current chairman M K Sharma is coming to an end so a new chairman has to be appointed",
+    "guid": "https://www.business-standard.com/article/finance/m-d-mallya-the-frontrunner-to-succeed-sharma-as-icici-non-exec-chairman-118060400522_1.html",
+    "isoDate": "2018-06-04T11:12:00.000Z",
+    "sentiment": {
+        "score": 3,
+        "comparative": 0.25,
+        "tokens": [
+            "m",
+            "d",
+            "mallya",
+            "the",
+            "frontrunner",
+            "to",
+            "succeed",
+            "sharma",
+            "as",
+            "icici",
+            "non-exec",
+            "chairman"
+        ],
+        "words": [
+            "succeed"
+        ],
+        "positive": [
+            "succeed"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "new",
+        "coming",
+        "appointed",
+        "current",
+        "M",
+        "D",
+        "K"
+    ],
+    "verbs": [
+        "chairman",
+        "end",
+        "succeed",
+        "term"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Asian stocks, gold slide on stimulus end prospects",
+    "link": "http://www.moneycontrol.com/news/asian-markets/asian-stocks-gold-slidestimulus-end-prospects_7574321.html",
+    "pubDate": "Wed, 05 Oct 2016 07:46:53 +0530",
+    "content": "<img src=\"http://www.moneycontrol.com/news_image_files/2016/a/asian_markets_markets_bse_nse_stock_200x200.jpg\" alt=\"Asian stocks, gold slide on stimulus end prospects\" title=\"Asian stocks, gold slide on stimulus end prospects\" border=\"0\" width=\"75\" height=\"75\" align=\" left\" hspace=\"5\"/> SINGAPORE (Reuters) - Asian shares and gold retreated on Wednesday and bond yields were near two-week highs after markets were rattled by a report flagging the possible withdrawal of global stimulus measures.",
+    "contentSnippet": "SINGAPORE (Reuters) - Asian shares and gold retreated on Wednesday and bond yields were near two-week highs after markets were rattled by a report flagging the possible withdrawal of global stimulus measures.",
+    "guid": "http://www.moneycontrol.com/news/asian-markets/asian-stocks-gold-slidestimulus-end-prospects_7574321.html",
+    "isoDate": "2016-10-05T02:16:53.000Z",
+    "sentiment": {
+        "score": 3,
+        "comparative": 0.375,
+        "tokens": [
+            "asian",
+            "stocks",
+            "gold",
+            "slide",
+            "on",
+            "stimulus",
+            "end",
+            "prospects"
+        ],
+        "words": [
+            "prospects",
+            "gold"
+        ],
+        "positive": [
+            "prospects",
+            "gold"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "75",
+        "left",
+        "Asian",
+        "gold",
+        "near",
+        "two",
+        "rattled",
+        "flagging",
+        "possible",
+        "global"
+    ],
+    "verbs": [
+        "end",
+        "title",
+        "border",
+        "align",
+        "slide",
+        "bond",
+        "near",
+        "report"
+    ]
+}

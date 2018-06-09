@@ -1,0 +1,60 @@
+{
+    "title": "MARKET WRAP: Sensex ends 276 points higher; RBI hikes repo rate by 25 bps",
+    "link": "https://www.business-standard.com/article/markets/markets-live-nifty-sensex-rbi-monetary-policy-rbi-policy-asian-shares-118060600124_1.html",
+    "pubDate": "Wed, 06 Jun 2018 15:30:00 +0530",
+    "content": "Markets ended higher after the RBI maintained neutral stance in its second policy decision of FY19",
+    "contentSnippet": "Markets ended higher after the RBI maintained neutral stance in its second policy decision of FY19",
+    "guid": "https://www.business-standard.com/article/markets/markets-live-nifty-sensex-rbi-monetary-policy-rbi-policy-asian-shares-118060600124_1.html",
+    "isoDate": "2018-06-06T10:00:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "market",
+            "wrap",
+            "sensex",
+            "ends",
+            "276",
+            "points",
+            "higher",
+            "rbi",
+            "hikes",
+            "repo",
+            "rate",
+            "by",
+            "25",
+            "bps"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "ended",
+        "higher",
+        "25",
+        "maintained",
+        "neutral",
+        "second"
+    ],
+    "nouns": [
+        "RBI",
+        "MARKET",
+        "WRAP",
+        "rate",
+        "25",
+        "bps",
+        "neutral",
+        "stance",
+        "second",
+        "policy",
+        "decision"
+    ],
+    "verbs": [
+        "MARKET",
+        "WRAP",
+        "rate",
+        "second"
+    ]
+}

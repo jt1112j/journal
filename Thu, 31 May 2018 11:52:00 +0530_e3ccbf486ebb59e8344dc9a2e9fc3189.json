@@ -1,0 +1,44 @@
+{
+    "title": "Bank strike Day 2: Operations hit, Unions blame Indian Banks Association",
+    "link": "https://www.business-standard.com/article/finance/bank-strike-day-2-operations-hit-unions-blame-indian-banks-association-118053100367_1.html",
+    "pubDate": "Thu, 31 May 2018 11:52:00 +0530",
+    "content": "The United Forum of Bank Unions (UFBU), an umbrella body of nine bank unions, called for a two-day strike that started on Wednesday",
+    "contentSnippet": "The United Forum of Bank Unions (UFBU), an umbrella body of nine bank unions, called for a two-day strike that started on Wednesday",
+    "guid": "https://www.business-standard.com/article/finance/bank-strike-day-2-operations-hit-unions-blame-indian-banks-association-118053100367_1.html",
+    "isoDate": "2018-05-31T06:22:00.000Z",
+    "sentiment": {
+        "score": -3,
+        "comparative": -0.2727272727272727,
+        "tokens": [
+            "bank",
+            "strike",
+            "day",
+            "2",
+            "operations",
+            "hit",
+            "unions",
+            "blame",
+            "indian",
+            "banks",
+            "association"
+        ],
+        "words": [
+            "blame",
+            "strike"
+        ],
+        "positive": [],
+        "negative": [
+            "blame",
+            "strike"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "Indian",
+        "two",
+        "United",
+        "blame",
+        "umbrella",
+        "nine"
+    ]
+}

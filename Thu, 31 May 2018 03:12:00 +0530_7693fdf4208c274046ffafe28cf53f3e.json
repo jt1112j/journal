@@ -1,0 +1,47 @@
+{
+    "title": "ICICI Bank to probe role of CEO Kochhar following whistle-blower complaint",
+    "link": "https://www.business-standard.com/article/finance/icici-bank-to-probe-role-of-ceo-kochhar-following-whistle-blower-complaint-118053100079_1.html",
+    "pubDate": "Thu, 31 May 2018 03:12:00 +0530",
+    "content": "Enquiry headed by independent person to examine allegations of conflict of interest after whistle-blower complaint",
+    "contentSnippet": "Enquiry headed by independent person to examine allegations of conflict of interest after whistle-blower complaint",
+    "guid": "https://www.business-standard.com/article/finance/icici-bank-to-probe-role-of-ceo-kochhar-following-whistle-blower-complaint-118053100079_1.html",
+    "isoDate": "2018-05-30T21:42:00.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.18181818181818182,
+        "tokens": [
+            "icici",
+            "bank",
+            "to",
+            "probe",
+            "role",
+            "of",
+            "ceo",
+            "kochhar",
+            "following",
+            "whistle-blower",
+            "complaint"
+        ],
+        "words": [
+            "complaint"
+        ],
+        "positive": [],
+        "negative": [
+            "complaint"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "independent",
+        "following",
+        "headed"
+    ],
+    "verbs": [
+        "probe",
+        "conflict",
+        "interest",
+        "Bank",
+        "whistle",
+        "examine"
+    ]
+}

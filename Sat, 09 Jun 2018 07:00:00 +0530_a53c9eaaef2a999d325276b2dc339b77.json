@@ -1,0 +1,62 @@
+{
+    "title": "CCI may soon lose adjudicating powers, authority to pass orders & penalise",
+    "link": "https://www.business-standard.com/article/economy-policy/cci-may-soon-lose-adjudicating-powers-118060801297_1.html",
+    "pubDate": "Sat, 09 Jun 2018 07:00:00 +0530",
+    "content": "The government plans to let the commission have part-time members in order to ease its workload",
+    "contentSnippet": "The government plans to let the commission have part-time members in order to ease its workload",
+    "guid": "https://www.business-standard.com/article/economy-policy/cci-may-soon-lose-adjudicating-powers-118060801297_1.html",
+    "isoDate": "2018-06-09T01:30:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.08333333333333333,
+        "tokens": [
+            "cci",
+            "may",
+            "soon",
+            "lose",
+            "adjudicating",
+            "powers",
+            "authority",
+            "to",
+            "pass",
+            "orders",
+            "",
+            "penalise"
+        ],
+        "words": [
+            "authority"
+        ],
+        "positive": [
+            "authority"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "pass"
+    ],
+    "nouns": [
+        "commission",
+        "may",
+        "pass",
+        "workload",
+        "government",
+        "part",
+        "order",
+        "authority",
+        "let",
+        "time",
+        "ease"
+    ],
+    "verbs": [
+        "commission",
+        "pass",
+        "part",
+        "penalise",
+        "order",
+        "lose",
+        "let",
+        "time",
+        "ease"
+    ]
+}

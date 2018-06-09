@@ -1,0 +1,75 @@
+{
+    "creator": "PTI",
+    "title": "These 3 Indian cities are ranked among the top 10 cities globally for GDP risk from terrorism threats",
+    "link": "https://www.financialexpress.com/economy/these-3-indian-cities-are-ranked-among-the-top-10-cities-globally-for-gdp-risk-from-terrorism-threats/1196171/",
+    "pubDate": "Wed, 06 Jun 2018 20:09:32 +05:30",
+    "dc:creator": "PTI",
+    "content": "The findings for India reflect the geopolitical tension in the region, it added.",
+    "contentSnippet": "The findings for India reflect the geopolitical tension in the region, it added.",
+    "guid": "https://www.financialexpress.com/?p=1196171",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-06T14:39:32.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.1111111111111111,
+        "tokens": [
+            "these",
+            "3",
+            "indian",
+            "cities",
+            "are",
+            "ranked",
+            "among",
+            "the",
+            "top",
+            "10",
+            "cities",
+            "globally",
+            "for",
+            "gdp",
+            "risk",
+            "from",
+            "terrorism",
+            "threats"
+        ],
+        "words": [
+            "threats",
+            "risk",
+            "top"
+        ],
+        "positive": [
+            "top"
+        ],
+        "negative": [
+            "threats",
+            "risk"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "Indian",
+        "ranked",
+        "top",
+        "10",
+        "geopolitical"
+    ],
+    "nouns": [
+        "Indian",
+        "India",
+        "10",
+        "top",
+        "risk",
+        "GDP",
+        "findings",
+        "terrorism",
+        "region",
+        "tension"
+    ],
+    "verbs": [
+        "top",
+        "risk",
+        "reflect"
+    ]
+}

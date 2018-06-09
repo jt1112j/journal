@@ -1,0 +1,58 @@
+{
+    "title": "Penalty for excess baggage in Indian trains? Railways says not now",
+    "link": "https://www.business-standard.com/article/economy-policy/penalty-for-excess-baggage-in-indian-trains-railways-says-not-now-118060701591_1.html",
+    "pubDate": "Thu, 07 Jun 2018 23:34:00 +0530",
+    "content": "The drive was meant to inform passengers about the provisions regarding free baggage allowance, the maximum luggage that can be carried and other provisions, Bajpayee said",
+    "contentSnippet": "The drive was meant to inform passengers about the provisions regarding free baggage allowance, the maximum luggage that can be carried and other provisions, Bajpayee said",
+    "guid": "https://www.business-standard.com/article/economy-policy/penalty-for-excess-baggage-in-indian-trains-railways-says-not-now-118060701591_1.html",
+    "isoDate": "2018-06-07T18:04:00.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.18181818181818182,
+        "tokens": [
+            "penalty",
+            "for",
+            "excess",
+            "baggage",
+            "in",
+            "indian",
+            "trains?",
+            "railways",
+            "says",
+            "not",
+            "now"
+        ],
+        "words": [
+            "penalty"
+        ],
+        "positive": [],
+        "negative": [
+            "penalty"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "Indian",
+        "excess",
+        "free",
+        "maximum"
+    ],
+    "verbs": [
+        "inform",
+        "allowance",
+        "drive",
+        "free"
+    ],
+    "nouns": [
+        "provisions",
+        "Indian",
+        "excess",
+        "allowance",
+        "Penalty",
+        "baggage",
+        "drive",
+        "free",
+        "maximum",
+        "luggage"
+    ]
+}

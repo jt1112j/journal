@@ -1,0 +1,68 @@
+{
+    "title": "Why the Rs 70 bn sugar sector bailout won't resolve farmers' grievances",
+    "link": "https://www.business-standard.com/article/economy-policy/why-the-rs-70-bn-sugar-sector-bailout-won-t-resolve-farmers-grievances-118060800172_1.html",
+    "pubDate": "Fri, 08 Jun 2018 09:54:00 +0530",
+    "content": "Sugar industry, sugarcane farmers are likely to be in a similar crisis next year too as domestic production is likely to be in excess of domestic consumption",
+    "contentSnippet": "Sugar industry, sugarcane farmers are likely to be in a similar crisis next year too as domestic production is likely to be in excess of domestic consumption",
+    "guid": "https://www.business-standard.com/article/economy-policy/why-the-rs-70-bn-sugar-sector-bailout-won-t-resolve-farmers-grievances-118060800172_1.html",
+    "isoDate": "2018-06-08T04:24:00.000Z",
+    "sentiment": {
+        "score": -4,
+        "comparative": -0.3333333333333333,
+        "tokens": [
+            "why",
+            "the",
+            "rs",
+            "70",
+            "bn",
+            "sugar",
+            "sector",
+            "bailout",
+            "won't",
+            "resolve",
+            "farmers'",
+            "grievances"
+        ],
+        "words": [
+            "resolve",
+            "bailout"
+        ],
+        "positive": [],
+        "negative": [
+            "resolve",
+            "bailout"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "70",
+        "won",
+        "likely",
+        "similar",
+        "next",
+        "domestic",
+        "excess"
+    ],
+    "nouns": [
+        "production",
+        "resolve",
+        "Why",
+        "70",
+        "sugar",
+        "Sugar",
+        "sugarcane",
+        "sector",
+        "won",
+        "industry",
+        "crisis",
+        "year",
+        "domestic",
+        "excess",
+        "consumption"
+    ],
+    "verbs": [
+        "resolve",
+        "sugar",
+        "Sugar"
+    ]
+}

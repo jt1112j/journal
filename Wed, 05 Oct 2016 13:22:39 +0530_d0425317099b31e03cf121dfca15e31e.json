@@ -1,0 +1,51 @@
+{
+    "title": "Can expect significant incremental easing: Mizuho Bank",
+    "link": "http://www.moneycontrol.com/news/market-outlook/can-expect-significant-incremental-easing-mizuho-bank_7577181.html",
+    "pubDate": "Wed, 05 Oct 2016 13:22:39 +0530",
+    "content": "<img src=\"http://www.moneycontrol.com/news_image_files/2016/t/tirthankarpatnaik_mizuhobank_200.jpg\" alt=\"Tirthankar Patnaik\" title=\"Tirthankar Patnaik\" border=\"0\" width=\"75\" height=\"75\" align=\" left\" hspace=\"5\"/> There is a definite scope for further easing even though the monetary policy did not specifically mention about it in its statement on Tuesday, said Tirthankar Patnaik, India Strategist at Mizuho Bank.",
+    "contentSnippet": "There is a definite scope for further easing even though the monetary policy did not specifically mention about it in its statement on Tuesday, said Tirthankar Patnaik, India Strategist at Mizuho Bank.",
+    "guid": "http://www.moneycontrol.com/news/market-outlook/can-expect-significant-incremental-easing-mizuho-bank_7577181.html",
+    "isoDate": "2016-10-05T07:52:39.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.14285714285714285,
+        "tokens": [
+            "can",
+            "expect",
+            "significant",
+            "incremental",
+            "easing",
+            "mizuho",
+            "bank"
+        ],
+        "words": [
+            "significant"
+        ],
+        "positive": [
+            "significant"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "left",
+        "monetary",
+        "75",
+        "definite",
+        "significant",
+        "incremental",
+        "further",
+        "even"
+    ],
+    "verbs": [
+        "border",
+        "align",
+        "Can",
+        "expect",
+        "title",
+        "Bank",
+        "further",
+        "even",
+        "mention"
+    ]
+}

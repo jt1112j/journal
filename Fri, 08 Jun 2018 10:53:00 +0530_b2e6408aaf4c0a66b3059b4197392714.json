@@ -1,0 +1,63 @@
+{
+    "title": "Tata Motors extends gain as JLR reports strong retail sales in May",
+    "link": "https://www.business-standard.com/article/markets/tata-motors-extends-gain-as-jlr-reports-strong-retails-in-may-118060800217_1.html",
+    "pubDate": "Fri, 08 Jun 2018 10:53:00 +0530",
+    "content": "The stock was up 2.4% to Rs 312, extending its past two days 7% rally on the BSE.",
+    "contentSnippet": "The stock was up 2.4% to Rs 312, extending its past two days 7% rally on the BSE.",
+    "guid": "https://www.business-standard.com/article/markets/tata-motors-extends-gain-as-jlr-reports-strong-retails-in-may-118060800217_1.html",
+    "isoDate": "2018-06-08T05:23:00.000Z",
+    "sentiment": {
+        "score": 5,
+        "comparative": 0.4166666666666667,
+        "tokens": [
+            "tata",
+            "motors",
+            "extends",
+            "gain",
+            "as",
+            "jlr",
+            "reports",
+            "strong",
+            "retail",
+            "sales",
+            "in",
+            "may"
+        ],
+        "words": [
+            "strong",
+            "gain",
+            "extends"
+        ],
+        "positive": [
+            "strong",
+            "gain",
+            "extends"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "stock",
+        "strong",
+        "past",
+        "two"
+    ],
+    "nouns": [
+        "days",
+        "stock",
+        "gain",
+        "retail",
+        "sales",
+        "May",
+        "past",
+        "two",
+        "rally",
+        "BSE"
+    ],
+    "verbs": [
+        "stock",
+        "gain",
+        "retail",
+        "rally"
+    ]
+}

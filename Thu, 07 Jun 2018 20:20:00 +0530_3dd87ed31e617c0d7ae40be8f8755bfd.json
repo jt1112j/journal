@@ -1,0 +1,64 @@
+{
+    "title": "RBI reduces interest rate on unclaimed deposits by 50 bps to 3.5%",
+    "link": "https://www.business-standard.com/article/economy-policy/rbi-reduces-interest-rate-on-unclaimed-deposits-by-50-bps-to-3-5-118060701318_1.html",
+    "pubDate": "Thu, 07 Jun 2018 20:20:00 +0530",
+    "content": "In case of demand from customers/ depositors whose unclaimed amount/deposit had been transferred to Fund, banks repay the amount, along with interest.",
+    "contentSnippet": "In case of demand from customers/ depositors whose unclaimed amount/deposit had been transferred to Fund, banks repay the amount, along with interest.",
+    "guid": "https://www.business-standard.com/article/economy-policy/rbi-reduces-interest-rate-on-unclaimed-deposits-by-50-bps-to-3-5-118060701318_1.html",
+    "isoDate": "2018-06-07T14:50:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.08333333333333333,
+        "tokens": [
+            "rbi",
+            "reduces",
+            "interest",
+            "rate",
+            "on",
+            "unclaimed",
+            "deposits",
+            "by",
+            "50",
+            "bps",
+            "to",
+            "35"
+        ],
+        "words": [
+            "interest"
+        ],
+        "positive": [
+            "interest"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "50",
+        "In",
+        "unclaimed"
+    ],
+    "nouns": [
+        "banks",
+        "RBI",
+        "rate",
+        "deposit",
+        "bps",
+        "amount",
+        "case",
+        "50",
+        "demand",
+        "In",
+        "Fund",
+        "interest"
+    ],
+    "verbs": [
+        "rate",
+        "repay",
+        "deposit",
+        "amount",
+        "case",
+        "demand",
+        "Fund",
+        "interest"
+    ]
+}

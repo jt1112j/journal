@@ -1,0 +1,43 @@
+{
+    "title": "Maharashtra to support over 500 startups under Fintech Policy",
+    "link": "https://www.business-standard.com/article/economy-policy/maharashtra-to-support-over-500-startups-under-fintech-policy-118060800975_1.html",
+    "pubDate": "Fri, 08 Jun 2018 19:03:00 +0530",
+    "content": "Will need better connectivity to take fintech services to rural areas",
+    "contentSnippet": "Will need better connectivity to take fintech services to rural areas",
+    "guid": "https://www.business-standard.com/article/economy-policy/maharashtra-to-support-over-500-startups-under-fintech-policy-118060800975_1.html",
+    "isoDate": "2018-06-08T13:33:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.2222222222222222,
+        "tokens": [
+            "maharashtra",
+            "to",
+            "support",
+            "over",
+            "500",
+            "startups",
+            "under",
+            "fintech",
+            "policy"
+        ],
+        "words": [
+            "support"
+        ],
+        "positive": [
+            "support"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "better",
+        "500",
+        "rural"
+    ],
+    "verbs": [
+        "Will",
+        "better",
+        "support",
+        "need"
+    ]
+}

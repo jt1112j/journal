@@ -1,0 +1,98 @@
+{
+    "title": "Some Air India pilots threaten action over salary delay",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/some-air-india-pilots-threaten-action-over-salary-delay/articleshow/64511957.cms",
+    "pubDate": "Fri, 08 Jun 2018 15:04:36 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/some-air-india-pilots-threaten-action-over-salary-delay/articleshow/64511957.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64511957.cms\" /></a>Members of a regional committee of the Indian Commercial Pilots Associations' (ICPA) have sent a letter to the Union's central committee, saying they had decided not to cooperate with the state-run carrier's management until salaries are paid.",
+    "contentSnippet": "Members of a regional committee of the Indian Commercial Pilots Associations' (ICPA) have sent a letter to the Union's central committee, saying they had decided not to cooperate with the state-run carrier's management until salaries are paid.",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/some-air-india-pilots-threaten-action-over-salary-delay/articleshow/64511957.cms",
+    "isoDate": "2018-06-08T15:04:36.000Z",
+    "sentiment": {
+        "score": -3,
+        "comparative": -0.3333333333333333,
+        "tokens": [
+            "some",
+            "air",
+            "india",
+            "pilots",
+            "threaten",
+            "action",
+            "over",
+            "salary",
+            "delay"
+        ],
+        "words": [
+            "delay",
+            "threaten"
+        ],
+        "positive": [],
+        "negative": [
+            "delay",
+            "threaten"
+        ]
+    },
+    "article": {
+        "title": "Some Air India pilots threaten action over salary delay",
+        "content": "<section class=\"title_section clearfix\"><meta itemprop=\"headline\" content=\"Some Air India pilots threaten action over salary delay\"><p>Members of a regional committee of the Indian Commercial Pilots Associations' (ICPA) have sent a letter to the Union's central committee, saying they had decided not to cooperate with the state-run carrier's management until salaries are paid.</p></section>"
+    },
+    "adjectives": [
+        "Some",
+        "Indian",
+        "regional",
+        "Commercial",
+        "sent",
+        "Union",
+        "central",
+        "decided",
+        "paid",
+        "10",
+        "left",
+        "top",
+        "right"
+    ],
+    "nouns": [
+        "Air",
+        "air",
+        "India",
+        "Indian",
+        "india",
+        "action",
+        "salary",
+        "delay",
+        "committee",
+        "Commercial",
+        "sent",
+        "letter",
+        "Union",
+        "central",
+        "saying",
+        "state",
+        "run",
+        "carrier",
+        "management",
+        "business",
+        "border",
+        "10",
+        "left",
+        "style",
+        "margin",
+        "top",
+        "right",
+        "photo"
+    ],
+    "verbs": [
+        "Air",
+        "air",
+        "threaten",
+        "action",
+        "delay",
+        "letter",
+        "cooperate",
+        "state",
+        "run",
+        "border",
+        "align",
+        "style",
+        "top",
+        "right"
+    ]
+}

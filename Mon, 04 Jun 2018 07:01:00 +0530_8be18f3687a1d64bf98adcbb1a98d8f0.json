@@ -1,0 +1,47 @@
+{
+    "title": "RBI criticises PSBs for poor implementation of 'Lead Bank' scheme",
+    "link": "https://www.business-standard.com/article/finance/rbi-criticises-psbs-for-poor-implementation-of-lead-bank-scheme-118060300599_1.html",
+    "pubDate": "Mon, 04 Jun 2018 07:01:00 +0530",
+    "content": "The Lead Bank scheme was started for providing adequate banking and credit in rural areas through an 'area approach'.",
+    "contentSnippet": "The Lead Bank scheme was started for providing adequate banking and credit in rural areas through an 'area approach'.",
+    "guid": "https://www.business-standard.com/article/finance/rbi-criticises-psbs-for-poor-implementation-of-lead-bank-scheme-118060300599_1.html",
+    "isoDate": "2018-06-04T01:31:00.000Z",
+    "sentiment": {
+        "score": -4,
+        "comparative": -0.4,
+        "tokens": [
+            "rbi",
+            "criticises",
+            "psbs",
+            "for",
+            "poor",
+            "implementation",
+            "of",
+            "'lead",
+            "bank'",
+            "scheme"
+        ],
+        "words": [
+            "poor",
+            "criticises"
+        ],
+        "positive": [],
+        "negative": [
+            "poor",
+            "criticises"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "poor",
+        "adequate",
+        "rural"
+    ],
+    "verbs": [
+        "approach",
+        "scheme",
+        "Bank",
+        "Lead",
+        "credit"
+    ]
+}

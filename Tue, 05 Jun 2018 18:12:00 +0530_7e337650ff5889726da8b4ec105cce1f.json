@@ -1,0 +1,40 @@
+{
+    "title": "Bitcoin case: ED grills Raj Kundra in connection with money laundering",
+    "link": "https://www.business-standard.com/article/current-affairs/bitcoin-case-ed-grills-raj-kundra-in-connection-with-money-laundering-118060500528_1.html",
+    "pubDate": "Tue, 05 Jun 2018 18:12:00 +0530",
+    "content": "It is alleged that about 8,000 investors lost about Rs 20 billion funds by transacting in this scheme",
+    "contentSnippet": "It is alleged that about 8,000 investors lost about Rs 20 billion funds by transacting in this scheme",
+    "guid": "https://www.business-standard.com/article/current-affairs/bitcoin-case-ed-grills-raj-kundra-in-connection-with-money-laundering-118060500528_1.html",
+    "isoDate": "2018-06-05T12:42:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "bitcoin",
+            "case",
+            "ed",
+            "grills",
+            "raj",
+            "kundra",
+            "in",
+            "connection",
+            "with",
+            "money",
+            "laundering"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "billion",
+        "alleged",
+        "lost",
+        "20"
+    ],
+    "verbs": [
+        "scheme",
+        "case"
+    ]
+}

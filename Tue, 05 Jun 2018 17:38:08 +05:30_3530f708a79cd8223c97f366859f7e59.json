@@ -1,0 +1,72 @@
+{
+    "creator": "FE Online",
+    "title": "Brent oil price slides as US is said to ask OPEC for supply increase",
+    "link": "https://www.financialexpress.com/market/commodities/brent-oil-price-slides-as-us-is-said-to-ask-opec-for-supply-increase/1194588/",
+    "pubDate": "Tue, 05 Jun 2018 17:38:08 +05:30",
+    "dc:creator": "FE Online",
+    "content": "Brent crude declined after the US government was said to have asked Saudi Arabia and other OPEC producers to raise oil supply.",
+    "contentSnippet": "Brent crude declined after the US government was said to have asked Saudi Arabia and other OPEC producers to raise oil supply.",
+    "guid": "https://www.financialexpress.com/?p=1194588",
+    "categories": [
+        "Commodities",
+        "Market"
+    ],
+    "isoDate": "2018-06-05T12:08:08.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.07142857142857142,
+        "tokens": [
+            "brent",
+            "oil",
+            "price",
+            "slides",
+            "as",
+            "us",
+            "is",
+            "said",
+            "to",
+            "ask",
+            "opec",
+            "for",
+            "supply",
+            "increase"
+        ],
+        "words": [
+            "increase"
+        ],
+        "positive": [
+            "increase"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "Brent oil price slides as US is said to ask OPEC for supply increase",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1184728\" src=\"https://images.financialexpress.com/2018/05/oil-reu_L-1.jpg\" alt=\"Oil prices,&nbsp;Saudi Arabia, Russia, opec,&nbsp;US crude production\" srcset=\"https://images.financialexpress.com/2018/05/oil-reu_L-1.jpg 660w, https://images.financialexpress.com/2018/05/oil-reu_L-1-300x200.jpg 300w, https://images.financialexpress.com/2018/05/oil-reu_L-1-620x413.jpg 620w, https://images.financialexpress.com/2018/05/oil-reu_L-1-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> OPEC pumped 31.9 million barrels a day last month. (Reuters)</figure>\n\t\t\t</section></div><span>\n</span><p>Brent crude declined after the US government was said to have asked Saudi Arabia and other OPEC producers to raise oil supply. The request for a 1 million-barrel-a-day increase follows Washington’s decision to reimpose sanctions on Iranian crude exports that had previously removed roughly the same amount from global markets. OPEC pumped 31.9 million barrels a day last month, unchanged from April when production was the lowest in a year, according to a Bloomberg survey.</p><span>\n</span><p>Crude has lost its grip after last month rising to the highest level in more than three years. The decline follows a proposal by Saudi Arabia and Russia to ease output cuts to replace potential supply losses in Iran and Venezuela. With the Organization of Petroleum Exporting Countries’ next summit a little over two weeks away, the market is looking for any clues on the scale of possible output increases.</p><span>\n</span><p>“OPEC has every potential reason to raise production, they’ve achieved their mission,” said Nitesh Shah, a commodity analyst at Wisdomtree Europe Ltd. “That’s going to be the focus for the next few weeks now.”</p><span>\n</span><p>Brent futures for August settlement fell as much as $1.13 to $74.16 a barrel on the London-based ICE Futures Europe exchange, and were at $74.31 as of 11:09 a.m. local time. The global benchmark crude traded at a $9.86 premium to West Texas Intermediate for the same month.</p><span>\n</span><p>WTI for July delivery erased gains to trade down 16 cents at $64.59 a barrel on the New York Mercantile Exchange. Total volume traded was about 5 percent below the 100-day average.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "crude",
+        "Saudi"
+    ],
+    "nouns": [
+        "increase",
+        "oil",
+        "price",
+        "US",
+        "OPEC",
+        "supply",
+        "crude",
+        "government",
+        "raise",
+        "Saudi",
+        "Brent",
+        "Arabia"
+    ],
+    "verbs": [
+        "increase",
+        "oil",
+        "price",
+        "ask",
+        "supply",
+        "raise"
+    ]
+}

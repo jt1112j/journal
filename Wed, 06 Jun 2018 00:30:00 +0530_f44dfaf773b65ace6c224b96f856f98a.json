@@ -1,0 +1,57 @@
+{
+    "title": "Banks, OMCs drag PSU index 14% in CY18; analysts advise caution",
+    "link": "https://www.business-standard.com/article/markets/banks-omcs-drag-psu-index-14-in-cy18-analysts-advise-caution-118060500239_1.html",
+    "pubDate": "Wed, 06 Jun 2018 00:30:00 +0530",
+    "content": "Going ahead, analysts suggest investors be selective while investing in PSU stocks.",
+    "contentSnippet": "Going ahead, analysts suggest investors be selective while investing in PSU stocks.",
+    "guid": "https://www.business-standard.com/article/markets/banks-omcs-drag-psu-index-14-in-cy18-analysts-advise-caution-118060500239_1.html",
+    "isoDate": "2018-06-05T19:00:00.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.09090909090909091,
+        "tokens": [
+            "banks",
+            "omcs",
+            "drag",
+            "psu",
+            "index",
+            "14",
+            "in",
+            "cy18",
+            "analysts",
+            "advise",
+            "caution"
+        ],
+        "words": [
+            "drag"
+        ],
+        "positive": [],
+        "negative": [
+            "drag"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "ahead",
+        "14",
+        "Going",
+        "selective"
+    ],
+    "nouns": [
+        "index",
+        "stocks",
+        "Banks",
+        "investing",
+        "drag",
+        "14",
+        "caution",
+        "Going"
+    ],
+    "verbs": [
+        "index",
+        "advise",
+        "suggest",
+        "drag",
+        "caution"
+    ]
+}

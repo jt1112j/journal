@@ -1,0 +1,54 @@
+{
+    "title": "RBI joins peers with rate hike to counter US Fed policy, stronger dollar",
+    "link": "https://www.business-standard.com/article/finance/rbi-joins-peers-with-rate-hike-to-counter-us-fed-policy-stronger-dollar-118060700123_1.html",
+    "pubDate": "Thu, 07 Jun 2018 09:17:00 +0530",
+    "content": "RBI cited volatile crude oil prices and global financial market developments as risks that will force policymakers to remain vigilant",
+    "contentSnippet": "RBI cited volatile crude oil prices and global financial market developments as risks that will force policymakers to remain vigilant",
+    "guid": "https://www.business-standard.com/article/finance/rbi-joins-peers-with-rate-hike-to-counter-us-fed-policy-stronger-dollar-118060700123_1.html",
+    "isoDate": "2018-06-07T03:47:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.15384615384615385,
+        "tokens": [
+            "rbi",
+            "joins",
+            "peers",
+            "with",
+            "rate",
+            "hike",
+            "to",
+            "counter",
+            "us",
+            "fed",
+            "policy",
+            "stronger",
+            "dollar"
+        ],
+        "words": [
+            "stronger"
+        ],
+        "positive": [
+            "stronger"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "financial",
+        "counter",
+        "volatile",
+        "crude",
+        "global",
+        "vigilant"
+    ],
+    "verbs": [
+        "market",
+        "rate",
+        "hike",
+        "counter",
+        "force",
+        "oil",
+        "will",
+        "remain"
+    ]
+}

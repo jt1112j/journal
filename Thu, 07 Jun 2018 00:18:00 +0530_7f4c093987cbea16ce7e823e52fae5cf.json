@@ -1,0 +1,59 @@
+{
+    "title": "World Bank forecasts 7.3 per cent growth for India in FY2018-2019",
+    "link": "https://www.business-standard.com/article/economy-policy/world-bank-forecasts-7-3-per-cent-growth-for-india-in-fy2018-2019-118060600517_1.html",
+    "pubDate": "Thu, 07 Jun 2018 00:18:00 +0530",
+    "content": "It said that growth in South Asia is projected to strengthen to 6.9 per cent in 2018 and to 7.1 per cent in 2019, mainly as factors holding back growth in India fade",
+    "contentSnippet": "It said that growth in South Asia is projected to strengthen to 6.9 per cent in 2018 and to 7.1 per cent in 2019, mainly as factors holding back growth in India fade",
+    "guid": "https://www.business-standard.com/article/economy-policy/world-bank-forecasts-7-3-per-cent-growth-for-india-in-fy2018-2019-118060600517_1.html",
+    "isoDate": "2018-06-06T18:48:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.18181818181818182,
+        "tokens": [
+            "world",
+            "bank",
+            "forecasts",
+            "73",
+            "per",
+            "cent",
+            "growth",
+            "for",
+            "india",
+            "in",
+            "fy2018-2019"
+        ],
+        "words": [
+            "growth"
+        ],
+        "positive": [
+            "growth"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "projected",
+        "World",
+        "South",
+        "back"
+    ],
+    "nouns": [
+        "India",
+        "Bank",
+        "cent",
+        "World",
+        "South",
+        "growth",
+        "It",
+        "Asia",
+        "holding",
+        "back",
+        "fade"
+    ],
+    "verbs": [
+        "strengthen",
+        "Bank",
+        "back",
+        "fade"
+    ]
+}

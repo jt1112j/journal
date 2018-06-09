@@ -1,0 +1,49 @@
+{
+    "title": "FDI inflows to India declined by 9% to $40 bn in 2017: UN report",
+    "link": "https://www.business-standard.com/article/economy-policy/fdi-inflows-in-india-decline-by-9-to-40-bn-in-2017-un-report-118060700595_1.html",
+    "pubDate": "Thu, 07 Jun 2018 14:21:00 +0530",
+    "content": "FDI to India decreased from $44 billion in 2016 to $40 billion in 2017",
+    "contentSnippet": "FDI to India decreased from $44 billion in 2016 to $40 billion in 2017",
+    "guid": "https://www.business-standard.com/article/economy-policy/fdi-inflows-in-india-decline-by-9-to-40-bn-in-2017-un-report-118060700595_1.html",
+    "isoDate": "2018-06-07T08:51:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "fdi",
+            "inflows",
+            "to",
+            "india",
+            "declined",
+            "by",
+            "9",
+            "to",
+            "40",
+            "bn",
+            "in",
+            "2017",
+            "un",
+            "report"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "decreased",
+        "40",
+        "44",
+        "billion"
+    ],
+    "nouns": [
+        "India",
+        "report",
+        "40",
+        "UN",
+        "billion"
+    ],
+    "verbs": [
+        "report"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Biocon shares hit record high as cancer drug Pegfilgrastim gets USFDA nod",
+    "link": "https://www.business-standard.com/article/markets/biocon-hits-record-high-as-cancer-drug-pegfilgrastim-get-usfda-nod-118060500190_1.html",
+    "pubDate": "Tue, 05 Jun 2018 09:43:00 +0530",
+    "content": "The stock hit a record high of Rs 695, up 6% on the BSE in opening deal in otherwise weak market.",
+    "contentSnippet": "The stock hit a record high of Rs 695, up 6% on the BSE in opening deal in otherwise weak market.",
+    "guid": "https://www.business-standard.com/article/markets/biocon-hits-record-high-as-cancer-drug-pegfilgrastim-get-usfda-nod-118060500190_1.html",
+    "isoDate": "2018-06-05T04:13:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "biocon",
+            "shares",
+            "hit",
+            "record",
+            "high",
+            "as",
+            "cancer",
+            "drug",
+            "pegfilgrastim",
+            "gets",
+            "usfda",
+            "nod"
+        ],
+        "words": [
+            "cancer",
+            "shares"
+        ],
+        "positive": [
+            "shares"
+        ],
+        "negative": [
+            "cancer"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "high",
+        "stock",
+        "opening",
+        "otherwise",
+        "weak"
+    ],
+    "verbs": [
+        "hit",
+        "record",
+        "drug",
+        "nod",
+        "stock",
+        "deal",
+        "market"
+    ],
+    "nouns": [
+        "hit",
+        "record",
+        "high",
+        "cancer",
+        "nod",
+        "stock",
+        "BSE",
+        "opening",
+        "deal",
+        "market",
+        "drug"
+    ]
+}

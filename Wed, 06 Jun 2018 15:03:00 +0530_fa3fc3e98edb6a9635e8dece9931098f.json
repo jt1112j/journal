@@ -1,0 +1,71 @@
+{
+    "title": "Rate sensitive shares trade firm after RBI hikes repo rate by 25 bps",
+    "link": "https://www.business-standard.com/article/markets/rate-sensitive-shares-trade-firm-after-rbi-hikes-repo-rate-by-25-bps-118060600561_1.html",
+    "pubDate": "Wed, 06 Jun 2018 15:03:00 +0530",
+    "content": "Nifty PSU Bank (up 2%), Nifty Realty (1.4%) and Nifty Auto (up 1.5%) were up more than 1% as compared to 0.88% rise in Nifty 50 index at 02:57 pm.",
+    "contentSnippet": "Nifty PSU Bank (up 2%), Nifty Realty (1.4%) and Nifty Auto (up 1.5%) were up more than 1% as compared to 0.88% rise in Nifty 50 index at 02:57 pm.",
+    "guid": "https://www.business-standard.com/article/markets/rate-sensitive-shares-trade-firm-after-rbi-hikes-repo-rate-by-25-bps-118060600561_1.html",
+    "isoDate": "2018-06-06T09:33:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.07692307692307693,
+        "tokens": [
+            "rate",
+            "sensitive",
+            "shares",
+            "trade",
+            "firm",
+            "after",
+            "rbi",
+            "hikes",
+            "repo",
+            "rate",
+            "by",
+            "25",
+            "bps"
+        ],
+        "words": [
+            "shares"
+        ],
+        "positive": [
+            "shares"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "sensitive",
+        "firm",
+        "25",
+        "Nifty",
+        "88",
+        "50",
+        "57"
+    ],
+    "nouns": [
+        "Rate",
+        "rate",
+        "sensitive",
+        "trade",
+        "firm",
+        "RBI",
+        "25",
+        "bps",
+        "Bank",
+        "Realty",
+        "Auto",
+        "rise",
+        "50",
+        "index",
+        "pm"
+    ],
+    "verbs": [
+        "Rate",
+        "rate",
+        "trade",
+        "firm",
+        "Bank",
+        "rise",
+        "index"
+    ]
+}

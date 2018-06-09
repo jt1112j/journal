@@ -1,0 +1,59 @@
+{
+    "title": "Finance ministry sees minimal impact of RBI's move on interest rates",
+    "link": "https://www.business-standard.com/article/finance/finance-ministry-sees-minimal-impact-of-rbi-s-move-on-interest-rates-118060700122_1.html",
+    "pubDate": "Thu, 07 Jun 2018 08:31:00 +0530",
+    "content": "The move will encourage goods and services tax (GST) registration by MSMEs, said Rajiv Kumar",
+    "contentSnippet": "The move will encourage goods and services tax (GST) registration by MSMEs, said Rajiv Kumar",
+    "guid": "https://www.business-standard.com/article/finance/finance-ministry-sees-minimal-impact-of-rbi-s-move-on-interest-rates-118060700122_1.html",
+    "isoDate": "2018-06-07T03:01:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.09090909090909091,
+        "tokens": [
+            "finance",
+            "ministry",
+            "sees",
+            "minimal",
+            "impact",
+            "of",
+            "rbi's",
+            "move",
+            "on",
+            "interest",
+            "rates"
+        ],
+        "words": [
+            "interest"
+        ],
+        "positive": [
+            "interest"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "minimal"
+    ],
+    "nouns": [
+        "rates",
+        "move",
+        "interest",
+        "impact",
+        "registration",
+        "services",
+        "will",
+        "Finance",
+        "RBI",
+        "ministry",
+        "tax"
+    ],
+    "verbs": [
+        "move",
+        "interest",
+        "impact",
+        "will",
+        "Finance",
+        "encourage",
+        "tax"
+    ]
+}

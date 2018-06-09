@@ -1,0 +1,43 @@
+{
+    "title": "PMO takes stock of RBI's new provisioning norms for stressed loans",
+    "link": "https://www.business-standard.com/article/economy-policy/pmo-takes-stock-of-rbi-s-new-provisioning-norms-for-stressed-loans-118060600017_1.html",
+    "pubDate": "Wed, 06 Jun 2018 07:00:00 +0530",
+    "content": "Modi also briefed on other macroeconomic issues",
+    "contentSnippet": "Modi also briefed on other macroeconomic issues",
+    "guid": "https://www.business-standard.com/article/economy-policy/pmo-takes-stock-of-rbi-s-new-provisioning-norms-for-stressed-loans-118060600017_1.html",
+    "isoDate": "2018-06-06T01:30:00.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.18181818181818182,
+        "tokens": [
+            "pmo",
+            "takes",
+            "stock",
+            "of",
+            "rbi's",
+            "new",
+            "provisioning",
+            "norms",
+            "for",
+            "stressed",
+            "loans"
+        ],
+        "words": [
+            "stressed"
+        ],
+        "positive": [],
+        "negative": [
+            "stressed"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "new",
+        "stock",
+        "stressed",
+        "macroeconomic"
+    ],
+    "verbs": [
+        "stock"
+    ]
+}

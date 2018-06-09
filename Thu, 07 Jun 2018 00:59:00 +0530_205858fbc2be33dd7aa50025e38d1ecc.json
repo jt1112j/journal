@@ -1,0 +1,51 @@
+{
+    "title": "Cabinet gives nod for Isro's projects worth over Rs 100 billion",
+    "link": "https://www.business-standard.com/article/economy-policy/cabinet-gives-nod-for-isro-s-projects-worths-over-rs-100-billion-118060601466_1.html",
+    "pubDate": "Thu, 07 Jun 2018 00:59:00 +0530",
+    "content": "Projects related to Polar Satellite Launch Vehicle Mark-III Continuation Programme - Phase 6 & GSLV MK-III",
+    "contentSnippet": "Projects related to Polar Satellite Launch Vehicle Mark-III Continuation Programme - Phase 6 & GSLV MK-III",
+    "guid": "https://www.business-standard.com/article/economy-policy/cabinet-gives-nod-for-isro-s-projects-worths-over-rs-100-billion-118060601466_1.html",
+    "isoDate": "2018-06-06T19:29:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.18181818181818182,
+        "tokens": [
+            "cabinet",
+            "gives",
+            "nod",
+            "for",
+            "isro's",
+            "projects",
+            "worth",
+            "over",
+            "rs",
+            "100",
+            "billion"
+        ],
+        "words": [
+            "worth"
+        ],
+        "positive": [
+            "worth"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "Polar",
+        "worth",
+        "billion",
+        "related",
+        "100",
+        "Satellite",
+        "III"
+    ],
+    "verbs": [
+        "Mark",
+        "Programme",
+        "Launch",
+        "nod",
+        "Satellite",
+        "Phase"
+    ]
+}

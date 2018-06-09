@@ -1,0 +1,61 @@
+{
+    "title": "Expect H2 biz pickup to push up steel demand by 4-5%: JSPL",
+    "link": "http://www.moneycontrol.com/news/business/expect-h2-biz-pickup-to-pushsteel-demand-by-4-5-jspl_7575601.html",
+    "pubDate": "Wed, 05 Oct 2016 10:32:00 +0530",
+    "content": "<img src=\"http://www.moneycontrol.com/news_image_files/2013/r/Ravi_Uppal_190.jpg\" alt=\"Ravi Uppal\" title=\"Ravi Uppal\" border=\"0\" width=\"75\" height=\"75\" align=\" left\" hspace=\"5\"/> In the first 6 months of the year, steel demand grow by just 0.5 percent, and now with the end of monsoon business activity with pick pace in the second half which is likely to push up steel demand by 4-5 percent for the year, said Ravi Uppal, Chief Executive and Managing Director of JSPL.",
+    "contentSnippet": "In the first 6 months of the year, steel demand grow by just 0.5 percent, and now with the end of monsoon business activity with pick pace in the second half which is likely to push up steel demand by 4-5 percent for the year, said Ravi Uppal, Chief Executive and Managing Director of JSPL.",
+    "guid": "http://www.moneycontrol.com/news/business/expect-h2-biz-pickup-to-pushsteel-demand-by-4-5-jspl_7575601.html",
+    "isoDate": "2016-10-05T05:02:00.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.08333333333333333,
+        "tokens": [
+            "expect",
+            "h2",
+            "biz",
+            "pickup",
+            "to",
+            "push",
+            "up",
+            "steel",
+            "demand",
+            "by",
+            "4-5",
+            "jspl"
+        ],
+        "words": [
+            "demand"
+        ],
+        "positive": [],
+        "negative": [
+            "demand"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "In",
+        "Chief",
+        "first",
+        "just",
+        "second",
+        "half",
+        "likely",
+        "Executive",
+        "75",
+        "left"
+    ],
+    "verbs": [
+        "Expect",
+        "pick",
+        "push",
+        "steel",
+        "demand",
+        "grow",
+        "end",
+        "pace",
+        "second",
+        "title",
+        "border",
+        "align"
+    ]
+}

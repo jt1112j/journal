@@ -1,0 +1,78 @@
+{
+    "creator": "FE Online",
+    "title": "RBI raises repo rate by 25 basis points in first interest rate hike in four-and-a-half years; stance ‘neutral’",
+    "link": "https://www.financialexpress.com/economy/rbi-monetary-policy-june-2018-repo-rate-hiked-by-25-basis-points-first-in-over-4-years/1195628/",
+    "pubDate": "Wed, 06 Jun 2018 14:36:12 +05:30",
+    "dc:creator": "FE Online",
+    "content": "The Reserve Bank of India on Wednesday voted unanimously to hike repo rate by 25 basis points, in a first in four-and-a-half years.",
+    "contentSnippet": "The Reserve Bank of India on Wednesday voted unanimously to hike repo rate by 25 basis points, in a first in four-and-a-half years.",
+    "guid": "https://www.financialexpress.com/?p=1195628",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-06T09:06:12.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.05555555555555555,
+        "tokens": [
+            "rbi",
+            "raises",
+            "repo",
+            "rate",
+            "by",
+            "25",
+            "basis",
+            "points",
+            "in",
+            "first",
+            "interest",
+            "rate",
+            "hike",
+            "in",
+            "four-and-a-half",
+            "years",
+            "stance",
+            "‘neutral’"
+        ],
+        "words": [
+            "interest"
+        ],
+        "positive": [
+            "interest"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "25",
+        "first",
+        "four",
+        "half",
+        "neutral"
+    ],
+    "nouns": [
+        "RBI",
+        "rate",
+        "25",
+        "basis",
+        "first",
+        "interest",
+        "hike",
+        "four",
+        "half",
+        "years",
+        "stance",
+        "neutral",
+        "Reserve",
+        "Bank",
+        "India",
+        "Wednesday"
+    ],
+    "verbs": [
+        "rate",
+        "interest",
+        "hike",
+        "Reserve",
+        "Bank"
+    ]
+}

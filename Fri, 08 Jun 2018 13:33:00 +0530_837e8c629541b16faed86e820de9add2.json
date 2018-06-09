@@ -1,0 +1,60 @@
+{
+    "title": "PSU banks extend gain; Uco Bank, Dena Bank up 5%",
+    "link": "https://www.business-standard.com/article/markets/psu-banks-extend-gain-uco-bank-dena-bank-up-5-118060800474_1.html",
+    "pubDate": "Fri, 08 Jun 2018 13:33:00 +0530",
+    "content": "At 01:19 pm; Nifty PSU Bank index was up 0.36% at 2,981, extending its past two days 3% gain on the NSE",
+    "contentSnippet": "At 01:19 pm; Nifty PSU Bank index was up 0.36% at 2,981, extending its past two days 3% gain on the NSE",
+    "guid": "https://www.business-standard.com/article/markets/psu-banks-extend-gain-uco-bank-dena-bank-up-5-118060800474_1.html",
+    "isoDate": "2018-06-08T08:03:00.000Z",
+    "sentiment": {
+        "score": 3,
+        "comparative": 0.3,
+        "tokens": [
+            "psu",
+            "banks",
+            "extend",
+            "gain",
+            "uco",
+            "bank",
+            "dena",
+            "bank",
+            "up",
+            "5"
+        ],
+        "words": [
+            "gain",
+            "extend"
+        ],
+        "positive": [
+            "gain",
+            "extend"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "past",
+        "two",
+        "19",
+        "Nifty",
+        "36"
+    ],
+    "nouns": [
+        "days",
+        "banks",
+        "Bank",
+        "index",
+        "gain",
+        "past",
+        "two",
+        "At",
+        "19",
+        "pm"
+    ],
+    "verbs": [
+        "Bank",
+        "index",
+        "extend",
+        "gain"
+    ]
+}

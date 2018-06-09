@@ -1,0 +1,52 @@
+{
+    "title": "Bond market awaits signals to go dovish",
+    "link": "https://www.business-standard.com/article/economy-policy/bond-market-awaits-signals-to-go-dovish-118060200039_1.html",
+    "pubDate": "Sat, 02 Jun 2018 01:18:00 +0530",
+    "content": "The 10-year yields closed at 7.85 per cent on Friday. It is a rather sharp move up from the 6.5 per cent level in August, when the Reserve Bank of India (RBI) cut its policy repo rate.",
+    "contentSnippet": "The 10-year yields closed at 7.85 per cent on Friday. It is a rather sharp move up from the 6.5 per cent level in August, when the Reserve Bank of India (RBI) cut its policy repo rate.",
+    "guid": "https://www.business-standard.com/article/economy-policy/bond-market-awaits-signals-to-go-dovish-118060200039_1.html",
+    "isoDate": "2018-06-01T19:48:00.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.14285714285714285,
+        "tokens": [
+            "bond",
+            "market",
+            "awaits",
+            "signals",
+            "to",
+            "go",
+            "dovish"
+        ],
+        "words": [
+            "awaits"
+        ],
+        "positive": [],
+        "negative": [
+            "awaits"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "closed",
+        "10",
+        "sharp",
+        "August",
+        "85",
+        "go",
+        "dovish",
+        "level",
+        "cut"
+    ],
+    "verbs": [
+        "market",
+        "Bond",
+        "rate",
+        "Bank",
+        "Reserve",
+        "go",
+        "move",
+        "level",
+        "cut"
+    ]
+}

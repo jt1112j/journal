@@ -1,0 +1,55 @@
+{
+    "title": "RBI policy: RBI hikes rate by 25 bps to 6.25%, but keeps neutral stance",
+    "link": "https://www.business-standard.com/article/finance/rbi-policy-review-repo-rate-hiked-by-25-bps-to-6-25-118060600535_1.html",
+    "pubDate": "Wed, 06 Jun 2018 16:41:00 +0530",
+    "content": "RBI retained its GDP growth projection for 2018-19 at 7.4%",
+    "contentSnippet": "RBI retained its GDP growth projection for 2018-19 at 7.4%",
+    "guid": "https://www.business-standard.com/article/finance/rbi-policy-review-repo-rate-hiked-by-25-bps-to-6-25-118060600535_1.html",
+    "isoDate": "2018-06-06T11:11:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "rbi",
+            "policy",
+            "rbi",
+            "hikes",
+            "rate",
+            "by",
+            "25",
+            "bps",
+            "to",
+            "625",
+            "but",
+            "keeps",
+            "neutral",
+            "stance"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "25",
+        "neutral",
+        "retained",
+        "19"
+    ],
+    "nouns": [
+        "RBI",
+        "rate",
+        "25",
+        "bps",
+        "neutral",
+        "stance",
+        "policy",
+        "projection",
+        "growth",
+        "GDP",
+        "19"
+    ],
+    "verbs": [
+        "rate"
+    ]
+}

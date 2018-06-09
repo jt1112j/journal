@@ -1,0 +1,55 @@
+{
+    "title": "At 18%, Indian customers biggest victims of banking fraud: FIS study",
+    "link": "https://www.business-standard.com/article/economy-policy/at-18-indian-customers-biggest-victims-of-banking-fraud-fis-study-118052900467_1.html",
+    "pubDate": "Wed, 30 May 2018 00:57:00 +0530",
+    "content": "One of every four people in the 27-37-year age group, the most prolific in using digital banking apps, reported a fraud in the past year",
+    "contentSnippet": "One of every four people in the 27-37-year age group, the most prolific in using digital banking apps, reported a fraud in the past year",
+    "guid": "https://www.business-standard.com/article/economy-policy/at-18-indian-customers-biggest-victims-of-banking-fraud-fis-study-118052900467_1.html",
+    "isoDate": "2018-05-29T19:27:00.000Z",
+    "sentiment": {
+        "score": -7,
+        "comparative": -0.6363636363636364,
+        "tokens": [
+            "at",
+            "18",
+            "indian",
+            "customers",
+            "biggest",
+            "victims",
+            "of",
+            "banking",
+            "fraud",
+            "fis",
+            "study"
+        ],
+        "words": [
+            "fraud",
+            "victims"
+        ],
+        "positive": [],
+        "negative": [
+            "fraud",
+            "victims"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "One",
+        "four",
+        "Indian",
+        "prolific",
+        "27",
+        "reported",
+        "every",
+        "18",
+        "37",
+        "digital",
+        "past"
+    ],
+    "verbs": [
+        "group",
+        "age",
+        "study",
+        "people"
+    ]
+}

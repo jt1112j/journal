@@ -1,0 +1,73 @@
+{
+    "creator": "FE Online",
+    "title": "India’s 10-year bond yields rise to 3-year high; climb past 8%",
+    "link": "https://www.financialexpress.com/market/indias-10-year-bond-yields-rise-to-3-year-high-climb-past-8/1198346/",
+    "pubDate": "Fri, 08 Jun 2018 11:45:10 +05:30",
+    "dc:creator": "FE Online",
+    "content": "The yields on benchmark 10-year government bonds crossed the 8% mark on Friday morning amid concerns of inflation and government budget deficit.",
+    "contentSnippet": "The yields on benchmark 10-year government bonds crossed the 8% mark on Friday morning amid concerns of inflation and government budget deficit.",
+    "guid": "https://www.financialexpress.com/?p=1198346",
+    "categories": [
+        "Market"
+    ],
+    "isoDate": "2018-06-08T06:15:10.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.09090909090909091,
+        "tokens": [
+            "india’s",
+            "10-year",
+            "bond",
+            "yields",
+            "rise",
+            "to",
+            "3-year",
+            "high",
+            "climb",
+            "past",
+            "8"
+        ],
+        "words": [
+            "rise"
+        ],
+        "positive": [
+            "rise"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "India’s 10-year bond yields rise to 3-year high; climb past 8%",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1198354\" src=\"https://images.financialexpress.com/2018/06/bail-in-1.jpg\" alt=\"India’s 10-year bond yields rise to 3-year high; climb past 8%\" srcset=\"https://images.financialexpress.com/2018/06/bail-in-1.jpg 660w, https://images.financialexpress.com/2018/06/bail-in-1-300x200.jpg 300w, https://images.financialexpress.com/2018/06/bail-in-1-620x413.jpg 620w, https://images.financialexpress.com/2018/06/bail-in-1-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> The yields on benchmark 10-year government bonds crossed the 8% mark on Friday morning. (Image: Reuters)</figure>\n\t\t\t</section></div><span>\n</span><p>The yields on benchmark 10-year government bonds crossed the 8% mark on Friday morning amid concerns of inflation and government budget deficit, days after the central bank hiked repo rates after a four-and-a-half-year-long pause.&nbsp;The bond yields surged despite the Reserve Bank of India allowing banks to spread their mark-to-market (MTM) losses for the June quarter.&nbsp;The bond yields had surged to 8.01% last time on June 4, 2015.</p><span>\n</span><p>The nation’s sovereign debt is heading for the third month of losses as state banks, the biggest holders of the securities, stay away from active participation amid losses, Bloomberg reported. “Sentiment in the bond market is somewhat fractured as a lot of large participants are not participating, while the supply is high,” Sandeep Bagla, associate director at Trust Capital Services India Pvt told Blomberg.</p><span>\n</span><p>“Unless Brent comes down a lot or state banks start participating, it’s difficult to contain yields purely on fundamental grounds.” India’s government bonds are worst performers in the Asian market and for the past five months have been grappling with the fears relating to higher crude oil prices, fiscal slippages and faster-than-expected rise in UST yields.</p><span>\n</span><p>The bond yields posted a&nbsp;significant pullback last time on February 7 on relief that the central bank did not adopt an outright hawkish tone. DBS forecast earlier this year said that India’s bond yields are going to settle in the range of 7.5%-8% in this financial year.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "10",
+        "high",
+        "past",
+        "crossed"
+    ],
+    "nouns": [
+        "India",
+        "10",
+        "year",
+        "bond",
+        "rise",
+        "high",
+        "climb",
+        "past",
+        "benchmark",
+        "government",
+        "mark",
+        "Friday",
+        "morning",
+        "inflation",
+        "deficit",
+        "budget"
+    ],
+    "verbs": [
+        "bond",
+        "rise",
+        "climb",
+        "mark",
+        "budget"
+    ]
+}

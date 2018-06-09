@@ -1,0 +1,62 @@
+{
+    "creator": "FE Bureau",
+    "title": "2.26 lakh firms may be struck off register",
+    "link": "https://www.financialexpress.com/economy/2-26-lakh-firms-may-be-struck-off-register/1199337/",
+    "pubDate": "Sat, 09 Jun 2018 03:32:06 +05:30",
+    "dc:creator": "FE Bureau",
+    "content": "The government on Friday said it has identified 2,25,910 companies that did not file financial statements for FY16 and FY17, and these firms will be struck off the Registrar of Companies.",
+    "contentSnippet": "The government on Friday said it has identified 2,25,910 companies that did not file financial statements for FY16 and FY17, and these firms will be struck off the Registrar of Companies.",
+    "guid": "https://www.financialexpress.com/?p=1199337",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-08T22:02:06.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.125,
+        "tokens": [
+            "226",
+            "lakh",
+            "firms",
+            "may",
+            "be",
+            "struck",
+            "off",
+            "register"
+        ],
+        "words": [
+            "struck"
+        ],
+        "positive": [],
+        "negative": [
+            "struck"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "financial",
+        "25",
+        "26",
+        "struck",
+        "off",
+        "identified"
+    ],
+    "nouns": [
+        "will",
+        "government",
+        "lakh",
+        "25",
+        "Friday",
+        "register",
+        "Registrar",
+        "26",
+        "may",
+        "file"
+    ],
+    "verbs": [
+        "will",
+        "register",
+        "off",
+        "file"
+    ]
+}

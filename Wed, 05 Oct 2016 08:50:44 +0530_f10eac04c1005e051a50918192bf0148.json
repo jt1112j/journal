@@ -1,0 +1,59 @@
+{
+    "title": "Expect rupee to trade lower: Pramit Brahmbhatt",
+    "link": "http://www.moneycontrol.com/news/rupee/expect-rupee-to-trade-lower-pramit-brahmbhatt_7574841.html",
+    "pubDate": "Wed, 05 Oct 2016 08:50:44 +0530",
+    "content": "<img src=\"http://www.moneycontrol.com/news_image_files/2016/b/banking_Rupee_note_budget_2016_200x200.jpg\" alt=\"Pramit Brahmbhatt\" title=\"Pramit Brahmbhatt\" border=\"0\" width=\"75\" height=\"75\" align=\" left\" hspace=\"5\"/> The rupee is expected to trade lower within a range of 66.50-67/USD, says Pramit Brahmbhatt, Veracity.",
+    "contentSnippet": "The rupee is expected to trade lower within a range of 66.50-67/USD, says Pramit Brahmbhatt, Veracity.",
+    "guid": "http://www.moneycontrol.com/news/rupee/expect-rupee-to-trade-lower-pramit-brahmbhatt_7574841.html",
+    "isoDate": "2016-10-05T03:20:44.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "expect",
+            "rupee",
+            "to",
+            "trade",
+            "lower",
+            "pramit",
+            "brahmbhatt"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "50",
+        "left",
+        "expected",
+        "75",
+        "66",
+        "67"
+    ],
+    "nouns": [
+        "50",
+        "http",
+        "border",
+        "left",
+        "www",
+        "alt",
+        "title",
+        "width",
+        "height",
+        "range",
+        "lower",
+        "rupee",
+        "trade",
+        "Veracity"
+    ],
+    "verbs": [
+        "border",
+        "align",
+        "Expect",
+        "title",
+        "range",
+        "lower",
+        "trade"
+    ]
+}

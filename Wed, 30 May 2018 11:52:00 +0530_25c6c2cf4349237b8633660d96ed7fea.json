@@ -1,0 +1,55 @@
+{
+    "title": "IOB says bottomline for Q4 hit by RBI's revised insolvency framework",
+    "link": "https://www.business-standard.com/article/finance/iob-says-bottomline-for-q4-hit-by-rbi-s-revised-insolvency-framework-118053000269_1.html",
+    "pubDate": "Wed, 30 May 2018 11:52:00 +0530",
+    "content": "The total slippage for the quarter ended March 2018 stood at Rs 98.68 billion",
+    "contentSnippet": "The total slippage for the quarter ended March 2018 stood at Rs 98.68 billion",
+    "guid": "https://www.business-standard.com/article/finance/iob-says-bottomline-for-q4-hit-by-rbi-s-revised-insolvency-framework-118053000269_1.html",
+    "isoDate": "2018-05-30T06:22:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "iob",
+            "says",
+            "bottomline",
+            "for",
+            "q4",
+            "hit",
+            "by",
+            "rbi's",
+            "revised",
+            "insolvency",
+            "framework"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "revised",
+        "total",
+        "ended",
+        "98",
+        "68",
+        "billion"
+    ],
+    "nouns": [
+        "hit",
+        "RBI",
+        "insolvency",
+        "framework",
+        "total",
+        "slippage",
+        "quarter",
+        "March",
+        "billion"
+    ],
+    "verbs": [
+        "hit",
+        "total",
+        "quarter",
+        "March"
+    ]
+}

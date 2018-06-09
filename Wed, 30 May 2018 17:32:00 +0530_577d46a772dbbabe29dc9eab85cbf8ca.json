@@ -1,0 +1,64 @@
+{
+    "title": "Bank strike impacts clearance of instruments worth Rs 217 bn a day: union",
+    "link": "https://www.business-standard.com/article/economy-policy/bank-strike-impacts-clearance-of-instruments-worth-rs-217-bn-a-day-union-118053000733_1.html",
+    "pubDate": "Wed, 30 May 2018 17:32:00 +0530",
+    "content": "85,000 branches shut operations on Wednesday; 3.9 million instruments remain unprocessed",
+    "contentSnippet": "85,000 branches shut operations on Wednesday; 3.9 million instruments remain unprocessed",
+    "guid": "https://www.business-standard.com/article/economy-policy/bank-strike-impacts-clearance-of-instruments-worth-rs-217-bn-a-day-union-118053000733_1.html",
+    "isoDate": "2018-05-30T12:02:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.07692307692307693,
+        "tokens": [
+            "bank",
+            "strike",
+            "impacts",
+            "clearance",
+            "of",
+            "instruments",
+            "worth",
+            "rs",
+            "217",
+            "bn",
+            "a",
+            "day",
+            "union"
+        ],
+        "words": [
+            "worth",
+            "strike"
+        ],
+        "positive": [
+            "worth"
+        ],
+        "negative": [
+            "strike"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "million",
+        "worth",
+        "union",
+        "85",
+        "shut",
+        "unprocessed"
+    ],
+    "nouns": [
+        "million",
+        "strike",
+        "day",
+        "worth",
+        "Wednesday",
+        "Bank",
+        "operations",
+        "union",
+        "clearance"
+    ],
+    "verbs": [
+        "strike",
+        "Bank",
+        "shut",
+        "remain"
+    ]
+}

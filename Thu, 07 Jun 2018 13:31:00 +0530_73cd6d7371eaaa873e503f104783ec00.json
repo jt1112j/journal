@@ -1,0 +1,61 @@
+{
+    "title": "This stock in Rakesh Jhunjhunwala portfolio zooms 100% in 6 months",
+    "link": "https://www.business-standard.com/article/markets/this-stock-in-rakesh-jhunjhunwala-portfolio-zooms-100-in-6-months-118060700535_1.html",
+    "pubDate": "Thu, 07 Jun 2018 13:31:00 +0530",
+    "content": "The stock was up 4% at Rs 78.95, its highest level since January 10, 2018, rallied 101% in past six months as compared to 8% rise in the S&P BSE Sensex.",
+    "contentSnippet": "The stock was up 4% at Rs 78.95, its highest level since January 10, 2018, rallied 101% in past six months as compared to 8% rise in the S&P BSE Sensex.",
+    "guid": "https://www.business-standard.com/article/markets/this-stock-in-rakesh-jhunjhunwala-portfolio-zooms-100-in-6-months-118060700535_1.html",
+    "isoDate": "2018-06-07T08:01:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "this",
+            "stock",
+            "in",
+            "rakesh",
+            "jhunjhunwala",
+            "portfolio",
+            "zooms",
+            "100",
+            "in",
+            "6",
+            "months"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "stock",
+        "past",
+        "10",
+        "100",
+        "78",
+        "95",
+        "level",
+        "101",
+        "six"
+    ],
+    "nouns": [
+        "stock",
+        "past",
+        "BSE",
+        "rise",
+        "S",
+        "P",
+        "10",
+        "portfolio",
+        "100",
+        "78",
+        "level",
+        "January",
+        "six"
+    ],
+    "verbs": [
+        "stock",
+        "rise",
+        "level"
+    ]
+}

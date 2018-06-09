@@ -1,0 +1,54 @@
+{
+    "title": "Sharp garlic price drop leaves Mandsaur farmers with a bitter taste",
+    "link": "https://www.business-standard.com/article/markets/sharp-price-fall-in-garlic-leaves-farmers-of-mandsaur-with-a-bitter-taste-118060700111_1.html",
+    "pubDate": "Fri, 08 Jun 2018 02:00:00 +0530",
+    "content": "Farmers wait for the Bhavanter sale window to close in the next few weeks as they believe prices would increase after that, like in the case of soybean",
+    "contentSnippet": "Farmers wait for the Bhavanter sale window to close in the next few weeks as they believe prices would increase after that, like in the case of soybean",
+    "guid": "https://www.business-standard.com/article/markets/sharp-price-fall-in-garlic-leaves-farmers-of-mandsaur-with-a-bitter-taste-118060700111_1.html",
+    "isoDate": "2018-06-07T20:30:00.000Z",
+    "sentiment": {
+        "score": -3,
+        "comparative": -0.2727272727272727,
+        "tokens": [
+            "sharp",
+            "garlic",
+            "price",
+            "drop",
+            "leaves",
+            "mandsaur",
+            "farmers",
+            "with",
+            "a",
+            "bitter",
+            "taste"
+        ],
+        "words": [
+            "bitter",
+            "drop"
+        ],
+        "positive": [],
+        "negative": [
+            "bitter",
+            "drop"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "close",
+        "next",
+        "Sharp",
+        "bitter",
+        "few"
+    ],
+    "verbs": [
+        "close",
+        "increase",
+        "price",
+        "taste",
+        "wait",
+        "case",
+        "drop",
+        "bitter",
+        "believe"
+    ]
+}

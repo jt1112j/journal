@@ -1,0 +1,51 @@
+{
+    "title": "SBI raises lending rates by 10 bps, followed by PNB, ICICI Bank, HDFC",
+    "link": "https://www.business-standard.com/article/economy-policy/sbi-raises-lending-rates-by-10-bps-followed-by-pnb-icici-bank-hdfc-118060101544_1.html",
+    "pubDate": "Sat, 02 Jun 2018 02:04:00 +0530",
+    "content": "SBI's one-year MCLR, which most loans are based on, is now 8.25%",
+    "contentSnippet": "SBI's one-year MCLR, which most loans are based on, is now 8.25%",
+    "guid": "https://www.business-standard.com/article/economy-policy/sbi-raises-lending-rates-by-10-bps-followed-by-pnb-icici-bank-hdfc-118060101544_1.html",
+    "isoDate": "2018-06-01T20:34:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "sbi",
+            "raises",
+            "lending",
+            "rates",
+            "by",
+            "10",
+            "bps",
+            "followed",
+            "by",
+            "pnb",
+            "icici",
+            "bank",
+            "hdfc"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "one",
+        "10",
+        "based",
+        "25"
+    ],
+    "verbs": [
+        "Bank"
+    ],
+    "nouns": [
+        "one",
+        "year",
+        "10",
+        "rates",
+        "Bank",
+        "lending",
+        "25",
+        "bps"
+    ]
+}

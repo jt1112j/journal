@@ -1,0 +1,65 @@
+{
+    "title": "As NRIs from Gulf return, Kerala eyes Rs 50-bn special grant from 15th FC",
+    "link": "https://www.business-standard.com/article/economy-policy/as-gulf-expats-return-kerala-requests-rs-50-bn-special-grants-from-15th-fc-118060800134_1.html",
+    "pubDate": "Fri, 08 Jun 2018 08:23:00 +0530",
+    "content": "Kerala has also demanded that the tax share from the Centre be increased from the current 42% to 50%",
+    "contentSnippet": "Kerala has also demanded that the tax share from the Centre be increased from the current 42% to 50%",
+    "guid": "https://www.business-standard.com/article/economy-policy/as-gulf-expats-return-kerala-requests-rs-50-bn-special-grants-from-15th-fc-118060800134_1.html",
+    "isoDate": "2018-06-08T02:53:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.07142857142857142,
+        "tokens": [
+            "as",
+            "nris",
+            "from",
+            "gulf",
+            "return",
+            "kerala",
+            "eyes",
+            "rs",
+            "50-bn",
+            "special",
+            "grant",
+            "from",
+            "15th",
+            "fc"
+        ],
+        "words": [
+            "grant"
+        ],
+        "positive": [
+            "grant"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "current",
+        "increased",
+        "50",
+        "special",
+        "15th",
+        "42"
+    ],
+    "nouns": [
+        "current",
+        "Centre",
+        "tax",
+        "As",
+        "return",
+        "eyes",
+        "50",
+        "special",
+        "share",
+        "Gulf",
+        "grant"
+    ],
+    "verbs": [
+        "Centre",
+        "tax",
+        "return",
+        "grant",
+        "share"
+    ]
+}

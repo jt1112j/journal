@@ -1,0 +1,60 @@
+{
+    "title": "PSB losses eat up Centre's $13 billion infusion in FY18: Fitch Ratings",
+    "link": "https://www.business-standard.com/article/finance/psb-losses-eat-up-centre-s-13-billion-infusion-in-fy18-fitch-ratings-118060200059_1.html",
+    "pubDate": "Sat, 02 Jun 2018 02:21:00 +0530",
+    "content": "Fitch accounts these losses to the acceleration of bad loan recognition, with the introduction of non-performing loans framework",
+    "contentSnippet": "Fitch accounts these losses to the acceleration of bad loan recognition, with the introduction of non-performing loans framework",
+    "guid": "https://www.business-standard.com/article/finance/psb-losses-eat-up-centre-s-13-billion-infusion-in-fy18-fitch-ratings-118060200059_1.html",
+    "isoDate": "2018-06-01T20:51:00.000Z",
+    "sentiment": {
+        "score": -3,
+        "comparative": -0.25,
+        "tokens": [
+            "psb",
+            "losses",
+            "eat",
+            "up",
+            "centre's",
+            "13",
+            "billion",
+            "infusion",
+            "in",
+            "fy18",
+            "fitch",
+            "ratings"
+        ],
+        "words": [
+            "losses"
+        ],
+        "positive": [],
+        "negative": [
+            "losses"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "13",
+        "billion",
+        "bad"
+    ],
+    "nouns": [
+        "infusion",
+        "losses",
+        "Centre",
+        "13",
+        "billion",
+        "Fitch",
+        "acceleration",
+        "bad",
+        "loan",
+        "recognition",
+        "introduction",
+        "performing",
+        "framework"
+    ],
+    "verbs": [
+        "eat",
+        "Centre",
+        "loan"
+    ]
+}

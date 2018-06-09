@@ -1,0 +1,73 @@
+{
+    "title": "Modi govt may cut capex to stick to 3.3% fiscal deficit, says Moody's",
+    "link": "https://www.business-standard.com/article/economy-policy/modi-govt-may-cut-capex-to-stick-to-3-3-fiscal-deficit-says-moody-s-118060700599_1.html",
+    "pubDate": "Thu, 07 Jun 2018 16:03:00 +0530",
+    "content": "Moody's had last year upped India's sovereign rating for the first time in over 13 years to 'Baa2' with a stable outlook",
+    "contentSnippet": "Moody's had last year upped India's sovereign rating for the first time in over 13 years to 'Baa2' with a stable outlook",
+    "guid": "https://www.business-standard.com/article/economy-policy/modi-govt-may-cut-capex-to-stick-to-3-3-fiscal-deficit-says-moody-s-118060700599_1.html",
+    "isoDate": "2018-06-07T10:33:00.000Z",
+    "sentiment": {
+        "score": -3,
+        "comparative": -0.23076923076923078,
+        "tokens": [
+            "modi",
+            "govt",
+            "may",
+            "cut",
+            "capex",
+            "to",
+            "stick",
+            "to",
+            "33",
+            "fiscal",
+            "deficit",
+            "says",
+            "moody's"
+        ],
+        "words": [
+            "deficit",
+            "cut"
+        ],
+        "positive": [],
+        "negative": [
+            "deficit",
+            "cut"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "first",
+        "stable",
+        "13",
+        "fiscal",
+        "cut",
+        "Moody",
+        "last",
+        "sovereign"
+    ],
+    "nouns": [
+        "India",
+        "year",
+        "years",
+        "deficit",
+        "first",
+        "may",
+        "stable",
+        "rating",
+        "13",
+        "time",
+        "cut",
+        "stick",
+        "Moody",
+        "last",
+        "outlook",
+        "sovereign"
+    ],
+    "verbs": [
+        "stable",
+        "time",
+        "cut",
+        "stick",
+        "last"
+    ]
+}

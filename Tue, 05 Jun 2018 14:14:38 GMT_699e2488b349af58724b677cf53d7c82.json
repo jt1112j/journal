@@ -1,0 +1,82 @@
+{
+    "title": "Vistara cuts fares by up to 75% in 24-hour sale",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/vistara-cuts-fares-by-up-to-75-in-24-hour-sale/articleshow/64467243.cms",
+    "pubDate": "Tue, 05 Jun 2018 14:14:38 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/vistara-cuts-fares-by-up-to-75-in-24-hour-sale/articleshow/64467243.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64467243.cms\" /></a>The sale not only offers fares as low as Rs 1,599 all-in for short routes like Delhi-Lucknow, it also offers fares on other longer routes as well with fares on sectors such as Delhi-Hyderabad and Delhi-Ranchi starting Rs 2,199 and Delhi-Kolkata and Delhi-Mumbai from Rs 2,299, the release said.",
+    "contentSnippet": "The sale not only offers fares as low as Rs 1,599 all-in for short routes like Delhi-Lucknow, it also offers fares on other longer routes as well with fares on sectors such as Delhi-Hyderabad and Delhi-Ranchi starting Rs 2,199 and Delhi-Kolkata and Delhi-Mumbai from Rs 2,299, the release said.",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/vistara-cuts-fares-by-up-to-75-in-24-hour-sale/articleshow/64467243.cms",
+    "isoDate": "2018-06-05T14:14:38.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.1,
+        "tokens": [
+            "vistara",
+            "cuts",
+            "fares",
+            "by",
+            "up",
+            "to",
+            "75",
+            "in",
+            "24-hour",
+            "sale"
+        ],
+        "words": [
+            "cuts"
+        ],
+        "positive": [],
+        "negative": [
+            "cuts"
+        ]
+    },
+    "article": {
+        "title": "Vistara cuts fares by up to 75% in 24-hour sale",
+        "content": "<section class=\"title_section clearfix\"><meta itemprop=\"headline\" content=\"Vistara cuts fares by up to 75% in 24-hour sale\"><p>The sale not only offers fares as low as Rs 1,599 all-in for short routes like Delhi-Lucknow, it also offers fares on other longer routes as well with fares on sectors such as Delhi-Hyderabad and Delhi-Ranchi starting Rs 2,199 and Delhi-Kolkata and Delhi-Mumbai from Rs 2,299, the release said.</p></section>"
+    },
+    "adjectives": [
+        "10",
+        "75",
+        "24",
+        "low",
+        "short",
+        "starting",
+        "left",
+        "top",
+        "right"
+    ],
+    "nouns": [
+        "Delhi",
+        "10",
+        "24",
+        "hour",
+        "low",
+        "short",
+        "Lucknow",
+        "longer",
+        "Hyderabad",
+        "starting",
+        "Kolkata",
+        "Mumbai",
+        "release",
+        "india",
+        "business",
+        "border",
+        "sale",
+        "left",
+        "style",
+        "margin",
+        "top",
+        "right",
+        "photo"
+    ],
+    "verbs": [
+        "low",
+        "short",
+        "release",
+        "border",
+        "align",
+        "style",
+        "top",
+        "right"
+    ]
+}

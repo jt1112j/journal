@@ -1,0 +1,56 @@
+{
+    "title": "Sebi to probe leak of additional surveillance measures stock list",
+    "link": "https://www.business-standard.com/article/markets/sebi-to-probe-leak-of-additional-surveillance-measures-stock-list-118060601444_1.html",
+    "pubDate": "Thu, 07 Jun 2018 06:35:00 +0530",
+    "content": "On May 31, stock exchanges released a list of 109 stocks on which additional trading curbs were to be imposed",
+    "contentSnippet": "On May 31, stock exchanges released a list of 109 stocks on which additional trading curbs were to be imposed",
+    "guid": "https://www.business-standard.com/article/markets/sebi-to-probe-leak-of-additional-surveillance-measures-stock-list-118060601444_1.html",
+    "isoDate": "2018-06-07T01:05:00.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.1,
+        "tokens": [
+            "sebi",
+            "to",
+            "probe",
+            "leak",
+            "of",
+            "additional",
+            "surveillance",
+            "measures",
+            "stock",
+            "list"
+        ],
+        "words": [
+            "leak"
+        ],
+        "positive": [],
+        "negative": [
+            "leak"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "additional",
+        "stock",
+        "On",
+        "31",
+        "imposed"
+    ],
+    "nouns": [
+        "probe",
+        "stock",
+        "stocks",
+        "May",
+        "trading",
+        "surveillance",
+        "leak",
+        "list"
+    ],
+    "verbs": [
+        "probe",
+        "stock",
+        "leak",
+        "list"
+    ]
+}

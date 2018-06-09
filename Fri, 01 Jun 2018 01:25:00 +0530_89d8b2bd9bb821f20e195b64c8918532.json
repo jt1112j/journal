@@ -1,0 +1,67 @@
+{
+    "title": "Bank strike: More participate on last day, services hit all over India",
+    "link": "https://www.business-standard.com/article/finance/bank-strike-more-participate-on-last-day-services-hit-all-over-india-118060100045_1.html",
+    "pubDate": "Fri, 01 Jun 2018 01:25:00 +0530",
+    "content": "The unions have opposed the Indian Banks' Association's offer of a 2% pay hike",
+    "contentSnippet": "The unions have opposed the Indian Banks' Association's offer of a 2% pay hike",
+    "guid": "https://www.business-standard.com/article/finance/bank-strike-more-participate-on-last-day-services-hit-all-over-india-118060100045_1.html",
+    "isoDate": "2018-05-31T19:55:00.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.08333333333333333,
+        "tokens": [
+            "bank",
+            "strike",
+            "more",
+            "participate",
+            "on",
+            "last",
+            "day",
+            "services",
+            "hit",
+            "all",
+            "over",
+            "india"
+        ],
+        "words": [
+            "strike"
+        ],
+        "positive": [],
+        "negative": [
+            "strike"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "Indian",
+        "More",
+        "last",
+        "opposed"
+    ],
+    "nouns": [
+        "India",
+        "Indian",
+        "services",
+        "strike",
+        "pay",
+        "hit",
+        "day",
+        "Bank",
+        "Banks",
+        "Association",
+        "offer",
+        "More",
+        "last",
+        "hike"
+    ],
+    "verbs": [
+        "strike",
+        "pay",
+        "hit",
+        "Bank",
+        "participate",
+        "offer",
+        "last",
+        "hike"
+    ]
+}

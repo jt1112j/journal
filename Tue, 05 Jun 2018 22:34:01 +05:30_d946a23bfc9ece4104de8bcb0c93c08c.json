@@ -1,0 +1,78 @@
+{
+    "creator": "PTI",
+    "title": "Trai backs suggestion on partnership with foreign firm for IFC",
+    "link": "https://www.financialexpress.com/industry/trai-backs-suggestion-on-partnership-with-foreign-firm-for-ifc/1194866/",
+    "pubDate": "Tue, 05 Jun 2018 22:34:01 +05:30",
+    "dc:creator": "PTI",
+    "content": "Telecom regulator Trai said it recommended allowing foreign firms to provide mobile communications during air travel in India airspace due to complexity involved in the technology as well as to facilitate similar service on Indian flights in foreign jurisdiction.",
+    "contentSnippet": "Telecom regulator Trai said it recommended allowing foreign firms to provide mobile communications during air travel in India airspace due to complexity involved in the technology as well as to facilitate similar service on Indian flights in foreign jurisdiction.",
+    "guid": "https://www.financialexpress.com/?p=1194866",
+    "categories": [
+        "Industry"
+    ],
+    "isoDate": "2018-06-05T17:04:01.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.1,
+        "tokens": [
+            "trai",
+            "backs",
+            "suggestion",
+            "on",
+            "partnership",
+            "with",
+            "foreign",
+            "firm",
+            "for",
+            "ifc"
+        ],
+        "words": [
+            "backs"
+        ],
+        "positive": [
+            "backs"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "Trai backs suggestion on partnership with foreign firm for IFC",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1194886\" src=\"https://images.financialexpress.com/2018/06/TRAI-2-1.jpg\" alt=\"Trai,&nbsp;air travel in India airspace,&nbsp;Indian airspace,&nbsp;MCA,&nbsp;Department of Telecom,&nbsp;IFC Service provider, news on TRAI, latest news on TRAI\" srcset=\"https://images.financialexpress.com/2018/06/TRAI-2-1.jpg 660w, https://images.financialexpress.com/2018/06/TRAI-2-1-300x200.jpg 300w, https://images.financialexpress.com/2018/06/TRAI-2-1-620x413.jpg 620w, https://images.financialexpress.com/2018/06/TRAI-2-1-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> Trai said that it is of view that mirror image of the traffic from the foreign gateway should be routed to the Indian telecom licence holder with whom IFC Service provider has partnered with for the purpose of providing onboard Internet services. (PTI)</figure>\n\t\t\t</section></div><span>\n</span><p>Telecom regulator Trai said it recommended allowing foreign firms to provide mobile communications during air travel in India airspace due to complexity involved in the technology as well as to facilitate similar service on Indian flights in foreign jurisdiction. “…the airlines services are global in nature and mostly it is governed by bi-lateral mutual agreements. If we do not allow the foreign Aircrafts to provide the MCA services using their satellite and gateways over the Indian airspace, the other countries will also not allow the Indian Aircrafts to provide MCA services while over-flying their jurisdictions,” Trai explained to the Department of Telecom.</p><span>\n</span><p>The Department of Telecom (DoT) had sought clarification from the Telecom Regulatory Authority of India (Trai) that it has recommended permitting use of foreign satellites and foreign gateways for mobile communication on aircraft (MCA) while committee of secretaries (CoS) has in its approval permitted only Indian Satellites and Indian Gateway.</p><span>\n</span><p>According to Indian rules, telecom service providers should facilitate lawful interception of communications when required and it is possible only when gateway or servers are located inside the country. Trai said that it has has recommended that In-flight connectivity (IFC) service providers should be permitted to provide MCA services in partnership with a foreign mobile service provider on condition that the same IFC service provider is also delivering on-board Internet services in association with an Indian telecom licence holder with appropriate authorisation.</p><span>\n</span><p>Trai said that it is of view that mirror image of the traffic from the foreign gateway should be routed to the Indian telecom licence holder with whom IFC Service provider has partnered with for the purpose of providing onboard Internet services. “It would be the joint responsibility of IFC service provider and the partnering Indian Unified Licensee to ensure that Lawful Interception requirement as mandated are met through mirror-mode gateway mechanism,” Trai said.</p><span>\n</span><p>The regulator explained that the equipment installed inside aircraft is compatible with core network of mobile service provider which partners with IFC provider for communication service on the flight and cannot be automatically connected with network of any other service provider. The mobile traffic on aircraft is connected to the core network ,which may be located in foreign country in case of international flight, through satellite or terrestrial link. It said that the interception facility is generally available in the core network, such traffic can be made available lawful interception only through mirror-mode gateway mechanism.</p><span>\n</span><p>The regulator said that it has recommended use of foreign satellites and gateway would be permitted for the establishment of satellite backhaul links only for the provisioning of MCA services. The DoT has already approved IFC and MCA only in partnership with India telecom operators and satellite gateway located within India.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "firm",
+        "Indian",
+        "similar",
+        "involved",
+        "foreign",
+        "due",
+        "mobile"
+    ],
+    "nouns": [
+        "travel",
+        "firm",
+        "communications",
+        "complexity",
+        "India",
+        "Indian",
+        "suggestion",
+        "technology",
+        "partnership",
+        "regulator",
+        "air",
+        "airspace",
+        "Telecom",
+        "service",
+        "due",
+        "IFC",
+        "mobile",
+        "jurisdiction"
+    ],
+    "verbs": [
+        "travel",
+        "facilitate",
+        "firm",
+        "provide",
+        "air",
+        "service"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "title": "Sebi lens on Rajiv Kochhar's Avista Advisory clients in ICICI loan case",
+    "link": "https://www.business-standard.com/article/companies/sebi-lens-on-rajiv-kochhar-s-avista-advisory-clients-in-icici-loan-case-118060601420_1.html",
+    "pubDate": "Thu, 07 Jun 2018 07:00:00 +0530",
+    "content": "Regulator to check end use of funds raised by companies that availed Rajiv Kochhar-led firm's services",
+    "contentSnippet": "Regulator to check end use of funds raised by companies that availed Rajiv Kochhar-led firm's services",
+    "guid": "https://www.business-standard.com/article/companies/sebi-lens-on-rajiv-kochhar-s-avista-advisory-clients-in-icici-loan-case-118060601420_1.html",
+    "isoDate": "2018-06-07T01:30:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "sebi",
+            "lens",
+            "on",
+            "rajiv",
+            "kochhar's",
+            "avista",
+            "advisory",
+            "clients",
+            "in",
+            "icici",
+            "loan",
+            "case"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "Advisory",
+        "raised",
+        "firm"
+    ],
+    "nouns": [
+        "lens",
+        "Advisory",
+        "loan",
+        "case",
+        "Regulator",
+        "end",
+        "use",
+        "funds",
+        "led",
+        "firm",
+        "check",
+        "services"
+    ],
+    "verbs": [
+        "loan",
+        "case",
+        "check",
+        "end",
+        "use",
+        "firm"
+    ]
+}

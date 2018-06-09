@@ -1,0 +1,80 @@
+{
+    "title": "Model 3 is now best selling mid-sized sedan in US, claims Tesla",
+    "link": "https://timesofindia.indiatimes.com/business/international-business/model-3-is-now-best-selling-mid-sized-sedan-in-us-claims-telsa/articleshow/64474153.cms",
+    "pubDate": "Wed, 06 Jun 2018 05:23:35 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/international-business/model-3-is-now-best-selling-mid-sized-sedan-in-us-claims-telsa/articleshow/64474153.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64474153.cms\" /></a>",
+    "contentSnippet": "",
+    "guid": "https://timesofindia.indiatimes.com/business/international-business/model-3-is-now-best-selling-mid-sized-sedan-in-us-claims-telsa/articleshow/64474153.cms",
+    "isoDate": "2018-06-06T05:23:35.000Z",
+    "sentiment": {
+        "score": 3,
+        "comparative": 0.25,
+        "tokens": [
+            "model",
+            "3",
+            "is",
+            "now",
+            "best",
+            "selling",
+            "mid-sized",
+            "sedan",
+            "in",
+            "us",
+            "claims",
+            "tesla"
+        ],
+        "words": [
+            "best"
+        ],
+        "positive": [
+            "best"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "Model 3 is now best selling mid-sized sedan in US, claims Tesla",
+        "content": "<div class=\"section1\"><div class=\"Normal\"><span>NEW DELHI: US electric vehicle maker </span><a class=\"key_underline\" href=\"https://timesofindia.indiatimes.com/topic/Tesla\">Tesla</a><p> on Wednesday announced that is Model 3 is now best selling mid-sized premium sedan in the US. Taking to Twitter, the company shared the information along with a graph.\n\n</p><span> \n</span><p>The graphic shared by Tesla showed that Model 3 has surpassed the sales of Mercedes C-Class (marginally though).\n</p><span> \n</span><div class=\"image\" data-msid=\"64474205\"><img src=\"https://timesofindia.indiatimes.com/img/64474205/Master.jpg\" alt=\"Mercedes C class\"></div><p>Tesla Inc Chief Executive Elon Musk had said on Tuesday that building 5,000 Model 3s per week by the end of June was \"quite likely\" as the company's production lines were now demonstrating the ability to make 3,500 vehicles per week. \n</p><span>\"This is the most excruciating hellish several months I've ever had... but I think we're getting there,\" Musk said during Tesla's annual meeting of stockholders in Mountain View, California.\n</span><br><span>\n</span><br><span>Tesla and its high-profile, tweeting CEO have been under the microscope in recent months after a spate of negative press over vehicle crashes, the company's cash position and the leadership style of Musk, who has snubbed financial analysts and publicly castigated the media.\n</span><br><span>\n</span><br><span>The company has been struggling to ramp up production of its new Model 3 sedan, which is crucial to the company's long-term profitability. In April, Tesla said it was making 2,270 vehicles a week, less than half the promised 5,000 a week it said it would meet by the end of June.\n</span><br><span>\n</span><br><span>\"At Tesla we build our cars with love,\" Musk said. \"At a lot of other companies, they're built by marketing or the finance department and there's no soul. We're not perfect but we pour our heart and soul into it and we really care.\"\n</span><br><span>\n</span><br><span>\n</span><em>(With Reuters inputs)</em><span>\n</span></div></div>"
+    },
+    "adjectives": [
+        "Model",
+        "model",
+        "best",
+        "mid",
+        "sized",
+        "international",
+        "10",
+        "left",
+        "top",
+        "right"
+    ],
+    "nouns": [
+        "Model",
+        "model",
+        "border",
+        "best",
+        "selling",
+        "sedan",
+        "US",
+        "us",
+        "Tesla",
+        "business",
+        "international",
+        "10",
+        "left",
+        "style",
+        "margin",
+        "top",
+        "right",
+        "photo"
+    ],
+    "verbs": [
+        "Model",
+        "model",
+        "border",
+        "best",
+        "align",
+        "style",
+        "top",
+        "right"
+    ]
+}

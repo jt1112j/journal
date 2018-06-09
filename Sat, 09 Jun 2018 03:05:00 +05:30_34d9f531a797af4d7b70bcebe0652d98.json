@@ -1,0 +1,68 @@
+{
+    "creator": "FE Bureau",
+    "title": "Thermal power plants’ PLF up on rising demand, lower hydel generation",
+    "link": "https://www.financialexpress.com/economy/thermal-power-plants-plf-up-on-rising-demand-lower-hydel-generation/1199327/",
+    "pubDate": "Sat, 09 Jun 2018 03:05:00 +05:30",
+    "dc:creator": "FE Bureau",
+    "content": "Capacity utilisation levels of coal-based power plants improved in May because of rising demand and lower generation from hydroelectric sources. ",
+    "contentSnippet": "Capacity utilisation levels of coal-based power plants improved in May because of rising demand and lower generation from hydroelectric sources.",
+    "guid": "https://www.financialexpress.com/?p=1199327",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-08T21:35:00.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.09090909090909091,
+        "tokens": [
+            "thermal",
+            "power",
+            "plants’",
+            "plf",
+            "up",
+            "on",
+            "rising",
+            "demand",
+            "lower",
+            "hydel",
+            "generation"
+        ],
+        "words": [
+            "demand"
+        ],
+        "positive": [],
+        "negative": [
+            "demand"
+        ]
+    },
+    "article": {
+        "title": "Thermal power plants’ PLF up on rising demand, lower hydel generation",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1199331\" src=\"https://images.financialexpress.com/2018/06/thermal-1.jpg\" alt=\"Coal India, CIL, thermal power plants, thermal power plants, coal based power plants, Piyush Goyal, Power Minister, Central Electricity Authority, Flue-gas desulfurisation, power electricity in india, emmission norms\" srcset=\"https://images.financialexpress.com/2018/06/thermal-1.jpg 660w, https://images.financialexpress.com/2018/06/thermal-1-300x200.jpg 300w, https://images.financialexpress.com/2018/06/thermal-1-620x413.jpg 620w, https://images.financialexpress.com/2018/06/thermal-1-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> The plant load factor (PLF) of thermal power plants went up to 65.3% in the month, 1.7 percentage points higher than the year-ago period.</figure>\n\t\t\t</section></div><span>\n</span><p>Capacity utilisation levels of coal-based power plants improved in May because of rising demand and lower generation from hydroelectric sources. The plant load factor (PLF) of thermal power plants went up to 65.3% in the month, 1.7 percentage points higher than the year-ago period.</p><span>\n</span><p>While PLFs of central and state government-owned plants were 75.5% and 64.5%, respectively, the same for independent power producers (IPPs) stood at 57.8%. Though PLFs of IPPs were higher than May 2017 levels, it failed to cross the 60% mark, which eases debt servicing capabilities of power generation assets.</p><span>\n</span><p>Thermal power plants generated 96,580 million units (MU) in May, 4% more than the programme set for the month and 5.2% higher than last year. On the other hand, hydel plants produced 10,638 MU, 10% lower than the target, reflecting a 14% decline from last year.</p><span>\n</span><p>Peak demand of power on the last day of the month was 1,62,132 MW, 4.3% higher than the demand registered in the same day a year ago.</p><span>\n</span><p>According to sources, hydropower plants have been generating lesser than expected electricity due to inadequate rainfall and snow melting at a slower pace than previous years. Data for power generation from renewable sources have not been made available yet.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "rising",
+        "Thermal",
+        "improved",
+        "based",
+        "hydroelectric"
+    ],
+    "verbs": [
+        "power",
+        "lower",
+        "demand",
+        "coal"
+    ],
+    "nouns": [
+        "rising",
+        "Thermal",
+        "May",
+        "power",
+        "lower",
+        "demand",
+        "Capacity",
+        "generation",
+        "PLF",
+        "utilisation",
+        "coal"
+    ]
+}

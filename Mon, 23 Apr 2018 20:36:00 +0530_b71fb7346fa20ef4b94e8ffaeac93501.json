@@ -1,0 +1,76 @@
+{
+    "title": "World's worst tech stock Lenovo Group may lose Hang Seng index status",
+    "link": "https://www.business-standard.com/article/companies/world-s-worst-tech-stock-lenovo-group-may-lose-hang-seng-index-status-118042301047_1.html",
+    "pubDate": "Mon, 23 Apr 2018 20:36:00 +0530",
+    "content": "Lenovo sank to its lowest since October 2009 on Monday as a US ban on ZTE Corp and a global selloff by hardware manufacturers added to jitters about China's technology sector",
+    "contentSnippet": "Lenovo sank to its lowest since October 2009 on Monday as a US ban on ZTE Corp and a global selloff by hardware manufacturers added to jitters about China's technology sector",
+    "guid": "https://www.business-standard.com/article/companies/world-s-worst-tech-stock-lenovo-group-may-lose-hang-seng-index-status-118042301047_1.html",
+    "isoDate": "2018-04-23T15:06:00.000Z",
+    "sentiment": {
+        "score": -3,
+        "comparative": -0.25,
+        "tokens": [
+            "world's",
+            "worst",
+            "tech",
+            "stock",
+            "lenovo",
+            "group",
+            "may",
+            "lose",
+            "hang",
+            "seng",
+            "index",
+            "status"
+        ],
+        "words": [
+            "worst"
+        ],
+        "positive": [],
+        "negative": [
+            "worst"
+        ]
+    },
+    "article": {
+        "title": "World's worst tech stock Lenovo Group may lose Hang Seng index status",
+        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t<p>\n\t\n\tLenovo Group  is increasingly at risk of being dropped from Hong Kong’s benchmark equity index as its shares tumble more than any other technology company in the world.</p>\n<p>\n\tThe Chinese computer maker has fallen 56 per cent since being added to the Hang Seng Index in March 2013, wiping out $5.8 billion in value. <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=companies\" target=\"_blank\">Companies </a>removed from the gauge in the past decade had seen their value fall a median of 48 per cent before being excluded, according to Bloomberg calculations.\n\n\n</p>\n<!-- INPAGE_BANNER -->\n<p>\n\tLenovo sank to its lowest since October 2009 on Monday as a US ban on <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=zte+corp\" target=\"_blank\">ZTE Corp </a>and a global selloff by hardware manufacturers added to jitters about China’s technology sector. The stock is one of the most shorted on the Hang Seng Index: 13.8 per cent of its shares available for trade on loan to short-sellers, according to IHS Markit. Removal from the gauge could spur more outflows from Lenovo, as at least $107 billion worth of passive funds track the Hang Seng Index, data compiled by Bloomberg show.</p>\n<p>\n\t“Risks that Lenovo will lose its seat are on the rise,” said Kenny Wen, a strategist at Everbright Sun Hung Kai in <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=hong+kong\" target=\"_blank\">Hong Kong.</a> “Lenovo is having trouble in all key areas, from issuing cool smartphone models to keeping market share in computer businesses. The short-sellers may have picked the right target this time.”</p>\n<p>\n\tLenovo was previously dropped from the Hang Seng Index in 2006, six years after first joining. Its decline since it was added back in 2013 is the biggest on the 171-member Bloomberg World Technology Index. Lenovo said in an email that it doesn’t comment on its share price or speculation. The company’s chief executive Yang Yuanqing is maintaining a bullish stance, saying in a WeChat post last week that Lenovo was back on track for growth. The Beijing-based firm posted a loss in the December quarter after it was hit with a US tax charge and as its mobile business continued to struggle having rapidly surrendering market share.</p>\n\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
+    },
+    "adjectives": [
+        "stock",
+        "World",
+        "worst",
+        "lowest",
+        "global"
+    ],
+    "nouns": [
+        "sector",
+        "stock",
+        "Monday",
+        "tech",
+        "technology",
+        "index",
+        "status",
+        "ban",
+        "World",
+        "worst",
+        "Group",
+        "may",
+        "US",
+        "Corp",
+        "selloff",
+        "jitters",
+        "China",
+        "Hang",
+        "October",
+        "hardware"
+    ],
+    "verbs": [
+        "stock",
+        "index",
+        "ban",
+        "worst",
+        "Group",
+        "lose",
+        "Hang"
+    ]
+}

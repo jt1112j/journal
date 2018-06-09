@@ -1,0 +1,59 @@
+{
+    "title": "Nifty Infra index nears 52-week low ahead of RBI monetary policy",
+    "link": "https://www.business-standard.com/article/markets/nifty-infra-index-nears-52-week-low-118060500525_1.html",
+    "pubDate": "Tue, 05 Jun 2018 14:22:00 +0530",
+    "content": "Bharti Infratel, NBCC, NHPC, Suzlon Energy, BHEL, Siemens and Adani Power from the Nifty Infra index hitting their respective 52-week lows on the NSE today.",
+    "contentSnippet": "Bharti Infratel, NBCC, NHPC, Suzlon Energy, BHEL, Siemens and Adani Power from the Nifty Infra index hitting their respective 52-week lows on the NSE today.",
+    "guid": "https://www.business-standard.com/article/markets/nifty-infra-index-nears-52-week-low-118060500525_1.html",
+    "isoDate": "2018-06-05T08:52:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.18181818181818182,
+        "tokens": [
+            "nifty",
+            "infra",
+            "index",
+            "nears",
+            "52-week",
+            "low",
+            "ahead",
+            "of",
+            "rbi",
+            "monetary",
+            "policy"
+        ],
+        "words": [
+            "nifty"
+        ],
+        "positive": [
+            "nifty"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "Nifty",
+        "52",
+        "low",
+        "ahead",
+        "monetary",
+        "respective"
+    ],
+    "nouns": [
+        "index",
+        "week",
+        "low",
+        "RBI",
+        "policy",
+        "Energy",
+        "Siemens",
+        "Power",
+        "hitting",
+        "today"
+    ],
+    "verbs": [
+        "index",
+        "low",
+        "Power"
+    ]
+}

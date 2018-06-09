@@ -1,0 +1,59 @@
+{
+    "title": "Videocon case: ICICI Bank, Kochhar miss Sebi deadline, ask for more time",
+    "link": "https://www.business-standard.com/article/companies/videocon-case-icici-bank-kochhar-miss-sebi-deadline-ask-for-more-time-118060800061_1.html",
+    "pubDate": "Fri, 08 Jun 2018 07:04:00 +0530",
+    "content": "Showcause notice had given time to respond till Thursday",
+    "contentSnippet": "Showcause notice had given time to respond till Thursday",
+    "guid": "https://www.business-standard.com/article/companies/videocon-case-icici-bank-kochhar-miss-sebi-deadline-ask-for-more-time-118060800061_1.html",
+    "isoDate": "2018-06-08T01:34:00.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.16666666666666666,
+        "tokens": [
+            "videocon",
+            "case",
+            "icici",
+            "bank",
+            "kochhar",
+            "miss",
+            "sebi",
+            "deadline",
+            "ask",
+            "for",
+            "more",
+            "time"
+        ],
+        "words": [
+            "miss"
+        ],
+        "positive": [],
+        "negative": [
+            "miss"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "given"
+    ],
+    "nouns": [
+        "Bank",
+        "case",
+        "notice",
+        "miss",
+        "deadline",
+        "time",
+        "till",
+        "Thursday",
+        "given"
+    ],
+    "verbs": [
+        "Bank",
+        "respond",
+        "case",
+        "notice",
+        "miss",
+        "ask",
+        "time",
+        "till"
+    ]
+}

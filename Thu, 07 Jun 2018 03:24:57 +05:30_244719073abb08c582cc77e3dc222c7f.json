@@ -1,0 +1,47 @@
+{
+    "title": "‘RBI’s neutral stance is a surprise’",
+    "link": "https://www.financialexpress.com/economy/rbis-neutral-stance-is-a-surprise/1196444/",
+    "pubDate": "Thu, 07 Jun 2018 03:24:57 +05:30",
+    "content": "Meanwhile, the RBI has revised its CPI inflation forecast upwards to 4.8-4.9% y-o-y in H1FY19 (from 4.7-5.1%) and H2 projection revised up to 4.7% (from 4.4%).",
+    "contentSnippet": "Meanwhile, the RBI has revised its CPI inflation forecast upwards to 4.8-4.9% y-o-y in H1FY19 (from 4.7-5.1%) and H2 projection revised up to 4.7% (from 4.4%).",
+    "guid": "https://www.financialexpress.com/?p=1196444",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-06T21:54:57.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "‘rbi’s",
+            "neutral",
+            "stance",
+            "is",
+            "a",
+            "surprise’"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "neutral",
+        "revised"
+    ],
+    "nouns": [
+        "RBI",
+        "stance",
+        "projection",
+        "neutral",
+        "surprise",
+        "Meanwhile",
+        "CPI",
+        "inflation",
+        "forecast"
+    ],
+    "verbs": [
+        "surprise",
+        "forecast"
+    ]
+}

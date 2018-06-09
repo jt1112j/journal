@@ -1,0 +1,67 @@
+{
+    "title": "Govt unable to crack GST e-wallet code as export refunds remain unpaid",
+    "link": "https://www.business-standard.com/article/economy-policy/as-export-refunds-remain-unpaid-govt-unable-to-crack-gst-e-wallet-code-118060500545_1.html",
+    "pubDate": "Tue, 05 Jun 2018 22:33:00 +0530",
+    "content": "Traders had supported the e-wallet mechanism to battle the crippling liquidity crunch that had set in after GST was imposed",
+    "contentSnippet": "Traders had supported the e-wallet mechanism to battle the crippling liquidity crunch that had set in after GST was imposed",
+    "guid": "https://www.business-standard.com/article/economy-policy/as-export-refunds-remain-unpaid-govt-unable-to-crack-gst-e-wallet-code-118060500545_1.html",
+    "isoDate": "2018-06-05T17:03:00.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.16666666666666666,
+        "tokens": [
+            "govt",
+            "unable",
+            "to",
+            "crack",
+            "gst",
+            "e-wallet",
+            "code",
+            "as",
+            "export",
+            "refunds",
+            "remain",
+            "unpaid"
+        ],
+        "words": [
+            "unable"
+        ],
+        "positive": [],
+        "negative": [
+            "unable"
+        ]
+    },
+    "article": {
+        "title": "Govt unable to crack GST e-wallet code as export refunds remain unpaid",
+        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t<p>\n\t\n\tEven as exporters and the government continue to argue over the amount of unpaid refunds under the goods and services tax (GST) regime, the much-awaited e-wallet mechanism remains a non-starter.</p>\n<p>\n\tTraders had supported the e-wallet mechanism to battle the liquidity crunch that had set in after the <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/gst\" target=\"_blank\">GST </a>was introduced.\n\n\n</p>\n<!-- INPAGE_BANNER -->\n<p>\n\tSubsequently, a decision to adopt it was taken at the 22nd <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/gst\" target=\"_blank\">GST </a>Council meet on October 6 last year, with an initial deadline for April 1.  However, after the deadline was missed, the government extended the roll-out by six months. Earlier this year, Business Standard was the first to point out that little progress would derail the April 1 deadline.  More than two months later, despite multiple meetings between top officials of the Ministries of Commerce and Finance, the progress was slow, sources said.</p>\n<p>\n\t“We still have enough time before the tentative deadline of October, but work is still pending. A workable model of an online transaction platform is yet to be created. Once that is done, the beta model of the software will have to be tasted in keeping with government regulations on a live platform and that is expected to take some time,” a senior Commerce Ministry official said.</p>\n<p>\n\tHowever, procedural glitches arising from converging online operations with offline realities of documentation and background checks would still be left to weed out, he added.</p>\n<p>\n\tAccording to sources, Commerce and Industry Minister <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/suresh-prabhu\" target=\"_blank\">Suresh Prabhu </a>backs the e-wallet idea and had been instrumental in convincing the Finance Ministry on having a tax refund mechanism for exporters. But back in March, Prabhu had hinted that the proposal was stuck in North Block.</p>\n<p>\n\t“We are still assessing key aspects of the wallet, especially with regard to digital security,” a revenue department official said. He added a final nod was expected once <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/arun-jaitley\" target=\"_blank\">Arun Jaitley </a>was back at the Finance Ministry after recuperation.</p>\n<p>\n\t<strong>Alternative measures not working</strong></p>\n<p>\n\tTo offset pressure on exporters, the <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/gst\" target=\"_blank\">GST </a>Council had in March also extended the tax exemptions on imported goods for six more months beyond March 31.</p>\n<p>\n\tBut exporters say the move hasn’t helped much. Exporters were earlier allowed duty-free imports of goods used for making products for export. With the GST, they have to first pay the duty and later apply for a refund. As a result, their costs have risen by up to 1.25 per cent (freight on board value) since July 1 last year.</p>\n<p>\n\tWhile industry estimates peg the amount of unpaid refunds as of June 1 at Rs 200 billion, the government has said the figure is Rs 140 billion. “It should be noted that Rs 140 billion is what has been filed, but they are not taking into account what exporters are not being able to file unless the government modifies its software,” Federation of Indian Export Organisations (Fieo) Director General <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=ajay+sahai\" target=\"_blank\">Ajay Sahai </a>said.</p>\n<p>\n\t<a class=\"storyTags\" href=\"https://www.business-standard.com/topic/fieo\" target=\"_blank\">Fieo </a>batted for the idea whereby, based on the preceding year’s exports and an average GST rate, the notional currency would be credited to exporters’ accounts by the Directorate General of Foreign Trade. “Like a running account, money may be debited from the e-wallet when duty-paid supplies have to be undertaken and the amount may be credited when the proof of export is made available from Indian Customs Electronic Commerce/Electronic Data interchange (EC/EDI) Gateway (ICEGATE),” <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/fieo\" target=\"_blank\">Fieo </a>had told the finance ministry.</p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
+    },
+    "adjectives": [
+        "supported",
+        "unable",
+        "crack",
+        "unpaid",
+        "crippling",
+        "set",
+        "imposed"
+    ],
+    "nouns": [
+        "liquidity",
+        "crack",
+        "wallet",
+        "code",
+        "export",
+        "mechanism",
+        "battle",
+        "crunch",
+        "set"
+    ],
+    "verbs": [
+        "crack",
+        "code",
+        "export",
+        "remain",
+        "battle",
+        "crunch",
+        "set"
+    ]
+}

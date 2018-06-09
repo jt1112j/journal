@@ -1,0 +1,78 @@
+{
+    "creator": "Reuters",
+    "title": "US oil prices inch up on fall in local crude stockpiles",
+    "link": "https://www.financialexpress.com/market/commodities/us-oil-prices-inch-up-on-fall-in-local-crude-stockpiles/1195148/",
+    "pubDate": "Wed, 06 Jun 2018 08:35:18 +05:30",
+    "dc:creator": "Reuters",
+    "content": "US oil prices edged up in early Asian trade on Wednesday to move away from lows hit in the previous session, buoyed after industry data showed a decline in US crude inventories. ",
+    "contentSnippet": "US oil prices edged up in early Asian trade on Wednesday to move away from lows hit in the previous session, buoyed after industry data showed a decline in US crude inventories.",
+    "guid": "https://www.financialexpress.com/?p=1195148",
+    "categories": [
+        "Commodities",
+        "Market"
+    ],
+    "isoDate": "2018-06-06T03:05:18.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.09090909090909091,
+        "tokens": [
+            "us",
+            "oil",
+            "prices",
+            "inch",
+            "up",
+            "on",
+            "fall",
+            "in",
+            "local",
+            "crude",
+            "stockpiles"
+        ],
+        "words": [
+            "crude"
+        ],
+        "positive": [],
+        "negative": [
+            "crude"
+        ]
+    },
+    "article": {
+        "title": "US oil prices inch up on fall in local crude stockpiles",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"wp-image-1195150 size-full\" src=\"https://images.financialexpress.com/2018/06/Oil-Reuters-3.jpg\" alt=\"\" srcset=\"https://images.financialexpress.com/2018/06/Oil-Reuters-3.jpg 660w, https://images.financialexpress.com/2018/06/Oil-Reuters-3-300x200.jpg 300w, https://images.financialexpress.com/2018/06/Oil-Reuters-3-620x413.jpg 620w, https://images.financialexpress.com/2018/06/Oil-Reuters-3-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> U.S. West Texas Intermediate crude was up 10 cents, or 0.2 percent, at USD 65.62 a barrel by 0020 GMT on Wednesday. (Image: Reuters)</figure>\n\t\t\t</section></div><span>\n</span><p>US oil prices edged up in early Asian trade on Wednesday to move away from lows hit in the previous session, buoyed after industry data showed a decline in US crude inventories. U.S. crude marked its lowest level in nearly two months on Tuesday after three OPEC and industry sources said the U.S. government has unofficially asked Saudi Arabia and some other OPEC producers to raise oil output, although it has not requested a specific figure. But U.S. oil had rebounded by Tuesday’s close amid expectations U.S. crude oil stockpiles likely fell for a second week last week.</p><span>\n</span><p>U.S. West Texas Intermediate crude was up 10 cents, or 0.2 percent, at $65.62 a barrel by 0020 GMT on Wednesday, having settled up 77 cents. It touched a near two-month low of $64.22 on Tuesday. Brent crude was down 8 cents, or 0.1 percent, at $75.30 a barrel, after settling up 9 cents the session before. On Tuesday, it hit its lowest since May 8 at $73.81.</p><span>\n</span><p>U.S. crude inventories fell by 2 million barrels, compared with analyst expectations for a decrease of 1.8 million barrels, American Petroleum Institute data showed after Tuesday’s settlement. Gasoline stocks rose by 3.8 million barrels, compared with analyst expectations for a 587,000-barrel gain. Distillate fuels stockpiles, which include diesel and heating oil, fell by 871,000 barrels, compared with expectations for a 784,000-barrel gain. The market is waiting for a report by the U.S. Energy Department’s Energy Information Administration at 1430 GMT.</p><span>\n</span><p>Meanwhile, Russian Energy Minister Alexander Novak said on Tuesday that oil demand should determine how OPEC and non-OPEC countries should adjust a current deal on oil output curbs. Reuters reported on May 25 that the producers were considering a supply increase of 1 million bpd, with a final decision to be made at the June 22-23 meeting in Vienna of OPEC and non-OPEC ministers.</p><span>\n</span><p>Elsewhere, Venezuela’s state-run oil company PDVSA has notified major customers it would declare force majeure on crude contracts unless they agree to accept ship-to-ship transfers, according to people familiar with the matter. Mexican oil output could return to 2 million barrels per day (bpd) by about 2022 from 1.886 million bpd in April if the next government pursues plans to auction off development blocs to private investors, Energy Minister Pedro Joaquin Coldwell said on Tuesday.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "local",
+        "crude",
+        "edged",
+        "early",
+        "Asian",
+        "away",
+        "previous"
+    ],
+    "nouns": [
+        "industry",
+        "data",
+        "trade",
+        "US",
+        "oil",
+        "inch",
+        "fall",
+        "crude",
+        "Asian",
+        "Wednesday",
+        "move",
+        "hit",
+        "local",
+        "session",
+        "decline"
+    ],
+    "verbs": [
+        "trade",
+        "oil",
+        "inch",
+        "fall",
+        "move",
+        "hit",
+        "decline"
+    ]
+}

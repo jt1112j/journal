@@ -1,0 +1,65 @@
+{
+    "title": "Worst buy and sell calls of Ambit Capital in the last 12 months",
+    "link": "https://www.business-standard.com/article/markets/worst-buys-and-sells-of-ambit-capital-in-the-last-12-months-118060800406_1.html",
+    "pubDate": "Fri, 08 Jun 2018 12:55:00 +0530",
+    "content": "Here is a quick compilation Ambit's self-assessment of the last 12 months.",
+    "contentSnippet": "Here is a quick compilation Ambit's self-assessment of the last 12 months.",
+    "guid": "https://www.business-standard.com/article/markets/worst-buys-and-sells-of-ambit-capital-in-the-last-12-months-118060800406_1.html",
+    "isoDate": "2018-06-08T07:25:00.000Z",
+    "sentiment": {
+        "score": -3,
+        "comparative": -0.23076923076923078,
+        "tokens": [
+            "worst",
+            "buy",
+            "and",
+            "sell",
+            "calls",
+            "of",
+            "ambit",
+            "capital",
+            "in",
+            "the",
+            "last",
+            "12",
+            "months"
+        ],
+        "words": [
+            "worst"
+        ],
+        "positive": [],
+        "negative": [
+            "worst"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "Worst",
+        "self",
+        "Capital",
+        "last",
+        "12",
+        "Here",
+        "quick"
+    ],
+    "nouns": [
+        "compilation",
+        "assessment",
+        "Worst",
+        "buy",
+        "sell",
+        "self",
+        "Ambit",
+        "Capital",
+        "last",
+        "12",
+        "Here",
+        "quick"
+    ],
+    "verbs": [
+        "Worst",
+        "buy",
+        "sell",
+        "last"
+    ]
+}

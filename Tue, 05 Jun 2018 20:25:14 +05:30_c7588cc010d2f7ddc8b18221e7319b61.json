@@ -1,0 +1,71 @@
+{
+    "creator": "PTI",
+    "title": "Apple introduces big update for iPhone – Here is what it means for users",
+    "link": "https://www.financialexpress.com/industry/technology/apple-introduces-big-update-for-iphone-here-is-what-it-means-for-users/1194754/",
+    "pubDate": "Tue, 05 Jun 2018 20:25:14 +05:30",
+    "dc:creator": "PTI",
+    "content": "Apple CEO Tim Cook yesterday at the annual World Wide Developers Conference (WWDC) showcased new software features for the iPhone.",
+    "contentSnippet": "Apple CEO Tim Cook yesterday at the annual World Wide Developers Conference (WWDC) showcased new software features for the iPhone.",
+    "guid": "https://www.financialexpress.com/?p=1194754",
+    "categories": [
+        "Industry",
+        "Technology"
+    ],
+    "isoDate": "2018-06-05T14:55:14.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.07142857142857142,
+        "tokens": [
+            "apple",
+            "introduces",
+            "big",
+            "update",
+            "for",
+            "iphone",
+            "–",
+            "here",
+            "is",
+            "what",
+            "it",
+            "means",
+            "for",
+            "users"
+        ],
+        "words": [
+            "big"
+        ],
+        "positive": [
+            "big"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "Apple introduces big update for iPhone – Here is what it means for users",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1194757\" src=\"https://images.financialexpress.com/2018/06/apple-3-1-1.jpg\" alt=\"apple, apple memoji, what is apple memoji, apple update, apple update for iphone, tim cook, WWDC, apple feature, iphone, ipad, mac, apple watch\" srcset=\"https://images.financialexpress.com/2018/06/apple-3-1-1.jpg 660w, https://images.financialexpress.com/2018/06/apple-3-1-1-300x200.jpg 300w, https://images.financialexpress.com/2018/06/apple-3-1-1-620x413.jpg 620w, https://images.financialexpress.com/2018/06/apple-3-1-1-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> The company announced its next-generation mobile software iOS 12 is packed with performance improvements, quirky features like an animated version of you and a tool to help combat your tech addiction, the report said. (Reuters)</figure>\n\t\t\t</section></div><span>\n</span><p>Apple has introduced a big update to create a custom Animoji that looks like you, called Memoji, according to media reports. CEO Tim Cook yesterday at the annual World Wide Developers Conference (WWDC) showcased new software features for the iPhone, iPad, Mac and Apple Watch, CNN reported. The company announced its next-generation mobile software iOS 12 is packed with performance improvements, quirky features like an animated version of you and a tool to help combat your tech addiction, the report said. Along with the addition of Memoji, Animojis are getting their own updates.</p><span>\n</span><p>A ghost, koala, tiger, and T-rex have all been added as options, and it now has tongue detection, allowing for even more expression. Memoji comes a few months after Samsung unveiled its own version of Animoji with AR Emoji on the Galaxy S9. Called a Memoji, the feature lets you create a cartoon version of yourself. Users can select skin colour, freckles, hairstyle, head shape, eye wear and more.</p><span>\n</span><p>The software will then recreate your head and face movements just like the other Animojis in Messages, it said. The Memoji are only available on iPhone X running iOS 12. It’s set up a lot like Bitmoji but takes the magic of Animoji live face-tracking to deliver some very fun and diverse experiences that can live in messages or can be directly transposed on your face through the camera app.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "big",
+        "Here",
+        "annual",
+        "World",
+        "Wide",
+        "new"
+    ],
+    "nouns": [
+        "Apple",
+        "update",
+        "Here",
+        "means",
+        "CEO",
+        "Cook",
+        "yesterday",
+        "annual",
+        "World",
+        "Conference",
+        "software"
+    ],
+    "verbs": [
+        "update",
+        "Cook"
+    ]
+}

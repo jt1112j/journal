@@ -1,0 +1,76 @@
+{
+    "creator": "Banikinkar Pattanayak",
+    "title": "Credit Guarantee: Government triples corpus to Rs 8,000 crore for MSME companies",
+    "link": "https://www.financialexpress.com/economy/credit-guarantee-government-triples-corpus-to-rs-8000-crore-for-msme-companies/1195082/",
+    "pubDate": "Wed, 06 Jun 2018 05:28:01 +05:30",
+    "dc:creator": "Banikinkar Pattanayak",
+    "content": "The NBFCs that seek guarantees to offer loans to micro and small enterprises will have to lower their interest rates to reasonable levels, as, with government backing, these become very secure loans.",
+    "contentSnippet": "The NBFCs that seek guarantees to offer loans to micro and small enterprises will have to lower their interest rates to reasonable levels, as, with government backing, these become very secure loans.",
+    "guid": "https://www.financialexpress.com/?p=1195082",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-05T23:58:01.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.08333333333333333,
+        "tokens": [
+            "credit",
+            "guarantee",
+            "government",
+            "triples",
+            "corpus",
+            "to",
+            "rs",
+            "8000",
+            "crore",
+            "for",
+            "msme",
+            "companies"
+        ],
+        "words": [
+            "guarantee"
+        ],
+        "positive": [
+            "guarantee"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "Credit Guarantee: Government triples corpus to Rs 8,000 crore for MSME companies",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1195087\" src=\"https://images.financialexpress.com/2018/06/MSME-PTI-L.jpg\" alt=\"credit guarantee scheme, government, MSME, NBFC\" srcset=\"https://images.financialexpress.com/2018/06/MSME-PTI-L.jpg 660w, https://images.financialexpress.com/2018/06/MSME-PTI-L-300x200.jpg 300w, https://images.financialexpress.com/2018/06/MSME-PTI-L-620x413.jpg 620w, https://images.financialexpress.com/2018/06/MSME-PTI-L-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> The corpus of the credit guarantee fund has been raised substantially from Rs 2,500 crore at the behest of Prime Minister Narendra Modi, Panda said. (PTI)</figure>\n\t\t\t</section></div><span>\n</span><p>The government has effected a major overhaul of its credit guarantee scheme to make adequate loans available to micro and small enterprises easily by more than tripling its corpus to Rs 8,000 crore and allowing non-banking financial companies (NBFCs), along with banks, to avail of official guarantees to extend credit to such units, MSME secretary Arun Kumar Panda told FE.</p><span>\n</span><p>The corpus of the credit guarantee fund has been raised substantially from Rs 2,500 crore at the behest of Prime Minister <a target=\"_blank\" href=\"http://www.financialexpress.com/tag/narendra-modi/\">Narendra Modi</a>, Panda said. The government has also decided to raise its guarantee level to 75% of such loans, against 50% earlier, as it intends to enable smoother credit flow to such units, keeping in minds their financial constraints and massive employment generation potential, Panda said. “With higher guarantee coverage, banks will feel more comfortable to sanction loans to such enterprises,” he added.</p><span>\n</span><p>The NBFCs that seek guarantees to offer loans to micro and small enterprises will have to lower their interest rates to reasonable levels, as, with government backing, these become very secure loans. Also, while these loans have been collateral-free, the government now wants to allow banks to seek some collateral from the borrowers, in case they feel the absolute need for it in certain cases. However, since 85% of the loan is already secured (75% government guarantee and 10% margin money), the need for such collateral will be very minimal and that, too, will be limited to very few cases. “This move is aimed at ensuring even higher credit flow to micro and small enterprises,” Panda said.</p><span>\n</span><p>“We have decided to undertake some structural changes to this crucial guarantee fund. Earlier, guarantee for credit flow of around Rs 19,000-Rs 20,000 crore a year was given under it. Now that the guarantee corpus is raised substantially, the credit flow may go beyond Rs 40,000-50,000 crore,” Panda said.</p><span>\n</span><p>The Credit Guarantee Fund Trust for Micro and Small Enterprises will operationalise this scheme. The total loans extended under such guarantees so far have touched Rs 1,40,000 crore, of which the outstanding amount is around Rs 72,000-75,000 crore.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "secure",
+        "micro",
+        "small",
+        "reasonable"
+    ],
+    "nouns": [
+        "interest",
+        "Government",
+        "government",
+        "Credit",
+        "Guarantee",
+        "corpus",
+        "crore",
+        "seek",
+        "offer",
+        "small",
+        "will",
+        "lower",
+        "rates",
+        "backing"
+    ],
+    "verbs": [
+        "interest",
+        "secure",
+        "Credit",
+        "Guarantee",
+        "seek",
+        "offer",
+        "will",
+        "lower",
+        "become"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "title": "Services sector takes a hit in May; contracts because of weak demand: PMI",
+    "link": "https://www.business-standard.com/article/economy-policy/services-sector-takes-a-hit-in-may-contracts-because-of-weak-demand-pmi-118060500244_1.html",
+    "pubDate": "Tue, 05 Jun 2018 11:20:00 +0530",
+    "content": "The survey also showed firms were turning more cautious about hiring, with the pace of job creation easing to the weakest so far this year",
+    "contentSnippet": "The survey also showed firms were turning more cautious about hiring, with the pace of job creation easing to the weakest so far this year",
+    "guid": "https://www.business-standard.com/article/economy-policy/services-sector-takes-a-hit-in-may-contracts-because-of-weak-demand-pmi-118060500244_1.html",
+    "isoDate": "2018-06-05T05:50:00.000Z",
+    "sentiment": {
+        "score": -3,
+        "comparative": -0.23076923076923078,
+        "tokens": [
+            "services",
+            "sector",
+            "takes",
+            "a",
+            "hit",
+            "in",
+            "may",
+            "contracts",
+            "because",
+            "of",
+            "weak",
+            "demand",
+            "pmi"
+        ],
+        "words": [
+            "demand",
+            "weak"
+        ],
+        "positive": [],
+        "negative": [
+            "demand",
+            "weak"
+        ]
+    },
+    "article": {
+        "title": "Services sector takes a hit in May; contracts because of weak demand: PMI",
+        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t\n<p>\n\tActivity in India's service industry shrank in May for the first time in three months as new orders stagnated, but business optimism was the highest since 2015 on expectations that demand will turn around, a business survey showed.</p>\n<p>\n\tThe <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=nikkei+ihs+markit\" target=\"_blank\">Nikkei/IHS Markit </a>Services Purchasing Managers' Index fell to 49.6 in May from April's 51.4, sinking below the 50-mark that separates growth from contraction.\n\n\n</p>\n<!-- INPAGE_BANNER -->\n<p>\n\tWhile data last week showed Asia's third-largest economy grew at its quickest pace in nearly two years, the latest PMI survey suggested it may have trouble maintaining that momentum.</p>\n<p>\n\tLast quarter's faster growth, coupled with accelerating inflation, have dramatically changed expectations for the Reserve Bank of India's <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=monetary+policy\" target=\"_blank\">monetary policy.</a> It is now expected to change its stance to hawkish as early as a policy review on Wednesday and raise rates in August.&nbsp;<br></p>\n\n<p>\n\tA recent surge in the price of oil, India's biggest import item, and a sharp weakness in the rupee will be inflationary, keeping prices on an up-trend.<br></p>\n\n<p>\n\tWhile the jump in input prices was evident in the latest survey, firms continued to absorb most of the cost pressure to attract dwindling demand, pressuring profit margins.</p>\n<p>\n\tThe new business sub-index, an indicator of domestic and foreign demand, fell sharply to 50.2 in May from April's 51.4, near the neutral level and remaining well below the long-run mean average of 54.3.</p>\n<p>\n\t\"The performance of the service sector was disappointing in May,\" Aashna Dodhia, an economist at IHS Markit, said in a release.</p>\n<p>\n\t\"India saw the slowest improvement in the health of the overall economy since February in May, whilst the latest survey showed the effects of higher global <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=oil+prices\" target=\"_blank\">oil prices </a>as the private sector recorded the most marked input cost inflation for three months.\"</p>\n<p>\n\tThe survey also showed firms were turning more cautious about hiring, with the pace of <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=job+creation\" target=\"_blank\">job creation </a>easing to the weakest so far this year. If the labour market continues to soften, it could put pressure on Prime Minister Narendra Modi's government ahead of next year's general elections.&nbsp;<br></p>\n\n<p>\n\tA similar survey on Friday showed Indian factory activity grew at a weaker pace in May from the previous month, as weak domestic demand proved a drag on output.</p>\n<p>\n\tTaken together, they pushed the composite PMI -- which includes both manufacturing and services -- to 50.4 in May from April's 51.9, barely above the 50 mark that shows growth and its lowest reading in three months.</p>\n<p>\n\tHowever, services firms remained optimistic about the future, with the business expectations index rising to its highest since January 2015.</p>\n<p>\n\tThe performance of the service industry is crucial for India's economy as it contributes about 60 per cent to gross domestic product.&nbsp;</p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
+    },
+    "adjectives": [
+        "far",
+        "weak",
+        "cautious"
+    ],
+    "nouns": [
+        "sector",
+        "far",
+        "Services",
+        "hit",
+        "May",
+        "demand",
+        "survey",
+        "turning",
+        "cautious",
+        "pace",
+        "job",
+        "creation",
+        "easing",
+        "so",
+        "year"
+    ],
+    "verbs": [
+        "hit",
+        "demand",
+        "survey",
+        "pace",
+        "job"
+    ]
+}

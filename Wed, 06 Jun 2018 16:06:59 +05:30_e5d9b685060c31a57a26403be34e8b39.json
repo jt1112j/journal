@@ -1,0 +1,75 @@
+{
+    "creator": "PTI",
+    "title": "Government clears revised norms for time-bound closure of sick PSUs",
+    "link": "https://www.financialexpress.com/economy/government-clears-revised-norms-for-time-bound-closure-of-sick-psus/1195820/",
+    "pubDate": "Wed, 06 Jun 2018 16:06:59 +05:30",
+    "dc:creator": "PTI",
+    "content": "The government today approved revised guidelines for time-bound closure of sick and loss making central public sector enterprises and the disposal of their movable and immovable assets.",
+    "contentSnippet": "The government today approved revised guidelines for time-bound closure of sick and loss making central public sector enterprises and the disposal of their movable and immovable assets.",
+    "guid": "https://www.financialexpress.com/?p=1195820",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-06T10:36:59.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.1,
+        "tokens": [
+            "government",
+            "clears",
+            "revised",
+            "norms",
+            "for",
+            "time-bound",
+            "closure",
+            "of",
+            "sick",
+            "psus"
+        ],
+        "words": [
+            "sick",
+            "clears"
+        ],
+        "positive": [
+            "clears"
+        ],
+        "negative": [
+            "sick"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "revised",
+        "bound",
+        "sick",
+        "approved",
+        "central",
+        "public",
+        "movable",
+        "immovable"
+    ],
+    "nouns": [
+        "Government",
+        "government",
+        "time",
+        "closure",
+        "today",
+        "loss",
+        "making",
+        "central",
+        "bound",
+        "disposal",
+        "sick",
+        "public",
+        "assets",
+        "movable",
+        "immovable",
+        "sector"
+    ],
+    "verbs": [
+        "time",
+        "bound",
+        "closure",
+        "sick"
+    ]
+}

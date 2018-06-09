@@ -1,0 +1,63 @@
+{
+    "title": "Quarterly profit forecasts hurt economy, say Warren Buffett, Jamie Dimon",
+    "link": "https://www.business-standard.com/article/finance/quarterly-profit-forecasts-hurt-economy-say-warren-buffett-jamie-dimon-118060800031_1.html",
+    "pubDate": "Fri, 08 Jun 2018 01:37:00 +0530",
+    "content": "Buffett and Dimon said they are not opposed to the current practice of quarterly and annual reporting that ensures",
+    "contentSnippet": "Buffett and Dimon said they are not opposed to the current practice of quarterly and annual reporting that ensures",
+    "guid": "https://www.business-standard.com/article/finance/quarterly-profit-forecasts-hurt-economy-say-warren-buffett-jamie-dimon-118060800031_1.html",
+    "isoDate": "2018-06-07T20:07:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "quarterly",
+            "profit",
+            "forecasts",
+            "hurt",
+            "economy",
+            "say",
+            "warren",
+            "buffett",
+            "jamie",
+            "dimon"
+        ],
+        "words": [
+            "hurt",
+            "profit"
+        ],
+        "positive": [
+            "profit"
+        ],
+        "negative": [
+            "hurt"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "current",
+        "annual",
+        "Quarterly",
+        "quarterly",
+        "hurt",
+        "opposed"
+    ],
+    "nouns": [
+        "profit",
+        "reporting",
+        "current",
+        "say",
+        "Warren",
+        "practice",
+        "annual",
+        "Quarterly",
+        "quarterly",
+        "hurt",
+        "economy"
+    ],
+    "verbs": [
+        "profit",
+        "say",
+        "practice",
+        "hurt"
+    ]
+}

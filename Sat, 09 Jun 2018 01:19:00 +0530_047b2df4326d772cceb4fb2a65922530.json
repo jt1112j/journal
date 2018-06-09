@@ -1,0 +1,60 @@
+{
+    "title": "RBI policy impact: 10-year gilt yield crosses 8%, rupee falls",
+    "link": "https://www.business-standard.com/article/finance/rbi-policy-impact-10-year-gilt-yield-crosses-8-rupee-falls-118060900036_1.html",
+    "pubDate": "Sat, 09 Jun 2018 01:19:00 +0530",
+    "content": "Banks have been increasing their lending rates even before the RBI's rate hike this week",
+    "contentSnippet": "Banks have been increasing their lending rates even before the RBI's rate hike this week",
+    "guid": "https://www.business-standard.com/article/finance/rbi-policy-impact-10-year-gilt-yield-crosses-8-rupee-falls-118060900036_1.html",
+    "isoDate": "2018-06-08T19:49:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "rbi",
+            "policy",
+            "impact",
+            "10-year",
+            "gilt",
+            "yield",
+            "crosses",
+            "8",
+            "rupee",
+            "falls"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "10",
+        "gilt",
+        "increasing",
+        "even"
+    ],
+    "nouns": [
+        "10",
+        "year",
+        "yield",
+        "Banks",
+        "RBI",
+        "policy",
+        "impact",
+        "rupee",
+        "falls",
+        "lending",
+        "rates",
+        "rate",
+        "even",
+        "hike",
+        "week",
+        "gilt"
+    ],
+    "verbs": [
+        "yield",
+        "impact",
+        "rate",
+        "even",
+        "hike"
+    ]
+}

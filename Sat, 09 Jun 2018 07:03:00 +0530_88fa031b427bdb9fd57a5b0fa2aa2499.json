@@ -1,0 +1,50 @@
+{
+    "title": "Banks fund agricultural technology companies for rural lending",
+    "link": "https://www.business-standard.com/article/finance/banks-fund-agricultural-technology-companies-for-rural-lending-118060900031_1.html",
+    "pubDate": "Sat, 09 Jun 2018 07:03:00 +0530",
+    "content": "YES Bank said it was partnering several fintechs to offer differentiated banking services in rural pockets of the country",
+    "contentSnippet": "YES Bank said it was partnering several fintechs to offer differentiated banking services in rural pockets of the country",
+    "guid": "https://www.business-standard.com/article/finance/banks-fund-agricultural-technology-companies-for-rural-lending-118060900031_1.html",
+    "isoDate": "2018-06-09T01:33:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "banks",
+            "fund",
+            "agricultural",
+            "technology",
+            "companies",
+            "for",
+            "rural",
+            "lending"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "agricultural",
+        "rural",
+        "several",
+        "differentiated"
+    ],
+    "nouns": [
+        "offer",
+        "Banks",
+        "Bank",
+        "banking",
+        "lending",
+        "country",
+        "YES",
+        "services",
+        "fund",
+        "technology"
+    ],
+    "verbs": [
+        "offer",
+        "Bank",
+        "fund"
+    ]
+}

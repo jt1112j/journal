@@ -1,0 +1,63 @@
+{
+    "title": "London equities trading opens one hour late after 'technical issue'",
+    "link": "https://www.business-standard.com/article/markets/london-equities-trading-opens-one-hour-late-after-technical-issue-118060800049_1.html",
+    "pubDate": "Fri, 08 Jun 2018 01:18:00 +0530",
+    "content": "Some traders were left frustrated by the delayed open and said market operators should have better back-up plans in place",
+    "contentSnippet": "Some traders were left frustrated by the delayed open and said market operators should have better back-up plans in place",
+    "guid": "https://www.business-standard.com/article/markets/london-equities-trading-opens-one-hour-late-after-technical-issue-118060800049_1.html",
+    "isoDate": "2018-06-07T19:48:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "london",
+            "equities",
+            "trading",
+            "opens",
+            "one",
+            "hour",
+            "late",
+            "after",
+            "'technical",
+            "issue'"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "technical",
+        "open",
+        "one",
+        "late",
+        "Some",
+        "left",
+        "frustrated",
+        "delayed",
+        "better",
+        "back"
+    ],
+    "nouns": [
+        "technical",
+        "trading",
+        "market",
+        "open",
+        "one",
+        "hour",
+        "issue",
+        "left",
+        "better",
+        "back",
+        "place",
+        "London"
+    ],
+    "verbs": [
+        "market",
+        "open",
+        "issue",
+        "better",
+        "back",
+        "place"
+    ]
+}

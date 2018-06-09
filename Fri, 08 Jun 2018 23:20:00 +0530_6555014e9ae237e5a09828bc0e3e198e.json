@@ -1,0 +1,74 @@
+{
+    "title": "Trade war fears, looming iPhone production cuts weigh on Wall Street",
+    "link": "https://www.business-standard.com/article/markets/trade-war-fears-looming-iphone-production-cuts-weigh-on-wall-street-118060801230_1.html",
+    "pubDate": "Fri, 08 Jun 2018 23:20:00 +0530",
+    "content": "Investors were also cautious ahead of a contentious G7 summit in Canada, with Donald Trump lashing out at Canada and the European Union on Friday, raising the specter of a trade war",
+    "contentSnippet": "Investors were also cautious ahead of a contentious G7 summit in Canada, with Donald Trump lashing out at Canada and the European Union on Friday, raising the specter of a trade war",
+    "guid": "https://www.business-standard.com/article/markets/trade-war-fears-looming-iphone-production-cuts-weigh-on-wall-street-118060801230_1.html",
+    "isoDate": "2018-06-08T17:50:00.000Z",
+    "sentiment": {
+        "score": -4,
+        "comparative": -0.36363636363636365,
+        "tokens": [
+            "trade",
+            "war",
+            "fears",
+            "looming",
+            "iphone",
+            "production",
+            "cuts",
+            "weigh",
+            "on",
+            "wall",
+            "street"
+        ],
+        "words": [
+            "cuts",
+            "looming",
+            "war"
+        ],
+        "positive": [],
+        "negative": [
+            "cuts",
+            "looming",
+            "war"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "Union",
+        "contentious",
+        "European",
+        "lashing",
+        "cautious",
+        "ahead",
+        "raising"
+    ],
+    "verbs": [
+        "Trade",
+        "trade",
+        "war",
+        "weigh",
+        "Wall",
+        "summit",
+        "Trump"
+    ],
+    "nouns": [
+        "Union",
+        "production",
+        "Friday",
+        "European",
+        "Street",
+        "Trade",
+        "trade",
+        "Canada",
+        "specter",
+        "lashing",
+        "Wall",
+        "cautious",
+        "summit",
+        "raising",
+        "war",
+        "Trump"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "title": "India to go ahead with S-400 deal with Russia amid US sanctions",
+    "link": "https://www.business-standard.com/article/economy-policy/india-to-go-ahead-with-s-400-deal-with-russia-amid-us-sanctions-118060500980_1.html",
+    "pubDate": "Tue, 05 Jun 2018 23:13:00 +0530",
+    "content": "India wants its defence transactions with Russia to be insulated from the purview of stringent American law CAATSA",
+    "contentSnippet": "India wants its defence transactions with Russia to be insulated from the purview of stringent American law CAATSA",
+    "guid": "https://www.business-standard.com/article/economy-policy/india-to-go-ahead-with-s-400-deal-with-russia-amid-us-sanctions-118060500980_1.html",
+    "isoDate": "2018-06-05T17:43:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "india",
+            "to",
+            "go",
+            "ahead",
+            "with",
+            "s-400",
+            "deal",
+            "with",
+            "russia",
+            "amid",
+            "us",
+            "sanctions"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "American",
+        "stringent",
+        "go",
+        "ahead",
+        "400"
+    ],
+    "nouns": [
+        "American",
+        "defence",
+        "India",
+        "deal",
+        "go",
+        "S",
+        "Russia",
+        "US",
+        "transactions",
+        "purview",
+        "law"
+    ],
+    "verbs": [
+        "deal",
+        "go"
+    ]
+}

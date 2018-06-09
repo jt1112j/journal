@@ -1,0 +1,43 @@
+{
+    "title": "PMFBY: Modi govt's crop insurance scheme sees decline in farmers' enrolment",
+    "link": "https://www.business-standard.com/article/economy-policy/pmfby-modi-govt-s-crop-insurance-scheme-sees-decline-in-farmers-enrolment-118060501450_1.html",
+    "pubDate": "Wed, 06 Jun 2018 07:00:00 +0530",
+    "content": "Between FY16 and FY17, the number of farmers enrolled in the scheme declined from about 57.3 million to about 48.5 million, a fall of around 15%",
+    "contentSnippet": "Between FY16 and FY17, the number of farmers enrolled in the scheme declined from about 57.3 million to about 48.5 million, a fall of around 15%",
+    "guid": "https://www.business-standard.com/article/economy-policy/pmfby-modi-govt-s-crop-insurance-scheme-sees-decline-in-farmers-enrolment-118060501450_1.html",
+    "isoDate": "2018-06-06T01:30:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "pmfby",
+            "modi",
+            "govt's",
+            "crop",
+            "insurance",
+            "scheme",
+            "sees",
+            "decline",
+            "in",
+            "farmers'",
+            "enrolment"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "million",
+        "57",
+        "48",
+        "15"
+    ],
+    "verbs": [
+        "crop",
+        "scheme",
+        "decline",
+        "number",
+        "fall"
+    ]
+}

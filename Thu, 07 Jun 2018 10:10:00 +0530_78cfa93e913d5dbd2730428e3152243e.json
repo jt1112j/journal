@@ -1,0 +1,78 @@
+{
+    "title": "'Lack of earnings growth, high valuation are biggest challenges for market'",
+    "link": "https://www.business-standard.com/article/markets/lack-of-earnings-growth-high-valuation-biggest-challenge-for-markets-118060700314_1.html",
+    "pubDate": "Thu, 07 Jun 2018 10:10:00 +0530",
+    "content": "In medium-term, trajectory of interest rate will depend on the trend of inflation, oil prices and global bond yield, says Satish Menon, executive director, Geojit Financial Services",
+    "contentSnippet": "In medium-term, trajectory of interest rate will depend on the trend of inflation, oil prices and global bond yield, says Satish Menon, executive director, Geojit Financial Services",
+    "guid": "https://www.business-standard.com/article/markets/lack-of-earnings-growth-high-valuation-biggest-challenge-for-markets-118060700314_1.html",
+    "isoDate": "2018-06-07T04:40:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.18181818181818182,
+        "tokens": [
+            "'lack",
+            "of",
+            "earnings",
+            "growth",
+            "high",
+            "valuation",
+            "are",
+            "biggest",
+            "challenges",
+            "for",
+            "market'"
+        ],
+        "words": [
+            "growth"
+        ],
+        "positive": [
+            "growth"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "high",
+        "In",
+        "medium",
+        "global",
+        "executive",
+        "Financial"
+    ],
+    "nouns": [
+        "rate",
+        "trajectory",
+        "high",
+        "interest",
+        "market",
+        "Services",
+        "Lack",
+        "earnings",
+        "growth",
+        "valuation",
+        "In",
+        "medium",
+        "term",
+        "will",
+        "trend",
+        "inflation",
+        "oil",
+        "bond",
+        "yield",
+        "executive",
+        "director"
+    ],
+    "verbs": [
+        "rate",
+        "interest",
+        "market",
+        "Lack",
+        "term",
+        "will",
+        "depend",
+        "trend",
+        "oil",
+        "bond",
+        "yield"
+    ]
+}

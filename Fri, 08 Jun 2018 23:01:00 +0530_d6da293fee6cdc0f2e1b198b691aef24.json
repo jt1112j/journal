@@ -1,0 +1,63 @@
+{
+    "title": "Tamil Nadu tops Mudra loans for weavers; disburses over Rs 900 million",
+    "link": "https://www.business-standard.com/article/economy-policy/tamil-nadu-tops-mudra-loans-for-weavers-disburses-over-rs-900-million-118060801213_1.html",
+    "pubDate": "Fri, 08 Jun 2018 23:01:00 +0530",
+    "content": "The government provides free electricity bimonthly for 1,11,394 handloom weavers and to 1,24,877 power loom units",
+    "contentSnippet": "The government provides free electricity bimonthly for 1,11,394 handloom weavers and to 1,24,877 power loom units",
+    "guid": "https://www.business-standard.com/article/economy-policy/tamil-nadu-tops-mudra-loans-for-weavers-disburses-over-rs-900-million-118060801213_1.html",
+    "isoDate": "2018-06-08T17:31:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.16666666666666666,
+        "tokens": [
+            "tamil",
+            "nadu",
+            "tops",
+            "mudra",
+            "loans",
+            "for",
+            "weavers",
+            "disburses",
+            "over",
+            "rs",
+            "900",
+            "million"
+        ],
+        "words": [
+            "tops"
+        ],
+        "positive": [
+            "tops"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "11",
+        "tops",
+        "Tamil",
+        "million",
+        "free",
+        "bimonthly",
+        "24"
+    ],
+    "nouns": [
+        "government",
+        "power",
+        "11",
+        "Tamil",
+        "Mudra",
+        "million",
+        "free",
+        "electricity",
+        "bimonthly",
+        "24",
+        "loom",
+        "handloom"
+    ],
+    "verbs": [
+        "power",
+        "free",
+        "loom"
+    ]
+}

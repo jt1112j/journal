@@ -1,0 +1,61 @@
+{
+    "title": "PSU banks extend gain; IDBI Bank, Canara Bank up over 4%",
+    "link": "https://www.business-standard.com/article/markets/psu-banks-extend-gain-idbi-bank-canara-bank-up-over-4-118060700675_1.html",
+    "pubDate": "Thu, 07 Jun 2018 15:12:00 +0530",
+    "content": "At 02:53 pm; Nifty PSU Bank index was up 1.4% on Thursday, extending its Wednesday's 2.5% surged on the NSE, as compared to 1.9% rise in Nifty 50 index.",
+    "contentSnippet": "At 02:53 pm; Nifty PSU Bank index was up 1.4% on Thursday, extending its Wednesday's 2.5% surged on the NSE, as compared to 1.9% rise in Nifty 50 index.",
+    "guid": "https://www.business-standard.com/article/markets/psu-banks-extend-gain-idbi-bank-canara-bank-up-over-4-118060700675_1.html",
+    "isoDate": "2018-06-07T09:42:00.000Z",
+    "sentiment": {
+        "score": 3,
+        "comparative": 0.2727272727272727,
+        "tokens": [
+            "psu",
+            "banks",
+            "extend",
+            "gain",
+            "idbi",
+            "bank",
+            "canara",
+            "bank",
+            "up",
+            "over",
+            "4"
+        ],
+        "words": [
+            "gain",
+            "extend"
+        ],
+        "positive": [
+            "gain",
+            "extend"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "Nifty",
+        "53",
+        "50"
+    ],
+    "verbs": [
+        "Bank",
+        "index",
+        "rise",
+        "gain",
+        "extend"
+    ],
+    "nouns": [
+        "banks",
+        "Bank",
+        "index",
+        "rise",
+        "gain",
+        "Canara",
+        "Thursday",
+        "pm",
+        "Wednesday",
+        "50",
+        "At"
+    ]
+}

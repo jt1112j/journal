@@ -1,0 +1,63 @@
+{
+    "title": "EMs will face stress but no clear, immediate danger in Asia: Raghuram Rajan",
+    "link": "https://www.business-standard.com/article/markets/ems-will-face-stress-but-no-clear-immediate-danger-in-asia-raghuram-rajan-118060500146_1.html",
+    "pubDate": "Tue, 05 Jun 2018 09:08:00 +0530",
+    "content": "For Asia, narrow current account deficits, moderate inflation and resilient currencies mean the region is insulated",
+    "contentSnippet": "For Asia, narrow current account deficits, moderate inflation and resilient currencies mean the region is insulated",
+    "guid": "https://www.business-standard.com/article/markets/ems-will-face-stress-but-no-clear-immediate-danger-in-asia-raghuram-rajan-118060500146_1.html",
+    "isoDate": "2018-06-05T03:38:00.000Z",
+    "sentiment": {
+        "score": -3,
+        "comparative": -0.23076923076923078,
+        "tokens": [
+            "ems",
+            "will",
+            "face",
+            "stress",
+            "but",
+            "no",
+            "clear",
+            "immediate",
+            "danger",
+            "in",
+            "asia",
+            "raghuram",
+            "rajan"
+        ],
+        "words": [
+            "danger",
+            "clear",
+            "no",
+            "stress"
+        ],
+        "positive": [
+            "clear"
+        ],
+        "negative": [
+            "danger",
+            "no",
+            "stress"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "moderate",
+        "narrow",
+        "current",
+        "mean",
+        "resilient",
+        "no",
+        "clear",
+        "immediate"
+    ],
+    "verbs": [
+        "moderate",
+        "will",
+        "narrow",
+        "stress",
+        "account",
+        "mean",
+        "face",
+        "clear"
+    ]
+}

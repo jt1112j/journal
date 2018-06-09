@@ -1,0 +1,62 @@
+{
+    "title": "Sugar shares fall after Cabinet gives nod for bailout package",
+    "link": "https://www.business-standard.com/article/markets/sugar-shares-fall-after-cabinet-nod-rs-85-billion-bailout-package-118060600506_1.html",
+    "pubDate": "Wed, 06 Jun 2018 14:35:00 +0530",
+    "content": "Triveni Engineering, Dwarikesh Sugar, Balrampur Chini, Kesar Enterprises, Magadh Sugar and Simbhaoli Sugars were trading down in the range of 5% to 8% on the BSE at 02:27 pm.",
+    "contentSnippet": "Triveni Engineering, Dwarikesh Sugar, Balrampur Chini, Kesar Enterprises, Magadh Sugar and Simbhaoli Sugars were trading down in the range of 5% to 8% on the BSE at 02:27 pm.",
+    "guid": "https://www.business-standard.com/article/markets/sugar-shares-fall-after-cabinet-nod-rs-85-billion-bailout-package-118060600506_1.html",
+    "isoDate": "2018-06-06T09:05:00.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.1,
+        "tokens": [
+            "sugar",
+            "shares",
+            "fall",
+            "after",
+            "cabinet",
+            "gives",
+            "nod",
+            "for",
+            "bailout",
+            "package"
+        ],
+        "words": [
+            "bailout",
+            "shares"
+        ],
+        "positive": [
+            "shares"
+        ],
+        "negative": [
+            "bailout"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "down",
+        "27"
+    ],
+    "verbs": [
+        "Sugar",
+        "fall",
+        "nod",
+        "package",
+        "down",
+        "range"
+    ],
+    "nouns": [
+        "Sugar",
+        "fall",
+        "Cabinet",
+        "nod",
+        "package",
+        "trading",
+        "down",
+        "range",
+        "BSE",
+        "27",
+        "pm",
+        "Engineering"
+    ]
+}

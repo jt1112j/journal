@@ -1,0 +1,74 @@
+{
+    "creator": "FE Bureau",
+    "title": "Report Card: FY18 FDI record $62 billion, says Suresh Prabhu",
+    "link": "https://www.financialexpress.com/economy/report-card-fy18-fdi-record-62-billion-says-suresh-prabhu/1199364/",
+    "pubDate": "Sat, 09 Jun 2018 03:50:51 +05:30",
+    "dc:creator": "FE Bureau",
+    "content": "The government on Friday said gross foreign direct investment (FDI) inflows into India touched a record $62 billion in the last fiscal, raising the level of such investments in the four years of the NDA regime to $223 billion, against $152 billion in the previous four years.",
+    "contentSnippet": "The government on Friday said gross foreign direct investment (FDI) inflows into India touched a record $62 billion in the last fiscal, raising the level of such investments in the four years of the NDA regime to $223 billion, against $152 billion in the previous four years.",
+    "guid": "https://www.financialexpress.com/?p=1199364",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-08T22:20:51.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "report",
+            "card",
+            "fy18",
+            "fdi",
+            "record",
+            "62",
+            "billion",
+            "says",
+            "suresh",
+            "prabhu"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "raising",
+        "previous",
+        "foreign",
+        "62",
+        "billion",
+        "gross",
+        "direct",
+        "touched",
+        "last",
+        "fiscal",
+        "level",
+        "four"
+    ],
+    "nouns": [
+        "India",
+        "raising",
+        "government",
+        "record",
+        "investment",
+        "Report",
+        "Card",
+        "billion",
+        "Friday",
+        "gross",
+        "last",
+        "level",
+        "four",
+        "years",
+        "regime"
+    ],
+    "verbs": [
+        "record",
+        "Report",
+        "Card",
+        "gross",
+        "direct",
+        "last",
+        "level"
+    ]
+}

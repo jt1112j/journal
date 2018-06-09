@@ -1,0 +1,66 @@
+{
+    "title": "Now, rail passengers to pay six-time penalty for carrying excess luggage",
+    "link": "https://www.business-standard.com/article/economy-policy/now-rail-passengers-to-pay-six-time-penalty-for-carrying-excess-luggage-118060500925_1.html",
+    "pubDate": "Tue, 05 Jun 2018 23:12:00 +0530",
+    "content": "The Indian Railways has decided to strictly enforce its over-three-decades-old baggage allowance rules",
+    "contentSnippet": "The Indian Railways has decided to strictly enforce its over-three-decades-old baggage allowance rules",
+    "guid": "https://www.business-standard.com/article/economy-policy/now-rail-passengers-to-pay-six-time-penalty-for-carrying-excess-luggage-118060500925_1.html",
+    "isoDate": "2018-06-05T17:42:00.000Z",
+    "sentiment": {
+        "score": -3,
+        "comparative": -0.2727272727272727,
+        "tokens": [
+            "now",
+            "rail",
+            "passengers",
+            "to",
+            "pay",
+            "six-time",
+            "penalty",
+            "for",
+            "carrying",
+            "excess",
+            "luggage"
+        ],
+        "words": [
+            "penalty",
+            "pay"
+        ],
+        "positive": [],
+        "negative": [
+            "penalty",
+            "pay"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "six",
+        "excess",
+        "Indian",
+        "decided",
+        "three",
+        "old"
+    ],
+    "nouns": [
+        "Now",
+        "rail",
+        "pay",
+        "six",
+        "time",
+        "penalty",
+        "excess",
+        "luggage",
+        "Indian",
+        "three",
+        "old",
+        "baggage",
+        "allowance"
+    ],
+    "verbs": [
+        "rail",
+        "pay",
+        "time",
+        "enforce",
+        "allowance"
+    ]
+}

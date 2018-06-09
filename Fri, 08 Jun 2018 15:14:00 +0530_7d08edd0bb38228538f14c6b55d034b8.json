@@ -1,0 +1,66 @@
+{
+    "title": "Reliance Industries rises for the eighth straight trading day",
+    "link": "https://www.business-standard.com/article/markets/reliance-industries-up-for-the-eighth-straight-trading-day-118060800598_1.html",
+    "pubDate": "Fri, 08 Jun 2018 15:14:00 +0530",
+    "content": "The stock moved higher by 1.5% to Rs 986, rebounding 2.6% from its intra-day low today, rallied 7.5% in past eight trading days, as compared to 1.3% rise in the S&P BSE Sensex.",
+    "contentSnippet": "The stock moved higher by 1.5% to Rs 986, rebounding 2.6% from its intra-day low today, rallied 7.5% in past eight trading days, as compared to 1.3% rise in the S&P BSE Sensex.",
+    "guid": "https://www.business-standard.com/article/markets/reliance-industries-up-for-the-eighth-straight-trading-day-118060800598_1.html",
+    "isoDate": "2018-06-08T09:44:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.2222222222222222,
+        "tokens": [
+            "reliance",
+            "industries",
+            "rises",
+            "for",
+            "the",
+            "eighth",
+            "straight",
+            "trading",
+            "day"
+        ],
+        "words": [
+            "straight",
+            "rises"
+        ],
+        "positive": [
+            "straight",
+            "rises"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "stock",
+        "straight",
+        "past",
+        "eighth",
+        "eight",
+        "moved",
+        "higher",
+        "low"
+    ],
+    "nouns": [
+        "day",
+        "days",
+        "today",
+        "stock",
+        "straight",
+        "past",
+        "BSE",
+        "Reliance",
+        "rise",
+        "eighth",
+        "eight",
+        "trading",
+        "low",
+        "S",
+        "P"
+    ],
+    "verbs": [
+        "stock",
+        "rise",
+        "low"
+    ]
+}

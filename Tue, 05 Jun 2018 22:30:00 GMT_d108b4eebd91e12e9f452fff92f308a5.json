@@ -1,0 +1,75 @@
+{
+    "title": "Kotak Bank, ICICI to offer banking on WhatsApp",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/kotak-bank-icici-to-offer-banking-on-whatsapp/articleshow/64471077.cms",
+    "pubDate": "Tue, 05 Jun 2018 22:30:00 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/kotak-bank-icici-to-offer-banking-on-whatsapp/articleshow/64471077.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64471077.cms\" /></a>Kotak Mahindra Bank chief digital officer Deepak Sharma said, “The familiarity and simplicity of the platform makes it easy for customers to interact with their bank and get answers to queries in a seamless and convenient manner.”",
+    "contentSnippet": "Kotak Mahindra Bank chief digital officer Deepak Sharma said, “The familiarity and simplicity of the platform makes it easy for customers to interact with their bank and get answers to queries in a seamless and convenient manner.”",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/kotak-bank-icici-to-offer-banking-on-whatsapp/articleshow/64471077.cms",
+    "isoDate": "2018-06-05T22:30:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "kotak",
+            "bank",
+            "icici",
+            "to",
+            "offer",
+            "banking",
+            "on",
+            "whatsapp"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {
+        "title": "Kotak Bank, ICICI to offer banking on WhatsApp",
+        "content": "<section class=\"title_section clearfix\"><meta itemprop=\"headline\" content=\"Kotak Bank, ICICI to offer banking on WhatsApp\"><p>Kotak Mahindra Bank chief digital officer Deepak Sharma said, “The familiarity and simplicity of the platform makes it easy for customers to interact with their bank and get answers to queries in a seamless and convenient manner.”</p></section>"
+    },
+    "adjectives": [
+        "10",
+        "left",
+        "top",
+        "right",
+        "chief",
+        "digital",
+        "easy",
+        "seamless",
+        "convenient"
+    ],
+    "nouns": [
+        "10",
+        "offer",
+        "officer",
+        "india",
+        "business",
+        "border",
+        "left",
+        "style",
+        "margin",
+        "top",
+        "right",
+        "photo",
+        "Bank",
+        "banking",
+        "bank",
+        "chief",
+        "simplicity",
+        "platform",
+        "manner",
+        "familiarity"
+    ],
+    "verbs": [
+        "offer",
+        "officer",
+        "border",
+        "align",
+        "style",
+        "top",
+        "right",
+        "Bank",
+        "bank",
+        "interact"
+    ]
+}

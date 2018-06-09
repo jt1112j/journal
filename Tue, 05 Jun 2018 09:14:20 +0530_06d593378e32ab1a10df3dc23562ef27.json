@@ -1,0 +1,57 @@
+{
+    "title": "China probes DRAM chip makers - Samsung Electronics, SK Hynix and Micron",
+    "link": "https://www.business-standard.com/article/reuters/china-probes-dram-chip-makers-samsung-electronics-sk-hynix-and-micron-118060500162_1.html",
+    "pubDate": "Tue, 05 Jun 2018 09:14:20 +0530",
+    "content": "SEOUL (Reuters) - China has launched an investigation into Samsung Electronics Co Ltd, SK Hynix Inc and Micron Technology Inc, the three semiconductor makers who control the market for DRAM memory chips.",
+    "contentSnippet": "SEOUL (Reuters) - China has launched an investigation into Samsung Electronics Co Ltd, SK Hynix Inc and Micron Technology Inc, the three semiconductor makers who control the market for DRAM memory chips.",
+    "guid": "https://www.business-standard.com/article/reuters/china-probes-dram-chip-makers-samsung-electronics-sk-hynix-and-micron-118060500162_1.html",
+    "isoDate": "2018-06-05T03:44:20.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "china",
+            "probes",
+            "dram",
+            "chip",
+            "makers",
+            "-",
+            "samsung",
+            "electronics",
+            "sk",
+            "hynix",
+            "and",
+            "micron"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "three"
+    ],
+    "nouns": [
+        "China",
+        "chip",
+        "chips",
+        "DRAM",
+        "Electronics",
+        "Micron",
+        "SEOUL",
+        "investigation",
+        "Co",
+        "Inc",
+        "Technology",
+        "three",
+        "semiconductor",
+        "control",
+        "market",
+        "memory"
+    ],
+    "verbs": [
+        "chip",
+        "control",
+        "market"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Onion prices crashed by 79%, tomato 50% between February and May",
+    "link": "https://www.business-standard.com/article/markets/onion-prices-crashed-by-79-tomato-50-between-february-and-may-118060401212_1.html",
+    "pubDate": "Tue, 05 Jun 2018 07:04:00 +0530",
+    "content": "The impact of the strike, however, by farmers has started waning in some parts as it entered a second week but was still intense in some places",
+    "contentSnippet": "The impact of the strike, however, by farmers has started waning in some parts as it entered a second week but was still intense in some places",
+    "guid": "https://www.business-standard.com/article/markets/onion-prices-crashed-by-79-tomato-50-between-february-and-may-118060401212_1.html",
+    "isoDate": "2018-06-05T01:34:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "onion",
+            "prices",
+            "crashed",
+            "by",
+            "79",
+            "tomato",
+            "50",
+            "between",
+            "february",
+            "and",
+            "may"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "intense",
+        "second",
+        "79",
+        "50",
+        "waning"
+    ],
+    "nouns": [
+        "week",
+        "strike",
+        "impact",
+        "second",
+        "parts",
+        "May",
+        "Onion",
+        "50",
+        "tomato",
+        "February",
+        "waning"
+    ],
+    "verbs": [
+        "strike",
+        "impact",
+        "second"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "title": "CRISIL SME trackrer: Trailing B-schools have their task cut out",
+    "link": "https://www.business-standard.com/article/management/crisil-sme-trackrer-trailing-b-schools-have-their-task-cut-out-118041900968_1.html",
+    "pubDate": "Thu, 19 Apr 2018 23:13:00 +0530",
+    "content": "All this limits other B-schools from imparting quality education and achieving desired outcomes (lucrative placements), leading to low seat occupancy",
+    "contentSnippet": "All this limits other B-schools from imparting quality education and achieving desired outcomes (lucrative placements), leading to low seat occupancy",
+    "guid": "https://www.business-standard.com/article/management/crisil-sme-trackrer-trailing-b-schools-have-their-task-cut-out-118041900968_1.html",
+    "isoDate": "2018-04-19T17:43:00.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.1,
+        "tokens": [
+            "crisil",
+            "sme",
+            "trackrer",
+            "trailing",
+            "b-schools",
+            "have",
+            "their",
+            "task",
+            "cut",
+            "out"
+        ],
+        "words": [
+            "cut"
+        ],
+        "positive": [],
+        "negative": [
+            "cut"
+        ]
+    },
+    "article": {
+        "title": "CRISIL SME trackrer: Trailing B-schools have their task cut out",
+        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t<p>\n\t\n\tInability to match top peers on key differentiating parameters is making it challenging for many a <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=b+school\" target=\"_blank\">B-school </a>across the country to ensure optimal seat occupancy, an analysis of more than 70 institutes (excluding the Indian Institutes of Management) graded by CRISIL shows.</p>\n<p>\n\tThe top <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=b+schools\" target=\"_blank\">B-schools </a>analysed have a healthy average faculty-student ratio of 1:12 compared with 1:21 for others, and are also better off in terms of infrastructure and learning tools. To be sure, 90 per cent of them have learning <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=management\" target=\"_blank\">management </a>software, compared with 51 per cent for others. They also have greater connect with industry and conduct on average 15 management/ executive development programmes, far higher than the others.</p>\n<p>\n\tBesides, the faculty at the top <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=b+schools\" target=\"_blank\">B-schools </a>has a good balance of academic (10+ years) and industry (8+ years) experience, whereas the combined experience for others averages six years. What’s more, about 70 per cent of faculty are doctorates, versus 34 per cent for others. The differential is also huge in terms of faculty engagement in publication of research papers and case studies.</p>\n<p>\n\tAll this limits other <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=b+schools\" target=\"_blank\">B-schools </a>from imparting quality education and achieving desired outcomes (lucrative placements), leading to low seat occupancy.<br></p>\n<p>\n\tNot surprisingly, the latest statistics from the All India Council of Technical Education, the approving authority, reveals the number of B-schools has declined 16.4 per cent in the past five years, from 3,865 in fiscal 2013 to 3,232 in fiscal 2018.</p>\n<p>\n\t\t<img align=\"left\" alt=\"chart\" class=\"imgCont\" height=\"464\" src=\"http://bsmedia.business-standard.com/_media/bs/img/article/2018-04/19/full/1524159822-3833.jpg\" title=\"chart\" width=\"149\"></p>\n\tCRISIL believes this makes a strong case for assessment of B-schools by independent agencies, which will enhance transparency, benchmark them against best practices and improve their standards.\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
+    },
+    "adjectives": [
+        "leading",
+        "cut",
+        "All",
+        "quality",
+        "desired",
+        "lucrative",
+        "low"
+    ],
+    "verbs": [
+        "task",
+        "cut",
+        "low",
+        "seat"
+    ],
+    "nouns": [
+        "leading",
+        "Trailing",
+        "B",
+        "task",
+        "cut",
+        "imparting",
+        "quality",
+        "education",
+        "low",
+        "seat",
+        "occupancy"
+    ]
+}

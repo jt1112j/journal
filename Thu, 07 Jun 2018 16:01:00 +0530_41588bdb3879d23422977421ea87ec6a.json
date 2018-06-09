@@ -1,0 +1,56 @@
+{
+    "title": "RBI says rate hike wasn't meant to boost rupee; analysts say it will",
+    "link": "https://www.business-standard.com/article/economy-policy/rbi-says-rate-hike-wasn-t-meant-to-boost-rupee-analysts-say-it-will-118060700741_1.html",
+    "pubDate": "Thu, 07 Jun 2018 16:01:00 +0530",
+    "content": "Historically, India has seen more inflows into its equity markets, which respond positively to rate cuts",
+    "contentSnippet": "Historically, India has seen more inflows into its equity markets, which respond positively to rate cuts",
+    "guid": "https://www.business-standard.com/article/economy-policy/rbi-says-rate-hike-wasn-t-meant-to-boost-rupee-analysts-say-it-will-118060700741_1.html",
+    "isoDate": "2018-06-07T10:31:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.07692307692307693,
+        "tokens": [
+            "rbi",
+            "says",
+            "rate",
+            "hike",
+            "wasn't",
+            "meant",
+            "to",
+            "boost",
+            "rupee",
+            "analysts",
+            "say",
+            "it",
+            "will"
+        ],
+        "words": [
+            "boost"
+        ],
+        "positive": [
+            "boost"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [],
+    "nouns": [
+        "India",
+        "boost",
+        "RBI",
+        "rupee",
+        "rate",
+        "hike",
+        "will",
+        "say",
+        "equity"
+    ],
+    "verbs": [
+        "boost",
+        "rate",
+        "hike",
+        "will",
+        "respond",
+        "say"
+    ]
+}
