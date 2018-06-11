@@ -44,21 +44,21 @@
         "96"
     ],
     "nouns": [
-        "cent",
+        "gain",
         "market",
         "price",
         "car",
         "benchmark",
-        "gain",
         "localisation",
         "country",
+        "cent",
         "value"
     ],
     "verbs": [
-        "market",
-        "price",
         "Amaze",
         "gain",
+        "market",
+        "price",
         "value"
     ]
 }

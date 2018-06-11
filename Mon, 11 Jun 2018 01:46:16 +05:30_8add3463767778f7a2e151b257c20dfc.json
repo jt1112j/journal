@@ -1,0 +1,58 @@
+{
+    "creator": "Kotak Institutional Equities",
+    "title": "NHPC rating ‘add’: Kotak Institutional Equities says earnings in final quarter distorted",
+    "link": "https://www.financialexpress.com/market/nhpc-rating-add-kotak-institutional-equities-says-earnings-in-final-quarter-distorted/1200812/",
+    "pubDate": "Mon, 11 Jun 2018 01:46:16 +05:30",
+    "dc:creator": "Kotak Institutional Equities",
+    "content": "Company is likely to revert to growth path; earnings down 1/7% for FY19/20e even as TP of Rs 30 is retained.",
+    "contentSnippet": "Company is likely to revert to growth path; earnings down 1/7% for FY19/20e even as TP of Rs 30 is retained.",
+    "guid": "https://www.financialexpress.com/?p=1200812",
+    "categories": [
+        "Market"
+    ],
+    "isoDate": "2018-06-10T20:16:16.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.16666666666666666,
+        "tokens": [
+            "nhpc",
+            "rating",
+            "‘add’",
+            "kotak",
+            "institutional",
+            "equities",
+            "says",
+            "earnings",
+            "in",
+            "final",
+            "quarter",
+            "distorted"
+        ],
+        "words": [
+            "distorted"
+        ],
+        "positive": [],
+        "negative": [
+            "distorted"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "even",
+        "retained",
+        "30",
+        "Institutional",
+        "final",
+        "down",
+        "distorted",
+        "likely"
+    ],
+    "verbs": [
+        "even",
+        "add",
+        "Company",
+        "quarter",
+        "down",
+        "revert"
+    ]
+}

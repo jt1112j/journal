@@ -1,0 +1,81 @@
+{
+    "creator": "FE Bureau",
+    "title": "SBI hopes to recover Rs 40,000 crore from stressed assets this year",
+    "link": "https://www.financialexpress.com/market/sbi-hopes-to-recover-rs-40000-crore-from-stressed-assets-this-year/1200186/",
+    "pubDate": "Sun, 10 Jun 2018 03:24:49 +05:30",
+    "dc:creator": "FE Bureau",
+    "content": "State Bank of India (SBI) hopes to recover more than Rs 40,000 crore from its stressed assets this fiscal, of which the Insolvency and Bankruptcy code will help it recover around Rs 25,000-Rs 30,000 crore, Pallav Mahapatra, SBI’s deputy managing director (stressed assets Resolution Group) said.",
+    "contentSnippet": "State Bank of India (SBI) hopes to recover more than Rs 40,000 crore from its stressed assets this fiscal, of which the Insolvency and Bankruptcy code will help it recover around Rs 25,000-Rs 30,000 crore, Pallav Mahapatra, SBI’s deputy managing director (stressed assets Resolution Group) said.",
+    "guid": "https://www.financialexpress.com/?p=1200186",
+    "categories": [
+        "Market"
+    ],
+    "isoDate": "2018-06-09T21:54:49.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.16666666666666666,
+        "tokens": [
+            "sbi",
+            "hopes",
+            "to",
+            "recover",
+            "rs",
+            "40000",
+            "crore",
+            "from",
+            "stressed",
+            "assets",
+            "this",
+            "year"
+        ],
+        "words": [
+            "assets",
+            "stressed",
+            "hopes"
+        ],
+        "positive": [
+            "assets",
+            "hopes"
+        ],
+        "negative": [
+            "stressed"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "25",
+        "40",
+        "stressed",
+        "fiscal",
+        "30"
+    ],
+    "nouns": [
+        "25",
+        "India",
+        "Insolvency",
+        "assets",
+        "Bank",
+        "Bankruptcy",
+        "40",
+        "crore",
+        "year",
+        "State",
+        "code",
+        "will",
+        "help",
+        "30",
+        "deputy",
+        "director",
+        "Resolution",
+        "Group"
+    ],
+    "verbs": [
+        "Bank",
+        "recover",
+        "State",
+        "code",
+        "will",
+        "help",
+        "Group"
+    ]
+}

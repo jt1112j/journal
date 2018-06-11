@@ -32,20 +32,20 @@
     "adjectives": [
         "cutting"
     ],
+    "nouns": [
+        "report",
+        "cutting",
+        "research",
+        "point",
+        "AI",
+        "robotics",
+        "Vantage",
+        "edge"
+    ],
     "verbs": [
         "report",
-        "point",
-        "edge",
-        "research"
-    ],
-    "nouns": [
-        "AI",
-        "report",
-        "Vantage",
-        "point",
-        "cutting",
-        "edge",
         "research",
-        "robotics"
+        "point",
+        "edge"
     ]
 }

@@ -28,37 +28,34 @@
         "positive": [],
         "negative": []
     },
-    "article": {
-        "title": "How Indian banks are turning to blockchain tech to speed up trade deals",
-        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t<p>\n\t\n\t<a class=\"storyTags\" href=\"https://www.business-standard.com/category/finance-news-banks-1030101.htm\" target=\"_blank\">Banks </a>responsible for about half of India’s internal trade have joined a consortium that aims to introduce <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/blockchain\" target=\"_blank\">blockchain </a><a class=\"storyTags\" href=\"https://www.business-standard.com/topic/technology\" target=\"_blank\">technology </a>in order to speed up processes and reduce hurdles to approving new loans.</p>\n<p>\n\tFourteen local <a class=\"storyTags\" href=\"https://www.business-standard.com/category/finance-news-banks-1030101.htm\" target=\"_blank\">banks </a>have signed up for the <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/india\" target=\"_blank\">India </a>Trade Connect consortium, which hired the Bengaluru-based <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/software\" target=\"_blank\">software </a>firm <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/infosys-ltd\" target=\"_blank\">Infosys Ltd.</a> to develop a <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/blockchain\" target=\"_blank\">blockchain </a>platform for loans that back trade transactions within India, according to Abhijit Singh, head of <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/technology\" target=\"_blank\">technology </a>at <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=icici+bank+ltd\" target=\"_blank\">ICICI Bank Ltd.</a>, one of the consortium’s founders.</p>\n<p>\n\t“From the banks’ point of view, business will increase and transactions will happen in scale” once <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/blockchain\" target=\"_blank\">blockchain </a>is adopted, Singh said, adding that the 14 consortium members account for more than half of India’s internal trade transactions. According to the U.S consulting firm Celent, those transactions are worth about $2.45 trillion annually.</p>\n<p>\n\t<a class=\"storyTags\" href=\"https://www.business-standard.com/category/finance-news-banks-1030101.htm\" target=\"_blank\">Banks </a>around the world are rushing to adopt blockchain for cross-border trade <a class=\"storyTags\" href=\"https://www.business-standard.com/finance\" target=\"_blank\">finance </a>transactions, touting the benefits of the digital ledger <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/technology\" target=\"_blank\">technology </a>for both speeding up transactions and improving security. <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=hsbc+holdings+plc\" target=\"_blank\">HSBC Holdings Plc </a>recently completed a transaction which it said showed the technology was commercially viable for <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/global-trade\" target=\"_blank\">global trade </a><a class=\"storyTags\" href=\"https://www.business-standard.com/finance\" target=\"_blank\">finance.</a></p>\n<p>\n\tThe traditional paper-intensive trade <a class=\"storyTags\" href=\"https://www.business-standard.com/finance\" target=\"_blank\">finance </a>process within <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/india\" target=\"_blank\">India </a>can take as long as 22 days to complete, according to <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=yes+bank+ltd\" target=\"_blank\">Yes Bank Ltd.</a>, another member of the six-month old consortium. The project should reduce those delays to less than a day, according to Yes Bank’s chief information officer, Anup Purohit. In later phases, the project could be extended to remittance processing, he said.</p>\n<p>\n\tNevertheless, the process of switching India’s internal trade transactions entirely to blockchain is likely to take time. “It’ll take three to four years before we fully exploit blockchain technology,” Purohit said.</p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
-    },
+    "article": {},
     "adjectives": [
         "Indian",
-        "Some",
-        "14",
+        "cut",
         "signed",
-        "cut"
+        "Some",
+        "14"
     ],
     "nouns": [
-        "processing",
-        "time",
         "security",
+        "banks",
+        "processing",
+        "Indian",
+        "platform",
         "trade",
         "transaction",
-        "Indian",
-        "banks",
         "turning",
         "tech",
+        "cut",
         "speed",
-        "14",
-        "platform",
-        "cut"
+        "time",
+        "14"
     ],
     "verbs": [
-        "time",
         "trade",
-        "speed",
+        "improve",
         "cut",
-        "improve"
+        "speed",
+        "time"
     ]
 }

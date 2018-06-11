@@ -26,30 +26,30 @@
     },
     "article": {},
     "adjectives": [
-        "left",
         "one",
-        "75"
+        "75",
+        "left"
+    ],
+    "verbs": [
+        "Buy",
+        "buy",
+        "title",
+        "border",
+        "align",
+        "view"
     ],
     "nouns": [
-        "http",
-        "border",
-        "left",
         "one",
+        "Buy",
+        "buy",
+        "http",
         "www",
         "alt",
         "title",
+        "border",
         "width",
         "height",
-        "Buy",
-        "buy",
-        "view"
-    ],
-    "verbs": [
-        "border",
-        "align",
-        "title",
-        "Buy",
-        "buy",
+        "left",
         "view"
     ]
 }

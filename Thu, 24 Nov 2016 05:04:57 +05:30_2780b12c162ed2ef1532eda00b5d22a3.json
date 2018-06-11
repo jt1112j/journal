@@ -52,24 +52,18 @@
         "U"
     ],
     "nouns": [
-        "S",
-        "P",
         "500",
+        "P",
+        "S",
         "healthcare",
-        "holiday",
         "lower",
-        "Wednesday",
+        "holiday",
         "afternoon",
-        "stocks",
-        "light",
-        "trading",
-        "U",
-        "hurt"
-    ],
-    "verbs": [
-        "holiday",
-        "lower",
         "hurt",
-        "light"
+        "Wednesday",
+        "stocks",
+        "U",
+        "light",
+        "trading"
     ]
 }

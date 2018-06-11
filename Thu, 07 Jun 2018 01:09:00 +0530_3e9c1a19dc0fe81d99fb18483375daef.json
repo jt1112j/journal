@@ -1,5 +1,5 @@
 {
-    "title": "Rate rate hike and neutral policy stance not conflicting: Urjit Patel",
+    "title": "Repo rate hike and neutral policy stance not conflicting: Urjit Patel",
     "link": "https://www.business-standard.com/article/finance/rate-rate-hike-and-neutral-policy-stance-not-conflicting-urjit-patel-118060700029_1.html",
     "pubDate": "Thu, 07 Jun 2018 01:09:00 +0530",
     "content": "The RBI's monetary policy is determined by the nominal anchor that has been given by a legislative process, which is the consumer price index, the RBI Governor said",
@@ -10,7 +10,7 @@
         "score": 2,
         "comparative": 0.18181818181818182,
         "tokens": [
-            "rate",
+            "repo",
             "rate",
             "hike",
             "and",
@@ -30,26 +30,22 @@
         ],
         "negative": []
     },
-    "article": {
-        "title": "Rate rate hike and neutral policy stance not conflicting: Urjit Patel",
-        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t<p>\n\t\n\tGovernor<strong> Urjit Patel</strong> and his deputies spoke to the media about the central bank’s decision to raise the repo rate. Patel said underlying the Monetary Policy Committee’s decision was the concern that headline inflation remained above </p>\n<p>\n\tthe target of 4 per cent for six months in succession. <strong>Edited excerpts: </strong></p>\n<p>\n\t<strong>The RBI has raised the policy repo rate as well as the inflation forecast, and at the same time the stance is still neutral. Isn’t there a conflict between these two positions?  </strong></p>\n<p>\n\t<strong>Urjit Patel: </strong>It is not conflicting at all, as a neutral stance leaves all options open and other central banks do the same. There is no tension between the two, the committee felt that there was enough uncertainty for us to keep to the neutral stance and yet respond to risks of the inflation target that have emerged in recent months. <br></p><p>\n\t\t<strong class=\"read_more\">ALSO READ: <a href=\"https://www.business-standard.com/article/finance/rbi-increases-repo-rate-by-25-bps-to-6-25-maintains-neutral-stance-118060700027_1.html\" target=\"_blank\">RBI increases repo rate by 25 bps to 6.25%; maintains neutral stance</a></strong></p>\n<p>\n\t<strong>What is the price of crude oil (Brent) being factored in by the Monetary Policy Committee (MPC) and is it based on full price pass-through or partial price pass-through? </strong></p>\n<p>\n\t<strong>Viral Acharya:</strong> Typically, we use the most recently available price in our project, and as we have flagged in our resolution, there has been a 12 per cent increase in the crude oil price since the April policy. In terms of the pass-through, I think that is the government’s policy at present, but in our projection we have assumed a full pass-through.</p>\n<p>\n\t<strong>Given that the RBI conducted one open-market operation and stopped, and there is lacklustre demand for government securities, can you give us some clarity on liquidity? </strong></p>\n<p>\n\t<strong>Patel:</strong> Our policy regarding liquidity is determined by anchoring the weighted-average call rate to the repo rate, and we have stuck to that both in terms of transient liquidity management and durable liquidity management. <br></p><p>\n\t\t<strong class=\"read_more\">ALSO READ: <a href=\"https://www.business-standard.com/article/finance/rbi-announces-hike-in-limits-for-cheaper-loan-for-affordable-housing-118060600824_1.html\" target=\"_blank\">RBI announces hike in limits for cheaper loan for affordable housing</a></strong></p>\n<p>\n\t<strong>Emerging market central banks have responded to the volatility in the currency markets with rate defence...</strong></p>\n<p>\n\t<strong>Patel: </strong>The RBI’s monetary policy is determined by the nominal anchor that has been given to us by a legislative process, which is the consumer price index.</p>\n<p>\n\t<strong>The market seems to be acting in the belief that there is a difference between the policy the RBI is implementing and the minutes of the MPC. Your comment? </strong></p>\n<p>\n\t<strong>Acharya: </strong>Minutes are important and so is the resolution (policy statement) and in some ways if the minutes of the MPC were not important, there would be no value in putting them up separately. I view that the process is open, transparent, and positive and, in the sense that different members of the MPC often have divergent views, minutes seem to be the right way to convey them. But what is important to keep in mind is that the resolution reflects the majority view, whereas the minutes reflect the views of individual members.</p>\n<p>\n\t<strong>How long do you believe the bad-loan resolution process will last? And farm-loan waivers given the upcoming elections? </strong></p>\n<p>\n\tPatel: So far the farm loan waivers have been given through the Budget(s) of the individual state governments. So the implication on the banks’ non-performing assets directly is not there.</p>\n<p>\n\t<strong>N S Vishwanathan</strong>:  You have taken note of the financials reported by the banks. Much of it has given better recognition of NPAs. A notable feature of this is the provision coverage ratio, which for almost all the banks has gone up substantially. We need to see this in the context of the kind of resolution of the two large cases that have happened, where the banks earned money as the provisions made by them were much higher. We believe that for the other cases in the line-up, banks will have some write-back in terms of the provisions they have made.</p>\n<p>\n\t<strong>Is your policy reflective of the large outflow of foreign investments?</strong></p>\n<p>\n\tPatel: The monetary policy is determined by our inflation targeting mandate and not by anything else. To the extent of changes in international finance or crude oil or commodity price developments, it is internalised in our inflation forecast projections and the consequent policy choice.</p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
-    },
+    "article": {},
     "adjectives": [
-        "monetary",
-        "neutral",
         "conflicting",
+        "neutral",
+        "monetary",
         "determined",
         "nominal",
         "given",
         "legislative"
     ],
     "verbs": [
-        "Rate",
+        "index",
+        "process",
         "rate",
         "hike",
-        "index",
         "price",
-        "process",
         "anchor"
     ]
 }

@@ -26,24 +26,21 @@
         "positive": [],
         "negative": []
     },
-    "article": {
-        "title": "MCA quizzes auditors who quit assignments; explanations sought in 15 cases",
-        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t<p>\n\t\n\tThe corporate affairs ministry (MCA) has sought details from some auditor companies, which resigned their assignment after the companies concerned had reportedly refused to give them adequate information.</p>\n<p>\n\tOfficials said explanations had been sought from auditors in 15-odd cases. Rules, they said, were being worked on regarding eligibility to audit big companies.</p>\n<p>\n\tThese rules will be part of the proposed National Financial Reporting Authority (NFRA), as many smaller auditing firms are reportedly replacing the bigger ones that had refused to audit some companies.</p>\n<p>\n\tThat apart, ministry officials said some of the auditors were citing ‘personal reasons’ for quitting, while others had not given adequate reasons.<br></p><p>\n\t\t<strong class=\"read_more\">ALSO READ: <a href=\"https://www.business-standard.com/article/companies/under-regulatory-glare-auditors-raise-decibels-on-gaps-at-listed-firms-118060300191_1.html\" target=\"_blank\">Under regulatory glare, Auditors raise decibels on gaps at listed firms</a></strong></p>\n<p>\n\tThe Securities and Exchange Board of India is also quizzing auditors who had resigned from listed companies. </p>\n<p>\n\tThe move is mainly to assess how companies are hiding information from their auditors. In the past few months, auditors of at least 30 companies have exited, including big ones such as PwC and Deloitte.</p>\n<p>\n\tNFRA has been proposed to regulate the accounting professionals. It is described as not to have representation from chartered or cost accountants, to ensure regulations are not marred by a conflict of interest.</p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
-    },
+    "article": {},
     "adjectives": [
-        "sought",
         "15",
+        "sought",
         "listed"
     ],
     "nouns": [
-        "Board",
         "India",
         "15",
-        "Exchange"
+        "Exchange",
+        "Board"
     ],
     "verbs": [
-        "Board",
+        "Exchange",
         "quit",
-        "Exchange"
+        "Board"
     ]
 }

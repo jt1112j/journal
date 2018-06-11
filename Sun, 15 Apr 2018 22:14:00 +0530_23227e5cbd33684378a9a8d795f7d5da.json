@@ -34,22 +34,22 @@
     },
     "adjectives": [
         "Indian",
-        "60",
-        "least"
+        "least",
+        "60"
     ],
     "nouns": [
         "Indian",
-        "month",
-        "60",
         "least",
+        "operation",
         "report",
+        "month",
         "format",
-        "operation"
+        "60"
     ],
     "verbs": [
-        "eat",
         "report",
         "format",
+        "eat",
         "follow"
     ]
 }

@@ -1,0 +1,88 @@
+{
+    "creator": "PTI",
+    "title": "Gold price may hit Rs 34,000 level by Diwali on weak rupee",
+    "link": "https://www.financialexpress.com/market/gold-price-may-hit-rs-34000-level-by-diwali-on-weak-rupee/1200454/",
+    "pubDate": "Sun, 10 Jun 2018 13:19:28 +05:30",
+    "dc:creator": "PTI",
+    "content": "Gold prices are likely to hold in the range of Rs 30,000-34,000 per ten grams until Diwali in the domestic market, and internationally the yellow metal might be in USD 1,260-1,400 an ounce level, Commtrendz Risk Management director Gnanasekar Thiagarajan told PTI here. ",
+    "contentSnippet": "Gold prices are likely to hold in the range of Rs 30,000-34,000 per ten grams until Diwali in the domestic market, and internationally the yellow metal might be in USD 1,260-1,400 an ounce level, Commtrendz Risk Management director Gnanasekar Thiagarajan told PTI here.",
+    "guid": "https://www.financialexpress.com/?p=1200454",
+    "categories": [
+        "Commodities",
+        "Market"
+    ],
+    "isoDate": "2018-06-10T07:49:28.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "gold",
+            "price",
+            "may",
+            "hit",
+            "rs",
+            "34000",
+            "level",
+            "by",
+            "diwali",
+            "on",
+            "weak",
+            "rupee"
+        ],
+        "words": [
+            "weak",
+            "gold"
+        ],
+        "positive": [
+            "gold"
+        ],
+        "negative": [
+            "weak"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "domestic",
+        "30",
+        "Gold",
+        "34",
+        "level",
+        "weak",
+        "likely",
+        "ten",
+        "yellow",
+        "metal",
+        "400"
+    ],
+    "nouns": [
+        "market",
+        "domestic",
+        "30",
+        "Management",
+        "director",
+        "Gold",
+        "price",
+        "may",
+        "hit",
+        "level",
+        "rupee",
+        "range",
+        "hold",
+        "ten",
+        "metal",
+        "ounce",
+        "yellow",
+        "Risk"
+    ],
+    "verbs": [
+        "market",
+        "price",
+        "hit",
+        "level",
+        "hold",
+        "range",
+        "yellow",
+        "metal",
+        "Risk"
+    ]
+}

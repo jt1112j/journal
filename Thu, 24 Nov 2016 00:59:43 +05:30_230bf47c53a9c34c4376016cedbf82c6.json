@@ -40,22 +40,45 @@
         "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-451734\" src=\"https://images.financialexpress.com/2016/11/Nasdaq-l-reu.jpg\" alt=\"The S&amp;P 500 industrial sector rose 0.52 percent to a record high, helped by a report that showed a strong jump in orders for durable goods in October due to demand for machinery and other equipment. (Reuters)\" srcset=\"https://images.financialexpress.com/2016/11/Nasdaq-l-reu.jpg 660w, https://images.financialexpress.com/2016/11/Nasdaq-l-reu-300x200.jpg 300w, https://images.financialexpress.com/2016/11/Nasdaq-l-reu-620x413.jpg 620w\" sizes=\"(max-width: 660px) 100vw, 660px\"> The S&amp;P 500 industrial sector rose 0.52 percent to a record high, helped by a report that showed a strong jump in orders for durable goods in October due to demand for machinery and other equipment. (Reuters)</figure>\n\t\t\t</section></div><span>\n</span><p>The Dow hit an all-time high for the third straight day on Wednesday, helped by a record-setting surge in industrial stocks, but a drop in technology heavyweights kept the S&amp;P 500 and the Nasdaq in negative territory.</p><span>\n</span><p>The S&amp;P 500 industrial sector rose 0.52 percent to a record high, helped by a report that showed a strong jump in orders for durable goods in October due to demand for machinery and other equipment.</p><span>\n</span><p>Caterpillar rose as much as 2.8 percent to a near 2-year high of $96.26. Deere jumped 10.8 percent to a record high of $101.96 after the farm equipment maker reported a much smaller-than-expected decline in profit.</p><span>\n</span><p>The industrial sector had risen 6.7 percent since the U.S. election on bets that President-elect Donald Trump’s policies such as higher spending on infrastructure would benefit the industry.</p><span>\n</span><p>The S&amp;P and the Nasdaq were dragged down by declines in index-heavyweights <a target=\"_blank\" href=\"http://www.financialexpress.com/tag/microsoft/\">Microsoft</a>, Alphabet, Facebook and Apple. The technology index was down 0.73 percent.</p><span>\n</span><p>The U.S. dollar surged to a near 14-year high after upbeat US&nbsp;economic data, including a report that showed consumer sentiment this month jumped more than expected in the wake of Trump’s upcoming presidency.</p><span>\n</span><p>Traders upped the odds of the Federal Reserve hiking interest rates next month by 2 percentage points to 89 percent after the data, according to Thomson Reuters data.</p><span>\n</span><p>Those odds are likely to be reinforced when the Fed releases the minutes of its November meeting at 2:00 p.m. ET.</p><span>\n</span><p>At 12:27 a.m. ET (1727 GMT), the Dow Jones Industrial Average was up 27.18 points, or 0.14 percent, at 19,051.05, easing from an all-time high of 19,074.51.</p><span>\n</span><p>The S&amp;P 500 was down 2.12 points, or 0.1 percent, at 2,200.82 and the Nasdaq Composite was down 17.93 points, or 0.33 percent, at 5,368.42.</p><span>\n</span><p>Six of the 11 major S&amp;P sectors were higher, led by the telecom services sector’s 0.62 percent rise.</p><span>\n</span><p>Eli Lilly was the biggest loser on the S&amp;P, falling 11.5 percent after the company said it would stop developing its Alzheimer’s drug following a trail failure.</p><span>\n</span><p>Biogen, which is developing a similar drug, fell 4.2 percent.</p><span>\n</span><p>Juno Therapeutics sank 27 percent after reporting that two patients died during a trial of its leukemia drug.</p><span>\n</span><p>Trading volumes are likely to remain subdued ahead of the Thanksgiving Day holiday on Thursday and an early market close on Black Friday.</p><span>\n</span><p>Declining issues outnumbered advancers on the NYSE by 1,608 to 1,268. On the Nasdaq, 1,414 issues rose and 1,287 fell.</p><span>\n</span><p>The S&amp;P 500 index showed 59 new 52-week highs and three new lows, while the Nasdaq recorded 255 new highs and 17 new lows.</p><span>\n\t\t\t\t</span></div>"
     },
     "adjectives": [
-        "industrial",
+        "500",
         "high",
+        "industrial",
         "third",
         "straight",
-        "kept",
+        "negative",
+        "kept"
+    ],
+    "nouns": [
+        "S",
+        "P",
         "500",
-        "negative"
+        "record",
+        "high",
+        "Wednesday",
+        "setting",
+        "stocks",
+        "technology",
+        "Nasdaq",
+        "lift",
+        "drag",
+        "hit",
+        "third",
+        "time",
+        "straight",
+        "day",
+        "surge",
+        "drop",
+        "negative",
+        "territory"
     ],
     "verbs": [
-        "lift",
         "record",
+        "lift",
         "drag",
         "hit",
         "time",
+        "negative",
         "surge",
-        "drop",
-        "negative"
+        "drop"
     ]
 }

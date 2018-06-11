@@ -1,0 +1,60 @@
+{
+    "creator": "Credit Suisse",
+    "title": "IT Services sector has outperformed India by 15% YTD: Credit Suisse",
+    "link": "https://www.financialexpress.com/market/it-services-sector-has-outperformed-india-by-15-ytd-credit-suisse/1200801/",
+    "pubDate": "Mon, 11 Jun 2018 01:32:29 +05:30",
+    "dc:creator": "Credit Suisse",
+    "content": "Mid-sized companies have led turnaround; estimates revised by 2-6% with new INR/USD assumption and TPs by 5-12% .",
+    "contentSnippet": "Mid-sized companies have led turnaround; estimates revised by 2-6% with new INR/USD assumption and TPs by 5-12% .",
+    "guid": "https://www.financialexpress.com/?p=1200801",
+    "categories": [
+        "Market"
+    ],
+    "isoDate": "2018-06-10T20:02:29.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "it",
+            "services",
+            "sector",
+            "has",
+            "outperformed",
+            "india",
+            "by",
+            "15",
+            "ytd",
+            "credit",
+            "suisse"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "15",
+        "Mid",
+        "sized",
+        "revised",
+        "new",
+        "12"
+    ],
+    "verbs": [
+        "Credit"
+    ],
+    "nouns": [
+        "India",
+        "IT",
+        "Services",
+        "sector",
+        "15",
+        "Credit",
+        "Suisse",
+        "led",
+        "turnaround",
+        "INR",
+        "assumption",
+        "12"
+    ]
+}

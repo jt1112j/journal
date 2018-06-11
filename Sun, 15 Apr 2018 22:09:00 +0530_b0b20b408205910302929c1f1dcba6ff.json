@@ -41,15 +41,28 @@
         "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t<p>\n\t\n\tA staggering 3.24 million records were stolen, lost or exposed in India in 2017, which registered a 783 per cent hike from 2016, according to findings of the <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=breach+level+index\" target=\"_blank\">Breach Level Index </a>published by global digital security solutions provider Gemalto. Of the 29 <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=data+breach\" target=\"_blank\">data breach </a>incidents in India in 2017, identity theft accounted for 58 per cent of all data breaches. Malicious outsiders remained the number one cybersecurity threat last year, at 52 per cent of all breach incidents. <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=companies\" target=\"_blank\">Companies </a>in the retail, government and financial services sectors were the primary targets for breaches last year.</p>\n<p>\n\tBased on <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=data+breach+reports\" target=\"_blank\"></a><a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=data+breach\" target=\"_blank\">data breach </a>reports collected in the Breach Level Index, the major 2017 highlights include:\n\n\n</p>\n<!-- INPAGE_BANNER -->\n<ul>\n\t<li>\n\t\tHuman error is a major risk management and security issue. Accidental loss, consisting of improper disposal of records, misconfigured databases and other unintended security issues led to the exposure of 3.7 million records.</li>\n\t<li>\n\t\tIdentity theft is still the number one type of <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=data+breach\" target=\"_blank\">data breach </a>(77 per cent of all incidents).</li>\n\t<li>\n\t\tThe number of records breached in nuisance type attacks, which were not seen in 2016, began to happen in 2017. Such attacks compromised 200 million records in 2017. The Index defines a data breach as a nuisance when the compromised data includes basic information such as name, address and/or phone number. The larger ramification of this type of breach is often unknown, as hackers use this data to orchestrate other attacks.</li>\n</ul>\n\n<p>\n\t“The manipulation of data or data integrity attacks pose an arguably more unknown threat for organisations to combat than simple data theft, as it can allow hackers to alter anything from sales numbers to intellectual property. By nature, data integrity breaches are often difficult to identify and in many cases, where this type of attack has occurred, we have yet to see the real impact,” says Jason Hart, vice-president and chief technology officer for data protection at Gemalto. In case the confidentiality, or privacy, of data is breached, an organisation must have controls, such as encryption, key management and user access management, in place to ensure integrity of the data isn’t tampered with and it can still be trusted.</p>\n<p>\n\t<strong>Advanced analytics workers get higher salaries among peers</strong></p>\n<p>\n\t\t<img align=\"left\" alt=\"Management, business meeting\" class=\"imgCont\" height=\"464\" src=\"http://bsmedia.business-standard.com/_media/bs/img/article/2018-04/15/full/1523810344-6994.jpg\" title=\"Management, business meeting\" width=\"620\"></p>\n\tWith big data and analytics allowing organisations to gain access to multitudes of information that can help them strategise focussed business growth, the demand for professionals with expertise in big data and analytics is growing fast and so is their compensation. With data analytics industry maturing, the salaries that analytics professionals are offered across industries, levels, locations and roles have also undergone dramatic changes. According to Analytics India Salary Study 2018, it is the advanced analytics and predictive analytics professionals, who will be paid the highest salaries among their peers this year. Such professionals command a median salary of 1.45 million, which, however, remains the same as last year, as more professionals are entering the field.\n<p>\n\tNext in line are the big data professionals and data mining professionals, who receive a median salary of Rs 1.45 million and Rs 1.1 million per annum respectively. In terms of the increase in salaries as compared to last year, the study indicates that data engineering professionals witnessed the biggest jump in 2018, with median salaries increasing by 23 per cent—from Rs 1.15 million to 1.42 million. The report suggests that the demand for data engineers has also increased tremendously in 2018. The number of data experts earning over Rs 1.5 million a year increased from 17 per cent in 2016 to 21 per cent in 2017.</p>\n<p>\n\tWhile on one hand the <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=it+industry\" target=\"_blank\">IT industry </a>in India is letting go of a lot of its talent due to automation, and engineering professionals were struggling to hold on to their jobs, the salary increase for analytics professionals is also a sign that reskilling will be the way forward. In 2017, the $160-billion Indian <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=it+industry\" target=\"_blank\">IT industry </a>laid off over 56,000 employees owing to automation. On the other hand, data professionals are in demand across industries. Telecom pays them the highest (around Rs 1.86 million per annum), the lowest being the media and entertainment industry (Rs 1.03 million) and large IT firms (Rs 1.01 mn).</p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
     },
     "adjectives": [
-        "Human",
         "big",
-        "cutting"
+        "cutting",
+        "Human"
+    ],
+    "nouns": [
+        "issue",
+        "cutting",
+        "research",
+        "point",
+        "security",
+        "Vantage",
+        "edge",
+        "study",
+        "Human",
+        "error",
+        "data"
     ],
     "verbs": [
         "issue",
-        "study",
+        "research",
         "point",
         "edge",
-        "research"
+        "study"
     ]
 }

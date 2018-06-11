@@ -1,0 +1,101 @@
+{
+    "title": "WhatsApp shares limited data of payment service with FB",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/whatsapp-shares-limited-data-of-payment-service-with-facebook/articleshow/64533102.cms",
+    "pubDate": "Sun, 10 Jun 2018 16:55:23 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/whatsapp-shares-limited-data-of-payment-service-with-facebook/articleshow/64533102.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64533102.cms\" /></a>\"Facebook does not use WhatsApp payment information for commercial purposes, it simply helps pass the necessary payment information to the bank partner and NPCI. In some cases, we may share limited data to help provide customer support to you or keep payments safe and secure,\" WhatsApp claimed on its website.",
+    "contentSnippet": "\"Facebook does not use WhatsApp payment information for commercial purposes, it simply helps pass the necessary payment information to the bank partner and NPCI. In some cases, we may share limited data to help provide customer support to you or keep payments safe and secure,\" WhatsApp claimed on its website.",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/whatsapp-shares-limited-data-of-payment-service-with-facebook/articleshow/64533102.cms",
+    "isoDate": "2018-06-10T16:55:23.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "whatsapp",
+            "shares",
+            "limited",
+            "data",
+            "of",
+            "payment",
+            "service",
+            "with",
+            "fb"
+        ],
+        "words": [
+            "limited",
+            "shares"
+        ],
+        "positive": [
+            "shares"
+        ],
+        "negative": [
+            "limited"
+        ]
+    },
+    "article": {
+        "title": "WhatsApp shares limited data of payment service with Facebook",
+        "content": "<div class=\"section1\"><div class=\"Normal\"><span>NEW DELHI: Popular messaging app </span><a class=\"key_underline\" href=\"https://timesofindia.indiatimes.com/topic/whatsapp\">WhatsApp</a><span> has claimed it shares limited data of payment service with its parent firm </span><a class=\"key_underline\" href=\"https://timesofindia.indiatimes.com/topic/facebook\">Facebook</a><p> and the social media major does not use the information for commercial purpose.\n\n</p><span>\"Facebook does not use </span><a class=\"key_underline\" href=\"https://timesofindia.indiatimes.com/topic/WhatsApp-payment\">WhatsApp payment</a><p> information for commercial purposes, it simply helps pass the necessary payment information to the bank partner and NPCI. In some cases, we may share limited data to help provide customer support to you or keep payments safe and secure,\" WhatsApp claimed on its website.\n</p><p>WhatsApp is running beta version of its payment service in India.\n</p><p>According to government sources, the ministry of electronics and IT has written to National Payment Corporation of India to verify compliance around WhatsApp payment and check if WhatsApp is sharing data with its parent firm Facebook.\n</p><p>The ministry has asked NPCI to verify compliance of WhatsApp payment it scales up its service.\n</p><p>WhatsApp on its website said that when a user makes a payment, the mobile messaging app creates the necessary connection between the sender and recipient of the payment, using Facebook infrastructure.\n</p><span>\"We pass the transaction information to the bank partner, which is called a PSP (payment service provider), and to NPCI (National Payment Corporation of India), so they can facilitate the movement of funds between the sender's and receiver's bank accounts,\" the website said.\n</span><br><span>\n</span><br><span>When contacted, WhatsApp spokesperson said, \"Facebook processes UPI (Unified Payments Interface) transaction data as a service provider for WhatsApp, and does not use WhatsApp payments transaction data for commercial purposes.\"\n</span><br><span>\n</span><br><span>The IT ministry has expressed concern around </span><a class=\"key_underline\" href=\"https://timesofindia.indiatimes.com/topic/data-safety\">data safety</a><span> of Facebook users in India following data leak from its platform to Cambridge Analytica. The ministry on June 7 again issued to Facebook seeking explanation on reports that it shared information of users with device makers.\n</span><br><span>\n</span><br><span>WhatsApp claimed that it also does not store any sensitive payment information such as one-time password send for the transaction, account number or full debit card details.\n</span><br><span>\n</span><p>\"Today, almost 1 million people are testing WhatsApp payments in India. The feedback has been very positive. People enjoy the convenience of sending money as simply and securely as they send messages. We're working closely with NPCI and multiple banks including our payment service providers to expand the feature to more people and support India's digital economy,\" the spokesperson said. \n</p><span>\n</span></div></div>"
+    },
+    "adjectives": [
+        "pass",
+        "limited",
+        "commercial",
+        "necessary",
+        "In",
+        "safe",
+        "secure",
+        "10",
+        "left",
+        "top",
+        "right"
+    ],
+    "nouns": [
+        "india",
+        "may",
+        "pass",
+        "share",
+        "data",
+        "payment",
+        "service",
+        "use",
+        "information",
+        "commercial",
+        "help",
+        "necessary",
+        "bank",
+        "partner",
+        "In",
+        "customer",
+        "support",
+        "keep",
+        "website",
+        "business",
+        "border",
+        "10",
+        "left",
+        "style",
+        "margin",
+        "top",
+        "right",
+        "safe",
+        "limited",
+        "photo"
+    ],
+    "verbs": [
+        "provide",
+        "pass",
+        "share",
+        "service",
+        "use",
+        "help",
+        "bank",
+        "partner",
+        "support",
+        "keep",
+        "secure",
+        "border",
+        "align",
+        "style",
+        "top",
+        "right"
+    ]
+}

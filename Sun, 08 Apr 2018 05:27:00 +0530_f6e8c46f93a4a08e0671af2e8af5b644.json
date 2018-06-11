@@ -34,15 +34,30 @@
     },
     "adjectives": [
         "three",
-        "annual",
         "digital",
         "short",
         "simple",
+        "annual",
         "ended"
     ],
-    "verbs": [
-        "Keep",
+    "nouns": [
+        "three",
+        "Art",
+        "marketing",
         "age",
+        "Keep",
+        "message",
+        "short",
+        "simple",
+        "day",
+        "annual",
+        "extravaganza",
+        "advertising",
+        "Saturday"
+    ],
+    "verbs": [
+        "age",
+        "Keep",
         "message",
         "short"
     ]

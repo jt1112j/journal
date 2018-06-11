@@ -36,18 +36,39 @@
     },
     "article": {},
     "adjectives": [
-        "left",
-        "75",
         "worth",
         "requisite",
-        "full"
+        "full",
+        "75",
+        "left"
+    ],
+    "nouns": [
+        "Highway",
+        "worth",
+        "lakh",
+        "requisite",
+        "funds",
+        "government",
+        "support",
+        "account",
+        "http",
+        "www",
+        "alt",
+        "title",
+        "border",
+        "width",
+        "height",
+        "left",
+        "cr",
+        "full",
+        "arbitration"
     ],
     "verbs": [
+        "full",
         "support",
-        "border",
-        "align",
-        "title",
         "account",
-        "full"
+        "title",
+        "border",
+        "align"
     ]
 }

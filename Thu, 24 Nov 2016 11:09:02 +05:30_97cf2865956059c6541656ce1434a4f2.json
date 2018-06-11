@@ -42,16 +42,16 @@
         "earlier"
     ],
     "nouns": [
-        "hit",
         "mark",
         "March",
         "projection",
+        "hit",
         "30",
         "September"
     ],
     "verbs": [
-        "hit",
         "mark",
-        "March"
+        "March",
+        "hit"
     ]
 }

@@ -1,0 +1,87 @@
+{
+    "creator": "Abhijeet Singh",
+    "title": "100% gain: 2 mid-cap stocks that doubled money in just 6 months",
+    "link": "https://www.financialexpress.com/market/100-gain-2-mid-cap-stocks-that-doubled-money-in-just-6-months/1199509/",
+    "pubDate": "Sat, 09 Jun 2018 10:52:42 +05:30",
+    "dc:creator": "Abhijeet Singh",
+    "content": "Indian share markets have seen sharp rise and fall in the last six months with the benchmark Sensex index hitting the all-time high level and plunging to a 4-month low.",
+    "contentSnippet": "Indian share markets have seen sharp rise and fall in the last six months with the benchmark Sensex index hitting the all-time high level and plunging to a 4-month low.",
+    "guid": "https://www.financialexpress.com/?p=1199509",
+    "categories": [
+        "Market"
+    ],
+    "isoDate": "2018-06-09T05:22:42.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.16666666666666666,
+        "tokens": [
+            "100",
+            "gain",
+            "2",
+            "mid-cap",
+            "stocks",
+            "that",
+            "doubled",
+            "money",
+            "in",
+            "just",
+            "6",
+            "months"
+        ],
+        "words": [
+            "gain"
+        ],
+        "positive": [
+            "gain"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "six",
+        "Indian",
+        "sharp",
+        "low",
+        "high",
+        "100",
+        "last",
+        "level",
+        "just",
+        "doubled",
+        "mid"
+    ],
+    "nouns": [
+        "money",
+        "month",
+        "six",
+        "Indian",
+        "index",
+        "hitting",
+        "cap",
+        "time",
+        "share",
+        "sharp",
+        "low",
+        "high",
+        "100",
+        "rise",
+        "stocks",
+        "last",
+        "level",
+        "fall",
+        "gain",
+        "benchmark"
+    ],
+    "verbs": [
+        "index",
+        "cap",
+        "time",
+        "share",
+        "low",
+        "rise",
+        "last",
+        "level",
+        "fall",
+        "gain"
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Govt identifies 16,500 entities as shell cos, another 80,000 under lens",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/govt-identifies-16-5k-entities-as-shell-companies-another-80000-under-lens/articleshow/64515593.cms",
+    "pubDate": "Sat, 09 Jun 2018 01:22:23 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/govt-identifies-16-5k-entities-as-shell-companies-another-80000-under-lens/articleshow/64515593.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64515593.cms\" /></a>The government has identified over 16,500 companies as “confirmed shell companies”, while another 80,000 are under the lens and have been put in the suspect category, the finance ministry said on Friday.",
+    "contentSnippet": "The government has identified over 16,500 companies as “confirmed shell companies”, while another 80,000 are under the lens and have been put in the suspect category, the finance ministry said on Friday.",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/govt-identifies-16-5k-entities-as-shell-companies-another-80000-under-lens/articleshow/64515593.cms",
+    "isoDate": "2018-06-09T01:22:23.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "govt",
+            "identifies",
+            "16500",
+            "entities",
+            "as",
+            "shell",
+            "cos",
+            "another",
+            "80000",
+            "under",
+            "lens"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {
+        "title": "Government identifies 16,500 entities as shell companies, another 80,000 under lens",
+        "content": "<section class=\"title_section clearfix\"><meta itemprop=\"headline\" content=\"Government identifies 16,500 entities as shell companies, another 80,000 under lens\"><p>The government has identified over 16,500 companies as “confirmed shell companies”, while another 80,000 are under the lens and have been put in the suspect category, the finance ministry said on Friday.</p></section>"
+    },
+    "adjectives": [
+        "confirmed",
+        "10",
+        "left",
+        "top",
+        "right",
+        "16",
+        "identified",
+        "500",
+        "80",
+        "suspect"
+    ],
+    "nouns": [
+        "india",
+        "government",
+        "business",
+        "border",
+        "10",
+        "left",
+        "style",
+        "margin",
+        "top",
+        "right",
+        "photo",
+        "lens",
+        "16",
+        "500",
+        "shell",
+        "cos",
+        "80",
+        "put",
+        "finance",
+        "ministry",
+        "Friday",
+        "suspect",
+        "category"
+    ],
+    "verbs": [
+        "border",
+        "align",
+        "style",
+        "top",
+        "right",
+        "shell",
+        "put",
+        "suspect",
+        "finance"
+    ]
+}

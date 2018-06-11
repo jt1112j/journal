@@ -1,0 +1,76 @@
+{
+    "creator": "PTI",
+    "title": "FinMin may transfer 5 sick CPSE shares to a fund to meet Sebi norm",
+    "link": "https://www.financialexpress.com/market/finmin-may-transfer-5-sick-cpse-shares-to-a-fund-to-meet-sebi-norm/1200372/",
+    "pubDate": "Sun, 10 Jun 2018 11:03:55 +05:30",
+    "dc:creator": "PTI",
+    "content": "The SNIF was formed to transfer the number of shares that is required to make six sick companies compliant with the minimum public shareholding without any consideration. ",
+    "contentSnippet": "The SNIF was formed to transfer the number of shares that is required to make six sick companies compliant with the minimum public shareholding without any consideration.",
+    "guid": "https://www.financialexpress.com/?p=1200372",
+    "categories": [
+        "Market"
+    ],
+    "isoDate": "2018-06-10T05:33:55.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.07142857142857142,
+        "tokens": [
+            "finmin",
+            "may",
+            "transfer",
+            "5",
+            "sick",
+            "cpse",
+            "shares",
+            "to",
+            "a",
+            "fund",
+            "to",
+            "meet",
+            "sebi",
+            "norm"
+        ],
+        "words": [
+            "shares",
+            "sick"
+        ],
+        "positive": [
+            "shares"
+        ],
+        "negative": [
+            "sick"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "six",
+        "compliant",
+        "sick",
+        "formed",
+        "required",
+        "meet",
+        "minimum",
+        "public"
+    ],
+    "nouns": [
+        "six",
+        "sick",
+        "consideration",
+        "may",
+        "transfer",
+        "shareholding",
+        "meet",
+        "minimum",
+        "fund",
+        "public",
+        "norm",
+        "number"
+    ],
+    "verbs": [
+        "sick",
+        "transfer",
+        "meet",
+        "fund",
+        "number"
+    ]
+}

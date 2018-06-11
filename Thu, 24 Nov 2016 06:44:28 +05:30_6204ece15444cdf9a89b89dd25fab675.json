@@ -45,15 +45,31 @@
     "adjectives": [
         "domestic",
         "significant",
-        "20",
         "grown",
+        "20",
         "mid"
+    ],
+    "nouns": [
+        "pressure",
+        "domestic",
+        "industry",
+        "cent",
+        "growth",
+        "aviation",
+        "volume",
+        "travel",
+        "20",
+        "assumption",
+        "air",
+        "increase",
+        "pricing",
+        "supply"
     ],
     "verbs": [
         "pressure",
-        "increase",
+        "air",
         "travel",
-        "supply",
-        "air"
+        "increase",
+        "supply"
     ]
 }

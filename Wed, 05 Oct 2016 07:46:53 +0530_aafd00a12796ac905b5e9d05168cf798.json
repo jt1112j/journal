@@ -31,8 +31,6 @@
     },
     "article": {},
     "adjectives": [
-        "75",
-        "left",
         "Asian",
         "gold",
         "near",
@@ -40,16 +38,44 @@
         "rattled",
         "flagging",
         "possible",
-        "global"
+        "global",
+        "75",
+        "left"
     ],
-    "verbs": [
+    "nouns": [
+        "Asian",
+        "stocks",
+        "gold",
+        "slide",
+        "stimulus",
         "end",
+        "retreated",
+        "Wednesday",
+        "bond",
+        "two",
+        "week",
+        "report",
+        "possible",
+        "withdrawal",
+        "http",
+        "www",
+        "alt",
         "title",
         "border",
-        "align",
+        "width",
+        "height",
+        "left",
+        "SINGAPORE",
+        "flagging"
+    ],
+    "verbs": [
         "slide",
+        "end",
         "bond",
         "near",
-        "report"
+        "report",
+        "title",
+        "border",
+        "align"
     ]
 }

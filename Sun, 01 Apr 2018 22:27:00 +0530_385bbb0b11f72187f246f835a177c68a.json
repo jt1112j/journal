@@ -36,17 +36,17 @@
         "due",
         "forced"
     ],
-    "verbs": [
-        "experience",
-        "redefine",
-        "value"
-    ],
     "nouns": [
+        "value",
         "experience",
         "due",
         "IT",
         "operations",
-        "value",
         "technology"
+    ],
+    "verbs": [
+        "value",
+        "experience",
+        "redefine"
     ]
 }

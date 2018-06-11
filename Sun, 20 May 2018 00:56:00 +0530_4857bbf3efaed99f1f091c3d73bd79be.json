@@ -34,19 +34,19 @@
     "adjectives": [
         "international"
     ],
-    "nouns": [
-        "say",
-        "US",
-        "international",
-        "may",
-        "country",
-        "Immigration",
-        "will"
-    ],
     "verbs": [
         "say",
-        "lose",
         "will",
-        "divert"
+        "divert",
+        "lose"
+    ],
+    "nouns": [
+        "say",
+        "international",
+        "may",
+        "will",
+        "US",
+        "country",
+        "Immigration"
     ]
 }

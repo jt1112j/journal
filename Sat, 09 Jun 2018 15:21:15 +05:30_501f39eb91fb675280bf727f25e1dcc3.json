@@ -1,0 +1,81 @@
+{
+    "creator": "IANS",
+    "title": "RBI rate hike brought cheer? Markets shot up, investor sentiments got a boost; here’s why",
+    "link": "https://www.financialexpress.com/market/rbi-rate-hike-brought-cheer-markets-shot-up-investor-sentiments-got-a-boost-heres-why/1199737/",
+    "pubDate": "Sat, 09 Jun 2018 15:21:15 +05:30",
+    "dc:creator": "IANS",
+    "content": "The Reserve Bank of India's (RBI) decision to hike the repo rate by 25 basis points boosted the investor sentiments, which in turn lifted the key equity indices during the week ended on Friday. ",
+    "contentSnippet": "The Reserve Bank of India's (RBI) decision to hike the repo rate by 25 basis points boosted the investor sentiments, which in turn lifted the key equity indices during the week ended on Friday.",
+    "guid": "https://www.financialexpress.com/?p=1199737",
+    "categories": [
+        "Market"
+    ],
+    "isoDate": "2018-06-09T09:51:15.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.06666666666666667,
+        "tokens": [
+            "rbi",
+            "rate",
+            "hike",
+            "brought",
+            "cheer?",
+            "markets",
+            "shot",
+            "up",
+            "investor",
+            "sentiments",
+            "got",
+            "a",
+            "boost",
+            "here’s",
+            "why"
+        ],
+        "words": [
+            "boost"
+        ],
+        "positive": [
+            "boost"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "key",
+        "shot",
+        "25",
+        "lifted",
+        "ended"
+    ],
+    "verbs": [
+        "cheer",
+        "rate",
+        "key",
+        "hike",
+        "boost",
+        "Reserve",
+        "Bank",
+        "turn"
+    ],
+    "nouns": [
+        "cheer",
+        "rate",
+        "key",
+        "RBI",
+        "hike",
+        "shot",
+        "investor",
+        "boost",
+        "why",
+        "Reserve",
+        "Bank",
+        "India",
+        "decision",
+        "25",
+        "basis",
+        "equity",
+        "week",
+        "Friday",
+        "turn"
+    ]
+}

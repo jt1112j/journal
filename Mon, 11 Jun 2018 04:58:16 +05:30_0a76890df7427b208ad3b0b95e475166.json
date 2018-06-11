@@ -1,0 +1,74 @@
+{
+    "creator": "Bhavik Nair",
+    "title": "FY19 Earnings: A 20% plus rise, but off a low base",
+    "link": "https://www.financialexpress.com/market/fy19-earnings-a-20-plus-rise-but-off-a-low-base/1200928/",
+    "pubDate": "Mon, 11 Jun 2018 04:58:16 +05:30",
+    "dc:creator": "Bhavik Nair",
+    "content": "Although earnings estimates have been trimmed by about 3-3.5% post the results season, a favourable base will see earnings in 2018-19 growing by 20% plus. ",
+    "contentSnippet": "Although earnings estimates have been trimmed by about 3-3.5% post the results season, a favourable base will see earnings in 2018-19 growing by 20% plus.",
+    "guid": "https://www.financialexpress.com/?p=1200928",
+    "categories": [
+        "Market"
+    ],
+    "isoDate": "2018-06-10T23:28:16.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.09090909090909091,
+        "tokens": [
+            "fy19",
+            "earnings",
+            "a",
+            "20",
+            "plus",
+            "rise",
+            "but",
+            "off",
+            "a",
+            "low",
+            "base"
+        ],
+        "words": [
+            "rise"
+        ],
+        "positive": [
+            "rise"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "20",
+        "plus",
+        "off",
+        "low",
+        "base",
+        "trimmed",
+        "favourable",
+        "19",
+        "growing"
+    ],
+    "verbs": [
+        "rise",
+        "off",
+        "low",
+        "base",
+        "post",
+        "season",
+        "will"
+    ],
+    "nouns": [
+        "Earnings",
+        "earnings",
+        "A",
+        "20",
+        "rise",
+        "low",
+        "base",
+        "post",
+        "season",
+        "will",
+        "19",
+        "growing",
+        "plus"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Rs 70-bn GST refunds of exporters cleared; here's date for settling claims",
+    "link": "https://www.business-standard.com/article/economy-policy/rs-7-000-cr-gst-refunds-of-exporters-cleared-here’s-date-for-settling-claims-118060900182_1.html",
+    "pubDate": "Sat, 09 Jun 2018 20:33:00 +0530",
+    "content": "About Rs 140 billion of refunds of exporters were stuck due to various mismatches",
+    "contentSnippet": "About Rs 140 billion of refunds of exporters were stuck due to various mismatches",
+    "guid": "https://www.business-standard.com/article/economy-policy/rs-7-000-cr-gst-refunds-of-exporters-cleared-here’s-date-for-settling-claims-118060900182_1.html",
+    "isoDate": "2018-06-09T15:03:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.08333333333333333,
+        "tokens": [
+            "rs",
+            "70-bn",
+            "gst",
+            "refunds",
+            "of",
+            "exporters",
+            "cleared",
+            "here's",
+            "date",
+            "for",
+            "settling",
+            "claims"
+        ],
+        "words": [
+            "cleared"
+        ],
+        "positive": [
+            "cleared"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "70",
+        "cleared",
+        "About",
+        "140",
+        "billion",
+        "stuck",
+        "due",
+        "various"
+    ],
+    "nouns": [
+        "70",
+        "date",
+        "settling",
+        "billion",
+        "due"
+    ],
+    "verbs": [
+        "date"
+    ]
+}

@@ -24,33 +24,33 @@
     },
     "article": {},
     "adjectives": [
-        "left",
+        "According",
         "one",
         "75",
-        "According"
+        "left"
     ],
-    "nouns": [
-        "http",
-        "border",
-        "left",
-        "Canara",
-        "one",
-        "www",
-        "alt",
-        "title",
-        "width",
-        "height",
+    "verbs": [
         "Bank",
         "Buy",
         "buy",
-        "Vedanta"
-    ],
-    "verbs": [
-        "border",
-        "align",
         "title",
+        "border",
+        "align"
+    ],
+    "nouns": [
         "Bank",
+        "one",
         "Buy",
-        "buy"
+        "buy",
+        "Canara",
+        "http",
+        "www",
+        "alt",
+        "title",
+        "border",
+        "width",
+        "height",
+        "left",
+        "Vedanta"
     ]
 }

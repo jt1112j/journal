@@ -1,0 +1,51 @@
+{
+    "creator": "IANS",
+    "title": "Exchanges to devise additional surveillance measures for firms under IRP: SEBI",
+    "link": "https://www.financialexpress.com/market/exchanges-to-devise-additional-surveillance-measures-for-firms-under-irp-sebi/1200048/",
+    "pubDate": "Sat, 09 Jun 2018 21:10:29 +05:30",
+    "dc:creator": "IANS",
+    "content": "Accordingly, the list of securities undergoing IRP as per IBC shall be available on the exchange's website.\r\n\r\n",
+    "contentSnippet": "Accordingly, the list of securities undergoing IRP as per IBC shall be available on the exchange's website.",
+    "guid": "https://www.financialexpress.com/?p=1200048",
+    "categories": [
+        "Market"
+    ],
+    "isoDate": "2018-06-09T15:40:29.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "exchanges",
+            "to",
+            "devise",
+            "additional",
+            "surveillance",
+            "measures",
+            "for",
+            "firms",
+            "under",
+            "irp",
+            "sebi"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "additional",
+        "available"
+    ],
+    "nouns": [
+        "surveillance",
+        "devise",
+        "exchange",
+        "list",
+        "website"
+    ],
+    "verbs": [
+        "devise",
+        "exchange",
+        "list"
+    ]
+}

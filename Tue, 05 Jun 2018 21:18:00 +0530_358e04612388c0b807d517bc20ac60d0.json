@@ -43,28 +43,28 @@
         "past",
         "public"
     ],
+    "nouns": [
+        "industry",
+        "cartel",
+        "Australia",
+        "former",
+        "Bank",
+        "banking",
+        "case",
+        "post",
+        "crisis",
+        "years",
+        "even",
+        "greed",
+        "past",
+        "public",
+        "outrage"
+    ],
     "verbs": [
         "Bank",
         "case",
         "post",
         "even",
-        "outrage"
-    ],
-    "nouns": [
-        "industry",
-        "Bank",
-        "banking",
-        "years",
-        "Australia",
-        "former",
-        "cartel",
-        "post",
-        "crisis",
-        "case",
-        "even",
-        "greed",
-        "past",
-        "public",
         "outrage"
     ]
 }

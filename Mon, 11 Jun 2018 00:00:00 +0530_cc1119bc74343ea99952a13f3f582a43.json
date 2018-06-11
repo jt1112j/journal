@@ -1,0 +1,84 @@
+{
+    "title": "Sugar's bitter harvest: How FRP and SAP raise the cost of production",
+    "link": "https://www.business-standard.com/article/economy-policy/sugar-s-bitter-harvest-how-frp-and-sap-raise-the-cost-of-production-118061000760_1.html",
+    "pubDate": "Mon, 11 Jun 2018 00:00:00 +0530",
+    "content": "With each bumper harvest, the stock of sugar grows far in excess of domestic consumption, this is what has happened over the last sugar season (2016-17) and the current one (2017-18)",
+    "contentSnippet": "With each bumper harvest, the stock of sugar grows far in excess of domestic consumption, this is what has happened over the last sugar season (2016-17) and the current one (2017-18)",
+    "guid": "https://www.business-standard.com/article/economy-policy/sugar-s-bitter-harvest-how-frp-and-sap-raise-the-cost-of-production-118061000760_1.html",
+    "isoDate": "2018-06-10T18:30:00.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.16666666666666666,
+        "tokens": [
+            "sugar's",
+            "bitter",
+            "harvest",
+            "how",
+            "frp",
+            "and",
+            "sap",
+            "raise",
+            "the",
+            "cost",
+            "of",
+            "production"
+        ],
+        "words": [
+            "bitter"
+        ],
+        "positive": [],
+        "negative": [
+            "bitter"
+        ]
+    },
+    "article": {
+        "title": "Sugar's bitter harvest: How FRP and SAP raise the cost of production",
+        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t<p>\n\t\n\tFifty million sugarcane farmers, 5,00,000 mill workers and many others involved in ancillary activities are affected by Sugar industry’s ever-fluctuating fortunes.</p>\n<p>\n\tThe story remains the same, as Chart 1 bears out. With each bumper harvest, the stock of sugar grows far in excess of domestic consumption. This is what has happened over the last sugar season (2016-17) and the current one (2017-18); the situation is expected to worsen in the next (2018-19).\n\n\n</p>\n<!-- INPAGE_BANNER -->\n<p>\n\tWith international prices also plummeting, as shown by Chart 2, thus ruling out exports as a remedy, the sharp fall in domestic market prices, as shown in Chart 3, meant that farmers ended up facing an all-time high of Rs 220 billion in unpaid arrears from the millers. The government has introduced a buffer stock of 3 million tonnes but even then, next season’s opening stock is likely to be almost double of this year’s.</p>\n<p>\n\tThe key problem is that there is no link between the market prices of the final product (sugar and its by-products) and the administered minimum prices for the input (sugarcane). Both, the <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=fair+and+remunerative+price\" target=\"_blank\">Fair and Remunerative Price </a>(FRP), announced by the Central government, and the <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=state+advised+price\" target=\"_blank\">State Advised Price </a>(SAP), are far in excess of what market would dictate. Chart 4 shows how <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=frp\" target=\"_blank\">FRP </a>and <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=sap\" target=\"_blank\">SAP </a>raise the cost of production. Chart 5 shows how rapidly the <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=frp\" target=\"_blank\">FRP </a>has grown over the years — the SAPs tend to be higher still. The government has set new minimum procurement price for farmers at Rs 29 a kg. But even this is higher than the market price for sugar. As such, the mismatch continues. Lastly, the government has raised the target for ethanol blending from 5 per cent to 10. But, as Chart 6 shows, the actual blending achieved in 2016-17 was just 4.3 per cent.\n\t\n\t</p><hr>\n\n<p>\n\t<em><a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=statsguru\" target=\"_blank\">StatsGuru </a>is a weekly feature. Every Monday, Business Standard guides you through the numbers you need to know to make sense of the headlines; Compiled by BS Research Bureau.</em></p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
+    },
+    "adjectives": [
+        "stock",
+        "last",
+        "current",
+        "one",
+        "far",
+        "domestic",
+        "18",
+        "bitter",
+        "excess",
+        "17"
+    ],
+    "nouns": [
+        "consumption",
+        "stock",
+        "cost",
+        "raise",
+        "production",
+        "last",
+        "Sugar",
+        "sugar",
+        "harvest",
+        "current",
+        "season",
+        "one",
+        "far",
+        "domestic",
+        "18",
+        "bitter",
+        "bumper",
+        "excess",
+        "17",
+        "SAP"
+    ],
+    "verbs": [
+        "stock",
+        "cost",
+        "raise",
+        "last",
+        "Sugar",
+        "sugar",
+        "harvest",
+        "season",
+        "bitter",
+        "SAP"
+    ]
+}

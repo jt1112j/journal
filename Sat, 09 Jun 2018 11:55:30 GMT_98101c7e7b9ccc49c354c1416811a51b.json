@@ -1,0 +1,86 @@
+{
+    "title": "SBI expects Rs 30,000 crore recovery from resolution under IBC",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/sbi-expects-rs-30000-crore-recovery-from-resolution-under-ibc/articleshow/64521124.cms",
+    "pubDate": "Sat, 09 Jun 2018 11:55:30 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/sbi-expects-rs-30000-crore-recovery-from-resolution-under-ibc/articleshow/64521124.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64521124.cms\" /></a>State Bank of India, the country's largest lender expects to recover around Rs 30,000 crore from the resolution process under the Insolvency and Bankruptcy Code (IBC) during the current fiscal, an official said on Saturday.​",
+    "contentSnippet": "State Bank of India, the country's largest lender expects to recover around Rs 30,000 crore from the resolution process under the Insolvency and Bankruptcy Code (IBC) during the current fiscal, an official said on Saturday.​",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/sbi-expects-rs-30000-crore-recovery-from-resolution-under-ibc/articleshow/64521124.cms",
+    "isoDate": "2018-06-09T11:55:30.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.2,
+        "tokens": [
+            "sbi",
+            "expects",
+            "rs",
+            "30000",
+            "crore",
+            "recovery",
+            "from",
+            "resolution",
+            "under",
+            "ibc"
+        ],
+        "words": [
+            "resolution"
+        ],
+        "positive": [
+            "resolution"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "SBI expects Rs 30,000 crore recovery from resolution under IBC",
+        "content": "<section class=\"title_section clearfix\"><meta itemprop=\"headline\" content=\"SBI expects Rs 30,000 crore recovery from resolution under IBC\"><p>State Bank of India, the country's largest lender expects to recover around Rs 30,000 crore from the resolution process under the Insolvency and Bankruptcy Code (IBC) during the current fiscal, an official said on Saturday.​</p></section>"
+    },
+    "adjectives": [
+        "10",
+        "left",
+        "top",
+        "right",
+        "30",
+        "current",
+        "fiscal",
+        "official"
+    ],
+    "nouns": [
+        "India",
+        "india",
+        "process",
+        "State",
+        "Bank",
+        "Bankruptcy",
+        "business",
+        "border",
+        "10",
+        "left",
+        "style",
+        "margin",
+        "top",
+        "right",
+        "photo",
+        "30",
+        "crore",
+        "recovery",
+        "resolution",
+        "country",
+        "lender",
+        "Insolvency",
+        "Code",
+        "current",
+        "official",
+        "Saturday"
+    ],
+    "verbs": [
+        "process",
+        "State",
+        "Bank",
+        "border",
+        "align",
+        "style",
+        "top",
+        "right",
+        "recover",
+        "Code"
+    ]
+}

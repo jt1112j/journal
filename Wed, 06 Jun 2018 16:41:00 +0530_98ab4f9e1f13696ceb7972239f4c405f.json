@@ -32,22 +32,22 @@
     "article": {},
     "adjectives": [
         "25",
+        "19",
         "neutral",
-        "retained",
-        "19"
+        "retained"
     ],
     "nouns": [
-        "RBI",
-        "rate",
         "25",
+        "stance",
+        "projection",
+        "19",
+        "RBI",
+        "policy",
+        "rate",
         "bps",
         "neutral",
-        "stance",
-        "policy",
-        "projection",
         "growth",
-        "GDP",
-        "19"
+        "GDP"
     ],
     "verbs": [
         "rate"

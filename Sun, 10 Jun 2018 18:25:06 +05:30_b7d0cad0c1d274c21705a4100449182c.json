@@ -1,0 +1,63 @@
+{
+    "creator": "PTI",
+    "title": "RBI seeks update on payments data storage every fortnight",
+    "link": "https://www.financialexpress.com/industry/banking-finance/rbi-seeks-update-on-payments-data-storage-every-fortnight/1200645/",
+    "pubDate": "Sun, 10 Jun 2018 18:25:06 +05:30",
+    "dc:creator": "PTI",
+    "content": "The banking regulator had further said that at present \"only certain\" payment system operators and their outsourcing partners store the payment system data either partly or completely in the country. ",
+    "contentSnippet": "The banking regulator had further said that at present \"only certain\" payment system operators and their outsourcing partners store the payment system data either partly or completely in the country.",
+    "guid": "https://www.financialexpress.com/?p=1200645",
+    "categories": [
+        "Banking & Finance",
+        "Industry"
+    ],
+    "isoDate": "2018-06-10T12:55:06.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "rbi",
+            "seeks",
+            "update",
+            "on",
+            "payments",
+            "data",
+            "storage",
+            "every",
+            "fortnight"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {
+        "title": "RBI seeks update on payments data storage every fortnight",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1200648\" src=\"https://images.financialexpress.com/2018/06/RBI-re-660-2-620x413-1.jpg\" alt=\"rbi, payments data storage, payments data storage update\" srcset=\"https://images.financialexpress.com/2018/06/RBI-re-660-2-620x413-1.jpg 620w, https://images.financialexpress.com/2018/06/RBI-re-660-2-620x413-1-300x200.jpg 300w, https://images.financialexpress.com/2018/06/RBI-re-660-2-620x413-1-401x267.jpg 401w\" sizes=\"(max-width: 620px) 100vw, 620px\"> Amid concern around data security, the Reserve Bank of India is learnt to have asked payment services firms to provide an update on action taken by them to store transaction data in the country in every fortnight. (Reuters)</figure>\n\t\t\t</section></div><span>\n</span><p>Amid concern around data security, the Reserve Bank of India is learnt to have asked payment services firms to provide an update on action taken by them to store transaction data in the country in every fortnight. “You are hereby advised to inform the status of ensuring compliance…The same shall be submitted by June 8, 2018, followed by an update on progress at fortnightly intervals thereafter,” the <a target=\"_blank\" href=\"http://www.financialexpress.com/tag/rbi/\">RBI</a> said in the letter referring to its order dated April 6, 2018.</p><span>\n</span><p>A payment bank official on the condition of anonymity confirmed receipt of the RBI letter. According to the order issued on April 6, all payment system providers including payments bank, payment gateways are required to ensure that full end-to-end transaction details relating to payment systems operated by them are stored in a system only in India within a period of six months from the date the order was issued.</p><span>\n</span><p>The RBI has said that ensuring the safety and security of payment systems data by adoption of the best global standards and their continuous monitoring and surveillance is essential to reduce the risks from data breaches while maintaining a healthy pace of growth in digital payments.</p><span>\n</span><p>The banking regulator had further said that at present “only certain” payment system operators and their outsourcing partners store the payment system data either partly or completely in the country. The order was issued at the time social media major Facebook faced a global backlash over breach of user data.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "every",
+        "further",
+        "present",
+        "certain"
+    ],
+    "nouns": [
+        "fortnight",
+        "RBI",
+        "update",
+        "payment",
+        "data",
+        "storage",
+        "store",
+        "banking",
+        "regulator",
+        "present",
+        "system",
+        "country"
+    ],
+    "verbs": [
+        "update",
+        "store",
+        "further",
+        "present"
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "creator": "FE Online",
+    "title": "Petrol, diesel prices see massive cuts in 12 days: Delhi, Mumbai, Chennai latest rates compared",
+    "link": "https://www.financialexpress.com/market/commodities/petrol-diesel-prices-see-massive-cuts-in-12-days-delhi-mumbai-chennai-latest-rates-compared/1200462/",
+    "pubDate": "Sun, 10 Jun 2018 13:20:05 +05:30",
+    "dc:creator": "FE Online",
+    "content": "Petrol, diesel prices see massive cuts in 12 days: Domestic fuel prices were slashed for the 12th consecutive day on Sunday. The petrol prices fell around 23- 25 paise per litre in metro cities such as Delhi, Kolkata, Mumbai and Chennai.",
+    "contentSnippet": "Petrol, diesel prices see massive cuts in 12 days: Domestic fuel prices were slashed for the 12th consecutive day on Sunday. The petrol prices fell around 23- 25 paise per litre in metro cities such as Delhi, Kolkata, Mumbai and Chennai.",
+    "guid": "https://www.financialexpress.com/?p=1200462",
+    "categories": [
+        "Commodities",
+        "Market"
+    ],
+    "isoDate": "2018-06-10T07:50:05.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.06666666666666667,
+        "tokens": [
+            "petrol",
+            "diesel",
+            "prices",
+            "see",
+            "massive",
+            "cuts",
+            "in",
+            "12",
+            "days",
+            "delhi",
+            "mumbai",
+            "chennai",
+            "latest",
+            "rates",
+            "compared"
+        ],
+        "words": [
+            "cuts"
+        ],
+        "positive": [],
+        "negative": [
+            "cuts"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "Domestic",
+        "25",
+        "consecutive",
+        "slashed",
+        "12",
+        "latest",
+        "fell",
+        "massive",
+        "12th",
+        "23"
+    ],
+    "nouns": [
+        "Domestic",
+        "rates",
+        "25",
+        "Chennai",
+        "metro",
+        "Sunday",
+        "days",
+        "day",
+        "12",
+        "latest",
+        "Delhi",
+        "fell",
+        "Kolkata",
+        "fuel",
+        "Petrol",
+        "petrol",
+        "diesel",
+        "litre",
+        "Mumbai",
+        "23"
+    ],
+    "verbs": [
+        "fell",
+        "fuel"
+    ]
+}

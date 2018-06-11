@@ -1,0 +1,77 @@
+{
+    "creator": "Jefferies",
+    "title": "ONGC rating ‘buy’: Rebound in OVL profits in FY 19 key tailwind",
+    "link": "https://www.financialexpress.com/market/ongc-rating-buy-rebound-in-ovl-profits-in-fy-19-key-tailwind/1200795/",
+    "pubDate": "Mon, 11 Jun 2018 01:15:41 +05:30",
+    "dc:creator": "Jefferies",
+    "content": "A host of positives cushion earnings at time of subsidy overhang; inexpensive valuations leave risk-reward favourable.",
+    "contentSnippet": "A host of positives cushion earnings at time of subsidy overhang; inexpensive valuations leave risk-reward favourable.",
+    "guid": "https://www.financialexpress.com/?p=1200795",
+    "categories": [
+        "Market"
+    ],
+    "isoDate": "2018-06-10T19:45:41.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.16666666666666666,
+        "tokens": [
+            "ongc",
+            "rating",
+            "‘buy’",
+            "rebound",
+            "in",
+            "ovl",
+            "profits",
+            "in",
+            "fy",
+            "19",
+            "key",
+            "tailwind"
+        ],
+        "words": [
+            "profits"
+        ],
+        "positive": [
+            "profits"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "19",
+        "key",
+        "inexpensive",
+        "favourable"
+    ],
+    "nouns": [
+        "profits",
+        "rating",
+        "buy",
+        "overhang",
+        "time",
+        "leave",
+        "cushion",
+        "19",
+        "risk",
+        "Rebound",
+        "A",
+        "subsidy",
+        "earnings",
+        "key",
+        "host",
+        "tailwind",
+        "reward"
+    ],
+    "verbs": [
+        "buy",
+        "overhang",
+        "time",
+        "leave",
+        "cushion",
+        "risk",
+        "Rebound",
+        "key",
+        "host",
+        "reward"
+    ]
+}

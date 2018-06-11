@@ -1,0 +1,79 @@
+{
+    "creator": "IANS",
+    "title": "Delhi government dismisses allegations by Opposition, says no increase in VAT on fuels since 2016",
+    "link": "https://www.financialexpress.com/market/commodities/delhi-government-dismisses-allegations-by-opposition-says-no-increase-in-vat-on-fuels-since-2016/1199664/",
+    "pubDate": "Sat, 09 Jun 2018 14:03:44 +05:30",
+    "dc:creator": "IANS",
+    "content": "In 2015, the VAT rate on petrol was increased from 20 per cent to 25 per cent and on diesel from 12.5 per cent to 16.6 per cent.",
+    "contentSnippet": "In 2015, the VAT rate on petrol was increased from 20 per cent to 25 per cent and on diesel from 12.5 per cent to 16.6 per cent.",
+    "guid": "https://www.financialexpress.com/?p=1199664",
+    "categories": [
+        "Commodities",
+        "Market"
+    ],
+    "isoDate": "2018-06-09T08:33:44.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.13333333333333333,
+        "tokens": [
+            "delhi",
+            "government",
+            "dismisses",
+            "allegations",
+            "by",
+            "opposition",
+            "says",
+            "no",
+            "increase",
+            "in",
+            "vat",
+            "on",
+            "fuels",
+            "since",
+            "2016"
+        ],
+        "words": [
+            "increase",
+            "no",
+            "allegations"
+        ],
+        "positive": [
+            "increase"
+        ],
+        "negative": [
+            "no",
+            "allegations"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "25",
+        "increased",
+        "In",
+        "20",
+        "12",
+        "no",
+        "16"
+    ],
+    "nouns": [
+        "rate",
+        "25",
+        "increase",
+        "government",
+        "In",
+        "cent",
+        "20",
+        "12",
+        "Delhi",
+        "no",
+        "Opposition",
+        "VAT",
+        "petrol",
+        "diesel",
+        "16"
+    ],
+    "verbs": [
+        "rate",
+        "increase"
+    ]
+}

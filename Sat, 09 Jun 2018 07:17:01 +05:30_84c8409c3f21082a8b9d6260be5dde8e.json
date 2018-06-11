@@ -1,0 +1,96 @@
+{
+    "creator": "FE Online",
+    "title": "Massive cut in petrol prices! Slashed for 11th day; now down over Re 1 in all 4 metros: Check city-wise rates",
+    "link": "https://www.financialexpress.com/market/headline-massive-cut-in-petrol-prices-slashed-for-11th-day-now-down-over-re-1-in-all-4-metros-check-city-wise-rates/1199415/",
+    "pubDate": "Sat, 09 Jun 2018 07:17:01 +05:30",
+    "dc:creator": "FE Online",
+    "content": "Petrol, diesel price today: According to the latest price chart, one litre of petrol in Delhi costs Rs 77.02 on Saturday. Revised rates are applicable from 6:00 a.m. on June 9, 2018.",
+    "contentSnippet": "Petrol, diesel price today: According to the latest price chart, one litre of petrol in Delhi costs Rs 77.02 on Saturday. Revised rates are applicable from 6:00 a.m. on June 9, 2018.",
+    "guid": "https://www.financialexpress.com/?p=1199415",
+    "categories": [
+        "Commodities",
+        "Market"
+    ],
+    "isoDate": "2018-06-09T01:47:01.000Z",
+    "sentiment": {
+        "score": -3,
+        "comparative": -0.14285714285714285,
+        "tokens": [
+            "massive",
+            "cut",
+            "in",
+            "petrol",
+            "prices",
+            "slashed",
+            "for",
+            "11th",
+            "day",
+            "now",
+            "down",
+            "over",
+            "re",
+            "1",
+            "in",
+            "all",
+            "4",
+            "metros",
+            "check",
+            "city-wise",
+            "rates"
+        ],
+        "words": [
+            "slashed",
+            "cut"
+        ],
+        "positive": [],
+        "negative": [
+            "slashed",
+            "cut"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "Massive",
+        "cut",
+        "Slashed",
+        "11th",
+        "down",
+        "wise",
+        "According",
+        "latest",
+        "one",
+        "77",
+        "Revised",
+        "applicable"
+    ],
+    "nouns": [
+        "cut",
+        "petrol",
+        "Petrol",
+        "price",
+        "day",
+        "down",
+        "Re",
+        "Check",
+        "rates",
+        "diesel",
+        "today",
+        "latest",
+        "one",
+        "chart",
+        "litre",
+        "Delhi",
+        "costs",
+        "Saturday",
+        "June",
+        "city",
+        "wise"
+    ],
+    "verbs": [
+        "cut",
+        "price",
+        "down",
+        "Check",
+        "chart"
+    ]
+}

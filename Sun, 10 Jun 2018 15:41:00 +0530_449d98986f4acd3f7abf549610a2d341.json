@@ -1,0 +1,62 @@
+{
+    "title": "India Inc raises Rs 672 billion by issuing shares to investors in FY18",
+    "link": "https://www.business-standard.com/article/companies/india-inc-raises-rs-672-billion-by-issuing-shares-to-investors-in-fy18-118061000205_1.html",
+    "pubDate": "Sun, 10 Jun 2018 15:41:00 +0530",
+    "content": "The funds were mobilised for business expansion, refinancing of debt, working capital requirements and other general corporate purposes",
+    "contentSnippet": "The funds were mobilised for business expansion, refinancing of debt, working capital requirements and other general corporate purposes",
+    "guid": "https://www.business-standard.com/article/companies/india-inc-raises-rs-672-billion-by-issuing-shares-to-investors-in-fy18-118061000205_1.html",
+    "isoDate": "2018-06-10T10:11:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.07692307692307693,
+        "tokens": [
+            "india",
+            "inc",
+            "raises",
+            "rs",
+            "672",
+            "billion",
+            "by",
+            "issuing",
+            "shares",
+            "to",
+            "investors",
+            "in",
+            "fy18"
+        ],
+        "words": [
+            "shares"
+        ],
+        "positive": [
+            "shares"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "India Inc raises Rs 672 billion by issuing shares to investors in FY18",
+        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t\n<p>\n\tIndian firms mobilised Rs 672 billion by issuing shares to institutional investors during 2017-18, registering nearly eight-fold rise over the previous fiscal.</p>\n<p>\n\tThe firms had mopped up Rs 84.64 billion in 2016-17.\n\n\n</p>\n<!-- INPAGE_BANNER -->\n<p>\n\tAs per the latest data available with the <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=securities+and+exchange+board+of+india\" target=\"_blank\">Securities and Exchange Board of India </a>(Sebi), the capital garnered by the listed companies through the Qualified Institutional Placement (QIP) route stood at Rs 672.57 billion in FY18.</p>\n<p>\n\tDuring 2017-18, June was the busiest month, with the firms raising Rs 150 billion, followed by December (Rs 110.37 billion), May (Rs 72.98 billion), October (Rs 72.80 billion), February (Rs 56.04 million) and September (Rs 55 billion).</p>\n<p>\n\tThe funds were mobilised for business expansion, refinancing of debt, working capital requirements and other <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=general+corporate+purposes\" target=\"_blank\">general corporate purposes.</a></p>\n<p>\n\tQIP is an alternative mode of resource raising available for listed companies to raise funds from the domestic market.</p>\n<p>\n\tIn terms of numbers, 53 issues appeared in the financial year 2017-18 as compared to 20 in the previous fiscal.</p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
+    },
+    "adjectives": [
+        "general",
+        "capital",
+        "billion",
+        "working",
+        "corporate"
+    ],
+    "nouns": [
+        "general",
+        "India",
+        "capital",
+        "Inc",
+        "billion",
+        "issuing",
+        "funds",
+        "business",
+        "expansion",
+        "debt",
+        "working"
+    ],
+    "verbs": [
+        "general"
+    ]
+}

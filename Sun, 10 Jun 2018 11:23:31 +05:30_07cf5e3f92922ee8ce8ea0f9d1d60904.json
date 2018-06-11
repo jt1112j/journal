@@ -1,0 +1,58 @@
+{
+    "creator": "PTI",
+    "title": "SBI to auction 12 bad accounts this month to recover over Rs 1325cr",
+    "link": "https://www.financialexpress.com/market/sbi-to-auction-12-bad-accounts-this-month-to-recover-over-rs-1325cr/1200387/",
+    "pubDate": "Sun, 10 Jun 2018 11:23:31 +05:30",
+    "dc:creator": "PTI",
+    "content": "State Bank of India (SBI) said interested bidders can conduct due diligence of these assets with immediate effect after submitting the expression of interest and executing a non-disclosure agreement with the bank. ",
+    "contentSnippet": "State Bank of India (SBI) said interested bidders can conduct due diligence of these assets with immediate effect after submitting the expression of interest and executing a non-disclosure agreement with the bank.",
+    "guid": "https://www.financialexpress.com/?p=1200387",
+    "categories": [
+        "Market"
+    ],
+    "isoDate": "2018-06-10T05:53:31.000Z",
+    "sentiment": {
+        "score": -3,
+        "comparative": -0.23076923076923078,
+        "tokens": [
+            "sbi",
+            "to",
+            "auction",
+            "12",
+            "bad",
+            "accounts",
+            "this",
+            "month",
+            "to",
+            "recover",
+            "over",
+            "rs",
+            "1325cr"
+        ],
+        "words": [
+            "bad"
+        ],
+        "positive": [],
+        "negative": [
+            "bad"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "12",
+        "bad",
+        "interested",
+        "due",
+        "immediate"
+    ],
+    "verbs": [
+        "auction",
+        "recover",
+        "State",
+        "Bank",
+        "bank",
+        "interest",
+        "conduct",
+        "effect"
+    ]
+}

@@ -41,26 +41,12 @@
         "mass",
         "cutting"
     ],
-    "nouns": [
-        "report",
-        "research",
-        "content",
-        "services",
-        "helping",
-        "video",
-        "go",
-        "mass",
-        "Vantage",
-        "point",
-        "cutting",
-        "edge"
-    ],
     "verbs": [
-        "report",
-        "research",
         "content",
+        "research",
         "go",
         "mass",
+        "report",
         "point",
         "edge"
     ]

@@ -40,37 +40,20 @@
     },
     "adjectives": [
         "combined",
-        "growing",
         "star",
-        "According",
-        "higher"
+        "growing",
+        "higher",
+        "According"
     ],
     "verbs": [
+        "star",
+        "market",
         "League",
+        "grow",
+        "report",
         "will",
         "hope",
         "leverage",
-        "grow",
-        "star",
-        "power",
-        "report",
-        "market"
-    ],
-    "nouns": [
-        "League",
-        "will",
-        "India",
-        "leverage",
-        "growing",
-        "growth",
-        "star",
-        "power",
-        "report",
-        "market",
-        "cent",
-        "USA",
-        "Canada",
-        "UK",
-        "hope"
+        "power"
     ]
 }
