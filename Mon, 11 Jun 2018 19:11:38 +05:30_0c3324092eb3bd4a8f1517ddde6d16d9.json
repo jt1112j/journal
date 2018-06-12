@@ -1,0 +1,80 @@
+{
+    "creator": "PTI",
+    "title": "May fuel demand rises by just 3.8% due to frequent petrol, diesel price increase",
+    "link": "https://www.financialexpress.com/market/commodities/may-fuel-demand-rises-by-just-3-8-due-to-frequent-petrol-diesel-price-increase/1201911/",
+    "pubDate": "Mon, 11 Jun 2018 19:11:38 +05:30",
+    "dc:creator": "PTI",
+    "content": "India's fuel demand rose by 3.8 per cent in May as frequent price increases dented auto fuel consumption.",
+    "contentSnippet": "India's fuel demand rose by 3.8 per cent in May as frequent price increases dented auto fuel consumption.",
+    "guid": "https://www.financialexpress.com/?p=1201911",
+    "categories": [
+        "Commodities",
+        "Market"
+    ],
+    "isoDate": "2018-06-11T13:41:38.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.07142857142857142,
+        "tokens": [
+            "may",
+            "fuel",
+            "demand",
+            "rises",
+            "by",
+            "just",
+            "38",
+            "due",
+            "to",
+            "frequent",
+            "petrol",
+            "diesel",
+            "price",
+            "increase"
+        ],
+        "words": [
+            "increase",
+            "rises",
+            "demand"
+        ],
+        "positive": [
+            "increase",
+            "rises"
+        ],
+        "negative": [
+            "demand"
+        ]
+    },
+    "article": {
+        "title": "May fuel demand rises by just 3.8% due to frequent petrol, diesel price increase",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><p>India’s fuel demand rose by 3.8 per cent in May as frequent price increases dented auto fuel consumption.<br>Fuel consumption in May totalled 18.71 million tonnes as compared to 18.1 million tonnes in the same month last year, data from the Petroleum Planning and Analysis Cell (PPAC) of the oil ministry showed.</p><span>\n</span><p>The rise was lower than 4.4 per cent increase witnessed in April, 2018. During May, petrol sales was up by a meagre 2 per cent at 2.45 million tonnes while diesel consumption was flat at 7.54 million tonnes. The primary reason for this small growth was the increase in retail selling price after state-owned oil firms lifted pre-Karnataka poll hiatus to resume daily price revisions from May 14.</p><span>\n</span><p>In the following fortnight, <a target=\"_blank\" href=\"http://www.financialexpress.com/tag/petrol/\">petrol price</a> was raised by Rs 3.8 a litre and diesel by Rs 3.38 a litre. Prices started to fall towards the month-end and are off-record highs now. Petrol price hit an all-time high of Rs 78.43 a litre and diesel peaked to Rs 69.31 on May 29 in Delhi. Today, petrol costs Rs 76.58 a litre and diesel Rs 67.95.</p><span>\n</span><p>In April, petrol sales had risen 9.2 per cent while diesel, which makes up for roughly 40 per cent of all the petroleum product consumed in the country, posted a 2.6 per cent growth in consumption. During May, jet fuel or ATF sale was up 11.16 per cent at 697,000 tonnes.</p><span>\n</span><p>With the government pushing for use of cleaner liquefied petroleum gas (LPG) as cooking fuel by giving free connections to poor women, cooking gas (LPG) consumption was up 14.4 per cent at 2.04 million tonnes.<br>The result of LPG push was a near 20 per cent drop in kerosene usage at 283,000 tonnes in May when compared to the year-ago period. Naphtha sales were up 3.6 per cent at 1.04 million tonnes, while consumption of petroleum coke surged 8.7 per cent at 2.4 million tonnes.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "just",
+        "due",
+        "frequent",
+        "rose",
+        "dented"
+    ],
+    "nouns": [
+        "demand",
+        "May",
+        "consumption",
+        "fuel",
+        "due",
+        "petrol",
+        "diesel",
+        "price",
+        "increase",
+        "India",
+        "rose",
+        "cent",
+        "auto"
+    ],
+    "verbs": [
+        "demand",
+        "fuel",
+        "frequent",
+        "price",
+        "increase"
+    ]
+}

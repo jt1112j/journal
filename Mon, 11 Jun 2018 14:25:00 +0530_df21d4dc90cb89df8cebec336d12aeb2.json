@@ -1,0 +1,56 @@
+{
+    "title": "You'll soon be able to book rail tickets at 290,000 centres in remote areas",
+    "link": "https://www.business-standard.com/article/economy-policy/you-ll-soon-be-able-to-book-rail-tickets-in-remote-areas-at-290-000-centres-118061100314_1.html",
+    "pubDate": "Mon, 11 Jun 2018 14:25:00 +0530",
+    "content": "Now all 2.9 lakh CSCs will be connected through technology to facilitate railways ticket booking",
+    "contentSnippet": "Now all 2.9 lakh CSCs will be connected through technology to facilitate railways ticket booking",
+    "guid": "https://www.business-standard.com/article/economy-policy/you-ll-soon-be-able-to-book-rail-tickets-in-remote-areas-at-290-000-centres-118061100314_1.html",
+    "isoDate": "2018-06-11T08:55:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "you'll",
+            "soon",
+            "be",
+            "able",
+            "to",
+            "book",
+            "rail",
+            "tickets",
+            "at",
+            "290000",
+            "centres",
+            "in",
+            "remote",
+            "areas"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "able",
+        "remote",
+        "connected"
+    ],
+    "verbs": [
+        "will",
+        "book",
+        "rail",
+        "ticket",
+        "facilitate"
+    ],
+    "nouns": [
+        "will",
+        "book",
+        "booking",
+        "rail",
+        "remote",
+        "Now",
+        "lakh",
+        "technology",
+        "ticket"
+    ]
+}

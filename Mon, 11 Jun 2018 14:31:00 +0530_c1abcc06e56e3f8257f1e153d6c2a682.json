@@ -1,0 +1,51 @@
+{
+    "title": "Donald Trump accuses India of charging 100% tariff, says trade might stop",
+    "link": "https://www.business-standard.com/article/economy-policy/donald-trump-accuses-india-of-charging-100-tariff-says-trade-might-stop-118061100309_1.html",
+    "pubDate": "Mon, 11 Jun 2018 14:31:00 +0530",
+    "content": "Trump made a reference to India, indicating that his grievances on tariffs was not restricted to the developed economies alone",
+    "contentSnippet": "Trump made a reference to India, indicating that his grievances on tariffs was not restricted to the developed economies alone",
+    "guid": "https://www.business-standard.com/article/economy-policy/donald-trump-accuses-india-of-charging-100-tariff-says-trade-might-stop-118061100309_1.html",
+    "isoDate": "2018-06-11T09:01:00.000Z",
+    "sentiment": {
+        "score": -3,
+        "comparative": -0.25,
+        "tokens": [
+            "donald",
+            "trump",
+            "accuses",
+            "india",
+            "of",
+            "charging",
+            "100",
+            "tariff",
+            "says",
+            "trade",
+            "might",
+            "stop"
+        ],
+        "words": [
+            "stop",
+            "accuses"
+        ],
+        "positive": [],
+        "negative": [
+            "stop",
+            "accuses"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "made",
+        "100",
+        "restricted",
+        "developed",
+        "alone"
+    ],
+    "verbs": [
+        "reference",
+        "tariff",
+        "Trump",
+        "trade",
+        "stop"
+    ]
+}

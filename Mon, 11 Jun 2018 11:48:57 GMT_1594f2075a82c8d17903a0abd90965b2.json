@@ -1,0 +1,53 @@
+{
+    "title": "This city leading in tech job opportunities, says report",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/bengaluru-leading-city-in-tech-job-opportunities-report/articleshow/64543132.cms",
+    "pubDate": "Mon, 11 Jun 2018 11:48:57 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/bengaluru-leading-city-in-tech-job-opportunities-report/articleshow/64543132.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64543132.cms\" /></a>",
+    "contentSnippet": "",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/bengaluru-leading-city-in-tech-job-opportunities-report/articleshow/64543132.cms",
+    "isoDate": "2018-06-11T11:48:57.000Z",
+    "sentiment": {
+        "score": 4,
+        "comparative": 0.4444444444444444,
+        "tokens": [
+            "this",
+            "city",
+            "leading",
+            "in",
+            "tech",
+            "job",
+            "opportunities",
+            "says",
+            "report"
+        ],
+        "words": [
+            "opportunities",
+            "leading"
+        ],
+        "positive": [
+            "opportunities",
+            "leading"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "Bengaluru leading city in tech job opportunities: Report",
+        "content": "<div class=\"section1\"><div class=\"Normal\"><p>NEW DELHI: Bengaluru is the leading city for those seeking job opportunities in the technology sector, followed by Delhi-NCR and Pune in the second and third place, respectively, says a report.\n\n</p><p>According to data from Indeed, a leading job site, 22 per cent of all job postings in the technology sector originates from Bengaluru, while Delhi-NCR accounts for 11 per cent and Pune (10 per cent).\n</p><p>\"Aptly named the Silicon Valley of India, it comes as no surprise that Bengaluru continues to lead in terms of job opportunities in the technology sector, given that it has in the past been the home ground for several startups,\" the report said.\n</p><span>Other top cities in technology jobs include Hyderabad (9 per cent), Mumbai (8 per cent), Chennai (7 per cent), Mohali (4 per cent) and Ahmedabad (3 per cent).\n</span><br><span>\n</span><br><span>While the actively job seeking age group of 20-29 year old continue to show a relatively high level of interest in the technology sector, the age group is also the most actively hired. Interestingly, senior job-seekers above the age of 55 are also showing significant interest in the sector.\n</span><br><span>\n</span><br><span>Conversely, the 40-49 age group shows the least interest in the sector.\n</span><br><span>\n</span><br><span>According to a previous study by Indeed, Bengaluru is also the leading city in India for jobs related to blockchain, an upcoming segment in the technology space.\n</span><br><span>\n</span><p>\"Today organizations must keep constantly evolving in order to keep pace with the advent of new technologies, be it artificial intelligence, machine learning, or big data analytics,\" said Sashi Kumar, Managing Director, Indeed.\n</p><span>\n</span></div></div>"
+    },
+    "adjectives": [
+        "top",
+        "10",
+        "leading",
+        "left",
+        "right"
+    ],
+    "verbs": [
+        "top",
+        "border",
+        "align",
+        "style",
+        "right",
+        "report",
+        "job"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Cryptocurrency exchange hack in South Korea robs holders of $46 bn",
+    "link": "https://www.business-standard.com/article/markets/cryptocurrency-exchange-hack-in-south-korea-robs-holders-of-46-bn-118061100147_1.html",
+    "pubDate": "Mon, 11 Jun 2018 10:01:00 +0530",
+    "content": "The hack brought an abrupt end to two weeks of calm for the biggest virtual currency and reignited concerns about the security of lightly regulated crypto exchanges",
+    "contentSnippet": "The hack brought an abrupt end to two weeks of calm for the biggest virtual currency and reignited concerns about the security of lightly regulated crypto exchanges",
+    "guid": "https://www.business-standard.com/article/markets/cryptocurrency-exchange-hack-in-south-korea-robs-holders-of-46-bn-118061100147_1.html",
+    "isoDate": "2018-06-11T04:31:00.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.18181818181818182,
+        "tokens": [
+            "cryptocurrency",
+            "exchange",
+            "hack",
+            "in",
+            "south",
+            "korea",
+            "robs",
+            "holders",
+            "of",
+            "46",
+            "bn"
+        ],
+        "words": [
+            "robs"
+        ],
+        "positive": [],
+        "negative": [
+            "robs"
+        ]
+    },
+    "article": {
+        "title": "Cryptocurrency exchange hack in South Korea robs holders of $46 bn",
+        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t<p>\n\t\n\tA cryptocurrency exchange hack in <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=south+korea\" target=\"_blank\">South Korea </a>jolted holders of digital assets, fueling a $46 billion rout and extending this year’s <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=bitcoin\" target=\"_blank\">Bitcoin </a>slump to more than 50 percent.</p>\n<p>\n\tThe hack brought an abrupt end to two weeks of calm for the biggest virtual currency and reignited concerns about the security of lightly regulated crypto exchanges. The venues have come under growing scrutiny in South Korea, the U.S. and other large economies in recent months amid a range of issues including thefts, market manipulation and money laundering.\n\n\n</p>\n<!-- INPAGE_BANNER -->\n<p>\n\t<a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=bitcoin\" target=\"_blank\">Bitcoin </a>has dropped 11 percent since 5 p.m. New York time on Friday and was trading at $6,784.04 as of 10:21 a.m. in Hong Kong on Monday, bringing its year-to-date loss to 53 percent. Most other major virtual currencies also slumped, sending the market value of digital assets tracked by Coinmarketcap.com to a nearly two-month low of $294 billion. At the height of the global crypto-mania in early January, they were worth about $830 billion.</p>\n<p>\n\tEnthusiasm for virtual currencies has waned partly due to a string of cyber heists, including the nearly $500 million theft from Japanese exchange <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=coincheck+inc+\" target=\"_blank\">Coincheck Inc. </a>in late January. While the latest <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=hacking\" target=\"_blank\">hacking </a>target -- a South Korean venue called Coinrail -- is much smaller, the news triggered knee-jerk selling by investors, according to Stephen Innes, head of Asia Pacific trading at Oanda Corp. in Singapore.</p>\n<p>\n\t“This is ‘If it can happen to A, it can happen to B and it can happen to C,’ then people panic because someone is selling,” Innes said.</p>\n<p>\n\tCoinrail said in a statement on its website that some of the exchange’s digital currency appears to have been stolen by hackers, but it did not quantify the value. Coinrail only said that it was cooperating with investigators and other exchanges to try and track down the perpetrators and recover the assets.</p>\n<p>\n\tThe exchange said it has managed to freeze all exposed NPXS, NPER and ATX coins, and that other <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=cryptocurrencies\" target=\"_blank\">cryptocurrencies </a>are now being kept in a cold wallet, which isn’t connected to the Internet and is less vulnerable to theft. The statement is the only content available on the exchange’s homepage. Coinrail trades more than 50 different <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=cryptocurrencies\" target=\"_blank\">cryptocurrencies </a>and was the world’s 98th most active venue, with a 24-hour volume of about $2.65 million, according to data compiled by Coinmarketcap.com.</p>\n<p>\n\tSome Asia-listed stocks with exposure to digital currencies fell on Monday. South Korea’s <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=omnitel+inc+\" target=\"_blank\">Omnitel Inc. </a>and <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=vidente+co+\" target=\"_blank\">Vidente Co. </a>both retreated at least 4 percent, while Japan’s Remixpoint Inc. slumped about 6 percent.</p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
+    },
+    "adjectives": [
+        "calm",
+        "two",
+        "regulated",
+        "46",
+        "South",
+        "abrupt",
+        "virtual"
+    ],
+    "nouns": [
+        "security",
+        "calm",
+        "end",
+        "two",
+        "exchange",
+        "Korea",
+        "South",
+        "hack",
+        "currency"
+    ],
+    "verbs": [
+        "calm",
+        "end",
+        "exchange",
+        "hack"
+    ]
+}

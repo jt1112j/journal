@@ -1,0 +1,50 @@
+{
+    "title": "Avanti Feeds extends rally on stock split, bonus issue plan",
+    "link": "https://www.business-standard.com/article/markets/avanti-feeds-extends-rally-stock-split-bonus-issue-plan-118061100157_1.html",
+    "pubDate": "Mon, 11 Jun 2018 10:15:00 +0530",
+    "content": "The stock rallied 8% to Rs 1,980, extending its over 30% surge in past three trading sessions, after the company announced stock split from Rs 2 to Re 1 and issue of bonus shares in the ratio of 1:2.",
+    "contentSnippet": "The stock rallied 8% to Rs 1,980, extending its over 30% surge in past three trading sessions, after the company announced stock split from Rs 2 to Re 1 and issue of bonus shares in the ratio of 1:2.",
+    "guid": "https://www.business-standard.com/article/markets/avanti-feeds-extends-rally-stock-split-bonus-issue-plan-118061100157_1.html",
+    "isoDate": "2018-06-11T04:45:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.1,
+        "tokens": [
+            "avanti",
+            "feeds",
+            "extends",
+            "rally",
+            "on",
+            "stock",
+            "split",
+            "bonus",
+            "issue",
+            "plan"
+        ],
+        "words": [
+            "extends"
+        ],
+        "positive": [
+            "extends"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "three",
+        "announced",
+        "stock",
+        "past",
+        "split",
+        "30"
+    ],
+    "verbs": [
+        "company",
+        "plan",
+        "stock",
+        "rally",
+        "split",
+        "issue",
+        "surge"
+    ]
+}

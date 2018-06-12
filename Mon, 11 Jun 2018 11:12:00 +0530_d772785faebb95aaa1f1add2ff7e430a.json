@@ -1,0 +1,49 @@
+{
+    "title": "PSU banks extend gain; PNB, Corporation Bank up over 4%",
+    "link": "https://www.business-standard.com/article/markets/psu-banks-extend-gain-pnb-corporation-bank-up-over-4-118061100217_1.html",
+    "pubDate": "Mon, 11 Jun 2018 11:12:00 +0530",
+    "content": "At 11:01 am; Nifty PSU Bank index, the largest gainer among sectoral indices, was up 1.7%, rallied 6.5% in past four trading sessions, as compared to 2% rise in Nifty 50",
+    "contentSnippet": "At 11:01 am; Nifty PSU Bank index, the largest gainer among sectoral indices, was up 1.7%, rallied 6.5% in past four trading sessions, as compared to 2% rise in Nifty 50",
+    "guid": "https://www.business-standard.com/article/markets/psu-banks-extend-gain-pnb-corporation-bank-up-over-4-118061100217_1.html",
+    "isoDate": "2018-06-11T05:42:00.000Z",
+    "sentiment": {
+        "score": 3,
+        "comparative": 0.3,
+        "tokens": [
+            "psu",
+            "banks",
+            "extend",
+            "gain",
+            "pnb",
+            "corporation",
+            "bank",
+            "up",
+            "over",
+            "4"
+        ],
+        "words": [
+            "gain",
+            "extend"
+        ],
+        "positive": [
+            "gain",
+            "extend"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "past",
+        "11",
+        "Nifty",
+        "four",
+        "50"
+    ],
+    "verbs": [
+        "index",
+        "Bank",
+        "rise",
+        "gain",
+        "extend"
+    ]
+}

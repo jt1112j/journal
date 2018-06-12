@@ -1,0 +1,57 @@
+{
+    "creator": "PTI",
+    "title": "Avatar-based app helps recognise heart attack symptoms",
+    "link": "https://www.financialexpress.com/lifestyle/health/avatar-based-app-helps-recognise-heart-attack-symptoms/1201725/",
+    "pubDate": "Mon, 11 Jun 2018 16:33:17 +05:30",
+    "dc:creator": "PTI",
+    "content": "Scientists have developed an app that uses a simulated digital nurse to teach patients how to recognise symptoms of heart attack and call emergency. ",
+    "contentSnippet": "Scientists have developed an app that uses a simulated digital nurse to teach patients how to recognise symptoms of heart attack and call emergency.",
+    "guid": "https://www.financialexpress.com/?p=1201725",
+    "categories": [
+        "Health",
+        "Industry",
+        "Lifestyle",
+        "Technology"
+    ],
+    "isoDate": "2018-06-11T11:03:17.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.14285714285714285,
+        "tokens": [
+            "avatar-based",
+            "app",
+            "helps",
+            "recognise",
+            "heart",
+            "attack",
+            "symptoms"
+        ],
+        "words": [
+            "attack",
+            "helps"
+        ],
+        "positive": [
+            "helps"
+        ],
+        "negative": [
+            "attack"
+        ]
+    },
+    "article": {
+        "title": "Avatar-based app helps recognise heart attack symptoms",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1201745\" src=\"https://images.financialexpress.com/2018/06/heart.jpg\" alt=\"\" srcset=\"https://images.financialexpress.com/2018/06/heart.jpg 660w, https://images.financialexpress.com/2018/06/heart-300x200.jpg 300w, https://images.financialexpress.com/2018/06/heart-620x413.jpg 620w, https://images.financialexpress.com/2018/06/heart-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> App helps recognise heart attack symptoms. (Reuters)</figure>\n\t\t\t</section></div><span>\n</span><p>Scientists have developed an app that uses a simulated digital nurse to teach patients how to recognise symptoms of heart attack and call emergency. Patients using the SAVE app are more likely to call an ambulance when they had symptoms and had fewer hospital admissions, researchers said.</p><span>\n</span><p>“Most deaths from heart attacks occur within the first few hours of symptom onset,” said Jintana Tongpeth, a PhD student at Flinders University in Australia. “The death rate can be halved by getting patients to a hospital more quickly. Delays occur mainly because patients don’t recognise symptoms or know to call an ambulance,” said Tongpeth.</p><span>\n</span><p>An avatar is a simulated digital character that interacts by talking and using facial expressions and body language. The SAVE app uses an avatar, a nurse named Cora, to teach heart attack warning signs and symptoms, and what to do when they occur. The app has four sections heart attack warning sign quiz; heart attack signs and symptoms, showing which symptoms are more common in men versus women; what to do when having a heart attack; heart attack warning signs test.</p><span>\n</span><p>During the initial development phase, a pilot study in ten heart attack survivors found that using the app improved symptom recognition and knowledge about what to do. These results became the preliminary data for a larger, statistically powered randomised controlled trial.</p><span>\n</span><p>On Monday, researchers present results of this first randomised controlled trial testing the impact of using the app on knowledge and response to heart attack symptoms. The trial randomly allocated 70 heart attack survivors to the app plus routine discharge information or routine discharge information alone (usual care group). App users received a tablet computer, with the app installed, to use at home for six months.</p><span>\n</span><p>Knowledge of symptoms and appropriate responses was assessed in both groups at the start of the study and at six months. Ambulance use and hospitalisations during the six month period were recorded. When symptoms occurred, app users were significantly more likely to call an ambulance (89 per cent) compared to the usual care group (43 per cent).</p><span>\n</span><p>During the six months, app users spent less time in a hospital for heart problems than patients in the usual care group (3.6 days versus 6.4 days on average, respectively). At the start of the study, patients in both groups had similar knowledge of heart attack symptoms and how to react. At six months, app users had significantly better knowledge of symptoms and how to react than those who received routine discharge information alone. Some 85 per cent of app users said Cora had increased their confidence in recognising heart attack symptoms and knowing how to react.</p><span>\n</span><p>“Our study shows that patients using an avatar-based app are more likely to call emergency if they have heart attack symptoms and spend less time in hospital. A larger trial is needed to see if this translates into quicker treatment and increased survival,” said Tongpeth. “Nurses have limited time to provide discharge education and often encounter literacy and language barriers. This avatar app will be an essential tool to help overcome these difficulties. The pictures do not require patients to read, and we are translating the content so that Cora speaks 144 languages,” said Robyn Clark, a professor at Flinders University.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "simulated",
+        "developed",
+        "based",
+        "digital"
+    ],
+    "verbs": [
+        "recognise",
+        "attack",
+        "nurse",
+        "teach",
+        "call"
+    ]
+}

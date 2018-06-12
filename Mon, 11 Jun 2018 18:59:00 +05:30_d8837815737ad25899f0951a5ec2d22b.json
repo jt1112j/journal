@@ -1,0 +1,76 @@
+{
+    "creator": "FE Online",
+    "title": "Samsung Galaxy phone reportedly sets woman’s car on fire in the US – Watch its video here",
+    "link": "https://www.financialexpress.com/industry/technology/samsung-galaxy-phone-reportedly-sets-womans-car-on-fire-in-the-us-watch-its-video-here/1201989/",
+    "pubDate": "Mon, 11 Jun 2018 18:59:00 +05:30",
+    "dc:creator": "FE Online",
+    "content": "Samsung took the note of the incident immediately by giving out a response to the publication. It said that engineers have been sent out to examine the fire situation in the car and that it will be figured out which of the two phones caused the fire.",
+    "contentSnippet": "Samsung took the note of the incident immediately by giving out a response to the publication. It said that engineers have been sent out to examine the fire situation in the car and that it will be figured out which of the two phones caused the fire.",
+    "guid": "https://www.financialexpress.com/?p=1201989",
+    "categories": [
+        "Industry",
+        "Technology"
+    ],
+    "isoDate": "2018-06-11T13:29:00.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.11764705882352941,
+        "tokens": [
+            "samsung",
+            "galaxy",
+            "phone",
+            "reportedly",
+            "sets",
+            "woman’s",
+            "car",
+            "on",
+            "fire",
+            "in",
+            "the",
+            "us",
+            "–",
+            "watch",
+            "its",
+            "video",
+            "here"
+        ],
+        "words": [
+            "fire"
+        ],
+        "positive": [],
+        "negative": [
+            "fire"
+        ]
+    },
+    "article": {
+        "title": "Samsung Galaxy phone reportedly sets woman’s car on fire in the US – Watch its video here",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1201995\" src=\"https://images.financialexpress.com/2018/06/samsung_2_reuters-1.jpg\" alt=\"samsung, samsung galaxy phone\" srcset=\"https://images.financialexpress.com/2018/06/samsung_2_reuters-1.jpg 660w, https://images.financialexpress.com/2018/06/samsung_2_reuters-1-300x200.jpg 300w, https://images.financialexpress.com/2018/06/samsung_2_reuters-1-620x413.jpg 620w, https://images.financialexpress.com/2018/06/samsung_2_reuters-1-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> Samsung has issued a statement on the incident. (Source: Reuters)</figure>\n\t\t\t</section></div><span>\n</span><p>Samsung made headlines when the smartphone giant was embroiled in probably one of the biggest controversies of 2016 as its Galaxy Note 7 smartphones led to series of blasts around the world due to its faulty battery. The smartphone was completely banned on aeroplanes, followed by a mass-scale recall by the South Korean giant. While Samsung now asserts a clear standpoint on the security and safety of the Samsung phone user, a new report claims that a woman in the US escaped the burning car after one of her two Samsung phones caught fire.</p><span>\n</span><p>According to a report by WXYZ, an affiliate of ABC, the incident happened in the city of Detroit in US where a woman was driving her car with two Samsung phones – Galaxy S4 and Galaxy S8 – kept in the cupholder. After a few moments, the woman saw one of the phones emitting smoke and then a spark before it escalated into a big fire. While the woman claims to have managed to pull over along the sidewalk and get out, her car succumbed to a massive fire. The woman reportedly said that she was lucky that she wasn’t speeding her car, nor she was stuck in a traffic jam, making it easy for her to escape the fire.</p><span>\n</span><p>Watch:</p><span>\n</span><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><span>\n</span><span>\n</span><p>Meanwhile, Samsung took the note of the incident immediately by giving out a response to the publication. It said that engineers have been sent out to examine the fire situation in the car and that it will be figured out which of the two phones caused the fire. It is noteworthy that both the Samsung phones have not been recalled by the company for any technical glitches. “While we don’t comment on pending litigation, we stand behind the safety of the millions of Samsung phones in the United States,” Samsung told the publication. The woman is also not reported to have filed a lawsuit yet against Samsung.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "incident",
+        "giving",
+        "sent",
+        "figured",
+        "two"
+    ],
+    "nouns": [
+        "It",
+        "note",
+        "incident",
+        "fire",
+        "response",
+        "publication",
+        "will",
+        "car",
+        "phone",
+        "woman",
+        "US",
+        "Watch",
+        "video",
+        "sent",
+        "Galaxy",
+        "two",
+        "giving",
+        "situation"
+    ]
+}
