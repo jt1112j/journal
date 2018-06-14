@@ -1,0 +1,54 @@
+{
+    "title": "Sensex jumps 185 points in early trade",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/sensex-jumps-185-points-in-early-trade/articleshow/64567332.cms",
+    "pubDate": "Wed, 13 Jun 2018 04:37:18 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/sensex-jumps-185-points-in-early-trade/articleshow/64567332.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64567332.cms\" /></a>",
+    "contentSnippet": "",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/sensex-jumps-185-points-in-early-trade/articleshow/64567332.cms",
+    "isoDate": "2018-06-13T04:37:18.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "sensex",
+            "jumps",
+            "185",
+            "points",
+            "in",
+            "early",
+            "trade"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "top",
+        "10",
+        "left",
+        "right",
+        "early"
+    ],
+    "nouns": [
+        "india",
+        "margin",
+        "border",
+        "trade",
+        "top",
+        "business",
+        "10",
+        "left",
+        "style",
+        "photo",
+        "right"
+    ],
+    "verbs": [
+        "border",
+        "trade",
+        "top",
+        "align",
+        "style",
+        "right"
+    ]
+}

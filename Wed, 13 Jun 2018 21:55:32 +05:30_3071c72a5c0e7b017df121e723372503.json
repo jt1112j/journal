@@ -1,0 +1,47 @@
+{
+    "creator": "PTI",
+    "title": "Over 240 companies to participate in International MSME Expo next week",
+    "link": "https://www.financialexpress.com/industry/over-240-companies-to-participate-in-international-msme-expo-next-week/1205153/",
+    "pubDate": "Wed, 13 Jun 2018 21:55:32 +05:30",
+    "dc:creator": "PTI",
+    "content": "The event is supported by the Ministry of Micro, Small and Medium Enterprises (MSME) and the Ministry of Commerce and Industry.\r\n",
+    "contentSnippet": "The event is supported by the Ministry of Micro, Small and Medium Enterprises (MSME) and the Ministry of Commerce and Industry.",
+    "guid": "https://www.financialexpress.com/?p=1205153",
+    "categories": [
+        "Industry"
+    ],
+    "isoDate": "2018-06-13T16:25:32.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "over",
+            "240",
+            "companies",
+            "to",
+            "participate",
+            "in",
+            "international",
+            "msme",
+            "expo",
+            "next",
+            "week"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "International",
+        "Over",
+        "next",
+        "supported",
+        "Micro",
+        "Small",
+        "Medium"
+    ],
+    "verbs": [
+        "participate"
+    ]
+}

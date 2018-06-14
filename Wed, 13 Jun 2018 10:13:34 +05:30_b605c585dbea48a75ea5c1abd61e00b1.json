@@ -1,0 +1,64 @@
+{
+    "creator": "Bloomberg",
+    "title": "Food prices relieve Asian central banks from inflation headache, but for how long?",
+    "link": "https://www.financialexpress.com/economy/food-prices-relieve-asian-central-banks-from-inflation-headache-but-for-how-long/1204074/",
+    "pubDate": "Wed, 13 Jun 2018 10:13:34 +05:30",
+    "dc:creator": "Bloomberg",
+    "content": "Asian central bankers grappling with wobbly markets, higher energy costs and simmering trade tensions are getting relief from an old foe: food prices; however, less clear is how long the calm will hold. ",
+    "contentSnippet": "Asian central bankers grappling with wobbly markets, higher energy costs and simmering trade tensions are getting relief from an old foe: food prices; however, less clear is how long the calm will hold.",
+    "guid": "https://www.financialexpress.com/?p=1204074",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-13T04:43:34.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.07692307692307693,
+        "tokens": [
+            "food",
+            "prices",
+            "relieve",
+            "asian",
+            "central",
+            "banks",
+            "from",
+            "inflation",
+            "headache",
+            "but",
+            "for",
+            "how",
+            "long?"
+        ],
+        "words": [
+            "headache",
+            "relieve"
+        ],
+        "positive": [
+            "relieve"
+        ],
+        "negative": [
+            "headache"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "Asian",
+        "central",
+        "higher",
+        "long",
+        "wobbly",
+        "old",
+        "less",
+        "clear",
+        "calm"
+    ],
+    "verbs": [
+        "trade",
+        "relieve",
+        "long",
+        "clear",
+        "calm",
+        "will",
+        "hold"
+    ]
+}

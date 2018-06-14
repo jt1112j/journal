@@ -1,0 +1,56 @@
+{
+    "creator": "ANI",
+    "title": "GST special fortnight-long refund drive extended till June 16",
+    "link": "https://www.financialexpress.com/economy/gst-refund-drive-extended-till-june-16/1204024/",
+    "pubDate": "Wed, 13 Jun 2018 08:19:59 +05:30",
+    "dc:creator": "ANI",
+    "content": "The special fortnight-long drive to process pending Goods and Services Tax (GST) refunds has been extended by two more days till June 16. The government launched the second \"Special Drive Refund Fortnight\" from May 31 to June 14. ",
+    "contentSnippet": "The special fortnight-long drive to process pending Goods and Services Tax (GST) refunds has been extended by two more days till June 16. The government launched the second \"Special Drive Refund Fortnight\" from May 31 to June 14.",
+    "guid": "https://www.financialexpress.com/?p=1204024",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-13T02:49:59.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "gst",
+            "special",
+            "fortnight-long",
+            "refund",
+            "drive",
+            "extended",
+            "till",
+            "june",
+            "16"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "second",
+        "two",
+        "long",
+        "special",
+        "Special",
+        "extended",
+        "16",
+        "14",
+        "pending",
+        "31"
+    ],
+    "verbs": [
+        "second",
+        "process",
+        "long",
+        "drive",
+        "Drive",
+        "refund",
+        "Refund",
+        "till",
+        "Tax"
+    ]
+}

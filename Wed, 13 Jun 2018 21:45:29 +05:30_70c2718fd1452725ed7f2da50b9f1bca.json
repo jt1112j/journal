@@ -1,0 +1,61 @@
+{
+    "creator": "PTI",
+    "title": "Proud moment! Gujarat to become 1st Indian state with 100% piped gas network",
+    "link": "https://www.financialexpress.com/industry/proud-moment-gujarat-to-become-1st-indian-state-with-100-piped-gas-network/1205131/",
+    "pubDate": "Wed, 13 Jun 2018 21:45:29 +05:30",
+    "dc:creator": "PTI",
+    "content": "CGD sector is currently consuming 20 million cubic metre natural gas per day, with the demand expected to multiply as penetration grows. ",
+    "contentSnippet": "CGD sector is currently consuming 20 million cubic metre natural gas per day, with the demand expected to multiply as penetration grows.",
+    "guid": "https://www.financialexpress.com/?p=1205131",
+    "categories": [
+        "Industry"
+    ],
+    "isoDate": "2018-06-13T16:15:29.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.15384615384615385,
+        "tokens": [
+            "proud",
+            "moment",
+            "gujarat",
+            "to",
+            "become",
+            "1st",
+            "indian",
+            "state",
+            "with",
+            "100",
+            "piped",
+            "gas",
+            "network"
+        ],
+        "words": [
+            "proud"
+        ],
+        "positive": [
+            "proud"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "Proud",
+        "consuming",
+        "Indian",
+        "expected",
+        "1st",
+        "100",
+        "million",
+        "cubic",
+        "20",
+        "natural"
+    ],
+    "verbs": [
+        "multiply",
+        "state",
+        "become",
+        "gas",
+        "network",
+        "demand"
+    ]
+}

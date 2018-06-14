@@ -1,0 +1,64 @@
+{
+    "creator": "Bloomberg",
+    "title": "Popular Danish beer maker Carlsberg plans IPO in India to list local unit",
+    "link": "https://www.financialexpress.com/market/popular-danish-beer-maker-carlsberg-plans-ipo-in-india-to-list-local-unit/1204626/",
+    "pubDate": "Wed, 13 Jun 2018 15:59:30 +05:30",
+    "dc:creator": "Bloomberg",
+    "content": "Sources said the Danish brewer is interviewing potential arrangers for the share sale over the next few weeks.",
+    "contentSnippet": "Sources said the Danish brewer is interviewing potential arrangers for the share sale over the next few weeks.",
+    "guid": "https://www.financialexpress.com/?p=1204626",
+    "categories": [
+        "Market"
+    ],
+    "isoDate": "2018-06-13T10:29:30.000Z",
+    "sentiment": {
+        "score": 3,
+        "comparative": 0.23076923076923078,
+        "tokens": [
+            "popular",
+            "danish",
+            "beer",
+            "maker",
+            "carlsberg",
+            "plans",
+            "ipo",
+            "in",
+            "india",
+            "to",
+            "list",
+            "local",
+            "unit"
+        ],
+        "words": [
+            "popular"
+        ],
+        "positive": [
+            "popular"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "Popular",
+        "Danish",
+        "local",
+        "potential",
+        "next",
+        "few"
+    ],
+    "nouns": [
+        "India",
+        "share",
+        "maker",
+        "brewer",
+        "sale",
+        "IPO",
+        "Danish",
+        "beer",
+        "list",
+        "local",
+        "unit",
+        "potential",
+        "few"
+    ]
+}

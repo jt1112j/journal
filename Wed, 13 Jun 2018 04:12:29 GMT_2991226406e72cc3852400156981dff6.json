@@ -1,0 +1,61 @@
+{
+    "title": "One of Infosys' top paid executives quits",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/infosys-top-executive-sangita-singh-quits-was-among-the-highest-paid/articleshow/64567000.cms",
+    "pubDate": "Wed, 13 Jun 2018 04:12:29 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/infosys-top-executive-sangita-singh-quits-was-among-the-highest-paid/articleshow/64567000.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64567000.cms\" /></a>",
+    "contentSnippet": "",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/infosys-top-executive-sangita-singh-quits-was-among-the-highest-paid/articleshow/64567000.cms",
+    "isoDate": "2018-06-13T04:12:29.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.2857142857142857,
+        "tokens": [
+            "one",
+            "of",
+            "infosys'",
+            "top",
+            "paid",
+            "executives",
+            "quits"
+        ],
+        "words": [
+            "top"
+        ],
+        "positive": [
+            "top"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "top",
+        "10",
+        "left",
+        "right",
+        "One",
+        "paid",
+        "executive",
+        "quits"
+    ],
+    "nouns": [
+        "india",
+        "margin",
+        "border",
+        "top",
+        "business",
+        "10",
+        "left",
+        "style",
+        "photo",
+        "right",
+        "One",
+        "executive"
+    ],
+    "verbs": [
+        "border",
+        "top",
+        "align",
+        "style",
+        "right"
+    ]
+}

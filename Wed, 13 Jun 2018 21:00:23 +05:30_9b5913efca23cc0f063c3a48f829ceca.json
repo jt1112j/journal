@@ -1,0 +1,63 @@
+{
+    "creator": "PTI",
+    "title": "Any ban on non-tobacco products sale to hit livelihood, say micro retailers",
+    "link": "https://www.financialexpress.com/economy/any-ban-on-non-tobacco-products-sale-to-hit-livelihood-say-micro-retailers/1205069/",
+    "pubDate": "Wed, 13 Jun 2018 21:00:23 +05:30",
+    "dc:creator": "PTI",
+    "content": "According to media reports, the government is planning to impose restrictions to prevent micro-retailers from selling non-tobacco products. ",
+    "contentSnippet": "According to media reports, the government is planning to impose restrictions to prevent micro-retailers from selling non-tobacco products.",
+    "guid": "https://www.financialexpress.com/?p=1205069",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-13T15:30:23.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.16666666666666666,
+        "tokens": [
+            "any",
+            "ban",
+            "on",
+            "non-tobacco",
+            "products",
+            "sale",
+            "to",
+            "hit",
+            "livelihood",
+            "say",
+            "micro",
+            "retailers"
+        ],
+        "words": [
+            "ban"
+        ],
+        "positive": [],
+        "negative": [
+            "ban"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "According",
+        "Any",
+        "micro"
+    ],
+    "nouns": [
+        "ban",
+        "government",
+        "say",
+        "tobacco",
+        "sale",
+        "hit",
+        "livelihood",
+        "planning",
+        "selling"
+    ],
+    "verbs": [
+        "ban",
+        "say",
+        "prevent",
+        "hit",
+        "impose"
+    ]
+}

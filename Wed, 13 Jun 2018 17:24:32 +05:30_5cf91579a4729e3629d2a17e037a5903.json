@@ -1,0 +1,74 @@
+{
+    "creator": "FE Online",
+    "title": "Veiled attack on Trump? IMF Chief says clouds over global economy are getting darker by the day",
+    "link": "https://www.financialexpress.com/economy/veiled-attack-on-trump-imf-chief-says-clouds-over-global-economy-are-getting-darker-by-the-day/1204729/",
+    "pubDate": "Wed, 13 Jun 2018 17:24:32 +05:30",
+    "dc:creator": "FE Online",
+    "content": "What seems a veiled attack on US President Donald Trump, International Monetary Fund Managing Director Christine Lagarde said that the risks to the global economy are rising and clouds are getting darker day by day. ",
+    "contentSnippet": "What seems a veiled attack on US President Donald Trump, International Monetary Fund Managing Director Christine Lagarde said that the risks to the global economy are rising and clouds are getting darker day by day.",
+    "guid": "https://www.financialexpress.com/?p=1204729",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-13T11:54:32.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.058823529411764705,
+        "tokens": [
+            "veiled",
+            "attack",
+            "on",
+            "trump?",
+            "imf",
+            "chief",
+            "says",
+            "clouds",
+            "over",
+            "global",
+            "economy",
+            "are",
+            "getting",
+            "darker",
+            "by",
+            "the",
+            "day"
+        ],
+        "words": [
+            "attack"
+        ],
+        "positive": [],
+        "negative": [
+            "attack"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "International",
+        "rising",
+        "Monetary",
+        "Veiled",
+        "veiled",
+        "Chief",
+        "global"
+    ],
+    "verbs": [
+        "attack",
+        "Trump",
+        "Fund"
+    ],
+    "nouns": [
+        "International",
+        "rising",
+        "attack",
+        "economy",
+        "Trump",
+        "Chief",
+        "getting",
+        "day",
+        "US",
+        "President",
+        "Fund",
+        "Director",
+        "IMF"
+    ]
+}

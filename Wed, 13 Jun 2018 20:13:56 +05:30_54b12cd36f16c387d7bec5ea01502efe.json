@@ -1,0 +1,57 @@
+{
+    "creator": "PTI",
+    "title": "Cabinet clears HDFC Bank’s proposal to raise Rs 24,000 cr via FDI",
+    "link": "https://www.financialexpress.com/industry/banking-finance/cabinet-clears-hdfc-banks-proposal-to-raise-rs-24000-cr-via-fdi/1205031/",
+    "pubDate": "Wed, 13 Jun 2018 20:13:56 +05:30",
+    "dc:creator": "PTI",
+    "content": "With the raising of this capital, FDI in the bank will hit the regulatory ceiling of 74 per cent, he said. Currently, the FDI in the banks stands at 72.62 per cent. ",
+    "contentSnippet": "With the raising of this capital, FDI in the bank will hit the regulatory ceiling of 74 per cent, he said. Currently, the FDI in the banks stands at 72.62 per cent.",
+    "guid": "https://www.financialexpress.com/?p=1205031",
+    "categories": [
+        "Banking & Finance",
+        "Industry"
+    ],
+    "isoDate": "2018-06-13T14:43:56.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.08333333333333333,
+        "tokens": [
+            "cabinet",
+            "clears",
+            "hdfc",
+            "bank’s",
+            "proposal",
+            "to",
+            "raise",
+            "rs",
+            "24000",
+            "cr",
+            "via",
+            "fdi"
+        ],
+        "words": [
+            "clears"
+        ],
+        "positive": [
+            "clears"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "regulatory",
+        "capital",
+        "72",
+        "raising",
+        "24",
+        "74",
+        "62"
+    ],
+    "verbs": [
+        "will",
+        "Bank",
+        "bank",
+        "hit",
+        "raise"
+    ]
+}

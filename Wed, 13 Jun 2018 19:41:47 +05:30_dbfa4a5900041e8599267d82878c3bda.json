@@ -1,0 +1,55 @@
+{
+    "creator": "PTI",
+    "title": "Hiring activity sees 11% rise in May; here are sectors that are offering jobs",
+    "link": "https://www.financialexpress.com/industry/hiring-activity-sees-11-rise-in-may-here-are-sectors-that-are-offering-jobs/1205015/",
+    "pubDate": "Wed, 13 Jun 2018 19:41:47 +05:30",
+    "dc:creator": "PTI",
+    "content": "Sub-senior (8-12 years) and top-management (more than 16 years) roles also witnessed an increase of 5 per cent in hiring.",
+    "contentSnippet": "Sub-senior (8-12 years) and top-management (more than 16 years) roles also witnessed an increase of 5 per cent in hiring.",
+    "guid": "https://www.financialexpress.com/?p=1205015",
+    "categories": [
+        "Industry"
+    ],
+    "isoDate": "2018-06-13T14:11:47.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.07142857142857142,
+        "tokens": [
+            "hiring",
+            "activity",
+            "sees",
+            "11",
+            "rise",
+            "in",
+            "may",
+            "here",
+            "are",
+            "sectors",
+            "that",
+            "are",
+            "offering",
+            "jobs"
+        ],
+        "words": [
+            "rise"
+        ],
+        "positive": [
+            "rise"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "top",
+        "11",
+        "16",
+        "12",
+        "senior"
+    ],
+    "verbs": [
+        "rise",
+        "top",
+        "increase",
+        "Sub"
+    ]
+}

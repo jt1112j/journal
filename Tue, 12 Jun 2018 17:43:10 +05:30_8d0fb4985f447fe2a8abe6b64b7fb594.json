@@ -1,0 +1,84 @@
+{
+    "creator": "FE Online",
+    "title": "Good news, and bad for Indian economy: Industrial output rises even as inflation surges to 4-month high",
+    "link": "https://www.financialexpress.com/economy/good-news-and-bad-for-indian-economy-industrial-output-rises-even-as-inflation-surges-to-4-month-high/1203292/",
+    "pubDate": "Tue, 12 Jun 2018 17:43:10 +05:30",
+    "dc:creator": "FE Online",
+    "content": "CPI inflation jumped further in May to a four-month high to 4.87 percent as compared to 4.58 percent of the previous month.",
+    "contentSnippet": "CPI inflation jumped further in May to a four-month high to 4.87 percent as compared to 4.58 percent of the previous month.",
+    "guid": "https://www.financialexpress.com/?p=1203292",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-12T12:13:10.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.058823529411764705,
+        "tokens": [
+            "good",
+            "news",
+            "and",
+            "bad",
+            "for",
+            "indian",
+            "economy",
+            "industrial",
+            "output",
+            "rises",
+            "even",
+            "as",
+            "inflation",
+            "surges",
+            "to",
+            "4-month",
+            "high"
+        ],
+        "words": [
+            "rises",
+            "bad",
+            "good"
+        ],
+        "positive": [
+            "rises",
+            "good"
+        ],
+        "negative": [
+            "bad"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "Indian",
+        "Industrial",
+        "Good",
+        "bad",
+        "four",
+        "previous",
+        "further",
+        "high",
+        "even",
+        "87",
+        "58"
+    ],
+    "nouns": [
+        "Indian",
+        "inflation",
+        "output",
+        "month",
+        "Good",
+        "percent",
+        "bad",
+        "economy",
+        "four",
+        "high",
+        "even",
+        "May",
+        "news",
+        "CPI"
+    ],
+    "verbs": [
+        "output",
+        "further",
+        "even"
+    ]
+}

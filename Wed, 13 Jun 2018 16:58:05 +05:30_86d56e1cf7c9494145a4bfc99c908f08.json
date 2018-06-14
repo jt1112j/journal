@@ -1,0 +1,68 @@
+{
+    "creator": "FE Online",
+    "title": "Fitch bets bigger on India; raises GDP growth forecast for FY19 after stellar Q4 performance",
+    "link": "https://www.financialexpress.com/economy/fitch-bets-bigger-on-india-raises-gdp-growth-forecast-for-both-fy19-fy20-after-stellar-q4-performance/1204770/",
+    "pubDate": "Wed, 13 Jun 2018 16:58:05 +05:30",
+    "dc:creator": "FE Online",
+    "content": "Rating agency Fitch today raised its GDP growth forecast for both financial year 2018-19 and 2019-20 to 7.4% and 7.5% respectively. ",
+    "contentSnippet": "Rating agency Fitch today raised its GDP growth forecast for both financial year 2018-19 and 2019-20 to 7.4% and 7.5% respectively.",
+    "guid": "https://www.financialexpress.com/?p=1204770",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-13T11:28:05.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.13333333333333333,
+        "tokens": [
+            "fitch",
+            "bets",
+            "bigger",
+            "on",
+            "india",
+            "raises",
+            "gdp",
+            "growth",
+            "forecast",
+            "for",
+            "fy19",
+            "after",
+            "stellar",
+            "q4",
+            "performance"
+        ],
+        "words": [
+            "growth"
+        ],
+        "positive": [
+            "growth"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "raised",
+        "stellar",
+        "19",
+        "bigger",
+        "financial",
+        "20"
+    ],
+    "nouns": [
+        "Rating",
+        "India",
+        "forecast",
+        "year",
+        "growth",
+        "Fitch",
+        "performance",
+        "19",
+        "GDP",
+        "agency",
+        "today",
+        "20"
+    ],
+    "verbs": [
+        "forecast"
+    ]
+}

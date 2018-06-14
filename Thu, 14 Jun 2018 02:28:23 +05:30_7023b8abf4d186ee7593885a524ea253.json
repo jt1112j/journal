@@ -1,0 +1,47 @@
+{
+    "creator": "Reuters",
+    "title": "Dollar mostly firmer as Federal Reserve sees more US rate hikes",
+    "link": "https://www.financialexpress.com/market/commodities/dollar-mostly-firmer-as-federal-reserve-sees-more-us-rate-hikes/1205335/",
+    "pubDate": "Thu, 14 Jun 2018 02:28:23 +05:30",
+    "dc:creator": "Reuters",
+    "content": "The dollar ended steady to modestly higher on Wednesday.",
+    "contentSnippet": "The dollar ended steady to modestly higher on Wednesday.",
+    "guid": "https://www.financialexpress.com/?p=1205335",
+    "categories": [
+        "Commodities",
+        "Market"
+    ],
+    "isoDate": "2018-06-13T20:58:23.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "dollar",
+            "mostly",
+            "firmer",
+            "as",
+            "federal",
+            "reserve",
+            "sees",
+            "more",
+            "us",
+            "rate",
+            "hikes"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "higher",
+        "Federal",
+        "ended",
+        "steady"
+    ],
+    "verbs": [
+        "Reserve",
+        "rate",
+        "steady"
+    ]
+}

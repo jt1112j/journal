@@ -1,0 +1,53 @@
+{
+    "title": "Sensex logs modest gains in choppy trade",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/sensex-logs-modest-gains-in-choppy-trade/articleshow/64572594.cms",
+    "pubDate": "Wed, 13 Jun 2018 10:48:01 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/sensex-logs-modest-gains-in-choppy-trade/articleshow/64572594.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64572594.cms\" /></a>The BSE Sensex rose 47 points today to close at 35,739.16 in see-saw trade, led by gains in software exporters and healthcare stocks.",
+    "contentSnippet": "The BSE Sensex rose 47 points today to close at 35,739.16 in see-saw trade, led by gains in software exporters and healthcare stocks.",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/sensex-logs-modest-gains-in-choppy-trade/articleshow/64572594.cms",
+    "isoDate": "2018-06-13T10:48:01.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.2857142857142857,
+        "tokens": [
+            "sensex",
+            "logs",
+            "modest",
+            "gains",
+            "in",
+            "choppy",
+            "trade"
+        ],
+        "words": [
+            "gains"
+        ],
+        "positive": [
+            "gains"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "rose",
+        "modest",
+        "top",
+        "10",
+        "left",
+        "right",
+        "16",
+        "close",
+        "choppy",
+        "47",
+        "35"
+    ],
+    "verbs": [
+        "border",
+        "trade",
+        "top",
+        "align",
+        "style",
+        "right",
+        "close",
+        "saw"
+    ]
+}

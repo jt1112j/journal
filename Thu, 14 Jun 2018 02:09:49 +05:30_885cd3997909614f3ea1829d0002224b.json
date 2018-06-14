@@ -1,0 +1,80 @@
+{
+    "creator": "Nanda Kasabe",
+    "title": "Private dairies in Maha cut cow milk prices",
+    "link": "https://www.financialexpress.com/market/commodities/private-dairies-in-maha-cut-cow-milk-prices/1205320/",
+    "pubDate": "Thu, 14 Jun 2018 02:09:49 +05:30",
+    "dc:creator": "Nanda Kasabe",
+    "content": "Nearly 30 private dairy brands from Maharashtra have announced to cut retail prices of cow milk by `4 per litre, leading to a lot of unrest among the cooperative sector. The price cut will become applicable from June 16.",
+    "contentSnippet": "Nearly 30 private dairy brands from Maharashtra have announced to cut retail prices of cow milk by `4 per litre, leading to a lot of unrest among the cooperative sector. The price cut will become applicable from June 16.",
+    "guid": "https://www.financialexpress.com/?p=1205320",
+    "categories": [
+        "Commodities",
+        "Market"
+    ],
+    "isoDate": "2018-06-13T20:39:49.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.125,
+        "tokens": [
+            "private",
+            "dairies",
+            "in",
+            "maha",
+            "cut",
+            "cow",
+            "milk",
+            "prices"
+        ],
+        "words": [
+            "cut"
+        ],
+        "positive": [],
+        "negative": [
+            "cut"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "announced",
+        "applicable",
+        "Private",
+        "private",
+        "cut",
+        "30",
+        "leading",
+        "cooperative",
+        "16"
+    ],
+    "nouns": [
+        "June",
+        "will",
+        "Private",
+        "private",
+        "price",
+        "sector",
+        "cut",
+        "retail",
+        "litre",
+        "cow",
+        "dairy",
+        "Maha",
+        "Maharashtra",
+        "milk",
+        "30",
+        "unrest",
+        "cooperative",
+        "16",
+        "leading",
+        "lot"
+    ],
+    "verbs": [
+        "will",
+        "price",
+        "cut",
+        "retail",
+        "cow",
+        "milk",
+        "lot",
+        "become"
+    ]
+}

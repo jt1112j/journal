@@ -1,0 +1,82 @@
+{
+    "creator": "PTI",
+    "title": "India discusses ‘Oil Buyers Club’ with China; seeks US crude to counter OPEC",
+    "link": "https://www.financialexpress.com/market/india-discusses-oil-buyers-club-with-china-seeks-us-crude-to-counter-opec/1204723/",
+    "pubDate": "Wed, 13 Jun 2018 17:36:10 +05:30",
+    "dc:creator": "PTI",
+    "content": "With oil producers' cartel, OPEC playing havoc with prices, India discussed with China the possibility of forming an 'oil buyers club' that can negotiate better terms with sellers as well as getting more US crude oil to Asia to cut dominance of the oil block. ",
+    "contentSnippet": "With oil producers' cartel, OPEC playing havoc with prices, India discussed with China the possibility of forming an 'oil buyers club' that can negotiate better terms with sellers as well as getting more US crude oil to Asia to cut dominance of the oil block.",
+    "guid": "https://www.financialexpress.com/?p=1204723",
+    "categories": [
+        "Market"
+    ],
+    "isoDate": "2018-06-13T12:06:10.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.07692307692307693,
+        "tokens": [
+            "india",
+            "discusses",
+            "‘oil",
+            "buyers",
+            "club’",
+            "with",
+            "china",
+            "seeks",
+            "us",
+            "crude",
+            "to",
+            "counter",
+            "opec"
+        ],
+        "words": [
+            "crude"
+        ],
+        "positive": [],
+        "negative": [
+            "crude"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "cut",
+        "crude",
+        "counter",
+        "better"
+    ],
+    "nouns": [
+        "India",
+        "playing",
+        "US",
+        "possibility",
+        "China",
+        "getting",
+        "terms",
+        "cut",
+        "Oil",
+        "oil",
+        "cartel",
+        "counter",
+        "OPEC",
+        "crude",
+        "Club",
+        "club",
+        "havoc",
+        "sellers",
+        "dominance",
+        "better",
+        "Asia",
+        "block"
+    ],
+    "verbs": [
+        "cut",
+        "Oil",
+        "oil",
+        "Club",
+        "club",
+        "counter",
+        "negotiate",
+        "better",
+        "block"
+    ]
+}

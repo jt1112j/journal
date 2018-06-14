@@ -1,0 +1,66 @@
+{
+    "title": "Fitch downgrades SBI, BoB viability rating as asset quality deteriorates",
+    "link": "https://www.business-standard.com/article/economy-policy/fitch-downgrades-sbi-bank-of-baroda-viability-rating-by-one-notch-118061300861_1.html",
+    "pubDate": "Wed, 13 Jun 2018 17:32:00 +0530",
+    "content": "The banks' core capital buffers appear more vulnerable to moderate shocks, the rating agency says",
+    "contentSnippet": "The banks' core capital buffers appear more vulnerable to moderate shocks, the rating agency says",
+    "guid": "https://www.business-standard.com/article/economy-policy/fitch-downgrades-sbi-bank-of-baroda-viability-rating-by-one-notch-118061300861_1.html",
+    "isoDate": "2018-06-13T12:02:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.2,
+        "tokens": [
+            "fitch",
+            "downgrades",
+            "sbi",
+            "bob",
+            "viability",
+            "rating",
+            "as",
+            "asset",
+            "quality",
+            "deteriorates"
+        ],
+        "words": [
+            "deteriorates",
+            "quality",
+            "asset"
+        ],
+        "positive": [
+            "quality",
+            "asset"
+        ],
+        "negative": [
+            "deteriorates"
+        ]
+    },
+    "article": {
+        "title": "Fitch downgrades SBI, BoB viability rating as asset quality deteriorates",
+        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t<p>\n\tGlobal rating agency Fitch ratings has downgraded viability rating by one notch for State Bank of India and Bank of Baroda, on weakened intrinsic risk profile.</p>\n<p>\n\tThe profiles of the two banks have been impacted due to negative effect of persistently poor asset quality and earnings on their capital position. The banks' core capital buffers also appear more vulnerable to moderate shocks, Fitch said in a statement on Wednesday.\n\n\n</p>\n<!-- INPAGE_BANNER -->\n<p>\n\tFitch affirmed the 'BBB' Long-Term Issuer Default Ratings (IDRs) for five Indian banks: State Bank of India (SBI), Bank of Baroda (BoB), Bank of Baroda (New Zealand) Limited (BoB NZ), Canara Bank (Canara) and Bank of India (BoI). The Outlook is Stable.</p>\n<p>\n\tAbout SBI viability rating (VR), Fitch said the one-notch downgrade for VR  to 'bb+' from 'bbb-' reflects the bank's vulnerable core capitalisation from its prolonged asset quality problems and weak earnings.</p>\n<p>\n\tSBI’s Common Equity Tier 1 (CET-1) ratio slightly declined to 9.7 per cent in FY18, as its net loss - the first in many decades - partly counter-balanced fresh capital raising of $ 2.3 billion during the year (6.7 per cent of FY17 consolidated equity) and government capital. “We believe more fresh capital is needed for growth and to manage heightened balance-sheet stress”, it added.</p>\n<p>\n\tSBI's Non-performing Loan (NPL) ratio increased further to 11 per cent - in line with the sector - while its net NPL/Core Capital exceeded 50 per cent. Both ratios are better than at most public-sector banks, but have increased risk for core capitalisation.</p>\n<p>\n\tReferring to rating action on Bank of Baroda, Fitch said the one-notch downgrade of VR to 'bb' from 'bb+' reflects increasing pressure on its capital position from extended financial weakness in terms of NPLs and earnings.</p>\n<p>\n\tIts CET1 ratio, at 9.2 per cent, was slightly better despite losses and is higher than that of most state-owned peers. However, its NPL ratio jumped to 12.3 per cent, leading to deterioration in net NPL/ Core Capital ratio to above 60 per cent, despite better provision cover of 58 per cent. The bank's portfolio of watch-list loans is around two per cent and can add to asset-quality pressure if NPL resolution slows.</p>\n<p>\n\tFitch believes that BoB's capital flexibility is better than that of many public-sector peers, but the bank has not raised fresh capital, resulting in stagnating capital levels amid rising stress. Its chances of rebounding are better than those of many state-owned peers, it added.</p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
+    },
+    "adjectives": [
+        "capital",
+        "quality",
+        "vulnerable",
+        "moderate"
+    ],
+    "verbs": [
+        "appear",
+        "core",
+        "BoB",
+        "moderate"
+    ],
+    "nouns": [
+        "capital",
+        "core",
+        "Fitch",
+        "BoB",
+        "viability",
+        "rating",
+        "asset",
+        "quality",
+        "banks",
+        "moderate",
+        "agency"
+    ]
+}

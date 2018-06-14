@@ -1,0 +1,65 @@
+{
+    "creator": "FE Bureau",
+    "title": "ABG Shipyard: NCLT reschedules hearing on Liberty House bid",
+    "link": "https://www.financialexpress.com/market/abg-shipyard-nclt-reschedules-hearing-on-liberty-house-bid/1205396/",
+    "pubDate": "Thu, 14 Jun 2018 03:21:22 +05:30",
+    "dc:creator": "FE Bureau",
+    "content": "The Ahmedabad bench of the NCLT has rescheduled the hearing on Liberty House Group’s bid for ABG Shipyard on account of non-appearance of the resolution professional (RP), Sundaresh Bhat. The bench will now hear the matter on June 25.",
+    "contentSnippet": "The Ahmedabad bench of the NCLT has rescheduled the hearing on Liberty House Group’s bid for ABG Shipyard on account of non-appearance of the resolution professional (RP), Sundaresh Bhat. The bench will now hear the matter on June 25.",
+    "guid": "https://www.financialexpress.com/?p=1205396",
+    "categories": [
+        "Market"
+    ],
+    "isoDate": "2018-06-13T21:51:22.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "abg",
+            "shipyard",
+            "nclt",
+            "reschedules",
+            "hearing",
+            "on",
+            "liberty",
+            "house",
+            "bid"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "hearing",
+        "professional",
+        "25"
+    ],
+    "nouns": [
+        "June",
+        "account",
+        "resolution",
+        "Shipyard",
+        "hearing",
+        "Liberty",
+        "House",
+        "bid",
+        "bench",
+        "Group",
+        "professional",
+        "appearance",
+        "will",
+        "matter",
+        "25"
+    ],
+    "verbs": [
+        "account",
+        "bid",
+        "House",
+        "hear",
+        "bench",
+        "Group",
+        "will",
+        "matter"
+    ]
+}

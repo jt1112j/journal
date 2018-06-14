@@ -1,0 +1,78 @@
+{
+    "creator": "Shritama Bose",
+    "title": "Debit card usage at POS back to note ban levels",
+    "link": "https://www.financialexpress.com/economy/debit-card-usage-at-pos-back-to-note-ban-levels/1203838/",
+    "pubDate": "Wed, 13 Jun 2018 03:14:42 +05:30",
+    "dc:creator": "Shritama Bose",
+    "content": "The volume of debit card transactions at point of sale (POS) terminals bounced back to demonetisation levels in April this year, shows data released by the Reserve Bank of India (RBI) in its monthly bulletin for June 2018.",
+    "contentSnippet": "The volume of debit card transactions at point of sale (POS) terminals bounced back to demonetisation levels in April this year, shows data released by the Reserve Bank of India (RBI) in its monthly bulletin for June 2018.",
+    "guid": "https://www.financialexpress.com/?p=1203838",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-12T21:44:42.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.2,
+        "tokens": [
+            "debit",
+            "card",
+            "usage",
+            "at",
+            "pos",
+            "back",
+            "to",
+            "note",
+            "ban",
+            "levels"
+        ],
+        "words": [
+            "ban"
+        ],
+        "positive": [],
+        "negative": [
+            "ban"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "monthly",
+        "back"
+    ],
+    "nouns": [
+        "Reserve",
+        "ban",
+        "Bank",
+        "India",
+        "year",
+        "April",
+        "monthly",
+        "RBI",
+        "note",
+        "transactions",
+        "card",
+        "sale",
+        "Debit",
+        "debit",
+        "usage",
+        "back",
+        "volume",
+        "point",
+        "demonetisation",
+        "data",
+        "bulletin",
+        "June"
+    ],
+    "verbs": [
+        "Reserve",
+        "ban",
+        "Bank",
+        "note",
+        "card",
+        "Debit",
+        "debit",
+        "back",
+        "point",
+        "bulletin"
+    ]
+}

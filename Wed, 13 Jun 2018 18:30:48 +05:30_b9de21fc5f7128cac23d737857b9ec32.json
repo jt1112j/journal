@@ -1,0 +1,63 @@
+{
+    "creator": "FE Online",
+    "title": "Important alert for HDFC Bank Debit Card holders – What users must know",
+    "link": "https://www.financialexpress.com/industry/banking-finance/important-alert-for-hdfc-bank-debit-card-holders-what-users-must-know/1204939/",
+    "pubDate": "Wed, 13 Jun 2018 18:30:48 +05:30",
+    "dc:creator": "FE Online",
+    "content": "HDFC Bank has issued an important update regarding the debit card. Here is what the private lender informed.",
+    "contentSnippet": "HDFC Bank has issued an important update regarding the debit card. Here is what the private lender informed.",
+    "guid": "https://www.financialexpress.com/?p=1204939",
+    "categories": [
+        "Banking & Finance",
+        "Industry"
+    ],
+    "isoDate": "2018-06-13T13:00:48.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.07692307692307693,
+        "tokens": [
+            "important",
+            "alert",
+            "for",
+            "hdfc",
+            "bank",
+            "debit",
+            "card",
+            "holders",
+            "–",
+            "what",
+            "users",
+            "must",
+            "know"
+        ],
+        "words": [
+            "alert",
+            "important"
+        ],
+        "positive": [
+            "important"
+        ],
+        "negative": [
+            "alert"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "informed",
+        "private",
+        "Important",
+        "important",
+        "alert",
+        "Here"
+    ],
+    "verbs": [
+        "know",
+        "Bank",
+        "Debit",
+        "debit",
+        "Card",
+        "card",
+        "alert",
+        "update"
+    ]
+}

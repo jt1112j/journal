@@ -1,0 +1,66 @@
+{
+    "creator": "FE Bureau",
+    "title": "HK panel tightens supervision of IOB branch",
+    "link": "https://www.financialexpress.com/money/hk-panel-tightens-supervision-of-iob-branch/1205333/",
+    "pubDate": "Thu, 14 Jun 2018 02:20:49 +05:30",
+    "dc:creator": "FE Bureau",
+    "content": "Indian Overseas Bank has said the Hong Kong Monetary Authority has imposed enhanced supervision on its Hong Kong Branch in view of the capital position of the bank being below the requirement (of the Reserve Bank of  India. ",
+    "contentSnippet": "Indian Overseas Bank has said the Hong Kong Monetary Authority has imposed enhanced supervision on its Hong Kong Branch in view of the capital position of the bank being below the requirement (of the Reserve Bank of  India.",
+    "guid": "https://www.financialexpress.com/?p=1205333",
+    "categories": [
+        "Market",
+        "Money"
+    ],
+    "isoDate": "2018-06-13T20:50:49.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "hk",
+            "panel",
+            "tightens",
+            "supervision",
+            "of",
+            "iob",
+            "branch"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "Indian",
+        "imposed",
+        "Overseas",
+        "Monetary",
+        "capital",
+        "enhanced"
+    ],
+    "nouns": [
+        "Indian",
+        "India",
+        "Reserve",
+        "supervision",
+        "panel",
+        "branch",
+        "Branch",
+        "Bank",
+        "bank",
+        "Authority",
+        "view",
+        "capital",
+        "position",
+        "requirement"
+    ],
+    "verbs": [
+        "Reserve",
+        "panel",
+        "Bank",
+        "bank",
+        "branch",
+        "Branch",
+        "view",
+        "position"
+    ]
+}

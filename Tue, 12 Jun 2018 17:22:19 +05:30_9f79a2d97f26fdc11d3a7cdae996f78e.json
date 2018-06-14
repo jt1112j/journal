@@ -1,0 +1,87 @@
+{
+    "creator": "FE Online",
+    "title": "What’s great about Modi’s IBC war on NPA? Top banker Uday Kotak has this to say",
+    "link": "https://www.financialexpress.com/economy/whats-great-about-modis-ibc-war-on-npa-top-banker-uday-kotak-has-to-say-this/1203275/",
+    "pubDate": "Tue, 12 Jun 2018 17:22:19 +05:30",
+    "dc:creator": "FE Online",
+    "content": "Kotak Mahindra Bank MD Uday Kotak, who has never shied away from expressing his angst against banking sector issues, has said that even as the newly-adopted Insolvency and Bankruptcy Code has challenges, the government is \"acting quickly when quick changes are required\".",
+    "contentSnippet": "Kotak Mahindra Bank MD Uday Kotak, who has never shied away from expressing his angst against banking sector issues, has said that even as the newly-adopted Insolvency and Bankruptcy Code has challenges, the government is \"acting quickly when quick changes are required\".",
+    "guid": "https://www.financialexpress.com/?p=1203275",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-12T11:52:19.000Z",
+    "sentiment": {
+        "score": 3,
+        "comparative": 0.1875,
+        "tokens": [
+            "what’s",
+            "great",
+            "about",
+            "modi’s",
+            "ibc",
+            "war",
+            "on",
+            "npa?",
+            "top",
+            "banker",
+            "uday",
+            "kotak",
+            "has",
+            "this",
+            "to",
+            "say"
+        ],
+        "words": [
+            "top",
+            "war",
+            "great"
+        ],
+        "positive": [
+            "top",
+            "great"
+        ],
+        "negative": [
+            "war"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "Top",
+        "required",
+        "acting",
+        "great",
+        "even",
+        "away",
+        "adopted",
+        "quick"
+    ],
+    "nouns": [
+        "banker",
+        "Bank",
+        "banking",
+        "Bankruptcy",
+        "sector",
+        "Top",
+        "acting",
+        "government",
+        "great",
+        "say",
+        "even",
+        "NPA",
+        "MD",
+        "Insolvency",
+        "angst",
+        "quick",
+        "war",
+        "Code"
+    ],
+    "verbs": [
+        "Bank",
+        "Top",
+        "say",
+        "even",
+        "war",
+        "Code"
+    ]
+}

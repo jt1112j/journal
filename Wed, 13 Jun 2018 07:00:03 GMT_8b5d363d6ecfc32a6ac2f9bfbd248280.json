@@ -1,0 +1,90 @@
+{
+    "title": "Every hour, 11 people complain against their bank",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/every-hour-11-people-complain-against-their-bank/articleshow/64568944.cms",
+    "pubDate": "Wed, 13 Jun 2018 07:00:03 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/every-hour-11-people-complain-against-their-bank/articleshow/64568944.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64568944.cms\" /></a>From usurious interests to deliberate delay in accepting payments (which leads to penalties), and from non-adherence to fair practices to refusal to close accounts, more than 4 lakh people have lodged complaints against the banks in the period between April 1, 2010 to March 31, 2017, at an average of 11 every hour.",
+    "contentSnippet": "From usurious interests to deliberate delay in accepting payments (which leads to penalties), and from non-adherence to fair practices to refusal to close accounts, more than 4 lakh people have lodged complaints against the banks in the period between April 1, 2010 to March 31, 2017, at an average of 11 every hour.",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/every-hour-11-people-complain-against-their-bank/articleshow/64568944.cms",
+    "isoDate": "2018-06-13T07:00:03.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.25,
+        "tokens": [
+            "every",
+            "hour",
+            "11",
+            "people",
+            "complain",
+            "against",
+            "their",
+            "bank"
+        ],
+        "words": [
+            "complain"
+        ],
+        "positive": [],
+        "negative": [
+            "complain"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "31",
+        "top",
+        "10",
+        "left",
+        "right",
+        "accepting",
+        "close",
+        "deliberate",
+        "Every",
+        "every",
+        "11",
+        "usurious",
+        "fair",
+        "average"
+    ],
+    "nouns": [
+        "period",
+        "bank",
+        "banks",
+        "india",
+        "March",
+        "margin",
+        "April",
+        "border",
+        "top",
+        "business",
+        "10",
+        "left",
+        "style",
+        "photo",
+        "right",
+        "people",
+        "close",
+        "delay",
+        "hour",
+        "11",
+        "adherence",
+        "fair",
+        "refusal",
+        "lakh",
+        "average"
+    ],
+    "verbs": [
+        "bank",
+        "March",
+        "border",
+        "complain",
+        "top",
+        "align",
+        "style",
+        "right",
+        "people",
+        "close",
+        "deliberate",
+        "delay",
+        "fair",
+        "average"
+    ]
+}

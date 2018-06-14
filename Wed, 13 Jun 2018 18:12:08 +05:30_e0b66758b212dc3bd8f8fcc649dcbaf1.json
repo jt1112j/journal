@@ -1,0 +1,48 @@
+{
+    "creator": "PTI",
+    "title": "Forbes ranks HDFC 5th biggest consumer financial services company worldwide",
+    "link": "https://www.financialexpress.com/industry/forbes-ranks-hdfc-5th-biggest-consumer-financial-services-company-worldwide/1204836/",
+    "pubDate": "Wed, 13 Jun 2018 18:12:08 +05:30",
+    "dc:creator": "PTI",
+    "content": "Housing finance major HDFC has been ranked as the 5th biggest public company globally in the 'consumer financial services category' on a list compiled by Forbes magazine.",
+    "contentSnippet": "Housing finance major HDFC has been ranked as the 5th biggest public company globally in the 'consumer financial services category' on a list compiled by Forbes magazine.",
+    "guid": "https://www.financialexpress.com/?p=1204836",
+    "categories": [
+        "Industry"
+    ],
+    "isoDate": "2018-06-13T12:42:08.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "forbes",
+            "ranks",
+            "hdfc",
+            "5th",
+            "biggest",
+            "consumer",
+            "financial",
+            "services",
+            "company",
+            "worldwide"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "major",
+        "financial",
+        "worldwide",
+        "ranked",
+        "5th",
+        "public"
+    ],
+    "verbs": [
+        "major",
+        "company",
+        "finance",
+        "list"
+    ]
+}

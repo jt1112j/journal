@@ -1,0 +1,81 @@
+{
+    "title": "India discusses 'Oil Buyers Club' with China; seeks US crude to counter OPEC",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/india-discusses-oil-buyers-club-with-china-seeks-us-crude-to-counter-opec/articleshow/64575528.cms",
+    "pubDate": "Wed, 13 Jun 2018 14:06:02 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/india-discusses-oil-buyers-club-with-china-seeks-us-crude-to-counter-opec/articleshow/64575528.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64575528.cms\" /></a>",
+    "contentSnippet": "",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/india-discusses-oil-buyers-club-with-china-seeks-us-crude-to-counter-opec/articleshow/64575528.cms",
+    "isoDate": "2018-06-13T14:06:02.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.07692307692307693,
+        "tokens": [
+            "india",
+            "discusses",
+            "'oil",
+            "buyers",
+            "club'",
+            "with",
+            "china",
+            "seeks",
+            "us",
+            "crude",
+            "to",
+            "counter",
+            "opec"
+        ],
+        "words": [
+            "crude"
+        ],
+        "positive": [],
+        "negative": [
+            "crude"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "top",
+        "10",
+        "left",
+        "right",
+        "crude",
+        "counter"
+    ],
+    "nouns": [
+        "India",
+        "india",
+        "Oil",
+        "oil",
+        "margin",
+        "border",
+        "top",
+        "US",
+        "us",
+        "business",
+        "10",
+        "left",
+        "style",
+        "photo",
+        "right",
+        "Club",
+        "club",
+        "China",
+        "china",
+        "crude",
+        "counter",
+        "OPEC",
+        "opec"
+    ],
+    "verbs": [
+        "Oil",
+        "oil",
+        "border",
+        "top",
+        "align",
+        "style",
+        "right",
+        "Club",
+        "club",
+        "counter"
+    ]
+}

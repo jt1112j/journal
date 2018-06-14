@@ -1,0 +1,67 @@
+{
+    "creator": "Reuters",
+    "title": "US treasury yields jump, Wall Street falls after Federal Reserve decision",
+    "link": "https://www.financialexpress.com/market/us-treasury-yields-jump-wall-street-falls-after-federal-reserve-decision/1205389/",
+    "pubDate": "Thu, 14 Jun 2018 03:18:13 +05:30",
+    "dc:creator": "Reuters",
+    "content": "US Treasury yields jumped and Wall Street reversed earlier gains to close lower on Wednesday, after the Federal Reserve raised interest rates.",
+    "contentSnippet": "US Treasury yields jumped and Wall Street reversed earlier gains to close lower on Wednesday, after the Federal Reserve raised interest rates.",
+    "guid": "https://www.financialexpress.com/?p=1205389",
+    "categories": [
+        "Market"
+    ],
+    "isoDate": "2018-06-13T21:48:13.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "us",
+            "treasury",
+            "yields",
+            "jump",
+            "wall",
+            "street",
+            "falls",
+            "after",
+            "federal",
+            "reserve",
+            "decision"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "Federal",
+        "reversed",
+        "earlier",
+        "raised",
+        "close"
+    ],
+    "nouns": [
+        "interest",
+        "Wednesday",
+        "decision",
+        "Reserve",
+        "treasury",
+        "Treasury",
+        "falls",
+        "US",
+        "Federal",
+        "jump",
+        "Wall",
+        "Street",
+        "close",
+        "lower",
+        "rates"
+    ],
+    "verbs": [
+        "interest",
+        "Reserve",
+        "jump",
+        "Wall",
+        "lower",
+        "close"
+    ]
+}

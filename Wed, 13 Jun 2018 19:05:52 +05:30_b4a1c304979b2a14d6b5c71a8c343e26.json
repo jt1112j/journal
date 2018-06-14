@@ -1,0 +1,48 @@
+{
+    "creator": "PTI",
+    "title": "Nirav Modi fraud hit PNB’s capital adequacy fall below regulatory requirement",
+    "link": "https://www.financialexpress.com/industry/banking-finance/nirav-modi-fraud-hit-pnbs-capital-adequacy-fall-below-regulatory-requirement/1204990/",
+    "pubDate": "Wed, 13 Jun 2018 19:05:52 +05:30",
+    "dc:creator": "PTI",
+    "content": "Fraud-hit Punjab National Bank's capital adequacy has fallen short of the regulatory requirement of Reserve Bank of India due to unprecedented loss in the fourth quarter of 2017-18.",
+    "contentSnippet": "Fraud-hit Punjab National Bank's capital adequacy has fallen short of the regulatory requirement of Reserve Bank of India due to unprecedented loss in the fourth quarter of 2017-18.",
+    "guid": "https://www.financialexpress.com/?p=1204990",
+    "categories": [
+        "Banking & Finance",
+        "Industry"
+    ],
+    "isoDate": "2018-06-13T13:35:52.000Z",
+    "sentiment": {
+        "score": -4,
+        "comparative": -0.36363636363636365,
+        "tokens": [
+            "nirav",
+            "modi",
+            "fraud",
+            "hit",
+            "pnb’s",
+            "capital",
+            "adequacy",
+            "fall",
+            "below",
+            "regulatory",
+            "requirement"
+        ],
+        "words": [
+            "fraud"
+        ],
+        "positive": [],
+        "negative": [
+            "fraud"
+        ]
+    },
+    "article": {},
+    "verbs": [
+        "Bank",
+        "hit",
+        "fall",
+        "quarter",
+        "Reserve",
+        "short"
+    ]
+}

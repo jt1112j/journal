@@ -1,0 +1,60 @@
+{
+    "title": "Govt asks telcos to tweak systems for use of virtual IDs, limited KYC",
+    "link": "https://www.business-standard.com/article/economy-policy/govt-asks-telcos-to-tweak-systems-for-use-of-virtual-ids-limited-kyc-118061300303_1.html",
+    "pubDate": "Wed, 13 Jun 2018 12:58:00 +0530",
+    "content": "Telcos will also be required to make necessary changes in their systems to replace the Aadhaar numbers of existing subscribers",
+    "contentSnippet": "Telcos will also be required to make necessary changes in their systems to replace the Aadhaar numbers of existing subscribers",
+    "guid": "https://www.business-standard.com/article/economy-policy/govt-asks-telcos-to-tweak-systems-for-use-of-virtual-ids-limited-kyc-118061300303_1.html",
+    "isoDate": "2018-06-13T07:28:00.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.07692307692307693,
+        "tokens": [
+            "govt",
+            "asks",
+            "telcos",
+            "to",
+            "tweak",
+            "systems",
+            "for",
+            "use",
+            "of",
+            "virtual",
+            "ids",
+            "limited",
+            "kyc"
+        ],
+        "words": [
+            "limited"
+        ],
+        "positive": [],
+        "negative": [
+            "limited"
+        ]
+    },
+    "article": {
+        "title": "Govt asks telcos to tweak systems for use of virtual IDs, limited KYC",
+        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t\n<p>\n\tThe government has instructed <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/telecom-operators\" target=\"_blank\">telecom operators </a>to tweak their systems and networks to enable use of Virtual IDs in lieu of <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/aadhaar\" target=\"_blank\">Aadhaar </a>number and migrate to the 'limited KYC' mechanism for mobile subscribers.</p>\n<p>\n\tThe latest move is in line with the ensuing implementation of the new <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/virtual-id\" target=\"_blank\">Virtual ID </a>system from July 1, which users can quote instead of their <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/aadhaar\" target=\"_blank\">Aadhaar </a>number.\n\n\n</p>\n<!-- INPAGE_BANNER -->\n<p>\n\tThe <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/virtual-id\" target=\"_blank\">Virtual ID </a>system -- a random 16-digit number mapped to a person's <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/aadhaar\" target=\"_blank\">Aadhaar </a>number -- is scheduled to be fully operational from next month. It aims to strengthen the privacy and security of <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/aadhaar-data\" target=\"_blank\">Aadhaar data </a>amid heightened concerns around the collection and storage of personal and demographic information of individuals.</p>\n\n<p>\n\t\"...all licencees shall implement the ....changes proposed by the UIDAI regarding use of <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/virtual-id\" target=\"_blank\">Virtual ID </a>as an alternative of Aadhaar number, <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=uid+tokens\" target=\"_blank\">UID tokens </a>and <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=limited+kyc\" target=\"_blank\">limited </a><a class=\"storyTags\" href=\"https://www.business-standard.com/topic/kyc\" target=\"_blank\">KYC </a>concept in their system/networks subject to the adherence of existing Aadhaar based <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=ekyc\" target=\"_blank\">eKYC </a>processes for issuing new mobile connection to subscribers and re-verification of existing mobile subscribers,\" a notification by the <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/department-of-telecom\" target=\"_blank\">Department of Telecom </a>(DoT) has said.</p>\n<p>\n\tIt further said that licencees should \"give the option to subscribers of feeding either Aadhaar number or Virtual ID\" as per the individual's choice but the operators will be required to display the numbers in \"masked form\" at the point of sale terminal and ensure that none of these numbers are stored in their own system or database.</p>\n\n<p>\n\t\"The licencee (operator) shall then follow the <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=ekyc\" target=\"_blank\">eKYC </a>process as per the existing instructions for new acquisition or re-verification....and after successful authentication of the subscribers, shall use a UID (Unique ID) token to ascertain the uniqueness of the subscribers and store the same alongwith other fields in the subscribers' database,\" it said.</p>\n<p>\n\tThe <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/telcos\" target=\"_blank\">telcos </a>will also be required to make necessary changes in their systems to replace the Aadhaar numbers of existing subscribers within the database with <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=uid+tokens\" target=\"_blank\">UID tokens.</a></p>\n<p>\n\tFurther, it has removed Aadhaar number from various parametres required to be included in the subscriber database and introduced the 72-character UID token as a line item.</p>\n\n<p>\n\tThe <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=unique+identification+authority+of+india\" target=\"_blank\">Unique Identification Authority of India </a>(UIDAI), the Aadhaar issuing body, had earlier informed the Telecom Department that all operators will have access to \"limited KYC\" and that these service providers will not store Aadhaar number or Virtual ID of the customer while sending authentication or <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=ekyc\" target=\"_blank\">eKYC </a>requests.</p>\n<p>\n\t\"For all eKYC requests by <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=telecom+service+providers\" target=\"_blank\">telecom service providers </a>(TSP), UIDAI as part of <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=limited+kyc\" target=\"_blank\">limited </a><a class=\"storyTags\" href=\"https://www.business-standard.com/topic/kyc\" target=\"_blank\">KYC </a>response will share demographic data that is name, gender, date of birth and address alongwith face photo and UID token. Aadhaar number will not be shared with the TSP by UIDAI as part of <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=limited+kyc\" target=\"_blank\">limited </a><a class=\"storyTags\" href=\"https://www.business-standard.com/topic/kyc\" target=\"_blank\">KYC </a>response,\" the circular said.</p>\n\n<p>\n\tIntroduction of limited KYC (know your customer) will ensure that a verification request made does not return Aadhaar number and only provides agency-specific UID token to eliminate the situation of many entities storing Aadhaar number while still enabling paperless KYC.</p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
+    },
+    "adjectives": [
+        "required",
+        "existing",
+        "necessary",
+        "virtual",
+        "limited"
+    ],
+    "nouns": [
+        "tweak",
+        "will",
+        "necessary",
+        "use",
+        "limited",
+        "numbers"
+    ],
+    "verbs": [
+        "replace",
+        "tweak",
+        "will",
+        "use"
+    ]
+}

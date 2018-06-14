@@ -1,0 +1,87 @@
+{
+    "creator": "Mithun Dasgupta",
+    "title": "Bankruptcy litigation taking focus away from resolution process, says President of MN Dastur & Co",
+    "link": "https://www.financialexpress.com/market/commodities/bankruptcy-litigation-taking-focus-away-from-resolution-process-says-president-of-mn-dastur-co/1205308/",
+    "pubDate": "Thu, 14 Jun 2018 02:01:35 +05:30",
+    "dc:creator": "Mithun Dasgupta",
+    "content": "Too many litigations in insolvency resolution process are consuming time and it will eventually dilute the focus of putting the insolvent steel companies back on a productive track. ",
+    "contentSnippet": "Too many litigations in insolvency resolution process are consuming time and it will eventually dilute the focus of putting the insolvent steel companies back on a productive track.",
+    "guid": "https://www.financialexpress.com/?p=1205308",
+    "categories": [
+        "Commodities",
+        "Market"
+    ],
+    "isoDate": "2018-06-13T20:31:35.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.13333333333333333,
+        "tokens": [
+            "bankruptcy",
+            "litigation",
+            "taking",
+            "focus",
+            "away",
+            "from",
+            "resolution",
+            "process",
+            "says",
+            "president",
+            "of",
+            "mn",
+            "dastur",
+            "",
+            "co"
+        ],
+        "words": [
+            "resolution",
+            "litigation",
+            "bankruptcy"
+        ],
+        "positive": [
+            "resolution"
+        ],
+        "negative": [
+            "litigation",
+            "bankruptcy"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "consuming",
+        "insolvent",
+        "productive",
+        "away",
+        "dilute",
+        "back",
+        "taking"
+    ],
+    "nouns": [
+        "track",
+        "President",
+        "insolvency",
+        "insolvent",
+        "resolution",
+        "process",
+        "will",
+        "Bankruptcy",
+        "steel",
+        "litigation",
+        "focus",
+        "taking",
+        "Co",
+        "MN",
+        "time",
+        "putting",
+        "back"
+    ],
+    "verbs": [
+        "track",
+        "process",
+        "will",
+        "steel",
+        "focus",
+        "time",
+        "dilute",
+        "back"
+    ]
+}

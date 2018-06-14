@@ -1,0 +1,68 @@
+{
+    "creator": "FE Bureau",
+    "title": "Yes Bank clears reappointment of Rana Kapoor as MD and CEO",
+    "link": "https://www.financialexpress.com/money/yes-bank-clears-reappointment-of-rana-kapoor-as-md-and-ceo/1205347/",
+    "pubDate": "Thu, 14 Jun 2018 02:31:24 +05:30",
+    "dc:creator": "FE Bureau",
+    "content": "The shareholders of Yes Bank have approved a resolution to reappoint Rana Kapoor as the managing director and chief executive officer of the bank for another three years.",
+    "contentSnippet": "The shareholders of Yes Bank have approved a resolution to reappoint Rana Kapoor as the managing director and chief executive officer of the bank for another three years.",
+    "guid": "https://www.financialexpress.com/?p=1205347",
+    "categories": [
+        "Market",
+        "Money"
+    ],
+    "isoDate": "2018-06-13T21:01:24.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.18181818181818182,
+        "tokens": [
+            "yes",
+            "bank",
+            "clears",
+            "reappointment",
+            "of",
+            "rana",
+            "kapoor",
+            "as",
+            "md",
+            "and",
+            "ceo"
+        ],
+        "words": [
+            "clears",
+            "yes"
+        ],
+        "positive": [
+            "clears",
+            "yes"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "approved",
+        "three",
+        "chief",
+        "executive"
+    ],
+    "nouns": [
+        "resolution",
+        "years",
+        "Bank",
+        "bank",
+        "Yes",
+        "CEO",
+        "Rana",
+        "MD",
+        "director",
+        "three",
+        "executive",
+        "officer",
+        "chief"
+    ],
+    "verbs": [
+        "Bank",
+        "bank",
+        "officer"
+    ]
+}

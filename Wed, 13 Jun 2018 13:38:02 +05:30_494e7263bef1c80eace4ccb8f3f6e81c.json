@@ -1,0 +1,86 @@
+{
+    "creator": "FE Online",
+    "title": "Rakesh Jhunjhunwala taps Dish TV? Share price rallies 5%, trading volumes surge to multi-year highs",
+    "link": "https://www.financialexpress.com/market/dish-tv-share-price-rallies-5-trading-volumes-surge-to-multi-year-highs-top-traded-stock-on-nse-today/1204325/",
+    "pubDate": "Wed, 13 Jun 2018 13:38:02 +05:30",
+    "dc:creator": "FE Online",
+    "content": "Shares of direct-to-home television operator Dish TV rallied more than 5% in the mid-morning deals on Wednesday with trading volumes surging to multi-year highs on reports of ace investor Rakesh Jhunjhunwala picking up a considerable chunk in a block deal executed today.",
+    "contentSnippet": "Shares of direct-to-home television operator Dish TV rallied more than 5% in the mid-morning deals on Wednesday with trading volumes surging to multi-year highs on reports of ace investor Rakesh Jhunjhunwala picking up a considerable chunk in a block deal executed today.",
+    "guid": "https://www.financialexpress.com/?p=1204325",
+    "categories": [
+        "Market"
+    ],
+    "isoDate": "2018-06-13T08:08:02.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.06666666666666667,
+        "tokens": [
+            "rakesh",
+            "jhunjhunwala",
+            "taps",
+            "dish",
+            "tv?",
+            "share",
+            "price",
+            "rallies",
+            "5",
+            "trading",
+            "volumes",
+            "surge",
+            "to",
+            "multi-year",
+            "highs"
+        ],
+        "words": [
+            "share"
+        ],
+        "positive": [
+            "share"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "surging",
+        "considerable",
+        "direct",
+        "executed",
+        "home",
+        "ace",
+        "mid"
+    ],
+    "nouns": [
+        "trading",
+        "surge",
+        "Wednesday",
+        "Share",
+        "investor",
+        "year",
+        "price",
+        "operator",
+        "Dish",
+        "block",
+        "taps",
+        "TV",
+        "home",
+        "deal",
+        "television",
+        "ace",
+        "morning",
+        "picking",
+        "chunk",
+        "today"
+    ],
+    "verbs": [
+        "surge",
+        "Share",
+        "direct",
+        "price",
+        "Dish",
+        "block",
+        "home",
+        "deal",
+        "ace",
+        "chunk"
+    ]
+}

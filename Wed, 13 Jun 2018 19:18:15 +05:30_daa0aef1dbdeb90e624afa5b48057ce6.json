@@ -1,0 +1,66 @@
+{
+    "creator": "FE Online",
+    "title": "Truecaller acquires Chillr multi-bank payments app, announces Truecaller Pay 2.0 in India",
+    "link": "https://www.financialexpress.com/industry/technology/truecaller-acquires-chillr-multi-bank-payments-app-announces-truecaller-pay-2-0-in-india/1204897/",
+    "pubDate": "Wed, 13 Jun 2018 19:18:15 +05:30",
+    "dc:creator": "FE Online",
+    "content": "Truecaller is also mulling to roll out credit services, as well as other financial services in the country, powered by the Truecaller Pay 2.0. This will be carried out in a mobile-first way to all the users.",
+    "contentSnippet": "Truecaller is also mulling to roll out credit services, as well as other financial services in the country, powered by the Truecaller Pay 2.0. This will be carried out in a mobile-first way to all the users.",
+    "guid": "https://www.financialexpress.com/?p=1204897",
+    "categories": [
+        "Industry",
+        "Technology"
+    ],
+    "isoDate": "2018-06-13T13:48:15.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.08333333333333333,
+        "tokens": [
+            "truecaller",
+            "acquires",
+            "chillr",
+            "multi-bank",
+            "payments",
+            "app",
+            "announces",
+            "truecaller",
+            "pay",
+            "20",
+            "in",
+            "india"
+        ],
+        "words": [
+            "pay"
+        ],
+        "positive": [],
+        "negative": [
+            "pay"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "financial",
+        "first",
+        "powered",
+        "mobile"
+    ],
+    "nouns": [
+        "will",
+        "India",
+        "services",
+        "bank",
+        "first",
+        "credit",
+        "country",
+        "Pay",
+        "roll",
+        "mobile"
+    ],
+    "verbs": [
+        "will",
+        "bank",
+        "credit",
+        "Pay",
+        "roll"
+    ]
+}

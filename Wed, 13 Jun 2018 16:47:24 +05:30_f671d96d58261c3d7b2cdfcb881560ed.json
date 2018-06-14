@@ -1,0 +1,82 @@
+{
+    "creator": "FE Online",
+    "title": "Sensex, Nifty50 gain for 3rd straight day; TCS, Infosys, Dr Reddy’s among top gainers",
+    "link": "https://www.financialexpress.com/market/sensex-nifty50-gain-for-3rd-straight-day-tcs-infosys-dr-reddys-among-top-gainers/1204675/",
+    "pubDate": "Wed, 13 Jun 2018 16:47:24 +05:30",
+    "dc:creator": "FE Online",
+    "content": "Market experts said robust buying in IT and healthcare stocks, along firm domestic industrial output growth, added to the upward trajectory of the key indices.",
+    "contentSnippet": "Market experts said robust buying in IT and healthcare stocks, along firm domestic industrial output growth, added to the upward trajectory of the key indices.",
+    "guid": "https://www.financialexpress.com/?p=1204675",
+    "categories": [
+        "Market"
+    ],
+    "isoDate": "2018-06-13T11:17:24.000Z",
+    "sentiment": {
+        "score": 5,
+        "comparative": 0.35714285714285715,
+        "tokens": [
+            "sensex",
+            "nifty50",
+            "gain",
+            "for",
+            "3rd",
+            "straight",
+            "day",
+            "tcs",
+            "infosys",
+            "dr",
+            "reddy’s",
+            "among",
+            "top",
+            "gainers"
+        ],
+        "words": [
+            "top",
+            "straight",
+            "gain"
+        ],
+        "positive": [
+            "top",
+            "straight",
+            "gain"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "industrial",
+        "straight",
+        "firm",
+        "domestic",
+        "3rd",
+        "top",
+        "robust",
+        "upward",
+        "key"
+    ],
+    "nouns": [
+        "stocks",
+        "day",
+        "trajectory",
+        "Market",
+        "healthcare",
+        "growth",
+        "straight",
+        "gain",
+        "firm",
+        "buying",
+        "domestic",
+        "top",
+        "output",
+        "IT",
+        "key"
+    ],
+    "verbs": [
+        "Market",
+        "gain",
+        "firm",
+        "top",
+        "output",
+        "key"
+    ]
+}

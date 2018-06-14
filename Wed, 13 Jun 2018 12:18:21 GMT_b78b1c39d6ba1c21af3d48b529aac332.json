@@ -1,0 +1,44 @@
+{
+    "title": "'HDFC 5th largest consumer financial services company globally'",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/hdfc-fifth-largest-consumer-financial-services-company-globally-forbes/articleshow/64573837.cms",
+    "pubDate": "Wed, 13 Jun 2018 12:18:21 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/hdfc-fifth-largest-consumer-financial-services-company-globally-forbes/articleshow/64573837.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64573837.cms\" /></a>",
+    "contentSnippet": "",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/hdfc-fifth-largest-consumer-financial-services-company-globally-forbes/articleshow/64573837.cms",
+    "isoDate": "2018-06-13T12:18:21.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "'hdfc",
+            "5th",
+            "largest",
+            "consumer",
+            "financial",
+            "services",
+            "company",
+            "globally'"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "top",
+        "5th",
+        "financial",
+        "fifth",
+        "10",
+        "left",
+        "right"
+    ],
+    "verbs": [
+        "border",
+        "company",
+        "top",
+        "align",
+        "style",
+        "right"
+    ]
+}

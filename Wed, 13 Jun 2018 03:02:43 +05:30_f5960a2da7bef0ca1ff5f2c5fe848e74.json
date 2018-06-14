@@ -1,0 +1,52 @@
+{
+    "creator": "Reuters",
+    "title": "Bitcoin sinks to two-month low as downtrend persists",
+    "link": "https://www.financialexpress.com/economy/bitcoin-sinks-to-two-month-low-as-downtrend-persists/1203827/",
+    "pubDate": "Wed, 13 Jun 2018 03:02:43 +05:30",
+    "dc:creator": "Reuters",
+    "content": "Bitcoin fell to a two-month low on Tuesday, sliding in three of the last four sessions on nagging regulatory and security concerns after the weekend hacking of South Korean cryptocurrency exchange Coinrail.",
+    "contentSnippet": "Bitcoin fell to a two-month low on Tuesday, sliding in three of the last four sessions on nagging regulatory and security concerns after the weekend hacking of South Korean cryptocurrency exchange Coinrail.",
+    "guid": "https://www.financialexpress.com/?p=1203827",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-12T21:32:43.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "bitcoin",
+            "sinks",
+            "to",
+            "two-month",
+            "low",
+            "as",
+            "downtrend",
+            "persists"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "last",
+        "two",
+        "low",
+        "four",
+        "three",
+        "regulatory",
+        "fell",
+        "sliding",
+        "nagging",
+        "South",
+        "Korean"
+    ],
+    "verbs": [
+        "last",
+        "weekend",
+        "low",
+        "exchange",
+        "fell"
+    ]
+}

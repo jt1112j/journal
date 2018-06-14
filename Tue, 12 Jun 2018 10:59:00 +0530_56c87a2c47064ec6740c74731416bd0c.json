@@ -1,0 +1,59 @@
+{
+    "title": "Retail investors might get custodians, all you need to know about them",
+    "link": "https://www.business-standard.com/article/markets/retail-investors-might-get-custodians-all-you-need-to-know-about-them-118061200252_1.html",
+    "pubDate": "Tue, 12 Jun 2018 10:59:00 +0530",
+    "content": "Custodians, like intermediaries for foreign portfolio investors (FPIs), will manage the back-end operations of investors after a trade has been carried out",
+    "contentSnippet": "Custodians, like intermediaries for foreign portfolio investors (FPIs), will manage the back-end operations of investors after a trade has been carried out",
+    "guid": "https://www.business-standard.com/article/markets/retail-investors-might-get-custodians-all-you-need-to-know-about-them-118061200252_1.html",
+    "isoDate": "2018-06-12T05:29:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "retail",
+            "investors",
+            "might",
+            "get",
+            "custodians",
+            "all",
+            "you",
+            "need",
+            "to",
+            "know",
+            "about",
+            "them"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {
+        "title": "Retail investors might get custodians, all you need to know about them",
+        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t<p>\n\t\n\tThe Securities and Exchange Board of India (Sebi) is planning to tighten the rules for trading settlement and introduce <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=custodians\" target=\"_blank\">custodians </a>for <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/retail-investors\" target=\"_blank\">retail investors </a>in order to protect their interests from defaulting brokers, according to reports. These proposals were discussed in Sebi’s Secondary Market Advisory Committee meeting recently, reports suggest.</p>\n<p>\n\tCustodians, like intermediaries for <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/foreign-portfolio-investors\" target=\"_blank\">foreign portfolio investors </a>(FPIs), will manage the back-end operations of investors after a trade is done. The idea is to ensure that <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/brokers\" target=\"_blank\">brokers </a>do not misuse clients’ accounts and sell shares without their permission, unless the client has defaulted.<br><a href=\"https://www.business-standard.com/article/economy-policy/why-consolidation-of-sovereign-holding-for-pses-makes-perfect-sense-today-118011901141_1.html\" target=\"_blank\"><strong>ALSO READ: Why consolidation of sovereign holding for PSEs makes perfect sense today</strong></a>\n\n\n</p>\n<!-- INPAGE_BANNER -->\n<p>\n\tBrokers, who act as the intermediary between the investor and the depository, facilitate the settlement of trades on stock exchanges. But instances of <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/brokers\" target=\"_blank\">brokers </a>defaulting on payments to clients have prompted the regulator to consider this.</p>\n<p>\n\tAccording to the report, the idea is that the security will not move to the broker but will be marked as a pledge to the broker’s account. So, the broker cannot sell the shares unless there is a default by the client. However, whether the custodian for <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/retail-investors\" target=\"_blank\">retail investors </a>should be mandatory is still being debated, the report added.</p>\n<p>\n\t<strong>Here are five things you need to know about custodians:</strong></p>\n<p>\n\t1. <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=custodians\" target=\"_blank\">Custodians </a>are clearing members, who settle trades on behalf of their clients. These trades are executed through other trading members</p>\n<p>\n\t2. They are generally a financial institution that holds customers' securities for safekeeping to minimise the risk of their theft or loss.</p>\n<p>\n\t3. The custodian is required to confirm whether he is going to settle that trade or not. If the custodian confirms the trade, National Securities Clearing Corporation Limited (NSCCL) assigns the obligation to the custodian. On the other hand, if the custodian rejects the trade, the obligation is assigned back to the trading member.</p>\n<p>\n\t4. In addition to holding securities for safekeeping, most <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=custodians\" target=\"_blank\">custodians </a>also offer other services, such as account administration, transaction settlements, collection of dividends and interest payments, tax support, and foreign exchange.</p>\n<p>\n\t5. A custodian may have the right to assert possession over the assets if required often in conjunction with a power of attorney. This allows the custodian to perform actions in the client's name, such as making payments or changing investments.</p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
+    },
+    "adjectives": [
+        "foreign",
+        "back"
+    ],
+    "nouns": [
+        "Retail",
+        "trade",
+        "will",
+        "operations",
+        "back",
+        "end",
+        "need",
+        "know",
+        "portfolio"
+    ],
+    "verbs": [
+        "manage",
+        "Retail",
+        "trade",
+        "will",
+        "back",
+        "end",
+        "need",
+        "know"
+    ]
+}

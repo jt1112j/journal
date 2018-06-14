@@ -1,0 +1,91 @@
+{
+    "creator": "FE Online",
+    "title": "Modi’s UDAY scheme: UP discom ‘nowhere near target’ to cut losses; you’ll be surprised who is to blame",
+    "link": "https://www.financialexpress.com/economy/modis-uday-scheme-haryana-delivers-up-nowhere-near-target-courtesy-governments-own-departments/1203049/",
+    "pubDate": "Tue, 12 Jun 2018 16:23:31 +05:30",
+    "dc:creator": "FE Online",
+    "content": "Narendra Modi government’s ambitious discoms' rescue scheme, UDAY, recently witnessed a huge success with both Haryana power distribution companies posting profits after a gap of 15 years. However, the story is slightly different in Uttar Pradesh.",
+    "contentSnippet": "Narendra Modi government’s ambitious discoms' rescue scheme, UDAY, recently witnessed a huge success with both Haryana power distribution companies posting profits after a gap of 15 years. However, the story is slightly different in Uttar Pradesh.",
+    "guid": "https://www.financialexpress.com/?p=1203049",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-12T10:53:31.000Z",
+    "sentiment": {
+        "score": -6,
+        "comparative": -0.3333333333333333,
+        "tokens": [
+            "modi’s",
+            "uday",
+            "scheme",
+            "up",
+            "discom",
+            "‘nowhere",
+            "near",
+            "target’",
+            "to",
+            "cut",
+            "losses",
+            "you’ll",
+            "be",
+            "surprised",
+            "who",
+            "is",
+            "to",
+            "blame"
+        ],
+        "words": [
+            "blame",
+            "losses",
+            "cut"
+        ],
+        "positive": [],
+        "negative": [
+            "blame",
+            "losses",
+            "cut"
+        ]
+    },
+    "article": {},
+    "nouns": [
+        "rescue",
+        "years",
+        "posting",
+        "losses",
+        "profits",
+        "government",
+        "blame",
+        "scheme",
+        "distribution",
+        "nowhere",
+        "target",
+        "cut",
+        "success",
+        "power",
+        "gap",
+        "15",
+        "story"
+    ],
+    "adjectives": [
+        "blame",
+        "UP",
+        "near",
+        "cut",
+        "surprised",
+        "ambitious",
+        "huge",
+        "15",
+        "different"
+    ],
+    "verbs": [
+        "rescue",
+        "blame",
+        "scheme",
+        "UP",
+        "near",
+        "target",
+        "cut",
+        "power",
+        "gap"
+    ]
+}

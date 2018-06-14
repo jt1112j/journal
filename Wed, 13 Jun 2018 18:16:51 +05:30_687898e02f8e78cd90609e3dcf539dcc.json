@@ -1,0 +1,63 @@
+{
+    "creator": "PTI",
+    "title": "Make food labelling draft regulations more effective, stringent: CSE to FSSAI",
+    "link": "https://www.financialexpress.com/industry/make-food-labelling-draft-regulations-more-effective-stringent-cse-to-fssai/1204842/",
+    "pubDate": "Wed, 13 Jun 2018 18:16:51 +05:30",
+    "dc:creator": "PTI",
+    "content": "In April, the Food Safety and Standards Authority of India issued a draft of the Food Safety and Standards (Labelling and Display) Regulations, 2018 and sought comments from stakeholders. ",
+    "contentSnippet": "In April, the Food Safety and Standards Authority of India issued a draft of the Food Safety and Standards (Labelling and Display) Regulations, 2018 and sought comments from stakeholders.",
+    "guid": "https://www.financialexpress.com/?p=1204842",
+    "categories": [
+        "Industry"
+    ],
+    "isoDate": "2018-06-13T12:46:51.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.18181818181818182,
+        "tokens": [
+            "make",
+            "food",
+            "labelling",
+            "draft",
+            "regulations",
+            "more",
+            "effective",
+            "stringent",
+            "cse",
+            "to",
+            "fssai"
+        ],
+        "words": [
+            "effective"
+        ],
+        "positive": [
+            "effective"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "In",
+        "stringent",
+        "effective",
+        "sought"
+    ],
+    "nouns": [
+        "India",
+        "In",
+        "food",
+        "Food",
+        "Make",
+        "CSE",
+        "April",
+        "draft",
+        "Safety",
+        "Authority",
+        "Display"
+    ],
+    "verbs": [
+        "Make",
+        "draft",
+        "Display"
+    ]
+}

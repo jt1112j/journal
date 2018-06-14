@@ -1,0 +1,72 @@
+{
+    "creator": "FE Online",
+    "title": "ICICI Bank to sell 2% stake in life insurance arm ICICI Prudential vis OFS on stock exchanges",
+    "link": "https://www.financialexpress.com/market/icici-bank-to-sell-2-stake-in-life-insurance-arm-icici-prudential-vis-ofs-on-stock-exchanges/1204779/",
+    "pubDate": "Wed, 13 Jun 2018 19:00:38 +05:30",
+    "dc:creator": "FE Online",
+    "content": "ICICI Bank will sell 2% stake from its equity holding in its life insurance arm ICICI Prudential Life Insurance Company Ltd through an offer for sale (OFS) on stock exchanges.",
+    "contentSnippet": "ICICI Bank will sell 2% stake from its equity holding in its life insurance arm ICICI Prudential Life Insurance Company Ltd through an offer for sale (OFS) on stock exchanges.",
+    "guid": "https://www.financialexpress.com/?p=1204779",
+    "categories": [
+        "Market"
+    ],
+    "isoDate": "2018-06-13T13:30:38.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "icici",
+            "bank",
+            "to",
+            "sell",
+            "2",
+            "stake",
+            "in",
+            "life",
+            "insurance",
+            "arm",
+            "icici",
+            "prudential",
+            "vis",
+            "ofs",
+            "on",
+            "stock",
+            "exchanges"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "stock",
+        "Prudential"
+    ],
+    "nouns": [
+        "stock",
+        "insurance",
+        "Insurance",
+        "will",
+        "Bank",
+        "offer",
+        "stake",
+        "sale",
+        "sell",
+        "arm",
+        "life",
+        "Life",
+        "equity",
+        "holding",
+        "Company"
+    ],
+    "verbs": [
+        "stock",
+        "will",
+        "Bank",
+        "offer",
+        "stake",
+        "sell",
+        "arm",
+        "Company"
+    ]
+}

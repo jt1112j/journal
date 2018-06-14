@@ -1,0 +1,59 @@
+{
+    "title": "Hong Kong Monetary Authority enhances supervision of PNB's HK branch",
+    "link": "https://www.business-standard.com/article/finance/hong-kong-monetary-authority-enhances-supervision-of-pnb-s-hk-branch-118061300408_1.html",
+    "pubDate": "Wed, 13 Jun 2018 14:14:00 +0530",
+    "content": "This branch is also required to maintain a position of \"net due to\" its head office",
+    "contentSnippet": "This branch is also required to maintain a position of \"net due to\" its head office",
+    "guid": "https://www.business-standard.com/article/finance/hong-kong-monetary-authority-enhances-supervision-of-pnb-s-hk-branch-118061300408_1.html",
+    "isoDate": "2018-06-13T08:44:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.1,
+        "tokens": [
+            "hong",
+            "kong",
+            "monetary",
+            "authority",
+            "enhances",
+            "supervision",
+            "of",
+            "pnb's",
+            "hk",
+            "branch"
+        ],
+        "words": [
+            "authority"
+        ],
+        "positive": [
+            "authority"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "Hong Kong Monetary Authority enhances supervision of PNB's HK branch",
+        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t\n<p>\n\tState-owned <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/punjab-national-bank\" target=\"_blank\">Punjab National Bank </a>(PNB) on Wednesday said the <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=hong+kong+monetary+authority\" target=\"_blank\">Hong Kong Monetary Authority </a>(HKMA) has enhanced supervision of its Hong Kong branch and has asked it \"not to proactively solicit customer deposits\".</p>\n<p>\n\t\"...In view of the capital position of the bank as at March 31, 2018, being below the regulatory requirement (including counter cyclical buffer) of Reserve Bank of India, <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=hong+kong+monetary+authority\" target=\"_blank\">Hong Kong Monetary Authority </a>(HKMA) is enhancing the supervisory arrangements on our Hong Kong branch (PNB HK),\" PNB said in a regulatory filing.\n\n\n</p>\n<!-- INPAGE_BANNER -->\n<p>\n\tThe scam-hit bank said <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=pnb+hk\" target=\"_blank\">PNB HK </a>is required to maintain high-quality liquid assets (HQLA) in Hong Kong equivalent to 100 per cent of unpledged deposits.</p>\n\n<p>\n\t\"The above HQLA should be deposited with PNBHK's sub-account opened/to be opened with the Central Moneymarkets Units,\" it added.</p>\n<p>\n\tPNB also that said according to the enhanced supervisory arrangement, its Kong Kong branch is required \"not to proactively solicit customer deposits while transactional deposits such as pledged deposits for commercial loans would be excluded from this supervisory arrangement\".</p>\n\n<p>\n\tThis branch is also required to maintain a position of \"net due to\" its head office, other branches and any direct or indirect subsidiaries and associates of the bank.</p>\n<p>\n\t\"The above supervisory arrangements are applicable only to our Hong Kong branch and will not have any material impact on the bank's operations in Indian and other overseas centers, PNB said.</p>\n<p>\n\tIn February this year, PNB had detected a fraud of over Rs 140 billion wherein billionaire jeweller Nirav Modi and associates had allegedly acquired fraudulent <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=letters+of+undertaking\" target=\"_blank\">letters of undertaking </a>(LoUs) from one of the branches of PNB for overseas credit from other Indian lenders<br>The scam was perpetrated by way of fraudulent LoUs generated in the name of <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/punjab-national-bank\" target=\"_blank\">Punjab National Bank.</a></p>\n<p>\n\tLast month, PNB had posted its largest ever quarterly loss of Rs 134 billion for January-March period, mainly on account of high provisioning for bad loans.</p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
+    },
+    "adjectives": [
+        "net",
+        "Monetary",
+        "required",
+        "due"
+    ],
+    "nouns": [
+        "position",
+        "net",
+        "Authority",
+        "supervision",
+        "branch",
+        "due",
+        "head",
+        "office"
+    ],
+    "verbs": [
+        "position",
+        "net",
+        "branch",
+        "maintain",
+        "head"
+    ]
+}

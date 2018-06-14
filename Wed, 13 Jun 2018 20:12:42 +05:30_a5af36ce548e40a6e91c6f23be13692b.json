@@ -1,0 +1,59 @@
+{
+    "creator": "PTI",
+    "title": "DoT asks telcos to tweak systems for use of virtual IDs, limited KYC",
+    "link": "https://www.financialexpress.com/industry/dot-asks-telcos-to-tweak-systems-for-use-of-virtual-ids-limited-kyc/1205030/",
+    "pubDate": "Wed, 13 Jun 2018 20:12:42 +05:30",
+    "dc:creator": "PTI",
+    "content": "It has removed Aadhaar number from various parametres required to be included in the subscriber database, and introduced the 72-character UID token as a line item.",
+    "contentSnippet": "It has removed Aadhaar number from various parametres required to be included in the subscriber database, and introduced the 72-character UID token as a line item.",
+    "guid": "https://www.financialexpress.com/?p=1205030",
+    "categories": [
+        "Industry"
+    ],
+    "isoDate": "2018-06-13T14:42:42.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.07692307692307693,
+        "tokens": [
+            "dot",
+            "asks",
+            "telcos",
+            "to",
+            "tweak",
+            "systems",
+            "for",
+            "use",
+            "of",
+            "virtual",
+            "ids",
+            "limited",
+            "kyc"
+        ],
+        "words": [
+            "limited"
+        ],
+        "positive": [],
+        "negative": [
+            "limited"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "required",
+        "included",
+        "various",
+        "virtual",
+        "limited",
+        "removed",
+        "72",
+        "token"
+    ],
+    "verbs": [
+        "character",
+        "DoT",
+        "tweak",
+        "use",
+        "number",
+        "line"
+    ]
+}

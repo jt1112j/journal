@@ -1,0 +1,75 @@
+{
+    "creator": "Bloomberg",
+    "title": "Government may cut short-term bond sales as yields surge",
+    "link": "https://www.financialexpress.com/market/government-may-cut-short-term-bond-sales-as-yields-surge/1204338/",
+    "pubDate": "Wed, 13 Jun 2018 13:19:53 +05:30",
+    "dc:creator": "Bloomberg",
+    "content": "Yields on short-term sovereign debt climbed faster than those on longer-term notes in April and May as a jump in oil prices stoked concerns about inflation, prompting investors to price in the possibility of policy tightening.",
+    "contentSnippet": "Yields on short-term sovereign debt climbed faster than those on longer-term notes in April and May as a jump in oil prices stoked concerns about inflation, prompting investors to price in the possibility of policy tightening.",
+    "guid": "https://www.financialexpress.com/?p=1204338",
+    "categories": [
+        "Market"
+    ],
+    "isoDate": "2018-06-13T07:49:53.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.1111111111111111,
+        "tokens": [
+            "government",
+            "may",
+            "cut",
+            "short-term",
+            "bond",
+            "sales",
+            "as",
+            "yields",
+            "surge"
+        ],
+        "words": [
+            "cut"
+        ],
+        "positive": [],
+        "negative": [
+            "cut"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "cut",
+        "short",
+        "sovereign"
+    ],
+    "nouns": [
+        "inflation",
+        "surge",
+        "prompting",
+        "jump",
+        "tightening",
+        "possibility",
+        "price",
+        "Government",
+        "term",
+        "may",
+        "May",
+        "cut",
+        "sovereign",
+        "debt",
+        "short",
+        "bond",
+        "sales",
+        "April",
+        "longer",
+        "oil",
+        "policy"
+    ],
+    "verbs": [
+        "surge",
+        "jump",
+        "price",
+        "cut",
+        "short",
+        "term",
+        "bond",
+        "oil"
+    ]
+}

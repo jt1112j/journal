@@ -1,0 +1,63 @@
+{
+    "creator": "FE Online",
+    "title": "Sun Pharma stock rises over 3% as USFDA clears export ban on Halol plant",
+    "link": "https://www.financialexpress.com/market/sun-pharma-stock-rises-over-3-as-usfda-clears-export-ban-on-halol-plant/1204116/",
+    "pubDate": "Wed, 13 Jun 2018 11:27:19 +05:30",
+    "dc:creator": "FE Online",
+    "content": "Shares of Sun Pharma rose as much as 3.75 per cent to a high of  Rs 560.75 on Wednesday, a level highest since March 2018. ",
+    "contentSnippet": "Shares of Sun Pharma rose as much as 3.75 per cent to a high of  Rs 560.75 on Wednesday, a level highest since March 2018.",
+    "guid": "https://www.financialexpress.com/?p=1204116",
+    "categories": [
+        "Market"
+    ],
+    "isoDate": "2018-06-13T05:57:19.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "sun",
+            "pharma",
+            "stock",
+            "rises",
+            "over",
+            "3",
+            "as",
+            "usfda",
+            "clears",
+            "export",
+            "ban",
+            "on",
+            "halol",
+            "plant"
+        ],
+        "words": [
+            "ban",
+            "clears",
+            "rises"
+        ],
+        "positive": [
+            "clears",
+            "rises"
+        ],
+        "negative": [
+            "ban"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "high",
+        "stock",
+        "level",
+        "rose",
+        "75"
+    ],
+    "verbs": [
+        "stock",
+        "March",
+        "plant",
+        "Sun",
+        "ban",
+        "level",
+        "export"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "title": "How mango, 'chiku' may stop India’s bullet train",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/how-mango-chiku-may-stop-indias-bullet-train/articleshow/64571050.cms",
+    "pubDate": "Wed, 13 Jun 2018 09:07:32 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/how-mango-chiku-may-stop-indias-bullet-train/articleshow/64571050.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64571050.cms\" /></a>The protests by these farmers stand as a major hindrance for the government and are likely to delay the December deadline for completing all land acquisition formalities for the $17 billion Japan-backed project.",
+    "contentSnippet": "The protests by these farmers stand as a major hindrance for the government and are likely to delay the December deadline for completing all land acquisition formalities for the $17 billion Japan-backed project.",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/how-mango-chiku-may-stop-indias-bullet-train/articleshow/64571050.cms",
+    "isoDate": "2018-06-13T09:07:32.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.125,
+        "tokens": [
+            "how",
+            "mango",
+            "'chiku'",
+            "may",
+            "stop",
+            "india’s",
+            "bullet",
+            "train"
+        ],
+        "words": [
+            "stop"
+        ],
+        "positive": [],
+        "negative": [
+            "stop"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "completing",
+        "billion",
+        "top",
+        "10",
+        "left",
+        "right",
+        "backed",
+        "major",
+        "likely",
+        "17"
+    ],
+    "nouns": [
+        "formalities",
+        "mango",
+        "India",
+        "india",
+        "stand",
+        "margin",
+        "stop",
+        "may",
+        "border",
+        "train",
+        "billion",
+        "top",
+        "business",
+        "10",
+        "left",
+        "style",
+        "photo",
+        "right",
+        "project",
+        "bullet",
+        "major",
+        "hindrance",
+        "government",
+        "delay",
+        "December",
+        "deadline",
+        "acquisition",
+        "17",
+        "Japan",
+        "land"
+    ],
+    "verbs": [
+        "stand",
+        "stop",
+        "border",
+        "train",
+        "top",
+        "align",
+        "style",
+        "right",
+        "project",
+        "major",
+        "delay",
+        "land",
+        "Japan"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "title": "VW says will pay one-billion-euro German fine over emissions cheating",
+    "link": "https://timesofindia.indiatimes.com/business/international-business/vw-says-will-pay-one-billion-euro-german-fine-over-emissions-cheating/articleshow/64577756.cms",
+    "pubDate": "Wed, 13 Jun 2018 16:40:37 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/international-business/vw-says-will-pay-one-billion-euro-german-fine-over-emissions-cheating/articleshow/64577756.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64577756.cms\" /></a>Auto giant Volkswagen said on Wednesday that it would pay a one-billion-euro fine imposed by German prosecutors over diesel emissions cheating by the company.",
+    "contentSnippet": "Auto giant Volkswagen said on Wednesday that it would pay a one-billion-euro fine imposed by German prosecutors over diesel emissions cheating by the company.",
+    "guid": "https://timesofindia.indiatimes.com/business/international-business/vw-says-will-pay-one-billion-euro-german-fine-over-emissions-cheating/articleshow/64577756.cms",
+    "isoDate": "2018-06-13T16:40:37.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.2,
+        "tokens": [
+            "vw",
+            "says",
+            "will",
+            "pay",
+            "one-billion-euro",
+            "german",
+            "fine",
+            "over",
+            "emissions",
+            "cheating"
+        ],
+        "words": [
+            "cheating",
+            "fine",
+            "pay"
+        ],
+        "positive": [
+            "fine"
+        ],
+        "negative": [
+            "cheating",
+            "pay"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "international",
+        "billion",
+        "imposed",
+        "top",
+        "fine",
+        "10",
+        "left",
+        "right",
+        "one",
+        "German",
+        "german",
+        "cheating",
+        "giant"
+    ],
+    "verbs": [
+        "border",
+        "company",
+        "will",
+        "top",
+        "fine",
+        "align",
+        "style",
+        "right",
+        "pay"
+    ],
+    "nouns": [
+        "international",
+        "margin",
+        "border",
+        "company",
+        "billion",
+        "will",
+        "top",
+        "fine",
+        "business",
+        "10",
+        "left",
+        "style",
+        "photo",
+        "right",
+        "one",
+        "pay",
+        "euro",
+        "German",
+        "german",
+        "cheating",
+        "Auto",
+        "Wednesday",
+        "diesel",
+        "giant"
+    ]
+}

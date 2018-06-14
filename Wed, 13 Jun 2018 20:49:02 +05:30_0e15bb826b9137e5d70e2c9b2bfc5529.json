@@ -1,0 +1,39 @@
+{
+    "creator": "PTI",
+    "title": "‘Securitisation volumes down 7.2% in FY18 on GST ambiguity’",
+    "link": "https://www.financialexpress.com/industry/securitisation-volumes-down-7-2-in-fy18-on-gst-ambiguity/1205077/",
+    "pubDate": "Wed, 13 Jun 2018 20:49:02 +05:30",
+    "dc:creator": "PTI",
+    "content": "The traded volumes of PSLCs rose 3.7 times that of those witnessed in FY17, leading to a dip in in the securitisation volumes as the activity was largely concentrated on the non-PSL portfolios. ",
+    "contentSnippet": "The traded volumes of PSLCs rose 3.7 times that of those witnessed in FY17, leading to a dip in in the securitisation volumes as the activity was largely concentrated on the non-PSL portfolios.",
+    "guid": "https://www.financialexpress.com/?p=1205077",
+    "categories": [
+        "Industry"
+    ],
+    "isoDate": "2018-06-13T15:19:02.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "‘securitisation",
+            "volumes",
+            "down",
+            "72",
+            "in",
+            "fy18",
+            "on",
+            "gst",
+            "ambiguity’"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "concentrated",
+        "leading",
+        "down",
+        "rose"
+    ]
+}

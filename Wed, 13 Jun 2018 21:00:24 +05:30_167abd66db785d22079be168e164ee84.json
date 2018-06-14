@@ -1,0 +1,64 @@
+{
+    "creator": "PTI",
+    "title": "UDAN Operations: Jet Airways to commence regional connectivity services from Lucknow",
+    "link": "https://www.financialexpress.com/industry/udan-operations-jet-airways-to-commence-regional-connectivity-services-from-lucknow/1205093/",
+    "pubDate": "Wed, 13 Jun 2018 21:00:24 +05:30",
+    "dc:creator": "PTI",
+    "content": "The airline will commence its second UP-based RCS service on Saturday, connecting Allahabad with Nagpur and Indore, thrice every week.",
+    "contentSnippet": "The airline will commence its second UP-based RCS service on Saturday, connecting Allahabad with Nagpur and Indore, thrice every week.",
+    "guid": "https://www.financialexpress.com/?p=1205093",
+    "categories": [
+        "Industry"
+    ],
+    "isoDate": "2018-06-13T15:30:24.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "udan",
+            "operations",
+            "jet",
+            "airways",
+            "to",
+            "commence",
+            "regional",
+            "connectivity",
+            "services",
+            "from",
+            "lucknow"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "second",
+        "based",
+        "regional",
+        "every",
+        "Jet",
+        "UP"
+    ],
+    "verbs": [
+        "will",
+        "commence",
+        "second",
+        "service",
+        "Jet",
+        "UP"
+    ],
+    "nouns": [
+        "will",
+        "connectivity",
+        "second",
+        "Operations",
+        "services",
+        "service",
+        "airline",
+        "week",
+        "Lucknow",
+        "Jet",
+        "Saturday"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "title": "PNB, SBI, 13 others get Moody's counterparty risk ratings",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/pnb-sbi-13-others-get-moodys-counterparty-risk-ratings/articleshow/64568792.cms",
+    "pubDate": "Wed, 13 Jun 2018 07:03:38 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/pnb-sbi-13-others-get-moodys-counterparty-risk-ratings/articleshow/64568792.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64568792.cms\" /></a>Global ratings agency Moody's Investors Service today gave counterparty risk ratings (CRR) to 15 lenders in the country, including fraud-hit Punjab National Bank and country's largest lender SBI.",
+    "contentSnippet": "Global ratings agency Moody's Investors Service today gave counterparty risk ratings (CRR) to 15 lenders in the country, including fraud-hit Punjab National Bank and country's largest lender SBI.",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/pnb-sbi-13-others-get-moodys-counterparty-risk-ratings/articleshow/64568792.cms",
+    "isoDate": "2018-06-13T07:03:38.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.2222222222222222,
+        "tokens": [
+            "pnb",
+            "sbi",
+            "13",
+            "others",
+            "get",
+            "moody's",
+            "counterparty",
+            "risk",
+            "ratings"
+        ],
+        "words": [
+            "risk"
+        ],
+        "positive": [],
+        "negative": [
+            "risk"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "top",
+        "Global",
+        "10",
+        "left",
+        "right",
+        "13",
+        "Moody",
+        "15",
+        "National"
+    ],
+    "nouns": [
+        "fraud",
+        "Bank",
+        "Service",
+        "india",
+        "margin",
+        "border",
+        "lender",
+        "top",
+        "today",
+        "business",
+        "10",
+        "left",
+        "style",
+        "photo",
+        "right",
+        "country",
+        "hit",
+        "13",
+        "Moody",
+        "risk",
+        "agency",
+        "15",
+        "Punjab",
+        "National"
+    ],
+    "verbs": [
+        "Bank",
+        "Service",
+        "border",
+        "top",
+        "align",
+        "style",
+        "right",
+        "hit",
+        "risk"
+    ]
+}

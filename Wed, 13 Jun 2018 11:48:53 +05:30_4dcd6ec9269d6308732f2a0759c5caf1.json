@@ -1,0 +1,75 @@
+{
+    "creator": "Bloomberg",
+    "title": "Jim O’Neill, BRIC inventor, says G-7 irrelevant as China and India left out",
+    "link": "https://www.financialexpress.com/economy/jim-oneill-bric-inventor-says-g-7-irrelevant-as-china-and-india-left-out/1204208/",
+    "pubDate": "Wed, 13 Jun 2018 11:48:53 +05:30",
+    "dc:creator": "Bloomberg",
+    "content": "The former chairman of Goldman Sachs Asset Management said the G-7 can’t be taken seriously when it excludes China, whose economy is set to overtake the euro zone this year, and India, whose gross domestic product already eclipses Italy’s.",
+    "contentSnippet": "The former chairman of Goldman Sachs Asset Management said the G-7 can’t be taken seriously when it excludes China, whose economy is set to overtake the euro zone this year, and India, whose gross domestic product already eclipses Italy’s.",
+    "guid": "https://www.financialexpress.com/?p=1204208",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-13T06:18:53.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "jim",
+            "o’neill",
+            "bric",
+            "inventor",
+            "says",
+            "g-7",
+            "irrelevant",
+            "as",
+            "china",
+            "and",
+            "india",
+            "left",
+            "out"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "former",
+        "gross",
+        "taken",
+        "irrelevant",
+        "left",
+        "set",
+        "domestic"
+    ],
+    "nouns": [
+        "India",
+        "former",
+        "year",
+        "product",
+        "gross",
+        "Management",
+        "inventor",
+        "economy",
+        "China",
+        "chairman",
+        "G",
+        "left",
+        "Goldman",
+        "O",
+        "set",
+        "Asset",
+        "domestic",
+        "Italy",
+        "euro",
+        "zone"
+    ],
+    "verbs": [
+        "gross",
+        "overtake",
+        "chairman",
+        "set",
+        "zone"
+    ]
+}

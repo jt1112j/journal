@@ -1,0 +1,53 @@
+{
+    "creator": "PTI",
+    "title": "Patanjali mega food park: Yogi Adityanath govt seeks 15 days more time from Centre",
+    "link": "https://www.financialexpress.com/industry/patanjali-mega-food-park-yogi-adityanath-govt-seeks-15-days-more-time-from-centre/1205174/",
+    "pubDate": "Wed, 13 Jun 2018 22:29:35 +05:30",
+    "dc:creator": "PTI",
+    "content": "On June 6, Patanjali had said that its mega food park would produce goods worth Rs 25,000 crore annually on full capacity running.",
+    "contentSnippet": "On June 6, Patanjali had said that its mega food park would produce goods worth Rs 25,000 crore annually on full capacity running.",
+    "guid": "https://www.financialexpress.com/?p=1205174",
+    "categories": [
+        "Industry"
+    ],
+    "isoDate": "2018-06-13T16:59:35.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "patanjali",
+            "mega",
+            "food",
+            "park",
+            "yogi",
+            "adityanath",
+            "govt",
+            "seeks",
+            "15",
+            "days",
+            "more",
+            "time",
+            "from",
+            "centre"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "15",
+        "25",
+        "running",
+        "On",
+        "worth",
+        "full"
+    ],
+    "verbs": [
+        "produce",
+        "park",
+        "Centre",
+        "time",
+        "full"
+    ]
+}

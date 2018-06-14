@@ -1,0 +1,77 @@
+{
+    "creator": "FE Online",
+    "title": "Spending on medicines alone pushed 38 million people to below poverty line, says report",
+    "link": "https://www.financialexpress.com/economy/spending-on-medicines-alone-pushed-38-million-people-to-below-poverty-line-says-report/1204335/",
+    "pubDate": "Wed, 13 Jun 2018 15:25:27 +05:30",
+    "dc:creator": "FE Online",
+    "content": "Spending on medicines alone has pushed 38 million people to below poverty line in India in 2011-12, of the 55 billion people impoverished due to total health costs including lab tests and others, said a report.",
+    "contentSnippet": "Spending on medicines alone has pushed 38 million people to below poverty line in India in 2011-12, of the 55 billion people impoverished due to total health costs including lab tests and others, said a report.",
+    "guid": "https://www.financialexpress.com/?p=1204335",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-13T09:55:27.000Z",
+    "sentiment": {
+        "score": -3,
+        "comparative": -0.21428571428571427,
+        "tokens": [
+            "spending",
+            "on",
+            "medicines",
+            "alone",
+            "pushed",
+            "38",
+            "million",
+            "people",
+            "to",
+            "below",
+            "poverty",
+            "line",
+            "says",
+            "report"
+        ],
+        "words": [
+            "poverty",
+            "alone"
+        ],
+        "positive": [],
+        "negative": [
+            "poverty",
+            "alone"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "due",
+        "total",
+        "billion",
+        "impoverished",
+        "alone",
+        "38",
+        "million",
+        "12",
+        "55"
+    ],
+    "verbs": [
+        "report",
+        "total",
+        "people",
+        "line"
+    ],
+    "nouns": [
+        "report",
+        "India",
+        "due",
+        "health",
+        "total",
+        "billion",
+        "costs",
+        "Spending",
+        "million",
+        "people",
+        "poverty",
+        "line",
+        "12",
+        "lab"
+    ]
+}
