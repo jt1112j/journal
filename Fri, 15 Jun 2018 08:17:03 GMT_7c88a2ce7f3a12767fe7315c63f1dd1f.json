@@ -1,0 +1,90 @@
+{
+    "title": "Trade deficit at 4-month high of $14.62 bn in May",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/trade-deficit-widens-to-4-month-high-of-14-62-billion-in-may/articleshow/64599986.cms",
+    "pubDate": "Fri, 15 Jun 2018 08:17:03 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/trade-deficit-widens-to-4-month-high-of-14-62-billion-in-may/articleshow/64599986.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64599986.cms\" /></a>Commerce Minister Suresh Prabhu said exports in May rose by 28.18 per cent to $28.86 billion while imports were up 14.85 per cent to $43.48 billion.",
+    "contentSnippet": "Commerce Minister Suresh Prabhu said exports in May rose by 28.18 per cent to $28.86 billion while imports were up 14.85 per cent to $43.48 billion.",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/trade-deficit-widens-to-4-month-high-of-14-62-billion-in-may/articleshow/64599986.cms",
+    "isoDate": "2018-06-15T08:17:03.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.2,
+        "tokens": [
+            "trade",
+            "deficit",
+            "at",
+            "4-month",
+            "high",
+            "of",
+            "1462",
+            "bn",
+            "in",
+            "may"
+        ],
+        "words": [
+            "deficit"
+        ],
+        "positive": [],
+        "negative": [
+            "deficit"
+        ]
+    },
+    "article": {
+        "title": "Trade deficit widens to 4-month high of $14.62 billion in May",
+        "content": "<section class=\"title_section clearfix\"><meta itemprop=\"headline\" content=\"Trade deficit widens to 4-month high of $14.62 billion in May\"><p>Commerce Minister Suresh Prabhu said exports in May rose by 28.18 per cent to $28.86 billion while imports were up 14.85 per cent to $43.48 billion.</p></section>"
+    },
+    "adjectives": [
+        "10",
+        "left",
+        "top",
+        "right",
+        "high",
+        "14",
+        "62",
+        "rose",
+        "28",
+        "18",
+        "86",
+        "billion",
+        "85",
+        "43",
+        "48"
+    ],
+    "nouns": [
+        "month",
+        "margin",
+        "May",
+        "may",
+        "Commerce",
+        "india",
+        "business",
+        "border",
+        "10",
+        "left",
+        "style",
+        "top",
+        "right",
+        "photo",
+        "Trade",
+        "trade",
+        "deficit",
+        "high",
+        "14",
+        "Minister",
+        "rose",
+        "28",
+        "18",
+        "cent",
+        "billion"
+    ],
+    "verbs": [
+        "border",
+        "align",
+        "style",
+        "top",
+        "right",
+        "Trade",
+        "trade",
+        "Minister"
+    ]
+}

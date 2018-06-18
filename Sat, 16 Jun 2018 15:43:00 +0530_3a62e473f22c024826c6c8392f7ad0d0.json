@@ -1,0 +1,57 @@
+{
+    "title": "Petrol prices unchanged at Rs 76.35 per litre after 8-paise fall on Friday",
+    "link": "https://www.business-standard.com/article/economy-policy/petrol-prices-unchanged-at-rs-76-35-per-litre-after-8-paise-fall-on-friday-118061600222_1.html",
+    "pubDate": "Sat, 16 Jun 2018 15:43:00 +0530",
+    "content": "The price of diesel was unchanged for the fourth day in a row",
+    "contentSnippet": "The price of diesel was unchanged for the fourth day in a row",
+    "guid": "https://www.business-standard.com/article/economy-policy/petrol-prices-unchanged-at-rs-76-35-per-litre-after-8-paise-fall-on-friday-118061600222_1.html",
+    "isoDate": "2018-06-16T10:13:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "petrol",
+            "prices",
+            "unchanged",
+            "at",
+            "rs",
+            "7635",
+            "per",
+            "litre",
+            "after",
+            "8-paise",
+            "fall",
+            "on",
+            "friday"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {
+        "title": "Petrol prices unchanged at Rs 76.35 per litre after 8-paise fall on Friday",
+        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t\n<p>\n\tPetrol prices across the four metros were stable on Saturday. In the national capital, the fuel was sold at an unchanged price of Rs 76.35 per litre.</p>\n<p>\n\tIn Kolkata, Mumbai and Chennai too, prices were stable at Rs 79.02, Rs 84.18 and Rs 79.24 per litre respectively.\n\n\n</p>\n<!-- INPAGE_BANNER -->\n<p>\n\tOn Friday, petrol prices fell by eight paise in Delhi, Kolkata and Mumbai and by nine paise in Chennai.</p>\n<p>\n\tThe price of diesel was unchanged for the fourth day in a row. In Delhi, Kolkata, Mumbai and Chennai, it was sold at Rs 67.85, Rs 70.40, Rs 72.24 and Rs 71.62 a litre, all unchanged since the last decline in June 12.</p>\n<p>\n\tFuel price in the country is largely determined by global crude oil prices, which have been on a downslide for nearly a month now. The Brent crude oil is currently priced over $73 per barrel, down from nearly $80 a barrel a month ago.</p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
+    },
+    "adjectives": [
+        "fourth",
+        "unchanged",
+        "76",
+        "35"
+    ],
+    "nouns": [
+        "diesel",
+        "fourth",
+        "price",
+        "Petrol",
+        "litre",
+        "fall",
+        "Friday",
+        "day",
+        "row"
+    ],
+    "verbs": [
+        "price",
+        "fall",
+        "row"
+    ]
+}

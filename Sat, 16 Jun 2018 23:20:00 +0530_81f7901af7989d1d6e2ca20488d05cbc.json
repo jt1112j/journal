@@ -1,0 +1,70 @@
+{
+    "title": "India, oil's fastest growing buyer, guzzling Iran's crude as sanctions loom",
+    "link": "https://www.business-standard.com/article/economy-policy/india-oil-s-fastest-growing-buyer-guzzling-iran-s-crude-as-sanctions-loom-118061600712_1.html",
+    "pubDate": "Sat, 16 Jun 2018 23:20:00 +0530",
+    "content": "India, which imports over 80% of its oil, is attracted to Iran's crude largely due to geographic proximity that can save on shipping costs",
+    "contentSnippet": "India, which imports over 80% of its oil, is attracted to Iran's crude largely due to geographic proximity that can save on shipping costs",
+    "guid": "https://www.business-standard.com/article/economy-policy/india-oil-s-fastest-growing-buyer-guzzling-iran-s-crude-as-sanctions-loom-118061600712_1.html",
+    "isoDate": "2018-06-16T17:50:00.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.09090909090909091,
+        "tokens": [
+            "india",
+            "oil's",
+            "fastest",
+            "growing",
+            "buyer",
+            "guzzling",
+            "iran's",
+            "crude",
+            "as",
+            "sanctions",
+            "loom"
+        ],
+        "words": [
+            "loom",
+            "crude",
+            "growing"
+        ],
+        "positive": [
+            "growing"
+        ],
+        "negative": [
+            "loom",
+            "crude"
+        ]
+    },
+    "article": {
+        "title": "India, oil's fastest growing buyer, guzzling Iran's crude as sanctions loom",
+        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t<p>\n\t\n\tThe world’s fastest-growing oil consumer is guzzling down Iranian crude before US sanctions start squeezing supplies from the Persian Gulf nation.</p>\n<p>\n\tIndia imported 771,000 barrels of crude oil a day from Iran in May, a 35 per cent rise from the previous month, tanker tracking and shipping data compiled by <em>Bloomberg </em>show. This pushed the Islamic Republic up the ranks as the second-biggest supplier to the Asian nation, overtaking Saudi Arabia. Iraq retained the top position.\n\n\n</p>\n<!-- INPAGE_BANNER -->\n<p>\n\tThere is “a ratcheting up of competition among suppliers to capitalise on the Indian market as the country’s demand for oil grows,” said Abhishek Kumar, senior analyst at Interfax Global Energy in London. “Nevertheless, even Iranian supplies are not secure as the reimposition of US sanctions start to bite.”</p>\n<p>\n\tIndia, which imports over 80 per cent of its oil, is attracted to Iran’s crude largely due to geographic proximity that can save on shipping costs, as well as the favourable financial terms offered by the Persian Gulf state, including the longest credit period among all of India’s suppliers. Refiners in the south Asian nation were quick to ramp up imports from the Persian Gulf state after the previous round of sanctions were lifted in 2015.</p>\n<p>\n\tIndia's refiners were forced to slash Iranian oil purchases to about half their previous levels during the earlier sanctions before the landmark accord to curb the Islamic Republic’s nuclear program was struck between world powers in 2015.</p>\n<p>\n\tThis May, Indian Oil, the nation’s biggest refiner, boosted its crude purchases from the Middle East producer seven-fold, and plans to buy term supplies of 7 million metric tons during the 12 months beginning April, up from 4 million tons in the year earlier.</p>\n<p>\n\t“No one knows what’s going to happen” with the sanctions this time, said R Ramachandran, the head of refineries at Bharat Petroleum Corp. “But people are conscious and maybe acting according to what they anticipate as coming.”</p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
+    },
+    "adjectives": [
+        "growing",
+        "crude",
+        "80",
+        "due",
+        "geographic"
+    ],
+    "nouns": [
+        "India",
+        "oil",
+        "growing",
+        "buyer",
+        "guzzling",
+        "Iran",
+        "crude",
+        "loom",
+        "80",
+        "due",
+        "proximity",
+        "save",
+        "shipping",
+        "costs"
+    ],
+    "verbs": [
+        "oil",
+        "loom",
+        "save"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "creator": "IANS",
+    "title": "Facebook Messenger app crash? Try new update",
+    "link": "https://www.financialexpress.com/industry/technology/facebook-messenger-app-crash-try-new-update/1208865/",
+    "pubDate": "Sat, 16 Jun 2018 17:44:56 +05:30",
+    "dc:creator": "IANS",
+    "content": "Facebook's latest update for its Messenger app can fix the app that was crashing constantly among many iOS users, the media reported. ",
+    "contentSnippet": "Facebook's latest update for its Messenger app can fix the app that was crashing constantly among many iOS users, the media reported.",
+    "guid": "https://www.financialexpress.com/?p=1208865",
+    "categories": [
+        "Industry",
+        "Technology"
+    ],
+    "isoDate": "2018-06-16T12:14:56.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "facebook",
+            "messenger",
+            "app",
+            "crash?",
+            "try",
+            "new",
+            "update"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {
+        "title": "Facebook Messenger app crash? Try new update",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1208870\" src=\"https://images.financialexpress.com/2018/06/cats-1086.jpg\" alt=\"facebook, facebook messenger app,&nbsp;Apple,&nbsp;iOS users,&nbsp; iPhone, news on facebook, latest news on facebook\" srcset=\"https://images.financialexpress.com/2018/06/cats-1086.jpg 660w, https://images.financialexpress.com/2018/06/cats-1086-300x200.jpg 300w, https://images.financialexpress.com/2018/06/cats-1086-620x413.jpg 620w, https://images.financialexpress.com/2018/06/cats-1086-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> According to a spokesperson, Facebook was aware of the issue and working on a new update. (Reuters)</figure>\n\t\t\t</section></div><span>\n</span><p>Facebook’s latest update for its Messenger app can fix the app that was crashing constantly among many iOS users, the media reported. Version 170.0 was the buggy release, and the company has already submitted a fix (170.1) to Apple, The Verge reported on Friday. The users can now identify the version by tapping “more” in the updates tab of the App Store. According to The Verge, many people noticed that the app was crashing frequently after updating the previous update (170.0). The users found Messenger opens well initially. But when they switch to another app and come back to the messenger, it fades to black and crashes to the iPhone home screen.</p><span>\n</span><p>According to a spokesperson, Facebook was aware of the issue and working on a new update. Facebook has now confirmed that the new update should solve the issue, CNET reported.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "reported",
+        "new",
+        "crashing",
+        "latest"
+    ],
+    "nouns": [
+        "Messenger",
+        "crash",
+        "Try",
+        "update",
+        "latest",
+        "fix"
+    ],
+    "verbs": [
+        "crash",
+        "Try",
+        "update",
+        "fix"
+    ]
+}

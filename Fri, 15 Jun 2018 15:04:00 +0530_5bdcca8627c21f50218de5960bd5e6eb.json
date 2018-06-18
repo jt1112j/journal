@@ -1,0 +1,79 @@
+{
+    "title": "TCS hits new high as board approves share buyback at Rs 2100 per share",
+    "link": "https://www.business-standard.com/article/markets/tcs-hits-new-high-as-board-approves-share-buyback-at-rs-2100-per-share-118061500539_1.html",
+    "pubDate": "Fri, 15 Jun 2018 15:04:00 +0530",
+    "content": "The stock hit a new high of Rs 1,849, up 3% after the company said its board approved a proposal of buyback upto 76.19 million equity shares at price of Rs 2,100 per share through tender offer.",
+    "contentSnippet": "The stock hit a new high of Rs 1,849, up 3% after the company said its board approved a proposal of buyback upto 76.19 million equity shares at price of Rs 2,100 per share through tender offer.",
+    "guid": "https://www.business-standard.com/article/markets/tcs-hits-new-high-as-board-approves-share-buyback-at-rs-2100-per-share-118061500539_1.html",
+    "isoDate": "2018-06-15T09:34:00.000Z",
+    "sentiment": {
+        "score": 4,
+        "comparative": 0.2857142857142857,
+        "tokens": [
+            "tcs",
+            "hits",
+            "new",
+            "high",
+            "as",
+            "board",
+            "approves",
+            "share",
+            "buyback",
+            "at",
+            "rs",
+            "2100",
+            "per",
+            "share"
+        ],
+        "words": [
+            "share",
+            "share",
+            "approves"
+        ],
+        "positive": [
+            "share",
+            "share",
+            "approves"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "stock",
+        "high",
+        "76",
+        "new",
+        "approved",
+        "100",
+        "19",
+        "million",
+        "tender"
+    ],
+    "nouns": [
+        "stock",
+        "high",
+        "share",
+        "proposal",
+        "company",
+        "buyback",
+        "hit",
+        "price",
+        "100",
+        "equity",
+        "board",
+        "19",
+        "million",
+        "tender",
+        "offer"
+    ],
+    "verbs": [
+        "stock",
+        "share",
+        "company",
+        "hit",
+        "price",
+        "board",
+        "tender",
+        "offer"
+    ]
+}

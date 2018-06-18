@@ -1,0 +1,72 @@
+{
+    "title": "Markets end flat; Sensex, Nifty above key marks",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/markets-end-flat-sensex-nifty-above-psychological-marks/articleshow/64601680.cms",
+    "pubDate": "Fri, 15 Jun 2018 10:27:37 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/markets-end-flat-sensex-nifty-above-psychological-marks/articleshow/64601680.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64601680.cms\" /></a>",
+    "contentSnippet": "",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/markets-end-flat-sensex-nifty-above-psychological-marks/articleshow/64601680.cms",
+    "isoDate": "2018-06-15T10:27:37.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.25,
+        "tokens": [
+            "markets",
+            "end",
+            "flat",
+            "sensex",
+            "nifty",
+            "above",
+            "key",
+            "marks"
+        ],
+        "words": [
+            "nifty"
+        ],
+        "positive": [
+            "nifty"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "Markets end flat; Sensex, Nifty above psychological marks",
+        "content": "<div class=\"loadingblock ajaxarticleloading\"><div class=\"loadingnext\"><p><span class=\"loadingnextstory\"><b>Online platforms capture 38% smartphone sales in India, Flipkart leads</b></span></p></div></div>"
+    },
+    "adjectives": [
+        "flat",
+        "Nifty",
+        "nifty",
+        "above",
+        "key",
+        "psychological",
+        "10",
+        "left",
+        "top",
+        "right"
+    ],
+    "verbs": [
+        "end",
+        "key",
+        "border",
+        "align",
+        "style",
+        "top",
+        "right"
+    ],
+    "nouns": [
+        "marks",
+        "margin",
+        "end",
+        "flat",
+        "above",
+        "key",
+        "india",
+        "business",
+        "border",
+        "10",
+        "left",
+        "style",
+        "top",
+        "right",
+        "photo"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "creator": "FE Online",
+    "title": "How expensive has India become? This chart shows how inflation surged in last one year",
+    "link": "https://www.financialexpress.com/economy/how-expensive-has-india-become-this-chart-shows-how-inflation-surged-in-last-one-year/1207304/",
+    "pubDate": "Fri, 15 Jun 2018 12:52:17 +05:30",
+    "dc:creator": "FE Online",
+    "content": "There was a broad-based increase in price levels across all the key segments of the CPI index and core inflation rose to a near 4 year (46 months ) high of 6.2%.",
+    "contentSnippet": "There was a broad-based increase in price levels across all the key segments of the CPI index and core inflation rose to a near 4 year (46 months ) high of 6.2%.",
+    "guid": "https://www.financialexpress.com/?p=1207304",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-15T07:22:17.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "how",
+            "expensive",
+            "has",
+            "india",
+            "become?",
+            "this",
+            "chart",
+            "shows",
+            "how",
+            "inflation",
+            "surged",
+            "in",
+            "last",
+            "one",
+            "year"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "broad",
+        "high",
+        "based",
+        "expensive",
+        "near",
+        "rose",
+        "last",
+        "one",
+        "key",
+        "46"
+    ],
+    "verbs": [
+        "become",
+        "index",
+        "price",
+        "chart",
+        "near",
+        "last",
+        "increase",
+        "key",
+        "core"
+    ],
+    "nouns": [
+        "broad",
+        "year",
+        "high",
+        "India",
+        "index",
+        "There",
+        "price",
+        "chart",
+        "rose",
+        "last",
+        "increase",
+        "one",
+        "inflation",
+        "CPI",
+        "key",
+        "core"
+    ]
+}

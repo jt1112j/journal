@@ -1,0 +1,55 @@
+{
+    "title": "Gold futures up by 0.31% to Rs 31,239 on global cues",
+    "link": "https://www.business-standard.com/article/markets/gold-futures-up-by-0-31-to-rs-31-239-on-global-cues-118061400324_1.html",
+    "pubDate": "Thu, 14 Jun 2018 13:25:00 +0530",
+    "content": "Globally, gold rose 0.11 per cent to USD 1,300.20 an ounce in Singapore",
+    "contentSnippet": "Globally, gold rose 0.11 per cent to USD 1,300.20 an ounce in Singapore",
+    "guid": "https://www.business-standard.com/article/markets/gold-futures-up-by-0-31-to-rs-31-239-on-global-cues-118061400324_1.html",
+    "isoDate": "2018-06-14T07:55:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.18181818181818182,
+        "tokens": [
+            "gold",
+            "futures",
+            "up",
+            "by",
+            "031",
+            "to",
+            "rs",
+            "31239",
+            "on",
+            "global",
+            "cues"
+        ],
+        "words": [
+            "gold"
+        ],
+        "positive": [
+            "gold"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "11",
+        "Gold",
+        "gold",
+        "31",
+        "global",
+        "rose",
+        "300",
+        "20"
+    ],
+    "nouns": [
+        "Singapore",
+        "11",
+        "Gold",
+        "gold",
+        "cent",
+        "20",
+        "ounce",
+        "rose"
+    ],
+    "verbs": []
+}

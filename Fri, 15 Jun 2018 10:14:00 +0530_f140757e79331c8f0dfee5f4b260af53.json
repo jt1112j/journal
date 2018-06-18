@@ -1,0 +1,62 @@
+{
+    "title": "Rupee hits 3-week low, slips 36 paise to 67.98 against dollar",
+    "link": "https://www.business-standard.com/article/markets/rupee-hits-3-week-low-slips-36-paise-to-67-98-against-dollar-118061500157_1.html",
+    "pubDate": "Fri, 15 Jun 2018 10:14:00 +0530",
+    "content": "The dollar strengthening against other currencies overseas as the European Central Bank pledged to leave interest rates unchanged until mid-2019, weighed on the rupee",
+    "contentSnippet": "The dollar strengthening against other currencies overseas as the European Central Bank pledged to leave interest rates unchanged until mid-2019, weighed on the rupee",
+    "guid": "https://www.business-standard.com/article/markets/rupee-hits-3-week-low-slips-36-paise-to-67-98-against-dollar-118061500157_1.html",
+    "isoDate": "2018-06-15T04:44:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "rupee",
+            "hits",
+            "3-week",
+            "low",
+            "slips",
+            "36",
+            "paise",
+            "to",
+            "6798",
+            "against",
+            "dollar"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "overseas",
+        "low",
+        "36",
+        "67",
+        "98",
+        "European",
+        "Central",
+        "pledged",
+        "unchanged",
+        "mid"
+    ],
+    "verbs": [
+        "Bank",
+        "interest",
+        "leave",
+        "low"
+    ],
+    "nouns": [
+        "dollar",
+        "strengthening",
+        "Bank",
+        "interest",
+        "leave",
+        "Rupee",
+        "rupee",
+        "week",
+        "low",
+        "European",
+        "Central",
+        "rates"
+    ]
+}

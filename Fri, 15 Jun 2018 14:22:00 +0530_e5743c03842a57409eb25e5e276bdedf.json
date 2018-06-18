@@ -1,0 +1,38 @@
+{
+    "title": "Manpasand Beverages put under ASM framework; stock falls 5%",
+    "link": "https://www.business-standard.com/article/markets/manpasand-beverages-puts-under-asm-framework-stock-falls-5-118061500490_1.html",
+    "pubDate": "Fri, 15 Jun 2018 14:22:00 +0530",
+    "content": "The stock locked in down circuit of 5% at Rs 158 on the BSE.",
+    "contentSnippet": "The stock locked in down circuit of 5% at Rs 158 on the BSE.",
+    "guid": "https://www.business-standard.com/article/markets/manpasand-beverages-puts-under-asm-framework-stock-falls-5-118061500490_1.html",
+    "isoDate": "2018-06-15T08:52:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "manpasand",
+            "beverages",
+            "put",
+            "under",
+            "asm",
+            "framework",
+            "stock",
+            "falls",
+            "5"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "stock",
+        "down"
+    ],
+    "verbs": [
+        "stock",
+        "put",
+        "down",
+        "circuit"
+    ]
+}

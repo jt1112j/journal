@@ -1,0 +1,46 @@
+{
+    "title": "HNIs selling stocks to buy real estate is risk for Indian mkts: Chris Wood",
+    "link": "https://www.business-standard.com/article/markets/chris-wood-to-up-investment-in-hdfc-bank-indiabulls-ventures-118061500332_1.html",
+    "pubDate": "Fri, 15 Jun 2018 23:19:00 +0530",
+    "content": "Chris Wood to up investment in HDFC Bank, Indiabulls Ventures",
+    "contentSnippet": "Chris Wood to up investment in HDFC Bank, Indiabulls Ventures",
+    "guid": "https://www.business-standard.com/article/markets/chris-wood-to-up-investment-in-hdfc-bank-indiabulls-ventures-118061500332_1.html",
+    "isoDate": "2018-06-15T17:49:00.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.14285714285714285,
+        "tokens": [
+            "hnis",
+            "selling",
+            "stocks",
+            "to",
+            "buy",
+            "real",
+            "estate",
+            "is",
+            "risk",
+            "for",
+            "indian",
+            "mkts",
+            "chris",
+            "wood"
+        ],
+        "words": [
+            "risk"
+        ],
+        "positive": [],
+        "negative": [
+            "risk"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "Indian",
+        "real"
+    ],
+    "verbs": [
+        "risk",
+        "Bank",
+        "buy"
+    ]
+}

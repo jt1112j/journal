@@ -1,0 +1,73 @@
+{
+    "title": "Dr Reddy's gains 3% on USFDA nod for launch of generic version of Suboxone",
+    "link": "https://www.business-standard.com/article/markets/dr-reddy-s-gains-3-on-usfda-nod-for-launch-of-generic-version-of-suboxone-118061500151_1.html",
+    "pubDate": "Fri, 15 Jun 2018 09:29:00 +0530",
+    "content": "In past eight trading sessions, the stock of pharmaceutical company has rallied 20% from Rs 1,960 on June 5, 2018, as compared to 2% rise in the S&P BSE Sensex.",
+    "contentSnippet": "In past eight trading sessions, the stock of pharmaceutical company has rallied 20% from Rs 1,960 on June 5, 2018, as compared to 2% rise in the S&P BSE Sensex.",
+    "guid": "https://www.business-standard.com/article/markets/dr-reddy-s-gains-3-on-usfda-nod-for-launch-of-generic-version-of-suboxone-118061500151_1.html",
+    "isoDate": "2018-06-15T03:59:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.14285714285714285,
+        "tokens": [
+            "dr",
+            "reddy's",
+            "gains",
+            "3",
+            "on",
+            "usfda",
+            "nod",
+            "for",
+            "launch",
+            "of",
+            "generic",
+            "version",
+            "of",
+            "suboxone"
+        ],
+        "words": [
+            "gains"
+        ],
+        "positive": [
+            "gains"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "stock",
+        "generic",
+        "In",
+        "past",
+        "eight",
+        "pharmaceutical",
+        "20"
+    ],
+    "nouns": [
+        "stock",
+        "rise",
+        "S",
+        "trading",
+        "company",
+        "version",
+        "BSE",
+        "P",
+        "nod",
+        "launch",
+        "In",
+        "past",
+        "eight",
+        "sessions",
+        "pharmaceutical",
+        "20",
+        "June",
+        "generic"
+    ],
+    "verbs": [
+        "stock",
+        "rise",
+        "company",
+        "nod",
+        "launch"
+    ]
+}

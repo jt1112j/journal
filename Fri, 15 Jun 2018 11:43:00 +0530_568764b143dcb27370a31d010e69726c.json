@@ -1,0 +1,59 @@
+{
+    "title": "India's decision to deregulate bond prices a good move, say investors",
+    "link": "https://www.business-standard.com/article/markets/india-s-decision-to-deregulate-bond-prices-a-good-move-say-investors-118061500306_1.html",
+    "pubDate": "Fri, 15 Jun 2018 11:43:00 +0530",
+    "content": "Foreigners say move to market pricing will instill discipline",
+    "contentSnippet": "Foreigners say move to market pricing will instill discipline",
+    "guid": "https://www.business-standard.com/article/markets/india-s-decision-to-deregulate-bond-prices-a-good-move-say-investors-118061500306_1.html",
+    "isoDate": "2018-06-15T06:13:00.000Z",
+    "sentiment": {
+        "score": 3,
+        "comparative": 0.2727272727272727,
+        "tokens": [
+            "india's",
+            "decision",
+            "to",
+            "deregulate",
+            "bond",
+            "prices",
+            "a",
+            "good",
+            "move",
+            "say",
+            "investors"
+        ],
+        "words": [
+            "good"
+        ],
+        "positive": [
+            "good"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "good"
+    ],
+    "nouns": [
+        "bond",
+        "India",
+        "market",
+        "good",
+        "will",
+        "move",
+        "say",
+        "decision",
+        "pricing",
+        "discipline"
+    ],
+    "verbs": [
+        "bond",
+        "market",
+        "will",
+        "move",
+        "instill",
+        "say",
+        "deregulate",
+        "discipline"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Fitch downgrades ICICI Bank, revises Axis Bank rating to negative",
+    "link": "https://www.business-standard.com/article/finance/fitch-downgrades-icici-bank-revises-axis-bank-rating-to-negative-118061600001_1.html",
+    "pubDate": "Sat, 16 Jun 2018 02:46:00 +0530",
+    "content": "Axis Bank's capital buffers are less comfortable for its current rating despite raising of fresh capital",
+    "contentSnippet": "Axis Bank's capital buffers are less comfortable for its current rating despite raising of fresh capital",
+    "guid": "https://www.business-standard.com/article/finance/fitch-downgrades-icici-bank-revises-axis-bank-rating-to-negative-118061600001_1.html",
+    "isoDate": "2018-06-15T21:16:00.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.2,
+        "tokens": [
+            "fitch",
+            "downgrades",
+            "icici",
+            "bank",
+            "revises",
+            "axis",
+            "bank",
+            "rating",
+            "to",
+            "negative"
+        ],
+        "words": [
+            "negative"
+        ],
+        "positive": [],
+        "negative": [
+            "negative"
+        ]
+    },
+    "article": {
+        "title": "Fitch downgrades ICICI Bank, revises Axis Bank rating to negative",
+        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t<p>Fitch has downgraded its support rating for ICICI Bank from ‘2’ to ‘3’ and revised the <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=outlook\" target=\"_blank\">outlook </a>on <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/axis-bank\" target=\"_blank\">Axis Bank </a>to ‘negative’ from ‘stable’.</p><p>\nThe <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=outlook\" target=\"_blank\">outlook </a>on ICICI Bank is, however, ‘stable’.\n\n\n</p>\n<!-- INPAGE_BANNER --><p>\nSupport ratings reflect expectation of a moderate probability of extraordinary state (government) support, if required. This is due to private ownership and lower systemic importance compared to larger <a class=\"storyTags\" href=\"https://www.business-standard.com/category/finance-news-banks-1030101.htm\" target=\"_blank\">banks.</a></p><p>\nThe revision in ICICI’s support rating takes into account the constrained finances. A large number of weak government-owned <a class=\"storyTags\" href=\"https://www.business-standard.com/category/finance-news-banks-1030101.htm\" target=\"_blank\">banks </a>— particularly those which are systemically important — will get priority in terms of timeliness of government support.</p><p>\nIt affirmed the long-term <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=issuer+default+ratings\" target=\"_blank\">issuer default ratings </a>(IDRs) and viability ratings of ICICI Bank and <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/axis-bank\" target=\"_blank\">Axis Bank </a>at ‘BBB-’ and ‘bbb-’, respectively.</p><p>\nThe negative <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=outlook\" target=\"_blank\">outlook </a>on Axis’s rating reflects rising pressure on its standalone profile relative to <a class=\"storyTags\" href=\"https://www.business-standard.com/category/finance-news-banks-1030101.htm\" target=\"_blank\">banks </a>with a viability rating of ‘bbb-’. The pressure on the profile stems from heightened asset-quality stress and weak earnings.</p><p>\nAxis Bank’s capital buffers are less comfortable for its current rating despite raising of fresh capital. ICICI’s capital buffers are better even though it experienced similar financial deterioration in the previous few years.</p>\n <br>Both banks exhibit gaps in risk control. An ongoing investigation into ICICI with regard to extending a loan with potential conflict of interest has also focused the authorities’ attention on the bank’s governance.<p>\nAdverse findings could lead to reputation risk, particularly if they point to broader weaknesses in the management.</p><p>\nFitch has a negative sector outlook on Indian banks. The new regulatory <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=non+performing+loan\" target=\"_blank\">non-performing loan </a>(NPL) framework that has accelerated bad-loan recognition is part of a clean-up that should improve the banking sector’s health in the long term.</p><p>\nMost state-owned banks reported losses in the financial year ending March 2018 (FY18) and earnings of large private banks also came under significant pressure, with Axis reporting its first-ever quarterly loss.</p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
+    },
+    "adjectives": [
+        "comfortable",
+        "raising",
+        "current",
+        "negative",
+        "capital",
+        "less",
+        "fresh"
+    ],
+    "nouns": [
+        "raising",
+        "current",
+        "despite",
+        "Bank",
+        "Fitch",
+        "Axis",
+        "rating",
+        "negative",
+        "capital"
+    ],
+    "verbs": [
+        "Bank",
+        "negative"
+    ]
+}

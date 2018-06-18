@@ -1,0 +1,65 @@
+{
+    "creator": "FE Online",
+    "title": "Google now offers high-priority notifications to Gmail iOS users",
+    "link": "https://www.financialexpress.com/industry/technology/google-now-offers-high-priority-notifications-to-gmail-ios-users/1208922/",
+    "pubDate": "Sat, 16 Jun 2018 20:09:46 +05:30",
+    "dc:creator": "FE Online",
+    "content": "In order to give its users a much smarter way to receive notification, Google is rolling out a new process with the help of which, its Gmail users will only receive high-priority notifications on their phones.",
+    "contentSnippet": "In order to give its users a much smarter way to receive notification, Google is rolling out a new process with the help of which, its Gmail users will only receive high-priority notifications on their phones.",
+    "guid": "https://www.financialexpress.com/?p=1208922",
+    "categories": [
+        "Industry",
+        "Technology"
+    ],
+    "isoDate": "2018-06-16T14:39:46.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "google",
+            "now",
+            "offers",
+            "high-priority",
+            "notifications",
+            "to",
+            "gmail",
+            "ios",
+            "users"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {
+        "title": "Google now offers high-priority notifications to Gmail iOS users",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1208926\" src=\"https://images.financialexpress.com/2018/06/GMAIL.jpg\" alt=\"google, gmail,&nbsp;Gmail iOS users,&nbsp;high-priority notifications, gmail upgrade, AI technology,&nbsp;iOS device,&nbsp;iOS users, technology, technology news\" srcset=\"https://images.financialexpress.com/2018/06/GMAIL.jpg 660w, https://images.financialexpress.com/2018/06/GMAIL-300x200.jpg 300w, https://images.financialexpress.com/2018/06/GMAIL-620x413.jpg 620w, https://images.financialexpress.com/2018/06/GMAIL-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> High-priority notifications on Gmail: Over the next 2 to 3 days, this feature will be available for iOS users.</figure>\n\t\t\t</section></div><span>\n</span><p>In order to give its users a much smarter way to receive notification, <a target=\"_blank\" href=\"http://www.financialexpress.com/tag/google/\">Google</a> is rolling out a new process with the help of which, its Gmail users will only receive high-priority notifications on their phones. This service is currently available for iOS users only as a server-side update. According to an Indian Express report, based on the artificial intelligence (AI) technology, Google with the help of its machine learning (ML) feature will now be able to identify messages that the user would want to read first. Over the next 2 to 3 days, this feature will be available for iOS users. However, iOS users should keep in mind that the upgraded notifications option will be available only for those people who will upgrade their app to the latest Gmail version on their iOS device.</p><span>\n</span><p>Google blog post, while talking about this new latest upgrade said, “Notifications are only useful if you have time to read them—and if you’re being notified hundreds of times a day, chances are, you don’t. That’s why we’re introducing a feature that alerts you only when important emails land in your Gmail inbox, so you know when your attention is really required.”</p><span>\n</span><p>In order to start getting the high-priority notifications on Gmail, iOS users will have to select “High priority only” from the Notifications drop-down in the settings menu. Once selected, they will then enable this feature on their devices and reap its benefits.</p><span>\n</span><p>In the month of April earlier this year, tech giant Google had redesigned Gmail and introduced new features like Confidential mode, Smart replies, smart compose as well as new security and customisations. It was in that month only, when the high-priority notifications were introduced while it is being rolled out now. This new feature has been introduced by Google to minimize interruptions and clutter.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "high",
+        "In",
+        "rolling",
+        "new"
+    ],
+    "verbs": [
+        "process",
+        "Google",
+        "order",
+        "give",
+        "receive",
+        "help",
+        "will"
+    ],
+    "nouns": [
+        "process",
+        "priority",
+        "Google",
+        "high",
+        "notification",
+        "In",
+        "order",
+        "help",
+        "will",
+        "rolling",
+        "give"
+    ]
+}

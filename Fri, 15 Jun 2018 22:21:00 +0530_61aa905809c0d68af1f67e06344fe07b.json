@@ -1,0 +1,64 @@
+{
+    "title": "Foreign exchange reserves rise by $879.5 million to $413 billion: RBI",
+    "link": "https://www.business-standard.com/article/economy-policy/foreign-exchange-reserves-rise-by-879-5-million-to-413-billion-rbi-118061500977_1.html",
+    "pubDate": "Fri, 15 Jun 2018 22:21:00 +0530",
+    "content": "The country's reserve position with the IMF also increased by $2.3 million to $2.029 billion, the apex bank said.",
+    "contentSnippet": "The country's reserve position with the IMF also increased by $2.3 million to $2.029 billion, the apex bank said.",
+    "guid": "https://www.business-standard.com/article/economy-policy/foreign-exchange-reserves-rise-by-879-5-million-to-413-billion-rbi-118061500977_1.html",
+    "isoDate": "2018-06-15T16:51:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.09090909090909091,
+        "tokens": [
+            "foreign",
+            "exchange",
+            "reserves",
+            "rise",
+            "by",
+            "8795",
+            "million",
+            "to",
+            "413",
+            "billion",
+            "rbi"
+        ],
+        "words": [
+            "rise"
+        ],
+        "positive": [
+            "rise"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "Foreign exchange reserves rise by $879.5 million to $413 billion: RBI",
+        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t\n<p>\n\tIndia's <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/foreign-exchange-reserves\" target=\"_blank\">foreign exchange reserves </a>increased by $879.5 million to&nbsp; $413.109 billion in the week to June 8, helped by rise in foreign currency assets, the Reserve Bank data showed on Friday.</p>\n<p>\n\tIn the previous week, the reserves had declined by $593.7 million to $412.230 billion.\n\n\n</p>\n<!-- INPAGE_BANNER -->\n<p>\n\tThe reserves had touched a record high of $426.028 billion in the week to April 13, 2018. It had crossed the $400-billion mark for the first time in the week to September 8, 2017, but has since been fluctuating.</p>\n<p>\n\tIn the reporting week, the foreign currency assets, a major component of the overall reserves, rose by $875.4 million to $388.391 billion.</p>\n<p>\n\tExpressed in US dollar terms, the <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=foreign+currency+assets\" target=\"_blank\">foreign currency assets </a>include the effect of appreciation or depreciation of the <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=non+us+currencies\" target=\"_blank\">non-US currencies </a>such as the euro, the pound and the yen held in the reserves.</p>\n<p>\n\tGold reserves remained unchanged at $21.189 billion in the reporting week, the data showed.</p>\n<p>\n\tThe special drawing rights with the <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/international-monetary-fund\" target=\"_blank\">International Monetary Fund </a>(IMF) rose by $1.8 million to $1.499 billion.</p>\n<p>\n\tThe country's reserve position with the IMF also increased by $2.3 million to $2.029 billion, the apex bank said.</p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
+    },
+    "adjectives": [
+        "million",
+        "billion",
+        "Foreign",
+        "increased"
+    ],
+    "verbs": [
+        "reserve",
+        "bank",
+        "exchange",
+        "position",
+        "rise"
+    ],
+    "nouns": [
+        "million",
+        "billion",
+        "country",
+        "reserves",
+        "reserve",
+        "bank",
+        "RBI",
+        "exchange",
+        "position",
+        "rise",
+        "IMF",
+        "apex"
+    ]
+}

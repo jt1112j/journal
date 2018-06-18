@@ -1,0 +1,74 @@
+{
+    "creator": "FE Bureau",
+    "title": "Renewable Power: New roadmap for mandatory purchase",
+    "link": "https://www.financialexpress.com/industry/renewable-power-new-roadmap-for-mandatory-purchase/1208298/",
+    "pubDate": "Sat, 16 Jun 2018 05:00:54 +05:30",
+    "dc:creator": "FE Bureau",
+    "content": "India has made rapid strides in renewable power sector in recent years but the potential bidders for such projects are concerned about the project costs going up if duties are imposed on solar panels from abroad.",
+    "contentSnippet": "India has made rapid strides in renewable power sector in recent years but the potential bidders for such projects are concerned about the project costs going up if duties are imposed on solar panels from abroad.",
+    "guid": "https://www.financialexpress.com/?p=1208298",
+    "categories": [
+        "Industry"
+    ],
+    "isoDate": "2018-06-15T23:30:54.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.14285714285714285,
+        "tokens": [
+            "renewable",
+            "power",
+            "new",
+            "roadmap",
+            "for",
+            "mandatory",
+            "purchase"
+        ],
+        "words": [
+            "mandatory"
+        ],
+        "positive": [],
+        "negative": [
+            "mandatory"
+        ]
+    },
+    "article": {
+        "title": "Renewable Power: New roadmap for mandatory purchase",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1208302\" src=\"https://images.financialexpress.com/2018/06/1-69.jpg\" alt=\"\" srcset=\"https://images.financialexpress.com/2018/06/1-69.jpg 660w, https://images.financialexpress.com/2018/06/1-69-300x200.jpg 300w, https://images.financialexpress.com/2018/06/1-69-620x413.jpg 620w, https://images.financialexpress.com/2018/06/1-69-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> Giving a further boost to the uptake of renewable energy, the government makes a new roadmap</figure>\n\t\t\t</section></div><span>\n</span><p>Giving a further boost to the uptake of renewable energy, the government has raised the minimum quantity of green power that states must procure to 21% of their overall power purchases in FY22 from 14.3% in FY18 (see chart). If the new roadmap for renewable purchase obligation (RPO) is complied with, the country will be consuming 273 billion units of renewables-based electricity in FY22, up 235% from now.</p><span>\n</span><p>India has made rapid strides in renewable power sector in recent years but the potential bidders for such projects are concerned about the project costs going up if duties are imposed on solar panels from abroad. While solar tariffs over many rounds of auction have fallen, analysts wonder if such low rates are sustainable.</p><span>\n</span><p>Rajasthan, Tamil Nadu, Gujarat, Punjab, Himachal Pradesh, Maharashtra, Karnataka, Andhra Pradesh and Telangana — states were most of the solar and wind power plants are located — achieved their RPO targets in FY18. Uttar Pradesh, Jharkhand, Bihar and Madhya Pradesh, however, have continuously missed their RPO targets.</p><span>\n</span><p>Only six states have accepted the RPO targets specified by the Union power ministry for FY19 so far, CARE Ratings said in a note earlier this month.</p><span>\n</span><p>The ministry of new and renewable energy has recently created an RPO cell to ensure compliance and invoke penal provisions against defaulting entities. The draft amendment to the National Tariff Policy, 2016, released by the power ministry on last month also proposed that state electricity regulators should consider the RPO compliance levels of the states while computing the tariffs for electricity distribution companies (discoms).</p><span>\n</span><p>To meet RPO targets, discoms have to find suitable balancing power sources to support the infirm nature of renewable energy, which is one of the main reasons behind states failing to meet targets. To address this problem, the power ministry has allowed thermal power generation companies the flexibility of using renewable energy sources to meet their contractual generation obligations. Under the new mechanism, thermal gencos can set up renewable power plants at their existing power stations, or anywhere else, thus allowing discoms to meet their RPOs through existing power purchase agreements.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "concerned",
+        "recent",
+        "Renewable",
+        "renewable",
+        "New",
+        "mandatory",
+        "made",
+        "rapid",
+        "potential",
+        "going",
+        "imposed",
+        "solar",
+        "abroad"
+    ],
+    "verbs": [
+        "Power",
+        "power",
+        "purchase",
+        "project"
+    ],
+    "nouns": [
+        "recent",
+        "years",
+        "India",
+        "Power",
+        "power",
+        "mandatory",
+        "purchase",
+        "rapid",
+        "sector",
+        "potential",
+        "project",
+        "costs",
+        "going"
+    ]
+}

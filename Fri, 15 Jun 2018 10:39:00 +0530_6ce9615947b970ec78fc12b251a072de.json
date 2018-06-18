@@ -1,0 +1,62 @@
+{
+    "title": "Reliance Industries, Bajaj Finance, Jubilant FoodWorks hit new highs",
+    "link": "https://www.business-standard.com/article/markets/reliance-industries-bajaj-finance-jubilant-foodworks-hit-new-high-118061500220_1.html",
+    "pubDate": "Fri, 15 Jun 2018 10:39:00 +0530",
+    "content": "United Breweries, Page Industries and Sundram Fasteners from the S&P BSE500 index hitting their respective new highs on the BSE in intra-day trade in otherwise subdued market.",
+    "contentSnippet": "United Breweries, Page Industries and Sundram Fasteners from the S&P BSE500 index hitting their respective new highs on the BSE in intra-day trade in otherwise subdued market.",
+    "guid": "https://www.business-standard.com/article/markets/reliance-industries-bajaj-finance-jubilant-foodworks-hit-new-high-118061500220_1.html",
+    "isoDate": "2018-06-15T05:09:00.000Z",
+    "sentiment": {
+        "score": 3,
+        "comparative": 0.3333333333333333,
+        "tokens": [
+            "reliance",
+            "industries",
+            "bajaj",
+            "finance",
+            "jubilant",
+            "foodworks",
+            "hit",
+            "new",
+            "highs"
+        ],
+        "words": [
+            "jubilant"
+        ],
+        "positive": [
+            "jubilant"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "new",
+        "respective",
+        "Jubilant",
+        "United",
+        "otherwise",
+        "subdued"
+    ],
+    "nouns": [
+        "S",
+        "index",
+        "market",
+        "trade",
+        "Finance",
+        "BSE",
+        "Reliance",
+        "hit",
+        "hitting",
+        "Page",
+        "P",
+        "day"
+    ],
+    "verbs": [
+        "index",
+        "market",
+        "trade",
+        "Finance",
+        "hit",
+        "Page"
+    ]
+}

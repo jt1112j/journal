@@ -1,0 +1,65 @@
+{
+    "title": "Deal to gradually boost Opec output 'inevitable', says Saudi Arabia",
+    "link": "https://www.business-standard.com/article/markets/deal-to-gradually-boost-opec-output-inevitable-says-saudi-arabia-118061500037_1.html",
+    "pubDate": "Fri, 15 Jun 2018 01:05:00 +0530",
+    "content": "So far, Caracas & Tehran have been adamant that Opec doesn't need to boost production this year, and have warned against succumbing to pressure from Washington",
+    "contentSnippet": "So far, Caracas & Tehran have been adamant that Opec doesn't need to boost production this year, and have warned against succumbing to pressure from Washington",
+    "guid": "https://www.business-standard.com/article/markets/deal-to-gradually-boost-opec-output-inevitable-says-saudi-arabia-118061500037_1.html",
+    "isoDate": "2018-06-14T19:35:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.1,
+        "tokens": [
+            "deal",
+            "to",
+            "gradually",
+            "boost",
+            "opec",
+            "output",
+            "'inevitable'",
+            "says",
+            "saudi",
+            "arabia"
+        ],
+        "words": [
+            "boost"
+        ],
+        "positive": [
+            "boost"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "far",
+        "inevitable",
+        "Saudi",
+        "adamant"
+    ],
+    "nouns": [
+        "output",
+        "year",
+        "far",
+        "production",
+        "pressure",
+        "boost",
+        "Opec",
+        "inevitable",
+        "Saudi",
+        "Arabia",
+        "So",
+        "Caracas",
+        "Tehran",
+        "need",
+        "Washington",
+        "adamant",
+        "Deal"
+    ],
+    "verbs": [
+        "output",
+        "pressure",
+        "Deal",
+        "boost",
+        "need"
+    ]
+}

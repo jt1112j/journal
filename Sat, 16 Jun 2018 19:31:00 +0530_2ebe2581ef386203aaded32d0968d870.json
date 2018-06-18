@@ -1,0 +1,63 @@
+{
+    "title": "Singapore Exchange to continue SGX Nifty trade despite India dispute",
+    "link": "https://www.business-standard.com/article/markets/singapore-exchange-to-continue-sgx-nifty-trade-despite-india-dispute-118061600303_1.html",
+    "pubDate": "Sat, 16 Jun 2018 19:31:00 +0530",
+    "content": "SGX responded that it would launch successor products to its flagship Indian equity derivative products on June 4",
+    "contentSnippet": "SGX responded that it would launch successor products to its flagship Indian equity derivative products on June 4",
+    "guid": "https://www.business-standard.com/article/markets/singapore-exchange-to-continue-sgx-nifty-trade-despite-india-dispute-118061600303_1.html",
+    "isoDate": "2018-06-16T14:01:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "singapore",
+            "exchange",
+            "to",
+            "continue",
+            "sgx",
+            "nifty",
+            "trade",
+            "despite",
+            "india",
+            "dispute"
+        ],
+        "words": [
+            "dispute",
+            "nifty"
+        ],
+        "positive": [
+            "nifty"
+        ],
+        "negative": [
+            "dispute"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "Indian",
+        "derivative",
+        "Nifty"
+    ],
+    "nouns": [
+        "India",
+        "Indian",
+        "trade",
+        "derivative",
+        "dispute",
+        "launch",
+        "June",
+        "Singapore",
+        "Exchange",
+        "despite",
+        "successor",
+        "flagship",
+        "equity"
+    ],
+    "verbs": [
+        "continue",
+        "trade",
+        "dispute",
+        "launch",
+        "Exchange"
+    ]
+}

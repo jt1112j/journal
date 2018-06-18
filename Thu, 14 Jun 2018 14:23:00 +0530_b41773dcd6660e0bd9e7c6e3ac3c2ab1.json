@@ -1,0 +1,59 @@
+{
+    "title": "Reliance Industries hits new high, gains 10% in 3 weeks",
+    "link": "https://www.business-standard.com/article/markets/reliance-industries-hits-new-high-118061400527_1.html",
+    "pubDate": "Thu, 14 Jun 2018 14:23:00 +0530",
+    "content": "The stock hit a new high of Rs 1,011.70, up 1% on the BSE, surpassing its previous high of Rs 1010.70 recorded on April 27, 2018.",
+    "contentSnippet": "The stock hit a new high of Rs 1,011.70, up 1% on the BSE, surpassing its previous high of Rs 1010.70 recorded on April 27, 2018.",
+    "guid": "https://www.business-standard.com/article/markets/reliance-industries-hits-new-high-118061400527_1.html",
+    "isoDate": "2018-06-14T08:53:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.2,
+        "tokens": [
+            "reliance",
+            "industries",
+            "hits",
+            "new",
+            "high",
+            "gains",
+            "10",
+            "in",
+            "3",
+            "weeks"
+        ],
+        "words": [
+            "gains"
+        ],
+        "positive": [
+            "gains"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "verbs": [
+        "hit",
+        "stock"
+    ],
+    "adjectives": [
+        "recorded",
+        "27",
+        "surpassing",
+        "high",
+        "stock",
+        "70",
+        "10",
+        "previous",
+        "new"
+    ],
+    "nouns": [
+        "Reliance",
+        "hit",
+        "27",
+        "high",
+        "stock",
+        "70",
+        "10",
+        "BSE",
+        "April"
+    ]
+}

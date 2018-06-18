@@ -1,0 +1,47 @@
+{
+    "title": "E-commerce captures 38% smartphone sales in India during Q1 2018: Report",
+    "link": "https://www.business-standard.com/article/markets/e-commerce-captures-38-smartphone-sales-in-india-during-q1-2018-repor-118061501006_1.html",
+    "pubDate": "Fri, 15 Jun 2018 20:53:00 +0530",
+    "content": "Flipkart leads the pack, followed by Amazon and Mi",
+    "contentSnippet": "Flipkart leads the pack, followed by Amazon and Mi",
+    "guid": "https://www.business-standard.com/article/markets/e-commerce-captures-38-smartphone-sales-in-india-during-q1-2018-repor-118061501006_1.html",
+    "isoDate": "2018-06-15T15:23:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "e-commerce",
+            "captures",
+            "38",
+            "smartphone",
+            "sales",
+            "in",
+            "india",
+            "during",
+            "q1",
+            "2018",
+            "report"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "38"
+    ],
+    "verbs": [
+        "Report",
+        "pack"
+    ],
+    "nouns": [
+        "India",
+        "commerce",
+        "Report",
+        "pack",
+        "E",
+        "sales",
+        "Amazon",
+        "Mi"
+    ]
+}

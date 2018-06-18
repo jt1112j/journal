@@ -1,0 +1,61 @@
+{
+    "title": "India proposes retaliatory tariffs worth $241 mn on 30 US products",
+    "link": "https://www.business-standard.com/article/economy-policy/india-proposes-retaliatory-tariffs-worth-241-mn-on-30-us-products-118061501203_1.html",
+    "pubDate": "Sat, 16 Jun 2018 01:46:00 +0530",
+    "content": "Earlier in May, India proposed to raise duties by up to 100 per cent on 20 products such as almonds, apple and specific motorcycles imported from the US",
+    "contentSnippet": "Earlier in May, India proposed to raise duties by up to 100 per cent on 20 products such as almonds, apple and specific motorcycles imported from the US",
+    "guid": "https://www.business-standard.com/article/economy-policy/india-proposes-retaliatory-tariffs-worth-241-mn-on-30-us-products-118061501203_1.html",
+    "isoDate": "2018-06-15T20:16:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.18181818181818182,
+        "tokens": [
+            "india",
+            "proposes",
+            "retaliatory",
+            "tariffs",
+            "worth",
+            "241",
+            "mn",
+            "on",
+            "30",
+            "us",
+            "products"
+        ],
+        "words": [
+            "worth"
+        ],
+        "positive": [
+            "worth"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "imported",
+        "worth",
+        "20",
+        "retaliatory",
+        "30",
+        "Earlier",
+        "100",
+        "specific"
+    ],
+    "nouns": [
+        "India",
+        "worth",
+        "apple",
+        "US",
+        "20",
+        "cent",
+        "mn",
+        "30",
+        "May",
+        "raise",
+        "100",
+        "specific"
+    ],
+    "verbs": [
+        "raise"
+    ]
+}

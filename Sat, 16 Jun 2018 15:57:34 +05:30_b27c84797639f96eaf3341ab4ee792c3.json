@@ -1,0 +1,69 @@
+{
+    "creator": "Bloomberg",
+    "title": "This country was the biggest supplier of crude oil to India in May 2018! It’s not Saudi Arabia",
+    "link": "https://www.financialexpress.com/market/commodities/this-country-was-the-biggest-supplier-of-crude-oil-to-india-in-may-2018-its-not-saudi-arabia/1208743/",
+    "pubDate": "Sat, 16 Jun 2018 15:57:34 +05:30",
+    "dc:creator": "Bloomberg",
+    "content": "The world’s fastest-growing oil consumer is guzzling down Iranian crude before U.S. sanctions start squeezing supplies from the Persian Gulf nation. India imported 771,000 barrels of crude oil a day from Iran in May, a 35 percent increase from the previous month",
+    "contentSnippet": "The world’s fastest-growing oil consumer is guzzling down Iranian crude before U.S. sanctions start squeezing supplies from the Persian Gulf nation. India imported 771,000 barrels of crude oil a day from Iran in May, a 35 percent increase from the previous month",
+    "guid": "https://www.financialexpress.com/?p=1208743",
+    "categories": [
+        "Commodities",
+        "Market"
+    ],
+    "isoDate": "2018-06-16T10:27:34.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.05555555555555555,
+        "tokens": [
+            "this",
+            "country",
+            "was",
+            "the",
+            "biggest",
+            "supplier",
+            "of",
+            "crude",
+            "oil",
+            "to",
+            "india",
+            "in",
+            "may",
+            "2018",
+            "it’s",
+            "not",
+            "saudi",
+            "arabia"
+        ],
+        "words": [
+            "crude"
+        ],
+        "positive": [],
+        "negative": [
+            "crude"
+        ]
+    },
+    "article": {
+        "title": "This country was the biggest supplier of crude oil to India in May 2018! It’s not Saudi Arabia",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"wp-image-1208753 size-full\" src=\"https://images.financialexpress.com/2018/06/Oil-Reuters-2-2.jpg\" alt=\"\" srcset=\"https://images.financialexpress.com/2018/06/Oil-Reuters-2-2.jpg 660w, https://images.financialexpress.com/2018/06/Oil-Reuters-2-2-300x200.jpg 300w, https://images.financialexpress.com/2018/06/Oil-Reuters-2-2-620x413.jpg 620w, https://images.financialexpress.com/2018/06/Oil-Reuters-2-2-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> India imports over 80 percent of its oil requirement. (Image: Reuters)</figure>\n\t\t\t</section></div><span>\n</span><p>The world’s fastest-growing oil consumer is guzzling down Iranian crude before U.S. sanctions start squeezing supplies from the Persian Gulf nation. India imported 771,000 barrels of crude oil a day from Iran in May, a 35 percent increase from the previous month, tanker tracking and shipping data compiled by Bloomberg show. That pushed the Islamic Republic up the ranks as the second-biggest supplier to the Asian nation, overtaking Saudi Arabia. Iraq retained the top position.</p><span>\n</span><p>There’s “a ratcheting up of competition among suppliers to capitalize on the Indian market as the country’s demand for oil grows,” said Abhishek Kumar, senior analyst at Interfax Global Energy in London. “Nevertheless, even Iranian supplies are not secure as the reimposition of U.S. sanctions start to bite.”</p><span>\n</span><p><img class=\"alignnone wp-image-1208747 size-full\" src=\"https://images.financialexpress.com/2018/06/Iran-Saudi-Arabia-India-e1529144128240.png\" alt=\"\" width=\"660\" height=\"400\"></p><span>\n</span><p>India, which imports over 80 percent of its oil, is attracted to Iran’s crude largely due to geographic proximity that can save on shipping costs, as well as the favorable financial terms offered by the Persian Gulf state, including the longest credit period among all of India’s suppliers. Refiners in the south Asian nation were quick to ramp up imports from the Persian Gulf state after the previous round of sanctions were lifted in 2015.</p><span>\n</span><p>India’s refiners were forced to slash Iranian oil purchases to about half their previous levels during the earlier sanctions before the landmark accord to curb the Islamic Republic’s nuclear program was struck between world powers in 2015.</p><span>\n</span><p>This May, Indian Oil Corp., the nation’s biggest refiner, boosted its crude purchases from the Middle East producer seven-fold, and plans to buy term supplies of 7 million metric tons during the 12 months that began April, up from 4 million tons in the year earlier.</p><span>\n</span><p>“No one knows what’s going to happen” with the sanctions this time, said R. Ramachandran, the head of refineries at Bharat Petroleum Corp., India’s second-biggest state-run refiner. “But people are conscious and maybe acting according to what they anticipate as coming.”</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "world",
+        "Persian",
+        "previous",
+        "down",
+        "imported",
+        "growing",
+        "crude",
+        "Saudi",
+        "Iranian",
+        "U",
+        "35"
+    ],
+    "verbs": [
+        "down",
+        "start",
+        "increase",
+        "oil"
+    ]
+}

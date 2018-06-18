@@ -1,0 +1,79 @@
+{
+    "creator": "Reuters",
+    "title": "Apple, Qualcomm battle over possible ban on some US iPhone imports",
+    "link": "https://www.financialexpress.com/industry/technology/apple-qualcomm-battle-over-possible-ban-on-some-us-iphone-imports/1208311/",
+    "pubDate": "Sat, 16 Jun 2018 05:20:58 +05:30",
+    "dc:creator": "Reuters",
+    "content": "The staff of the US International Trade Commission on Friday recommended that a trade judge find that Apple Inc infringed at least one of Qualcomm Inc's patents.",
+    "contentSnippet": "The staff of the US International Trade Commission on Friday recommended that a trade judge find that Apple Inc infringed at least one of Qualcomm Inc's patents.",
+    "guid": "https://www.financialexpress.com/?p=1208311",
+    "categories": [
+        "Industry",
+        "Technology"
+    ],
+    "isoDate": "2018-06-15T23:50:58.000Z",
+    "sentiment": {
+        "score": -3,
+        "comparative": -0.2727272727272727,
+        "tokens": [
+            "apple",
+            "qualcomm",
+            "battle",
+            "over",
+            "possible",
+            "ban",
+            "on",
+            "some",
+            "us",
+            "iphone",
+            "imports"
+        ],
+        "words": [
+            "ban",
+            "battle"
+        ],
+        "positive": [],
+        "negative": [
+            "ban",
+            "battle"
+        ]
+    },
+    "article": {
+        "title": "Apple, Qualcomm battle over possible ban on some US iPhone imports",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1208312\" src=\"https://images.financialexpress.com/2018/06/apple-5.jpg\" alt=\"apple, Qualcomm, it sector\" srcset=\"https://images.financialexpress.com/2018/06/apple-5.jpg 660w, https://images.financialexpress.com/2018/06/apple-5-300x200.jpg 300w, https://images.financialexpress.com/2018/06/apple-5-620x413.jpg 620w, https://images.financialexpress.com/2018/06/apple-5-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> Apple has argued that some of Qualcomm’s practices are illegal. (Reuters)</figure>\n\t\t\t</section></div><span>\n</span><p>The staff of the US International Trade Commission on Friday recommended that a trade judge find that Apple Inc infringed at least one of Qualcomm Inc’s patents, a move that could lead to blocking the import of some iPhones.</p><span>\n</span><p>The San Diego chipmaker filed a complaint against Apple nearly a year ago, asking the commission to ban the import of iPhones containing rival chipmaker Intel Corp’s so-called modem chips, which help mobile phones connect to wireless data networks.</p><span>\n</span><p>At a trial in Washington that started on Friday, the ITC staff said Apple violated one of Qualcomm’s patents around battery-saving technology.</p><span>\n</span><p>The ITC staff acts as a third party in such trade cases. The staff lawyers’ opinions are not binding, but judges often follow them.</p><span>\n</span><p>In previous filings in the ITC case, Apple has argued that Qualcomm’s patents are invalid and that, regardless, the judge should not ban Intel-based iPhones because it would give Qualcomm a monopoly on modems in the United States and drive Intel out of the modem business.</p><span>\n</span><p>“Qualcomm is selectively asserting its patents to target only Apple products containing Intel chipsets — even though its patent infringement allegations would apply equally to Apple products containing Qualcomm chipsets — in an attempt to use the ITC as another mechanism for perpetuating its ill-gotten monopoly position,” Apple wrote.</p><span>\n</span><p>The ITC case is the first to go to trial out of more than a dozen legal fights between Apple and Qualcomm over patents, licensing practices and contracts between the two. A decision is expected by January.</p><span>\n</span><p>If the ITC judge decides to ban some iPhone imports, Qualcomm could use that to try to persuade Apple to settle or drop several of the other patent and contract cases, legal experts have said.</p><span>\n</span><p>Apple has argued that some of Qualcomm’s practices are illegal, and the chipmaker has paid billions of dollars in fines from antitrust regulators in several countries, though it is still appealing some of those rulings.<br>Qualcomm says its practices are legal and were accepted by customers for many years as the smartphone industry boomed, but it has made some changes to its licensing model of taking a cut of the selling price of a device in a bid to ease tensions with customers and regulators.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "possible",
+        "International",
+        "least",
+        "one"
+    ],
+    "nouns": [
+        "Trade",
+        "trade",
+        "Apple",
+        "possible",
+        "ban",
+        "US",
+        "staff",
+        "International",
+        "Commission",
+        "battle",
+        "Friday",
+        "find",
+        "Inc",
+        "least",
+        "one",
+        "judge"
+    ],
+    "verbs": [
+        "Trade",
+        "trade",
+        "battle",
+        "ban",
+        "staff",
+        "Commission",
+        "judge",
+        "find"
+    ]
+}

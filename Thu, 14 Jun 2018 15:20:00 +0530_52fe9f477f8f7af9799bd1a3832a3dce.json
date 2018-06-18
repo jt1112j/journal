@@ -1,0 +1,68 @@
+{
+    "title": "Pharma shares extend gain in subdued market; Aurobindo, Divi's Labs up 4%",
+    "link": "https://www.business-standard.com/article/markets/pharma-shares-extend-gain-in-subdued-market-aurobindo-divi-s-labs-up-4-118061400604_1.html",
+    "pubDate": "Thu, 14 Jun 2018 15:20:00 +0530",
+    "content": "At 03:16 pm; the Nifty Pharma index, the sole gainer among sectoral indices, was up 2%, as compared to 0.49% decline in Nifty 50 index.",
+    "contentSnippet": "At 03:16 pm; the Nifty Pharma index, the sole gainer among sectoral indices, was up 2%, as compared to 0.49% decline in Nifty 50 index.",
+    "guid": "https://www.business-standard.com/article/markets/pharma-shares-extend-gain-in-subdued-market-aurobindo-divi-s-labs-up-4-118061400604_1.html",
+    "isoDate": "2018-06-14T09:50:00.000Z",
+    "sentiment": {
+        "score": 4,
+        "comparative": 0.3333333333333333,
+        "tokens": [
+            "pharma",
+            "shares",
+            "extend",
+            "gain",
+            "in",
+            "subdued",
+            "market",
+            "aurobindo",
+            "divi's",
+            "labs",
+            "up",
+            "4"
+        ],
+        "words": [
+            "gain",
+            "extend",
+            "shares"
+        ],
+        "positive": [
+            "gain",
+            "extend",
+            "shares"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "Nifty",
+        "sole",
+        "subdued",
+        "16",
+        "49",
+        "50"
+    ],
+    "nouns": [
+        "market",
+        "index",
+        "decline",
+        "Pharma",
+        "gain",
+        "gainer",
+        "At",
+        "sole",
+        "16",
+        "pm",
+        "50"
+    ],
+    "verbs": [
+        "market",
+        "index",
+        "decline",
+        "gain",
+        "sole",
+        "extend"
+    ]
+}

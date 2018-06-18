@@ -1,0 +1,76 @@
+{
+    "title": "Pain for India's $350 billion state bonds is good, say global fund managers",
+    "link": "https://www.business-standard.com/article/markets/pain-for-india-s-350-billion-state-bonds-is-good-say-global-fund-managers-118061600024_1.html",
+    "pubDate": "Sat, 16 Jun 2018 07:04:00 +0530",
+    "content": "The new valuation method, though, could be another pressure point for borrowers at a time when the benchmark yield is near a 3 1/2-year high",
+    "contentSnippet": "The new valuation method, though, could be another pressure point for borrowers at a time when the benchmark yield is near a 3 1/2-year high",
+    "guid": "https://www.business-standard.com/article/markets/pain-for-india-s-350-billion-state-bonds-is-good-say-global-fund-managers-118061600024_1.html",
+    "isoDate": "2018-06-16T01:34:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.07692307692307693,
+        "tokens": [
+            "pain",
+            "for",
+            "india's",
+            "350",
+            "billion",
+            "state",
+            "bonds",
+            "is",
+            "good",
+            "say",
+            "global",
+            "fund",
+            "managers"
+        ],
+        "words": [
+            "good",
+            "pain"
+        ],
+        "positive": [
+            "good"
+        ],
+        "negative": [
+            "pain"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "near",
+        "high",
+        "new",
+        "good",
+        "billion",
+        "global"
+    ],
+    "nouns": [
+        "high",
+        "yield",
+        "year",
+        "India",
+        "good",
+        "state",
+        "time",
+        "pressure",
+        "Pain",
+        "billion",
+        "say",
+        "fund",
+        "valuation",
+        "method",
+        "point",
+        "benchmark"
+    ],
+    "verbs": [
+        "near",
+        "yield",
+        "state",
+        "time",
+        "pressure",
+        "Pain",
+        "say",
+        "fund",
+        "point"
+    ]
+}

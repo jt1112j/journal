@@ -1,0 +1,48 @@
+{
+    "creator": "IANS",
+    "title": "WhatsApp might be working with Microsoft on new Windows app",
+    "link": "https://www.financialexpress.com/industry/technology/whatsapp-might-be-working-with-microsoft-on-new-windows-app/1208638/",
+    "pubDate": "Sat, 16 Jun 2018 14:29:02 +05:30",
+    "dc:creator": "IANS",
+    "content": "Facebook-owned messaging service WhatsApp is reportedly working with Microsoft to deliver a proper desktop app.",
+    "contentSnippet": "Facebook-owned messaging service WhatsApp is reportedly working with Microsoft to deliver a proper desktop app.",
+    "guid": "https://www.financialexpress.com/?p=1208638",
+    "categories": [
+        "Industry",
+        "Technology"
+    ],
+    "isoDate": "2018-06-16T08:59:02.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "whatsapp",
+            "might",
+            "be",
+            "working",
+            "with",
+            "microsoft",
+            "on",
+            "new",
+            "windows",
+            "app"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {
+        "title": "WhatsApp might be working with Microsoft on new Windows app",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1208673\" src=\"https://images.financialexpress.com/2018/06/cats-1060.jpg\" alt=\"WhatsApp, facebook, whatsapp&nbsp;in window,&nbsp;Universal Windows Platform, news on whatsapp, latest news on whatsapp\" srcset=\"https://images.financialexpress.com/2018/06/cats-1060.jpg 660w, https://images.financialexpress.com/2018/06/cats-1060-300x200.jpg 300w, https://images.financialexpress.com/2018/06/cats-1060-620x413.jpg 620w, https://images.financialexpress.com/2018/06/cats-1060-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> Concept art for a Universal Windows Platform (UWP) version of WhatsApp showed up on Behance before being promptly removed.</figure>\n\t\t\t</section></div><span>\n</span><p>Facebook-owned messaging service <a target=\"_blank\" href=\"http://www.financialexpress.com/tag/whatsapp/\">WhatsApp</a> is reportedly working with <a target=\"_blank\" href=\"http://www.financialexpress.com/tag/microsoft/\">Microsoft</a> to deliver a proper desktop app. WhatsApp is one of the few developers that consistently delivered updates to its Windows Phone app, but a report by Windows Central suggests WhatsApp is actually getting ready to deliver a proper desktop app as well, TheNextWeb reported on Saturday. Concept art for a Universal Windows Platform (UWP) version of WhatsApp showed up on Behance before being promptly removed. It appeared to be a native Windows app with UWP design tenets like acrylic transparency, the report said.</p><span>\n</span><p>Furthermore, a description of the project suggested Microsoft and WhatsApp were working closely on the project. Rewinding a bit, WhatsApp does already have an app for the desktop but it’s basically just a port of the company’s web app. While the web app is pretty functional, it misses out on important features like voice and video calling. This UWP project, on the other hand, clearly shows buttons necessary for calls. It also looks a lot nicer.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "working",
+        "proper",
+        "new",
+        "owned"
+    ],
+    "verbs": [
+        "deliver",
+        "service"
+    ]
+}

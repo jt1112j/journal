@@ -1,0 +1,65 @@
+{
+    "creator": "ANI",
+    "title": "India proposes retaliatory tariffs on 30 US products",
+    "link": "https://www.financialexpress.com/economy/india-proposes-retaliatory-tariffs-on-30-us-products/1209176/",
+    "pubDate": "Sun, 17 Jun 2018 07:24:29 +05:30",
+    "dc:creator": "ANI",
+    "content": "India in a letter to the World Trade Organisation (WTO) stated that the suspended concessions are substantially equivalent to the amount of trade affected by the measures imposed by the United States.",
+    "contentSnippet": "India in a letter to the World Trade Organisation (WTO) stated that the suspended concessions are substantially equivalent to the amount of trade affected by the measures imposed by the United States.",
+    "guid": "https://www.financialexpress.com/?p=1209176",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-17T01:54:29.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "india",
+            "proposes",
+            "retaliatory",
+            "tariffs",
+            "on",
+            "30",
+            "us",
+            "products"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {
+        "title": "India proposes retaliatory tariffs on 30 US products",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1209179\" src=\"https://images.financialexpress.com/2018/06/flag-ie-4-620x413-1.jpg\" alt=\"\" srcset=\"https://images.financialexpress.com/2018/06/flag-ie-4-620x413-1.jpg 660w, https://images.financialexpress.com/2018/06/flag-ie-4-620x413-1-300x200.jpg 300w, https://images.financialexpress.com/2018/06/flag-ie-4-620x413-1-620x413.jpg 620w, https://images.financialexpress.com/2018/06/flag-ie-4-620x413-1-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> India proposed to suspend concessions on 30 products originating from the United States.</figure>\n\t\t\t</section></div><span>\n</span><p>India proposed to suspend concessions on 30 products originating from the United States. Customs duty on motorcycles with engine capacity over 800 cc will be raised up to 50 percent, almonds 20 percent, walnuts 20 percent and apples 25 percent. This move came as retaliation to Washington’s move to impose higher duties on Indian steel and aluminium exports. India in a letter to the World Trade Organisation (WTO) stated that the suspended concessions are substantially equivalent to the amount of trade affected by the measures imposed by the United States.</p><span>\n</span><p>“This notification is made in connection with safeguard measures imposed by the United States of America on imports of certain aluminium and steel articles,” India said. India expects around USD 238.09 million of duty to be collected through the measure imposed on the US. In March, the US imposed 25 percent duty on certain steel products and 10 percent on aluminium products, which will help the US collect $241million of duty.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "30",
+        "stated",
+        "World",
+        "retaliatory",
+        "suspended",
+        "equivalent",
+        "imposed",
+        "United",
+        "affected"
+    ],
+    "nouns": [
+        "30",
+        "amount",
+        "India",
+        "World",
+        "US",
+        "Trade",
+        "trade",
+        "WTO",
+        "equivalent",
+        "letter",
+        "Organisation"
+    ],
+    "verbs": [
+        "amount",
+        "letter",
+        "Trade",
+        "trade"
+    ]
+}

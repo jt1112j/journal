@@ -1,0 +1,67 @@
+{
+    "title": "Indian billionaires’ wealth up 18% in 2017",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/indian-billionaires-wealth-up-18-in-17/articleshow/64607735.cms",
+    "pubDate": "Fri, 15 Jun 2018 22:30:00 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/indian-billionaires-wealth-up-18-in-17/articleshow/64607735.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64607735.cms\" /></a>",
+    "contentSnippet": "",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/indian-billionaires-wealth-up-18-in-17/articleshow/64607735.cms",
+    "isoDate": "2018-06-15T22:30:00.000Z",
+    "sentiment": {
+        "score": 3,
+        "comparative": 0.42857142857142855,
+        "tokens": [
+            "indian",
+            "billionaires’",
+            "wealth",
+            "up",
+            "18",
+            "in",
+            "2017"
+        ],
+        "words": [
+            "wealth"
+        ],
+        "positive": [
+            "wealth"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "Indian billionaires’ wealth up 18% in 2017",
+        "content": "<div class=\"section1\"><div class=\"Normal\"><span>COIMBATORE: \n</span><span class=\"newsincontext nic_handler\" id=\"nic64365626\" pg=\"NIC#PARENT-business/india-business/indian-billionaires-wealth-up-18-in-17:64607735-CHILD-:64365626~OPEN-Article\" data-id=\"nic64607735\" data-nic_msid=\"64365626\" data-nic_mstype=\"2\" data-nic_mssubtype=\"0\" data-nic_host=\"83\">\n  The ultra-rich are getting richer at a faster pace in the country\n <span>+</span></span><p> . At 18 per cent, persons with a wealth of more than $1 billion saw the highest growth in their fortunes during between 2016 and 2017, according to Boston Consulting Group’s (BCG) ‘Global Wealth Report 2018’.\n\n</p><p>In all, around 50 persons, who have a fortune of more than $1 billion had a 16 per cent share in total wealth in India at the end of 2017. This was much higher than the share billionaires have at the global level as well as in the Asia Pacific (excluding Japan) region. While billionaires accounted for only 7 per cent of the wealth globally, they controlled 9 per cent of the wealth in Asia Pacific (excluding Japan)\n</p><span>Persons with a fortune of $100 million-$1 billion saw their wealth increase by 17 per cent during the year. The year 2017 saw one of the strongest growth in total </span><a class=\"key_underline\" href=\"https://timesofindia.indiatimes.com/topic/personal-wealth\">personal wealth</a><p> around the globe, with India seeing a 15 per cent rise compared to last year. Total personal wealth in India is expected to register a CAGR (compounded annual growth rate) of 13 per cent between 2017 and 2022 to reach around $5 trillion in 2022 from about $3 trillion in 2017. In comparison, globally, total personal wealth is expected to record a CAGR of 7 per cent to reach $281 trillion.\n</p><p>Allocation to equities and investment funds grew at a robust pace in India with their share increasing from 17 per cent in 2013 to 22 per cent in 2017. The share of currency and deposits dropped from 42 per cent in 2013 to 39 per cent in 2017.\n</p><span>\n</span><br><span>“Allocation to equities and investment funds would continue to gain momentum and account for around one-third (32 per cent) of the overall asset allocation in India by 2022, against a current share of 22 per cent,” the report said.\n</span><br><span>\n</span><br><span>Globally, equities and investment funds saw a growth of 13 per cent, the highest amongst asset classes, in 2016-2017. In India, equities and investment funds grew at twice the global growth rate. In India, equities and investment funds would continue to register a CAGR of 21 per cent from 2017-2022, followed by offshore funds (12 per cent), bonds (10 per cent), life insurance and pensions (10 per cent) and currency &amp; deposits (9 per cent), BCG said.\n</span><br><span>\n</span><br><span>According to the report, global personal financial wealth grew by 12 per cent in 2017 to $201.9 trillion in US dollar terms. This expansion is much higher than the previous year, when global wealth rose by 4 per cent, and represented the strongest annual growth rate in the past five years in dollar terms.“The main drivers were the bull market environment in all major economies—with wealth in equities and investment funds showing by far the strongest growth—and the significant strengthening of most major currencies against the dollar,” the report said.\n</span><br><span>\n</span><br><span>The report, BCG’s eighteenth annual study of the global wealth management industry, uses global and regional perspectives to examine topics such as the evolution of personal financial wealth, the widening revenue gap and how institutions can narrow it, and the state of offshore business.\n</span><br><span>\n</span></div></div>"
+    },
+    "adjectives": [
+        "Indian",
+        "indian",
+        "10",
+        "left",
+        "top",
+        "right",
+        "18",
+        "17"
+    ],
+    "nouns": [
+        "Indian",
+        "india",
+        "indian",
+        "business",
+        "border",
+        "10",
+        "left",
+        "style",
+        "margin",
+        "top",
+        "right",
+        "photo",
+        "18",
+        "wealth",
+        "17"
+    ],
+    "verbs": [
+        "border",
+        "align",
+        "style",
+        "top",
+        "right"
+    ]
+}

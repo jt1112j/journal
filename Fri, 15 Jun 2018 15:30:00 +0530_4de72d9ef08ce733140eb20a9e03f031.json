@@ -1,0 +1,91 @@
+{
+    "title": "MARKET WRAP: Indices trim losses to end flat, Nifty at 10,818; Pharma gains",
+    "link": "https://www.business-standard.com/article/markets/markets-live-nifty-sensex-ecb-fed-us-china-asian-shares-wpi-trump-118061500120_1.html",
+    "pubDate": "Fri, 15 Jun 2018 15:30:00 +0530",
+    "content": "TCS hit a new high of Rs 1,849 per share on the BSE intra-day, after the IT major said that its board has approved a proposal of buyback upto 76.19 million equity shares at price of Rs 2,100 per share",
+    "contentSnippet": "TCS hit a new high of Rs 1,849 per share on the BSE intra-day, after the IT major said that its board has approved a proposal of buyback upto 76.19 million equity shares at price of Rs 2,100 per share",
+    "guid": "https://www.business-standard.com/article/markets/markets-live-nifty-sensex-ecb-fed-us-china-asian-shares-wpi-trump-118061500120_1.html",
+    "isoDate": "2018-06-15T10:00:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.07692307692307693,
+        "tokens": [
+            "market",
+            "wrap",
+            "indices",
+            "trim",
+            "losses",
+            "to",
+            "end",
+            "flat",
+            "nifty",
+            "at",
+            "10818",
+            "pharma",
+            "gains"
+        ],
+        "words": [
+            "gains",
+            "nifty",
+            "losses"
+        ],
+        "positive": [
+            "gains",
+            "nifty"
+        ],
+        "negative": [
+            "losses"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "high",
+        "76",
+        "new",
+        "approved",
+        "Nifty",
+        "10",
+        "100",
+        "flat",
+        "trim",
+        "major",
+        "19",
+        "million"
+    ],
+    "nouns": [
+        "high",
+        "share",
+        "MARKET",
+        "proposal",
+        "IT",
+        "buyback",
+        "BSE",
+        "hit",
+        "day",
+        "price",
+        "10",
+        "Pharma",
+        "100",
+        "flat",
+        "equity",
+        "WRAP",
+        "trim",
+        "losses",
+        "end",
+        "major",
+        "board",
+        "19",
+        "million"
+    ],
+    "verbs": [
+        "share",
+        "MARKET",
+        "hit",
+        "price",
+        "WRAP",
+        "trim",
+        "end",
+        "major",
+        "board"
+    ]
+}

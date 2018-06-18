@@ -1,0 +1,70 @@
+{
+    "title": "Nifty Pharma index set to post biggest weekly rally in 15 years",
+    "link": "https://www.business-standard.com/article/markets/nifty-pharma-index-set-to-post-biggest-weekly-rally-in-15-years-118061500295_1.html",
+    "pubDate": "Fri, 15 Jun 2018 11:52:00 +0530",
+    "content": "At 11:23 am; Nifty Pharma index, the largest gainer among sectoral indices, was up 2.2% at 9,310, surging 8.2% thus far in current week.",
+    "contentSnippet": "At 11:23 am; Nifty Pharma index, the largest gainer among sectoral indices, was up 2.2% at 9,310, surging 8.2% thus far in current week.",
+    "guid": "https://www.business-standard.com/article/markets/nifty-pharma-index-set-to-post-biggest-weekly-rally-in-15-years-118061500295_1.html",
+    "isoDate": "2018-06-15T06:22:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.16666666666666666,
+        "tokens": [
+            "nifty",
+            "pharma",
+            "index",
+            "set",
+            "to",
+            "post",
+            "biggest",
+            "weekly",
+            "rally",
+            "in",
+            "15",
+            "years"
+        ],
+        "words": [
+            "nifty"
+        ],
+        "positive": [
+            "nifty"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "surging",
+        "weekly",
+        "current",
+        "set",
+        "far",
+        "Nifty",
+        "15",
+        "11",
+        "23"
+    ],
+    "nouns": [
+        "years",
+        "weekly",
+        "week",
+        "thus",
+        "current",
+        "index",
+        "set",
+        "far",
+        "Pharma",
+        "rally",
+        "15",
+        "11",
+        "23",
+        "gainer",
+        "At",
+        "post"
+    ],
+    "verbs": [
+        "index",
+        "set",
+        "post",
+        "rally"
+    ]
+}

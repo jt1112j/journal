@@ -1,0 +1,52 @@
+{
+    "title": "Fed hike is good for the US markets; FII outflow from India can accelerate",
+    "link": "https://www.business-standard.com/article/economy-policy/fed-hike-is-good-for-the-us-markets-fii-outflow-from-india-can-accelerate-118061400386_1.html",
+    "pubDate": "Thu, 14 Jun 2018 12:37:00 +0530",
+    "content": "The rate hike is a slight negative for markets, but not as negative if the uncertainty (trade war) had continued, says UR Bhat",
+    "contentSnippet": "The rate hike is a slight negative for markets, but not as negative if the uncertainty (trade war) had continued, says UR Bhat",
+    "guid": "https://www.business-standard.com/article/economy-policy/fed-hike-is-good-for-the-us-markets-fii-outflow-from-india-can-accelerate-118061400386_1.html",
+    "isoDate": "2018-06-14T07:07:00.000Z",
+    "sentiment": {
+        "score": 3,
+        "comparative": 0.21428571428571427,
+        "tokens": [
+            "fed",
+            "hike",
+            "is",
+            "good",
+            "for",
+            "the",
+            "us",
+            "markets",
+            "fii",
+            "outflow",
+            "from",
+            "india",
+            "can",
+            "accelerate"
+        ],
+        "words": [
+            "good"
+        ],
+        "positive": [
+            "good"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "negative",
+        "continued",
+        "good",
+        "slight"
+    ],
+    "verbs": [
+        "rate",
+        "hike",
+        "negative",
+        "trade",
+        "accelerate",
+        "war",
+        "slight"
+    ]
+}

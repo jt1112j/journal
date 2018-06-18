@@ -1,0 +1,57 @@
+{
+    "creator": "Reuters",
+    "title": "US dollar shaky as China trade worries weigh",
+    "link": "https://www.financialexpress.com/market/commodities/us-dollar-shaky-as-china-trade-worries-weigh/1208306/",
+    "pubDate": "Sat, 16 Jun 2018 05:06:45 +05:30",
+    "dc:creator": "Reuters",
+    "content": "The US dollar edged lower against the Japanese yen on Friday.",
+    "contentSnippet": "The US dollar edged lower against the Japanese yen on Friday.",
+    "guid": "https://www.financialexpress.com/?p=1208306",
+    "categories": [
+        "Commodities",
+        "Market"
+    ],
+    "isoDate": "2018-06-15T23:36:45.000Z",
+    "sentiment": {
+        "score": -5,
+        "comparative": -0.625,
+        "tokens": [
+            "us",
+            "dollar",
+            "shaky",
+            "as",
+            "china",
+            "trade",
+            "worries",
+            "weigh"
+        ],
+        "words": [
+            "worries",
+            "shaky"
+        ],
+        "positive": [],
+        "negative": [
+            "worries",
+            "shaky"
+        ]
+    },
+    "article": {
+        "title": "US dollar shaky as China trade worries weigh",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1208307\" src=\"https://images.financialexpress.com/2018/06/dollar-2.jpg\" alt=\"dollar, yen, pound, us dollar, euro\" srcset=\"https://images.financialexpress.com/2018/06/dollar-2.jpg 660w, https://images.financialexpress.com/2018/06/dollar-2-300x200.jpg 300w, https://images.financialexpress.com/2018/06/dollar-2-620x413.jpg 620w, https://images.financialexpress.com/2018/06/dollar-2-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> The dollar slipped 0.05 percent to 110.57 yen, retreating from a three-week high of 110.9 yen. (Reuters)</figure>\n\t\t\t</section></div><span>\n</span><p>The US dollar edged lower against the Japanese yen on Friday, as President Donald Trump announced hefty tariffs on $50 billion of Chinese imports and Beijing threatened to respond in kind, raising tensions between the world’s two largest economies. The dollar slipped 0.05 percent to 110.57 yen, retreating from a three-week high of 110.9 yen. The yen, a perceived safe haven often sought in times of geopolitical tensions and market turmoil, had touched a more than three-week low against the greenback earlier in the session. Trump, whose hardline stance on trade has seen him wrangle with allies, said in a statement a 25 percent tariff would be imposed on a list of strategically key imports from China. He also vowed further measures if Beijing struck back.</p><span>\n</span><p>China will impose an additional 25 percent tariff on 659 US goods worth $50 billion, the official Xinhua news agency reported on Saturday, citing the Tariff Commission of the State Council. Offshore Chinese yuan fell to a five-month low against the greenback. “Markets are focusing on comments from President Trump earlier this morning,” said Omer Esiner, chief market analyst, at Commonwealth Foreign Exchange in Washington. “The dollar-yen certainly tends to be a little negatively impacted by increasing concerns about a trade war,” he said. The dollar index , which measures the greenback against a basket of six major currencies, was little changed on the day at 94.761. For the week, the index was up 1.3 percent, its best weekly performance in seven weeks. While Friday’s tariff decision, on its own, would not have a major macroeconomic impact, the real worry is that it heralds a new era of much greater protectionism, Capital Economics senior US economist Michael Pearce, said in a note.</p><span>\n</span><p>The euro recovered some ground against the dollar, a day after the European Central Bank signalled it would keep interest rates at record lows into the summer of 2019, prompting the common currency to fall nearly 2 percent drop. The euro was 0.35 percent higher at $1.1608. Sterling steadied above its lowest level since November, after strong U.S. retail sales and a more hawkish Federal Reserve earlier this week boosted the dollar and underlined policy divergence between the countries. Sterling was 0.16 percent higher at $1.3282. The Canadian dollar weakened to a fresh near one-year low against its U.S. counterpart as trade tensions between U.S. and China intensified and domestic data showed a surprise drop in manufacturing sales.</p><span>\n</span><p>The Brazilian currency led gains in Latin American after the central bank announced it would extend a currency intervention plan while the Argentine peso slumped to a record low after the resignation of its central bank president.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "edged",
+        "Japanese",
+        "shaky"
+    ],
+    "nouns": [
+        "trade",
+        "China",
+        "US",
+        "dollar",
+        "yen",
+        "Friday",
+        "Japanese",
+        "lower"
+    ]
+}

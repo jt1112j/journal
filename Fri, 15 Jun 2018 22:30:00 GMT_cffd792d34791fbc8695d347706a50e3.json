@@ -1,0 +1,66 @@
+{
+    "title": "Former SC judge to look into Kochhar allegations",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/srikrishna-to-look-into-kochhar-allegations/articleshow/64608494.cms",
+    "pubDate": "Fri, 15 Jun 2018 22:30:00 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/srikrishna-to-look-into-kochhar-allegations/articleshow/64608494.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64608494.cms\" /></a>",
+    "contentSnippet": "",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/srikrishna-to-look-into-kochhar-allegations/articleshow/64608494.cms",
+    "isoDate": "2018-06-15T22:30:00.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.25,
+        "tokens": [
+            "former",
+            "sc",
+            "judge",
+            "to",
+            "look",
+            "into",
+            "kochhar",
+            "allegations"
+        ],
+        "words": [
+            "allegations"
+        ],
+        "positive": [],
+        "negative": [
+            "allegations"
+        ]
+    },
+    "article": {
+        "title": "Former Supreme Court judge B N Srikrishna to look into Chanda Kochhar allegations",
+        "content": "<div class=\"loadingblock ajaxarticleloading\"><div class=\"loadingnext\"><p><span class=\"loadingnextstory\"><b>TCS to spend Rs 16,000 crore on share buyback</b></span></p></div></div>"
+    },
+    "adjectives": [
+        "10",
+        "left",
+        "top",
+        "right",
+        "Former"
+    ],
+    "nouns": [
+        "margin",
+        "india",
+        "business",
+        "border",
+        "10",
+        "left",
+        "style",
+        "top",
+        "right",
+        "photo",
+        "Former",
+        "look",
+        "SC",
+        "judge"
+    ],
+    "verbs": [
+        "border",
+        "align",
+        "style",
+        "top",
+        "right",
+        "look",
+        "judge"
+    ]
+}

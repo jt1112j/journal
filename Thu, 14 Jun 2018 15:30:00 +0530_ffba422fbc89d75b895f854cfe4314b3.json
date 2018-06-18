@@ -1,0 +1,49 @@
+{
+    "title": "MARKET WRAP: Sensex ends 139 pts lower, Nifty at 10,808 as Fed hikes rates",
+    "link": "https://www.business-standard.com/article/markets/markets-live-nifty-sensex-us-fed-rate-hike-us-fed-asian-shares-fed-118061400151_1.html",
+    "pubDate": "Thu, 14 Jun 2018 15:30:00 +0530",
+    "content": "Among sectoral indices, the Nifty IT index ended 1.5% lower led by a fall in shares of MindTree, Tech Mahindra and Tata Consultancy Services.",
+    "contentSnippet": "Among sectoral indices, the Nifty IT index ended 1.5% lower led by a fall in shares of MindTree, Tech Mahindra and Tata Consultancy Services.",
+    "guid": "https://www.business-standard.com/article/markets/markets-live-nifty-sensex-us-fed-rate-hike-us-fed-asian-shares-fed-118061400151_1.html",
+    "isoDate": "2018-06-14T10:00:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.14285714285714285,
+        "tokens": [
+            "market",
+            "wrap",
+            "sensex",
+            "ends",
+            "139",
+            "pts",
+            "lower",
+            "nifty",
+            "at",
+            "10808",
+            "as",
+            "fed",
+            "hikes",
+            "rates"
+        ],
+        "words": [
+            "nifty"
+        ],
+        "positive": [
+            "nifty"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "Nifty",
+        "10",
+        "ended"
+    ],
+    "verbs": [
+        "MARKET",
+        "lower",
+        "fall",
+        "index",
+        "WRAP"
+    ]
+}

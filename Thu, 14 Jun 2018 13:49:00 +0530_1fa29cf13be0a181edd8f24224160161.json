@@ -1,0 +1,63 @@
+{
+    "title": "Future Supply Chain, Hindustan Aeronautics hit lowest level since listing",
+    "link": "https://www.business-standard.com/article/markets/future-supply-chain-hindustan-aeronautics-hit-lowest-level-since-listing-118061400479_1.html",
+    "pubDate": "Thu, 14 Jun 2018 13:49:00 +0530",
+    "content": "Future Supply Chain Solutions dipped 7% to Rs 620, while Hindustan Aeronautics was down nearly 2% at Rs 948 on the BSE in intra-day trade today",
+    "contentSnippet": "Future Supply Chain Solutions dipped 7% to Rs 620, while Hindustan Aeronautics was down nearly 2% at Rs 948 on the BSE in intra-day trade today",
+    "guid": "https://www.business-standard.com/article/markets/future-supply-chain-hindustan-aeronautics-hit-lowest-level-since-listing-118061400479_1.html",
+    "isoDate": "2018-06-14T08:19:00.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.1,
+        "tokens": [
+            "future",
+            "supply",
+            "chain",
+            "hindustan",
+            "aeronautics",
+            "hit",
+            "lowest",
+            "level",
+            "since",
+            "listing"
+        ],
+        "words": [
+            "lowest"
+        ],
+        "positive": [],
+        "negative": [
+            "lowest"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "lowest",
+        "down",
+        "Future",
+        "level",
+        "dipped"
+    ],
+    "verbs": [
+        "hit",
+        "trade",
+        "down",
+        "Chain",
+        "level",
+        "Supply"
+    ],
+    "nouns": [
+        "today",
+        "hit",
+        "day",
+        "trade",
+        "down",
+        "listing",
+        "Future",
+        "Supply",
+        "Chain",
+        "level",
+        "Hindustan",
+        "Aeronautics",
+        "BSE"
+    ]
+}

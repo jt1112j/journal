@@ -1,0 +1,59 @@
+{
+    "title": "GST payers can move jurisdictional tax officer to change username, password",
+    "link": "https://www.business-standard.com/article/economy-policy/gst-payers-can-move-jurisdictional-tax-officer-to-change-username-password-118061400496_1.html",
+    "pubDate": "Thu, 14 Jun 2018 16:53:00 +0530",
+    "content": "Taxpayer would be required to approach the concerned jurisdictional tax officer to get the password for the GST Identification Number (GSTIN) allotted to the business",
+    "contentSnippet": "Taxpayer would be required to approach the concerned jurisdictional tax officer to get the password for the GST Identification Number (GSTIN) allotted to the business",
+    "guid": "https://www.business-standard.com/article/economy-policy/gst-payers-can-move-jurisdictional-tax-officer-to-change-username-password-118061400496_1.html",
+    "isoDate": "2018-06-14T11:23:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "gst",
+            "payers",
+            "can",
+            "move",
+            "jurisdictional",
+            "tax",
+            "officer",
+            "to",
+            "change",
+            "username",
+            "password"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {
+        "title": "GST payers can move jurisdictional tax officer to change username, password",
+        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t\n<p>\n\tThe <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/finance-ministry\" target=\"_blank\">Finance Ministry </a>on Thursday said that GST registrants can approach jurisdictional <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=tax+officer\" target=\"_blank\">tax officer </a>with valid documents to change the e-mail and mobile number recorded against their GST identification number (GSTIN).</p>\n<p>\n\tThe <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/revenue-department\" target=\"_blank\">revenue department </a>had received complaints from taxpayers that the intermediaries who were authorised by them to apply for registration on their behalf had used their own e-mail and mobile number during the process.\n\n\n</p>\n<!-- INPAGE_BANNER -->\n<p>\n\tThese intermediaries are not sharing the user details with the taxpayers.</p>\n<p>\n\t\"With a view to address this difficulty of the taxpayer, a functionality to update e-mail and mobile number of the authorised signatory is available in the GST system.</p>\n<p>\n\t\"The e-mail and mobile number can be updated by the concerned jurisdictional tax authority of the taxpayer,\" the ministry said in a statement.</p>\n\n<p>\n\t<a class=\"storyTags\" href=\"https://www.business-standard.com/topic/taxpayer\" target=\"_blank\">Taxpayer </a>would be required to approach the concerned jurisdictional <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=tax+officer\" target=\"_blank\">tax officer </a>to get the <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/password\" target=\"_blank\">password </a>for the <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/gstin\" target=\"_blank\">GSTIN </a>allotted to the business. Taxpayers can check jurisdiction through 'Search Taxpayer' option available on <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/gst-portal\" target=\"_blank\">GST portal.</a></p>\n<p>\n\t<a class=\"storyTags\" href=\"https://www.business-standard.com/topic/taxpayer\" target=\"_blank\">Taxpayer </a>would be required to provide valid documents to the <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=tax+officer\" target=\"_blank\">tax officer </a>as proof of his/her identity and to validate the business details related to his <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/gstin\" target=\"_blank\">GSTIN.</a> Following this, the officer would authenticate the activity and enter the new e-mail address and mobile number provided by the <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/taxpayer\" target=\"_blank\">taxpayer.</a></p>\n<p>\n\tAfter uploading of the documents, tax officer will reset the <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/password\" target=\"_blank\">password </a>for <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/gstin\" target=\"_blank\">GSTIN </a>in the system and <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=username\" target=\"_blank\">username </a>and temporary <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/password\" target=\"_blank\">password </a>reset will be communicated to the e-mail address as entered by the officer.</p>\n<p>\n\tTaxpayer would then have to login on <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/gst-portal\" target=\"_blank\">GST portal </a>using the <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=username\" target=\"_blank\">username </a>and temporary password e-mailed to him. The <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=username\" target=\"_blank\">username </a>and password can now be changed by the taxpayer.</p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
+    },
+    "adjectives": [
+        "concerned",
+        "jurisdictional",
+        "required",
+        "allotted"
+    ],
+    "nouns": [
+        "business",
+        "tax",
+        "Taxpayer",
+        "move",
+        "officer",
+        "change",
+        "password",
+        "approach",
+        "Identification",
+        "Number"
+    ],
+    "verbs": [
+        "tax",
+        "move",
+        "officer",
+        "change",
+        "approach",
+        "Number"
+    ]
+}

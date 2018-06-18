@@ -1,0 +1,57 @@
+{
+    "title": "Gold discounts widest in 9-month as higher prices tempered retail purchases",
+    "link": "https://www.business-standard.com/article/markets/gold-discounts-widest-in-9-month-as-higher-prices-tempered-retail-purchases-118061500053_1.html",
+    "pubDate": "Fri, 15 Jun 2018 02:00:00 +0530",
+    "content": "Gold was being sold at a discount in Indian markets for the sixth straight week",
+    "contentSnippet": "Gold was being sold at a discount in Indian markets for the sixth straight week",
+    "guid": "https://www.business-standard.com/article/markets/gold-discounts-widest-in-9-month-as-higher-prices-tempered-retail-purchases-118061500053_1.html",
+    "isoDate": "2018-06-14T20:30:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.18181818181818182,
+        "tokens": [
+            "gold",
+            "discounts",
+            "widest",
+            "in",
+            "9-month",
+            "as",
+            "higher",
+            "prices",
+            "tempered",
+            "retail",
+            "purchases"
+        ],
+        "words": [
+            "gold"
+        ],
+        "positive": [
+            "gold"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "straight",
+        "higher",
+        "Indian",
+        "Gold",
+        "tempered",
+        "sixth",
+        "sold"
+    ],
+    "verbs": [
+        "discount",
+        "retail"
+    ],
+    "nouns": [
+        "straight",
+        "month",
+        "week",
+        "Indian",
+        "discount",
+        "Gold",
+        "retail",
+        "sixth"
+    ]
+}

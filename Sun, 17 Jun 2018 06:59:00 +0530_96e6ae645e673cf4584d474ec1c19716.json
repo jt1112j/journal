@@ -1,0 +1,43 @@
+{
+    "title": "NSE-SGX licensing pact to continue beyond August",
+    "link": "https://www.business-standard.com/article/markets/nse-sgx-licensing-pact-to-continue-beyond-august-118061700010_1.html",
+    "pubDate": "Sun, 17 Jun 2018 06:59:00 +0530",
+    "content": "Arbitrator asks SGX not to launch its disputed products until the final decision",
+    "contentSnippet": "Arbitrator asks SGX not to launch its disputed products until the final decision",
+    "guid": "https://www.business-standard.com/article/markets/nse-sgx-licensing-pact-to-continue-beyond-august-118061700010_1.html",
+    "isoDate": "2018-06-17T01:29:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "nse-sgx",
+            "licensing",
+            "pact",
+            "to",
+            "continue",
+            "beyond",
+            "august"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "disputed",
+        "final",
+        "August"
+    ],
+    "nouns": [
+        "final",
+        "August",
+        "decision",
+        "pact",
+        "Arbitrator",
+        "launch"
+    ],
+    "verbs": [
+        "continue",
+        "launch"
+    ]
+}
