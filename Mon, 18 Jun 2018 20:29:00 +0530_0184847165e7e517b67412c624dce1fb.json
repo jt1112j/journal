@@ -1,0 +1,51 @@
+{
+    "title": "Bengal truckers join nationwide indefinite strike to lower fuel prices",
+    "link": "https://www.business-standard.com/article/economy-policy/bengal-truckers-join-nationwide-indefinite-strike-to-lower-fuel-prices-118061800752_1.html",
+    "pubDate": "Mon, 18 Jun 2018 20:29:00 +0530",
+    "content": "The state's Principal Secretary, Transport, Alapan Bandopadhayay said the strike has had a marginal effect in the state",
+    "contentSnippet": "The state's Principal Secretary, Transport, Alapan Bandopadhayay said the strike has had a marginal effect in the state",
+    "guid": "https://www.business-standard.com/article/economy-policy/bengal-truckers-join-nationwide-indefinite-strike-to-lower-fuel-prices-118061800752_1.html",
+    "isoDate": "2018-06-18T14:59:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "bengal",
+            "truckers",
+            "join",
+            "nationwide",
+            "indefinite",
+            "strike",
+            "to",
+            "lower",
+            "fuel",
+            "prices"
+        ],
+        "words": [
+            "strike",
+            "join"
+        ],
+        "positive": [
+            "join"
+        ],
+        "negative": [
+            "strike"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "indefinite",
+        "marginal",
+        "nationwide",
+        "Principal"
+    ],
+    "verbs": [
+        "lower",
+        "Transport",
+        "state",
+        "strike",
+        "join",
+        "fuel",
+        "effect"
+    ]
+}

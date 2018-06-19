@@ -1,0 +1,63 @@
+{
+    "title": "ICICI Bank up 4% on reports that board is mulling top management reshuffle",
+    "link": "https://www.business-standard.com/article/markets/icici-bank-up-4-on-report-of-board-mulls-reshuffle-of-top-management-118061800292_1.html",
+    "pubDate": "Mon, 18 Jun 2018 12:47:00 +0530",
+    "content": "ICICI Bank was trading 3.8% higher at Rs 293 on the BSE, as compared to 0.09% decline in the S&P BSE Sensex at 12:45 pm.",
+    "contentSnippet": "ICICI Bank was trading 3.8% higher at Rs 293 on the BSE, as compared to 0.09% decline in the S&P BSE Sensex at 12:45 pm.",
+    "guid": "https://www.business-standard.com/article/markets/icici-bank-up-4-on-report-of-board-mulls-reshuffle-of-top-management-118061800292_1.html",
+    "isoDate": "2018-06-18T07:17:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.15384615384615385,
+        "tokens": [
+            "icici",
+            "bank",
+            "up",
+            "4",
+            "on",
+            "reports",
+            "that",
+            "board",
+            "is",
+            "mulling",
+            "top",
+            "management",
+            "reshuffle"
+        ],
+        "words": [
+            "top"
+        ],
+        "positive": [
+            "top"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "verbs": [
+        "top",
+        "reshuffle",
+        "Bank",
+        "decline",
+        "board"
+    ],
+    "adjectives": [
+        "top",
+        "higher",
+        "45",
+        "12"
+    ],
+    "nouns": [
+        "top",
+        "reshuffle",
+        "management",
+        "BSE",
+        "trading",
+        "Bank",
+        "decline",
+        "board",
+        "12",
+        "S",
+        "P",
+        "pm"
+    ]
+}

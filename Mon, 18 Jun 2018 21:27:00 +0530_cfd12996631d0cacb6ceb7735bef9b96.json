@@ -1,0 +1,53 @@
+{
+    "title": "BPO promotion scheme: Govt plans largest National Data Centre in Bhopal",
+    "link": "https://www.business-standard.com/article/economy-policy/bpo-promotion-scheme-govt-plans-largest-national-data-centre-in-bhopal-118061801106_1.html",
+    "pubDate": "Mon, 18 Jun 2018 21:27:00 +0530",
+    "content": "Prasad also said that the fifth 'National Data Centre' - the largest of such centres - will come up in Bhopal with capacity of five lakh virtual servers",
+    "contentSnippet": "Prasad also said that the fifth 'National Data Centre' - the largest of such centres - will come up in Bhopal with capacity of five lakh virtual servers",
+    "guid": "https://www.business-standard.com/article/economy-policy/bpo-promotion-scheme-govt-plans-largest-national-data-centre-in-bhopal-118061801106_1.html",
+    "isoDate": "2018-06-18T15:57:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "bpo",
+            "promotion",
+            "scheme",
+            "govt",
+            "plans",
+            "largest",
+            "national",
+            "data",
+            "centre",
+            "in",
+            "bhopal"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "National",
+        "five",
+        "fifth",
+        "virtual"
+    ],
+    "nouns": [
+        "capacity",
+        "promotion",
+        "lakh",
+        "Centre",
+        "will",
+        "National",
+        "Data",
+        "five",
+        "scheme",
+        "fifth"
+    ],
+    "verbs": [
+        "Centre",
+        "will",
+        "scheme"
+    ]
+}

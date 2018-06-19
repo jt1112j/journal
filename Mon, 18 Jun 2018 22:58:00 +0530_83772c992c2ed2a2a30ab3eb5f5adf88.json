@@ -1,0 +1,55 @@
+{
+    "title": "Govt to spend $1 bn to expand services exports, says Suresh Prabhu",
+    "link": "https://www.business-standard.com/article/economy-policy/govt-to-spend-1-bn-to-expand-services-exports-says-suresh-prabhu-118061801077_1.html",
+    "pubDate": "Mon, 18 Jun 2018 22:58:00 +0530",
+    "content": "A strategy of products in new markets is being developed and exports are also being promoted in regions like Africa, Latin America and Central Asia, says Prabhu",
+    "contentSnippet": "A strategy of products in new markets is being developed and exports are also being promoted in regions like Africa, Latin America and Central Asia, says Prabhu",
+    "guid": "https://www.business-standard.com/article/economy-policy/govt-to-spend-1-bn-to-expand-services-exports-says-suresh-prabhu-118061801077_1.html",
+    "isoDate": "2018-06-18T17:28:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.08333333333333333,
+        "tokens": [
+            "govt",
+            "to",
+            "spend",
+            "1",
+            "bn",
+            "to",
+            "expand",
+            "services",
+            "exports",
+            "says",
+            "suresh",
+            "prabhu"
+        ],
+        "words": [
+            "expand"
+        ],
+        "positive": [
+            "expand"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "new",
+        "Latin",
+        "Central",
+        "developed"
+    ],
+    "nouns": [
+        "Asia",
+        "strategy",
+        "Latin",
+        "Central",
+        "A",
+        "services",
+        "Africa",
+        "America"
+    ],
+    "verbs": [
+        "expand",
+        "spend"
+    ]
+}

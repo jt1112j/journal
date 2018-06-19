@@ -1,0 +1,62 @@
+{
+    "title": "India guzzles Iran crude before sanctions",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/india-guzzles-iran-crude-before-sanctions/articleshow/64633916.cms",
+    "pubDate": "Mon, 18 Jun 2018 10:39:45 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/india-guzzles-iran-crude-before-sanctions/articleshow/64633916.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64633916.cms\" /></a>",
+    "contentSnippet": "",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/india-guzzles-iran-crude-before-sanctions/articleshow/64633916.cms",
+    "isoDate": "2018-06-18T10:39:45.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.16666666666666666,
+        "tokens": [
+            "india",
+            "guzzles",
+            "iran",
+            "crude",
+            "before",
+            "sanctions"
+        ],
+        "words": [
+            "crude"
+        ],
+        "positive": [],
+        "negative": [
+            "crude"
+        ]
+    },
+    "article": {
+        "title": "India guzzles Iran crude before sanctions",
+        "content": "<div class=\"section1\"><div class=\"Normal\"><p>NEW DELHI: India, the world’s fastest growing oil consumer is guzzling down Iranian crude before US sanctions start squeezing supplies from the Persian Gulf nation.\n\n</p><span>India imported 771,000 barrels of </span><a class=\"key_underline\" href=\"https://timesofindia.indiatimes.com/topic/iran-india-gas-field-row\">crude oil</a><span> a day from </span><a class=\"key_underline\" href=\"https://timesofindia.indiatimes.com/topic/iran-india-gas-field-row\">Iran</a><span> in May, a 35 per cent increase from the previous month, tanker tracking and shipping data compiled by Bloomberg show. That pushed the Iran up the ranks as the second-biggest supplier to the Asian nation, overtaking </span><a class=\"key_underline\" href=\"https://timesofindia.indiatimes.com/topic/saudi-arabia\">Saudi Arabia</a><span>. </span><a class=\"key_underline\" href=\"https://timesofindia.indiatimes.com/topic/iran-india-gas-field-row\">Iraq</a><p> retained the top position.\n</p><p>There’s “a ratcheting up of competition among suppliers to capitalize on the Indian market as the country’s demand for oil grows,” said Abhishek Kumar, senior analyst at Interfax Global Energy in London. “Nevertheless, even Iranian supplies are not secure as the reimposition of US sanctions start to bite.”\n</p><span>\n</span><br><span>India, which imports over 80 per cent of its oil, is attracted to Iran’s crude largely due to geographic proximity that can save on shipping costs, as well as the favorable financial terms offered by the Persian Gulf state, including the longest credit period among all of India’s suppliers. Refiners in the south Asian nation were quick to ramp up imports from the Persian Gulf state after the previous round of sanctions were lifted in 2015.\n</span><br><span>\n</span><br><span>India’s refiners were forced to slash Iranian oil purchases to about half their previous levels during the earlier sanctions before the landmark accord to curb its nuclear program was struck between world powers in 2015.\n</span><br><span>\n</span><br><span>This May, Indian Oil Corp., the nation’s biggest refiner, boosted its crude purchases from the Middle East producer seven-fold, and plans to buy term supplies of 7 million metric tons during the 12 months that began April, up from 4 million tons in the year earlier.\n</span><br><span>\n</span><br><span>“No one knows what’s going to happen” with the sanctions this time, said R Ramachandran, the head of refineries at Bharat Petroleum Corp., India’s second-biggest state-run refiner. “But people are conscious and maybe acting according to what they anticipate as coming.”\n</span><br><span>\n</span></div></div>"
+    },
+    "adjectives": [
+        "10",
+        "left",
+        "top",
+        "right",
+        "crude"
+    ],
+    "verbs": [
+        "border",
+        "align",
+        "style",
+        "top",
+        "right"
+    ],
+    "nouns": [
+        "India",
+        "india",
+        "business",
+        "border",
+        "10",
+        "left",
+        "style",
+        "margin",
+        "top",
+        "right",
+        "photo",
+        "crude",
+        "Iran",
+        "iran"
+    ]
+}

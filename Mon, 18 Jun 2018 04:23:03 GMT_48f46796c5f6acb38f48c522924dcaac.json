@@ -1,0 +1,71 @@
+{
+    "title": "Markets open flat; Sensex, Nifty test key levels",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/markets-open-flat-sensex-nifty-test-key-levels/articleshow/64628711.cms",
+    "pubDate": "Mon, 18 Jun 2018 04:23:03 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/markets-open-flat-sensex-nifty-test-key-levels/articleshow/64628711.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64628711.cms\" /></a>",
+    "contentSnippet": "",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/markets-open-flat-sensex-nifty-test-key-levels/articleshow/64628711.cms",
+    "isoDate": "2018-06-18T04:23:03.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.25,
+        "tokens": [
+            "markets",
+            "open",
+            "flat",
+            "sensex",
+            "nifty",
+            "test",
+            "key",
+            "levels"
+        ],
+        "words": [
+            "nifty"
+        ],
+        "positive": [
+            "nifty"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "Markets open flat; Sensex, Nifty test key levels",
+        "content": "<div class=\"loadingblock ajaxarticleloading\"><div class=\"loadingnext\"><p><span class=\"loadingnextstory\"><b>Illegal trades: Sebi gives tax dept, government information on 15,000 entities</b></span></p></div></div>"
+    },
+    "adjectives": [
+        "10",
+        "left",
+        "top",
+        "right",
+        "Nifty",
+        "nifty",
+        "open",
+        "flat",
+        "key"
+    ],
+    "nouns": [
+        "india",
+        "business",
+        "border",
+        "10",
+        "left",
+        "style",
+        "margin",
+        "top",
+        "right",
+        "photo",
+        "open",
+        "flat",
+        "test",
+        "key"
+    ],
+    "verbs": [
+        "border",
+        "align",
+        "style",
+        "top",
+        "right",
+        "open",
+        "test",
+        "key"
+    ]
+}

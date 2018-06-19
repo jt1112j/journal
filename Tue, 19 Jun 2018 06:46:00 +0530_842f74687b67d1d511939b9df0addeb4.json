@@ -1,0 +1,48 @@
+{
+    "title": "Privacy law: Framework of Aadhaar divides Justice Srikrishna committee",
+    "link": "https://www.business-standard.com/article/economy-policy/privacy-law-framework-of-aadhaar-divides-justice-srikrishna-committee-118061801186_1.html",
+    "pubDate": "Tue, 19 Jun 2018 06:46:00 +0530",
+    "content": "A majority of the members are said to be backing the position that the law should not apply retrospectively",
+    "contentSnippet": "A majority of the members are said to be backing the position that the law should not apply retrospectively",
+    "guid": "https://www.business-standard.com/article/economy-policy/privacy-law-framework-of-aadhaar-divides-justice-srikrishna-committee-118061801186_1.html",
+    "isoDate": "2018-06-19T01:16:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.2222222222222222,
+        "tokens": [
+            "privacy",
+            "law",
+            "framework",
+            "of",
+            "aadhaar",
+            "divides",
+            "justice",
+            "srikrishna",
+            "committee"
+        ],
+        "words": [
+            "justice"
+        ],
+        "positive": [
+            "justice"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [],
+    "verbs": [
+        "position",
+        "apply"
+    ],
+    "nouns": [
+        "committee",
+        "position",
+        "Justice",
+        "Framework",
+        "Privacy",
+        "A",
+        "majority",
+        "backing",
+        "law"
+    ]
+}

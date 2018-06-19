@@ -1,0 +1,39 @@
+{
+    "title": "DMart's slowing momentum  makes brokerages cautious",
+    "link": "https://www.business-standard.com/article/companies/dmart-s-lower-same-store-sales-margins-keep-analysts-on-the-sidelines-118061700437_1.html",
+    "pubDate": "Mon, 18 Jun 2018 23:42:00 +0530",
+    "content": "Besides high valuations, untested e-commerce venture and pace of expansion are other concerns",
+    "contentSnippet": "Besides high valuations, untested e-commerce venture and pace of expansion are other concerns",
+    "guid": "https://www.business-standard.com/article/companies/dmart-s-lower-same-store-sales-margins-keep-analysts-on-the-sidelines-118061700437_1.html",
+    "isoDate": "2018-06-18T18:12:00.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.14285714285714285,
+        "tokens": [
+            "dmart's",
+            "slowing",
+            "momentum",
+            "",
+            "makes",
+            "brokerages",
+            "cautious"
+        ],
+        "words": [
+            "cautious"
+        ],
+        "positive": [],
+        "negative": [
+            "cautious"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "high",
+        "untested",
+        "cautious"
+    ],
+    "verbs": [
+        "venture",
+        "pace"
+    ]
+}

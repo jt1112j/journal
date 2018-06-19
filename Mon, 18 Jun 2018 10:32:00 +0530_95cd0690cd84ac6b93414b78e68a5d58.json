@@ -1,0 +1,54 @@
+{
+    "title": "Vedanta hits 52-week low; stock down 26% in three months",
+    "link": "https://www.business-standard.com/article/markets/vedanta-hits-52-week-low-stock-down-26-in-three-months-118061800162_1.html",
+    "pubDate": "Mon, 18 Jun 2018 10:32:00 +0530",
+    "content": "The stock hit a 52-week low of Rs 229, down 4% on the BSE.",
+    "contentSnippet": "The stock hit a 52-week low of Rs 229, down 4% on the BSE.",
+    "guid": "https://www.business-standard.com/article/markets/vedanta-hits-52-week-low-stock-down-26-in-three-months-118061800162_1.html",
+    "isoDate": "2018-06-18T05:02:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "vedanta",
+            "hits",
+            "52-week",
+            "low",
+            "stock",
+            "down",
+            "26",
+            "in",
+            "three",
+            "months"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "nouns": [
+        "stock",
+        "BSE",
+        "Vedanta",
+        "hit",
+        "week",
+        "26",
+        "down",
+        "three",
+        "low"
+    ],
+    "verbs": [
+        "stock",
+        "hit",
+        "down",
+        "low"
+    ],
+    "adjectives": [
+        "stock",
+        "26",
+        "down",
+        "three",
+        "low",
+        "52"
+    ]
+}

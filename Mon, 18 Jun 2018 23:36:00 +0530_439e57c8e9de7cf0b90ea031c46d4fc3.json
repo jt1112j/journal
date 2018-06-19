@@ -1,0 +1,80 @@
+{
+    "title": "India to press for responsible crude pricing at OPEC meet: Pradhan",
+    "link": "https://www.business-standard.com/article/economy-policy/india-to-press-for-responsible-crude-pricing-at-opec-meet-pradhan-118061800710_1.html",
+    "pubDate": "Mon, 18 Jun 2018 23:36:00 +0530",
+    "content": "On the rising oil prices in the country, the minister assured that the government would leave no stone unturned to keep these products within the reach of the common man",
+    "contentSnippet": "On the rising oil prices in the country, the minister assured that the government would leave no stone unturned to keep these products within the reach of the common man",
+    "guid": "https://www.business-standard.com/article/economy-policy/india-to-press-for-responsible-crude-pricing-at-opec-meet-pradhan-118061800710_1.html",
+    "isoDate": "2018-06-18T18:06:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.09090909090909091,
+        "tokens": [
+            "india",
+            "to",
+            "press",
+            "for",
+            "responsible",
+            "crude",
+            "pricing",
+            "at",
+            "opec",
+            "meet",
+            "pradhan"
+        ],
+        "words": [
+            "crude",
+            "responsible"
+        ],
+        "positive": [
+            "responsible"
+        ],
+        "negative": [
+            "crude"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "common",
+        "stone",
+        "meet",
+        "On",
+        "no",
+        "responsible",
+        "rising",
+        "crude",
+        "assured",
+        "unturned"
+    ],
+    "nouns": [
+        "India",
+        "man",
+        "common",
+        "stone",
+        "government",
+        "meet",
+        "no",
+        "press",
+        "country",
+        "minister",
+        "pricing",
+        "rising",
+        "oil",
+        "crude",
+        "OPEC",
+        "leave",
+        "keep",
+        "reach"
+    ],
+    "verbs": [
+        "man",
+        "stone",
+        "meet",
+        "press",
+        "minister",
+        "oil",
+        "leave",
+        "keep",
+        "reach"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "title": "Adani Green Energy gains 5% on debut, trades at Rs 29 on BSE",
+    "link": "https://www.business-standard.com/article/markets/adani-green-energy-up-5-at-rs-29-on-bse-on-debut-118061800190_1.html",
+    "pubDate": "Mon, 18 Jun 2018 11:08:00 +0530",
+    "content": "Adani Green Energy, the renewable power arm for Adani Enterprises, has locked in upper circuit of 5% at Rs 29.40 on the BSE.",
+    "contentSnippet": "Adani Green Energy, the renewable power arm for Adani Enterprises, has locked in upper circuit of 5% at Rs 29.40 on the BSE.",
+    "guid": "https://www.business-standard.com/article/markets/adani-green-energy-up-5-at-rs-29-on-bse-on-debut-118061800190_1.html",
+    "isoDate": "2018-06-18T05:38:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.15384615384615385,
+        "tokens": [
+            "adani",
+            "green",
+            "energy",
+            "gains",
+            "5",
+            "on",
+            "debut",
+            "trades",
+            "at",
+            "rs",
+            "29",
+            "on",
+            "bse"
+        ],
+        "words": [
+            "gains"
+        ],
+        "positive": [
+            "gains"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "Green",
+        "29",
+        "renewable",
+        "upper",
+        "40"
+    ],
+    "verbs": [
+        "debut",
+        "power",
+        "circuit",
+        "Green",
+        "arm"
+    ]
+}

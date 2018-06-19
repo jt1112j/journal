@@ -1,0 +1,75 @@
+{
+    "title": "Oil slumps near $64 as OPEC clash looms, US-China trade war escalates",
+    "link": "https://www.business-standard.com/article/markets/oil-slumps-near-64-as-opec-clash-looms-us-china-trade-war-escalates-118061800109_1.html",
+    "pubDate": "Mon, 18 Jun 2018 09:24:00 +0530",
+    "content": "OPEC and its allies could consider a production increase of as much as 1.5 million barrels a day, Russian Energy Minister Alexander Novak said on Thursday",
+    "contentSnippet": "OPEC and its allies could consider a production increase of as much as 1.5 million barrels a day, Russian Energy Minister Alexander Novak said on Thursday",
+    "guid": "https://www.business-standard.com/article/markets/oil-slumps-near-64-as-opec-clash-looms-us-china-trade-war-escalates-118061800109_1.html",
+    "isoDate": "2018-06-18T03:54:00.000Z",
+    "sentiment": {
+        "score": -5,
+        "comparative": -0.4166666666666667,
+        "tokens": [
+            "oil",
+            "slumps",
+            "near",
+            "64",
+            "as",
+            "opec",
+            "clash",
+            "looms",
+            "us-china",
+            "trade",
+            "war",
+            "escalates"
+        ],
+        "words": [
+            "war",
+            "looms",
+            "clash"
+        ],
+        "positive": [],
+        "negative": [
+            "war",
+            "looms",
+            "clash"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "near",
+        "million",
+        "64",
+        "Russian"
+    ],
+    "nouns": [
+        "OPEC",
+        "Oil",
+        "Minister",
+        "increase",
+        "trade",
+        "production",
+        "China",
+        "allies",
+        "day",
+        "barrels",
+        "million",
+        "clash",
+        "war",
+        "Thursday",
+        "US",
+        "Russian",
+        "Energy",
+        "Alexander"
+    ],
+    "verbs": [
+        "Oil",
+        "Minister",
+        "increase",
+        "trade",
+        "consider",
+        "near",
+        "clash",
+        "war"
+    ]
+}

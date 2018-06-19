@@ -1,0 +1,55 @@
+{
+    "title": "Bitcoin has shortcomings, could break internet: Global banking body",
+    "link": "https://www.business-standard.com/article/markets/bitcoin-has-shortcomings-could-break-internet-global-banking-body-118061800084_1.html",
+    "pubDate": "Mon, 18 Jun 2018 08:17:00 +0530",
+    "content": "The BIS said cryptocurrencies are too unstable, consume too much electricity, and are subject to too much manipulation and fraud to ever serve as bona fide mediums of exchange in the global economy",
+    "contentSnippet": "The BIS said cryptocurrencies are too unstable, consume too much electricity, and are subject to too much manipulation and fraud to ever serve as bona fide mediums of exchange in the global economy",
+    "guid": "https://www.business-standard.com/article/markets/bitcoin-has-shortcomings-could-break-internet-global-banking-body-118061800084_1.html",
+    "isoDate": "2018-06-18T02:47:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "bitcoin",
+            "has",
+            "shortcomings",
+            "could",
+            "break",
+            "internet",
+            "global",
+            "banking",
+            "body"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "subject",
+        "Global",
+        "global",
+        "unstable"
+    ],
+    "verbs": [
+        "subject",
+        "serve",
+        "break",
+        "consume",
+        "exchange",
+        "body"
+    ],
+    "nouns": [
+        "internet",
+        "manipulation",
+        "subject",
+        "banking",
+        "fraud",
+        "serve",
+        "economy",
+        "break",
+        "exchange",
+        "electricity",
+        "body"
+    ]
+}

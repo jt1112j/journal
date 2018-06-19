@@ -1,0 +1,61 @@
+{
+    "title": "ICICI Bank board appoints Sandeep Bakhshi as whole time director, COO",
+    "link": "https://www.business-standard.com/article/finance/icici-bank-board-appoints-sandeep-bakhshi-as-whole-time-director-coo-118061801061_1.html",
+    "pubDate": "Mon, 18 Jun 2018 20:46:00 +0530",
+    "content": "Chanda Kochhar will be on leave till completion of the enquiry. However, she will continue to remain the CEO and MD of the bank",
+    "contentSnippet": "Chanda Kochhar will be on leave till completion of the enquiry. However, she will continue to remain the CEO and MD of the bank",
+    "guid": "https://www.business-standard.com/article/finance/icici-bank-board-appoints-sandeep-bakhshi-as-whole-time-director-coo-118061801061_1.html",
+    "isoDate": "2018-06-18T15:16:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "icici",
+            "bank",
+            "board",
+            "appoints",
+            "sandeep",
+            "bakhshi",
+            "as",
+            "whole",
+            "time",
+            "director",
+            "coo"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "whole"
+    ],
+    "nouns": [
+        "completion",
+        "Bank",
+        "bank",
+        "director",
+        "will",
+        "time",
+        "leave",
+        "till",
+        "COO",
+        "board",
+        "MD",
+        "CEO",
+        "whole",
+        "enquiry"
+    ],
+    "verbs": [
+        "Bank",
+        "bank",
+        "remain",
+        "will",
+        "continue",
+        "time",
+        "leave",
+        "till",
+        "COO",
+        "board"
+    ]
+}

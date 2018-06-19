@@ -1,0 +1,62 @@
+{
+    "title": "Nifty closes at 10,800, Sensex loses 10,600-mark",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/nifty-closes-at-10800-sensex-loses-10600-mark/articleshow/64633451.cms",
+    "pubDate": "Mon, 18 Jun 2018 10:12:41 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/nifty-closes-at-10800-sensex-loses-10600-mark/articleshow/64633451.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64633451.cms\" /></a>",
+    "contentSnippet": "",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/nifty-closes-at-10800-sensex-loses-10600-mark/articleshow/64633451.cms",
+    "isoDate": "2018-06-18T10:12:41.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.2857142857142857,
+        "tokens": [
+            "nifty",
+            "closes",
+            "at",
+            "10800",
+            "sensex",
+            "loses",
+            "10600-mark"
+        ],
+        "words": [
+            "nifty"
+        ],
+        "positive": [
+            "nifty"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "Nifty closes at 10,800, Sensex loses 10,600-mark",
+        "content": "<div class=\"loadingblock ajaxarticleloading\"><div class=\"loadingnext\"><p><span class=\"loadingnextstory\"><b>Jaitley hits back at naysayers, says India fastest growing major economy</b></span></p></div></div>"
+    },
+    "adjectives": [
+        "10",
+        "left",
+        "top",
+        "right",
+        "Nifty",
+        "nifty"
+    ],
+    "nouns": [
+        "india",
+        "business",
+        "border",
+        "10",
+        "left",
+        "style",
+        "mark",
+        "margin",
+        "top",
+        "right",
+        "photo"
+    ],
+    "verbs": [
+        "border",
+        "align",
+        "style",
+        "mark",
+        "top",
+        "right"
+    ]
+}

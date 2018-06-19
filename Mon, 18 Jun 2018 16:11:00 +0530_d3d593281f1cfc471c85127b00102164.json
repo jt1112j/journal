@@ -1,0 +1,62 @@
+{
+    "title": "Congress legacy no more, govt should be judged on own merit: Rajiv Kumar",
+    "link": "https://www.business-standard.com/article/economy-policy/congress-legacy-no-more-govt-should-be-judged-on-own-merit-rajiv-kumar-118061800380_1.html",
+    "pubDate": "Mon, 18 Jun 2018 16:11:00 +0530",
+    "content": "Even the NITI Aayog Vice Chairman has often talked about the legacy inherited by the current government and how it has affected its performance",
+    "contentSnippet": "Even the NITI Aayog Vice Chairman has often talked about the legacy inherited by the current government and how it has affected its performance",
+    "guid": "https://www.business-standard.com/article/economy-policy/congress-legacy-no-more-govt-should-be-judged-on-own-merit-rajiv-kumar-118061800380_1.html",
+    "isoDate": "2018-06-18T10:41:00.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.07692307692307693,
+        "tokens": [
+            "congress",
+            "legacy",
+            "no",
+            "more",
+            "govt",
+            "should",
+            "be",
+            "judged",
+            "on",
+            "own",
+            "merit",
+            "rajiv",
+            "kumar"
+        ],
+        "words": [
+            "no"
+        ],
+        "positive": [],
+        "negative": [
+            "no"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "Even",
+        "current",
+        "no",
+        "affected",
+        "own",
+        "inherited"
+    ],
+    "nouns": [
+        "government",
+        "performance",
+        "Chairman",
+        "Even",
+        "current",
+        "no",
+        "Congress",
+        "legacy",
+        "merit",
+        "Vice"
+    ],
+    "verbs": [
+        "Chairman",
+        "Even",
+        "own",
+        "merit"
+    ]
+}

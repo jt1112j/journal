@@ -1,0 +1,78 @@
+{
+    "title": "Arun Jaitley hints no cut in excise on oil, asks citizens to pay taxes",
+    "link": "https://www.business-standard.com/article/pti-stories/jaitley-hints-at-no-cut-in-excise-on-oil-asks-citizens-to-pay-taxes-honestly-118061800397_1.html",
+    "pubDate": "Mon, 18 Jun 2018 14:25:00 +0530",
+    "content": "In an apparent dig at senior Congress leader P Chidambaram's remark that tax on oil should be cut by Rs 25 per litre, Jaitley retorted \"this is a 'trap' suggestion\"",
+    "contentSnippet": "In an apparent dig at senior Congress leader P Chidambaram's remark that tax on oil should be cut by Rs 25 per litre, Jaitley retorted \"this is a 'trap' suggestion\"",
+    "guid": "https://www.business-standard.com/article/pti-stories/jaitley-hints-at-no-cut-in-excise-on-oil-asks-citizens-to-pay-taxes-honestly-118061800397_1.html",
+    "isoDate": "2018-06-18T08:55:00.000Z",
+    "sentiment": {
+        "score": -3,
+        "comparative": -0.21428571428571427,
+        "tokens": [
+            "arun",
+            "jaitley",
+            "hints",
+            "no",
+            "cut",
+            "in",
+            "excise",
+            "on",
+            "oil",
+            "asks",
+            "citizens",
+            "to",
+            "pay",
+            "taxes"
+        ],
+        "words": [
+            "pay",
+            "cut",
+            "no"
+        ],
+        "positive": [],
+        "negative": [
+            "pay",
+            "cut",
+            "no"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "cut",
+        "senior",
+        "In",
+        "25",
+        "no",
+        "apparent"
+    ],
+    "nouns": [
+        "cut",
+        "trap",
+        "remark",
+        "senior",
+        "In",
+        "25",
+        "no",
+        "dig",
+        "Congress",
+        "suggestion",
+        "oil",
+        "excise",
+        "leader",
+        "pay",
+        "tax",
+        "P",
+        "litre"
+    ],
+    "verbs": [
+        "cut",
+        "trap",
+        "remark",
+        "dig",
+        "oil",
+        "excise",
+        "pay",
+        "tax"
+    ]
+}

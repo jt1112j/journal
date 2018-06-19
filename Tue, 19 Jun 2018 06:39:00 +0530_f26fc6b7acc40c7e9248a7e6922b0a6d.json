@@ -1,0 +1,57 @@
+{
+    "title": "Support for Nifty seen at 10,740, resistance at 10,850: Prabhudas Lilladher",
+    "link": "https://www.business-standard.com/article/markets/support-for-nifty-seen-at-10-740-resistance-at-10-850-prabhudas-lilladher-118061900090_1.html",
+    "pubDate": "Tue, 19 Jun 2018 06:39:00 +0530",
+    "content": "Nifty outlook and few trading ideas by Vaishali Parekh, Research Analyst - Technical Research at Prabhudas Lilladher:",
+    "contentSnippet": "Nifty outlook and few trading ideas by Vaishali Parekh, Research Analyst - Technical Research at Prabhudas Lilladher:",
+    "guid": "https://www.business-standard.com/article/markets/support-for-nifty-seen-at-10-740-resistance-at-10-850-prabhudas-lilladher-118061900090_1.html",
+    "isoDate": "2018-06-19T01:09:00.000Z",
+    "sentiment": {
+        "score": 4,
+        "comparative": 0.36363636363636365,
+        "tokens": [
+            "support",
+            "for",
+            "nifty",
+            "seen",
+            "at",
+            "10740",
+            "resistance",
+            "at",
+            "10850",
+            "prabhudas",
+            "lilladher"
+        ],
+        "words": [
+            "nifty",
+            "support"
+        ],
+        "positive": [
+            "nifty",
+            "support"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "10",
+        "Nifty",
+        "Technical",
+        "few"
+    ],
+    "nouns": [
+        "10",
+        "resistance",
+        "Research",
+        "trading",
+        "outlook",
+        "Technical",
+        "Support",
+        "few",
+        "Analyst"
+    ],
+    "verbs": [
+        "Research",
+        "Support"
+    ]
+}

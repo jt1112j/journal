@@ -1,0 +1,51 @@
+{
+    "title": "Bata India nears record high; stock up 5%",
+    "link": "https://www.business-standard.com/article/markets/bata-india-nears-record-high-stock-up-5-118061800468_1.html",
+    "pubDate": "Mon, 18 Jun 2018 15:13:00 +0530",
+    "content": "The stock rallied 5% to Rs 817, trading close to its record high of Rs 833 touched on November 1, 2017 in intra-day trade",
+    "contentSnippet": "The stock rallied 5% to Rs 817, trading close to its record high of Rs 833 touched on November 1, 2017 in intra-day trade",
+    "guid": "https://www.business-standard.com/article/markets/bata-india-nears-record-high-stock-up-5-118061800468_1.html",
+    "isoDate": "2018-06-18T09:43:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "bata",
+            "india",
+            "nears",
+            "record",
+            "high",
+            "stock",
+            "up",
+            "5"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "close",
+        "stock",
+        "high",
+        "touched"
+    ],
+    "verbs": [
+        "close",
+        "stock",
+        "trade",
+        "record"
+    ],
+    "nouns": [
+        "India",
+        "close",
+        "stock",
+        "high",
+        "trading",
+        "trade",
+        "November",
+        "day",
+        "record",
+        "Bata"
+    ]
+}

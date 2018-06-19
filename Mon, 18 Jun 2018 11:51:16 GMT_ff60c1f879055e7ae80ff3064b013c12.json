@@ -1,0 +1,64 @@
+{
+    "title": "Bitcoin could 'bring internet to a halt': BIS report",
+    "link": "https://timesofindia.indiatimes.com/business/international-business/bitcoin-could-bring-internet-to-a-halt-bis-report/articleshow/64635078.cms",
+    "pubDate": "Mon, 18 Jun 2018 11:51:16 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/international-business/bitcoin-could-bring-internet-to-a-halt-bis-report/articleshow/64635078.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64635078.cms\" /></a>",
+    "contentSnippet": "",
+    "guid": "https://timesofindia.indiatimes.com/business/international-business/bitcoin-could-bring-internet-to-a-halt-bis-report/articleshow/64635078.cms",
+    "isoDate": "2018-06-18T11:51:16.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "bitcoin",
+            "could",
+            "'bring",
+            "internet",
+            "to",
+            "a",
+            "halt'",
+            "bis",
+            "report"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {
+        "title": "Bitcoin could 'bring internet to a halt': BIS report",
+        "content": "<div class=\"section1\"><div class=\"Normal\"><p>ZURICH: The Bank for International Settlements in a report warned digital currencies like bitcoin could overwhelm and break the internet if they continue to grow.\n\n</p><p>The BIS, often described as the central bank for central banks, also warned, in a 24-page report published on its website on Sunday, that cryptocurrencies cannot be trusted the way sovereign currencies can.\n</p><p>Unlike central bank-issued denominations, virtual currencies are produced, or \"mined,\" by banks of computers solving complex algorithms, and then freely traded online.\n</p><span>The other key difference with typical currencies is that the number of bitcoin in existence can never exceed 21 million. There are currently some 17 million </span><a class=\"key_underline\" href=\"https://timesofindia.indiatimes.com/topic/bitcoins\">bitcoins</a><p> in circulation.\n</p><p>Bitcoin's surge in value from a few cents to a peak in December 2017 of $19,500 turned some of its first investors into billionaires.\n</p><p>In a theoretical scenario where a country's entire population turned to a digital currency like bitcoin, \"the size of the ledger would swell well beyond the storage capacity of a typical smartphone in a matter of days, beyond that of a typical personal computer in a matter of weeks and beyond that of servers in a matter of months,\" the BIS said.\n</p><p>\"But the issue goes well beyond storage capacity, and extends to processing capacity: only supercomputers could keep up with verification of the incoming transactions,\" it said.\n</p><p>\"The associated communication volumes could bring the internet to a halt.\"\n</p><p>The BIS, which has previously warned of the fraud risk in cryptocurrencies, noted that there was \"a fragile foundation of trust\" in such systems.\n</p><span>\"In mainstream payment systems, once an individual payment makes its way through the national payment system and ultimately through the central bank books, it cannot be revoked. In contrast, permissionless cryptocurrencies cannot guarantee the finality of individual payment,\" the report said.\n</span><br><span>\n</span><br><span>Furthermore, the BIS pointed to the \"unstable value\" of currencies such as bitcoin.\n</span><br><span>\n</span><br><span>\"This arises from the absence of a central issuer with a mandate to guarantee the currency's stability,\" it said.\n</span><br><span>\n</span><br><span>More broadly, the BIS raised long-standing regulatory concerns over the use of cryptocurrencies, particularly with regards to money-laundering and financing of terrorism.\n</span><br><span>\n</span><p>The report pointed to the case of the Silk Road underground marketplace for drugs and other contraband, which was shut down by the FBI in 2013, and which had used virtual currencies like bitcoin to shield customers from detection.\n</p><span>\n</span></div></div>"
+    },
+    "adjectives": [
+        "10",
+        "left",
+        "top",
+        "right",
+        "international",
+        "halt"
+    ],
+    "nouns": [
+        "business",
+        "border",
+        "10",
+        "left",
+        "style",
+        "margin",
+        "top",
+        "right",
+        "photo",
+        "internet",
+        "international",
+        "halt",
+        "report"
+    ],
+    "verbs": [
+        "border",
+        "align",
+        "style",
+        "top",
+        "right",
+        "bring",
+        "halt",
+        "report"
+    ]
+}

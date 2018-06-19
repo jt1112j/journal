@@ -1,0 +1,71 @@
+{
+    "title": "Indian Railways does an airline, will offer free food to passengers",
+    "link": "https://www.business-standard.com/article/economy-policy/indian-railways-does-an-airline-will-offer-free-food-to-passengers-118061800580_1.html",
+    "pubDate": "Mon, 18 Jun 2018 22:14:00 +0530",
+    "content": "Re-arranging train timings will be done giving a window of two-three hours every day, expanding the window to even five hours on Sundays",
+    "contentSnippet": "Re-arranging train timings will be done giving a window of two-three hours every day, expanding the window to even five hours on Sundays",
+    "guid": "https://www.business-standard.com/article/economy-policy/indian-railways-does-an-airline-will-offer-free-food-to-passengers-118061800580_1.html",
+    "isoDate": "2018-06-18T16:44:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.09090909090909091,
+        "tokens": [
+            "indian",
+            "railways",
+            "does",
+            "an",
+            "airline",
+            "will",
+            "offer",
+            "free",
+            "food",
+            "to",
+            "passengers"
+        ],
+        "words": [
+            "free"
+        ],
+        "positive": [
+            "free"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "Indian",
+        "two",
+        "every",
+        "even",
+        "free",
+        "done",
+        "giving",
+        "three",
+        "five"
+    ],
+    "nouns": [
+        "Indian",
+        "two",
+        "train",
+        "even",
+        "will",
+        "airline",
+        "offer",
+        "free",
+        "food",
+        "Re",
+        "arranging",
+        "giving",
+        "window",
+        "three",
+        "hours",
+        "day",
+        "five"
+    ],
+    "verbs": [
+        "train",
+        "even",
+        "will",
+        "offer",
+        "free"
+    ]
+}

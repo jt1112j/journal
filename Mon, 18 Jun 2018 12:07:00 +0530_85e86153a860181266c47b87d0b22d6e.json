@@ -1,0 +1,66 @@
+{
+    "title": "HPCL, BPCL, IOCL gain on fall in global oil prices",
+    "link": "https://www.business-standard.com/article/markets/hpcl-bpcl-iocl-gain-on-fall-in-global-oil-prices-118061800257_1.html",
+    "pubDate": "Mon, 18 Jun 2018 12:07:00 +0530",
+    "content": "In past six months, OMC has underperformed the market by falling in the range of 14% to 26%  as compared to 6% rise in the S&P BSE Sensex.",
+    "contentSnippet": "In past six months, OMC has underperformed the market by falling in the range of 14% to 26%  as compared to 6% rise in the S&P BSE Sensex.",
+    "guid": "https://www.business-standard.com/article/markets/hpcl-bpcl-iocl-gain-on-fall-in-global-oil-prices-118061800257_1.html",
+    "isoDate": "2018-06-18T06:37:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.2,
+        "tokens": [
+            "hpcl",
+            "bpcl",
+            "iocl",
+            "gain",
+            "on",
+            "fall",
+            "in",
+            "global",
+            "oil",
+            "prices"
+        ],
+        "words": [
+            "gain"
+        ],
+        "positive": [
+            "gain"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "In",
+        "global",
+        "26",
+        "falling",
+        "past",
+        "six",
+        "14"
+    ],
+    "nouns": [
+        "market",
+        "oil",
+        "BSE",
+        "rise",
+        "In",
+        "26",
+        "fall",
+        "past",
+        "gain",
+        "S",
+        "P",
+        "six",
+        "range",
+        "14"
+    ],
+    "verbs": [
+        "market",
+        "oil",
+        "rise",
+        "fall",
+        "gain",
+        "range"
+    ]
+}

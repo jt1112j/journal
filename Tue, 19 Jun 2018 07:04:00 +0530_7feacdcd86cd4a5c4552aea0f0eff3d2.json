@@ -1,0 +1,77 @@
+{
+    "title": "Double-digit growth seems a far cry, should be a long-term goal: Economists",
+    "link": "https://www.business-standard.com/article/economy-policy/double-digit-growth-seems-a-far-cry-should-be-a-long-term-goal-economists-118061801189_1.html",
+    "pubDate": "Tue, 19 Jun 2018 07:04:00 +0530",
+    "content": "The International Monetary Fund, on the other hand, has projected the economy will grow 7.4 per cent in the current fiscal year and 7.8 per cent in 2019-20",
+    "contentSnippet": "The International Monetary Fund, on the other hand, has projected the economy will grow 7.4 per cent in the current fiscal year and 7.8 per cent in 2019-20",
+    "guid": "https://www.business-standard.com/article/economy-policy/double-digit-growth-seems-a-far-cry-should-be-a-long-term-goal-economists-118061801189_1.html",
+    "isoDate": "2018-06-19T01:34:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.08333333333333333,
+        "tokens": [
+            "double-digit",
+            "growth",
+            "seems",
+            "a",
+            "far",
+            "cry",
+            "should",
+            "be",
+            "a",
+            "long-term",
+            "goal",
+            "economists"
+        ],
+        "words": [
+            "cry",
+            "growth"
+        ],
+        "positive": [
+            "growth"
+        ],
+        "negative": [
+            "cry"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "Monetary",
+        "projected",
+        "far",
+        "current",
+        "International",
+        "Double",
+        "long",
+        "fiscal",
+        "20"
+    ],
+    "verbs": [
+        "grow",
+        "Fund",
+        "will",
+        "Double",
+        "cry",
+        "long",
+        "term",
+        "hand"
+    ],
+    "nouns": [
+        "far",
+        "year",
+        "growth",
+        "Fund",
+        "cent",
+        "current",
+        "will",
+        "International",
+        "Double",
+        "digit",
+        "cry",
+        "term",
+        "goal",
+        "economy",
+        "20",
+        "hand"
+    ]
+}

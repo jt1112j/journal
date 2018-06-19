@@ -1,0 +1,81 @@
+{
+    "creator": "PTI",
+    "title": "Mobile devices to be exempt from testing till year end",
+    "link": "https://www.financialexpress.com/industry/mobile-devices-to-be-exempt-from-testing-till-year-end/1211005/",
+    "pubDate": "Mon, 18 Jun 2018 21:00:04 +05:30",
+    "dc:creator": "PTI",
+    "content": "Mobile devices may be exempted from mandatory testing process starting October 1 as state-run body TEC will take time beyond Diwali to get the facility ready.",
+    "contentSnippet": "Mobile devices may be exempted from mandatory testing process starting October 1 as state-run body TEC will take time beyond Diwali to get the facility ready.",
+    "guid": "https://www.financialexpress.com/?p=1211005",
+    "categories": [
+        "Industry"
+    ],
+    "isoDate": "2018-06-18T15:30:04.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.1,
+        "tokens": [
+            "mobile",
+            "devices",
+            "to",
+            "be",
+            "exempt",
+            "from",
+            "testing",
+            "till",
+            "year",
+            "end"
+        ],
+        "words": [
+            "exempt"
+        ],
+        "positive": [],
+        "negative": [
+            "exempt"
+        ]
+    },
+    "article": {
+        "title": "Mobile devices to be exempt from testing till year end",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignleft\"><figure><img class=\"wp-image-1211015 size-full\" src=\"https://images.financialexpress.com/2018/06/mobile-2.jpg\" alt=\"\" srcset=\"https://images.financialexpress.com/2018/06/mobile-2.jpg 660w, https://images.financialexpress.com/2018/06/mobile-2-300x200.jpg 300w, https://images.financialexpress.com/2018/06/mobile-2-620x413.jpg 620w, https://images.financialexpress.com/2018/06/mobile-2-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> Diwali (November 7) will be without mandatory testing requirement with respect of mobile phones</figure>\n\t\t\t</section></div><span>\n</span><p>Mobile devices may be exempted from mandatory testing process starting October 1 as state-run body TEC will take time beyond Diwali to get the facility ready, an official said today.</p><span>\n</span><p>“Diwali (November 7) will be without mandatory testing requirement with respect of mobile phones. We don’t expect to start mobile testing from October 1,” said Shakeel Ahmad, DDG of Telecommunications Engineering Centre (TEC).</p><span>\n</span><p>At an event organised by The Mobile Association, Ahmad said that the mandatory testing of telecom equipment will start from October 1 for products for which standards have been notified at early stage.</p><span>\n</span><p>“We will start the scheme from October 1 for some of the very simple devices for which we released essential requirements in the very early stage. Those things most probably will come in first stage starting October 1,” he said.</p><span>\n</span><p>Amid security concerns, government had notified rules in September 2017 mandating that all telecom equipment used by operators will have to undergo test and get certified by authorised agencies as per specified norms from October 1, 2018.</p><span>\n</span><p>The notification bars telecom operators from using untested and uncertified equipment but exempts equipment imported for the purpose of research and development, sample for the test and certification or demonstration in the country.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "mandatory",
+        "starting",
+        "Mobile",
+        "exempt",
+        "ready"
+    ],
+    "nouns": [
+        "will",
+        "devices",
+        "mandatory",
+        "time",
+        "process",
+        "starting",
+        "state",
+        "Mobile",
+        "till",
+        "year",
+        "end",
+        "may",
+        "October",
+        "run",
+        "TEC",
+        "testing",
+        "body",
+        "facility",
+        "ready"
+    ],
+    "verbs": [
+        "will",
+        "time",
+        "process",
+        "state",
+        "exempt",
+        "till",
+        "end",
+        "run",
+        "body",
+        "ready"
+    ]
+}

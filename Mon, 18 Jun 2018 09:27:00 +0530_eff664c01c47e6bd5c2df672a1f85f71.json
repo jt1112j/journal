@@ -1,0 +1,67 @@
+{
+    "title": "Safe-haven buying pushes gold up as trade war brews, but dollar puts a cap",
+    "link": "https://www.business-standard.com/article/markets/safe-haven-buying-pushes-gold-up-as-trade-war-brews-but-dollar-puts-a-cap-118061800101_1.html",
+    "pubDate": "Mon, 18 Jun 2018 09:27:00 +0530",
+    "content": "Gold is often used by investors as a hedge against political and financial uncertainty",
+    "contentSnippet": "Gold is often used by investors as a hedge against political and financial uncertainty",
+    "guid": "https://www.business-standard.com/article/markets/safe-haven-buying-pushes-gold-up-as-trade-war-brews-but-dollar-puts-a-cap-118061800101_1.html",
+    "isoDate": "2018-06-18T03:57:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "safe-haven",
+            "buying",
+            "pushes",
+            "gold",
+            "up",
+            "as",
+            "trade",
+            "war",
+            "brews",
+            "but",
+            "dollar",
+            "puts",
+            "a",
+            "cap"
+        ],
+        "words": [
+            "war",
+            "gold"
+        ],
+        "positive": [
+            "gold"
+        ],
+        "negative": [
+            "war"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "financial",
+        "political",
+        "Safe",
+        "gold",
+        "Gold",
+        "used"
+    ],
+    "verbs": [
+        "trade",
+        "war",
+        "cap",
+        "hedge"
+    ],
+    "nouns": [
+        "trade",
+        "buying",
+        "war",
+        "cap",
+        "dollar",
+        "Safe",
+        "gold",
+        "Gold",
+        "hedge",
+        "uncertainty",
+        "haven"
+    ]
+}

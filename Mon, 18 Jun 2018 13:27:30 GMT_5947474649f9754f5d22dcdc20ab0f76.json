@@ -1,0 +1,85 @@
+{
+    "title": "Discom losses down 70% to Rs 17,000 crore, says report",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/discom-losses-down-70-to-rs-17k-cr-says-report/articleshow/64636316.cms",
+    "pubDate": "Mon, 18 Jun 2018 13:27:30 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/discom-losses-down-70-to-rs-17k-cr-says-report/articleshow/64636316.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64636316.cms\" /></a>The government had launched Uday reforms for the power distribution sector in November 2015, to turn them around from deep financial and operational losses.",
+    "contentSnippet": "The government had launched Uday reforms for the power distribution sector in November 2015, to turn them around from deep financial and operational losses.",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/discom-losses-down-70-to-rs-17k-cr-says-report/articleshow/64636316.cms",
+    "isoDate": "2018-06-18T13:27:30.000Z",
+    "sentiment": {
+        "score": -3,
+        "comparative": -0.3,
+        "tokens": [
+            "discom",
+            "losses",
+            "down",
+            "70",
+            "to",
+            "rs",
+            "17000",
+            "crore",
+            "says",
+            "report"
+        ],
+        "words": [
+            "losses"
+        ],
+        "positive": [],
+        "negative": [
+            "losses"
+        ]
+    },
+    "article": {
+        "title": "Discom losses down 70% to Rs 17,000 crore, says report",
+        "content": "<section class=\"title_section clearfix\"><meta itemprop=\"headline\" content=\"Discom losses down 70% to Rs 17,000 crore, says report\"><p>The government had launched Uday reforms for the power distribution sector in November 2015, to turn them around from deep financial and operational losses.</p></section>"
+    },
+    "adjectives": [
+        "10",
+        "left",
+        "top",
+        "right",
+        "operational",
+        "financial",
+        "down",
+        "70",
+        "17",
+        "deep"
+    ],
+    "verbs": [
+        "border",
+        "align",
+        "style",
+        "top",
+        "right",
+        "report",
+        "down",
+        "power",
+        "turn"
+    ],
+    "nouns": [
+        "india",
+        "business",
+        "border",
+        "10",
+        "left",
+        "style",
+        "margin",
+        "top",
+        "right",
+        "photo",
+        "losses",
+        "report",
+        "sector",
+        "government",
+        "distribution",
+        "crore",
+        "down",
+        "70",
+        "17",
+        "power",
+        "November",
+        "turn",
+        "deep",
+        "cr"
+    ]
+}

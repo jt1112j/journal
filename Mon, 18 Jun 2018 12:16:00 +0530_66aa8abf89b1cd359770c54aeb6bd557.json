@@ -1,0 +1,62 @@
+{
+    "title": "Govt will meet fiscal deficit target of 3.3% this year: Piyush Goyal",
+    "link": "https://www.business-standard.com/article/economy-policy/govt-will-meet-fiscal-deficit-target-of-3-3-this-year-piyush-goyal-118061800230_1.html",
+    "pubDate": "Mon, 18 Jun 2018 12:16:00 +0530",
+    "content": "The government, in the Budget in February, had revised the fiscal deficit target for 2017-18 to 3.5 per cent from the earlier estimate of 3.2 per cent",
+    "contentSnippet": "The government, in the Budget in February, had revised the fiscal deficit target for 2017-18 to 3.5 per cent from the earlier estimate of 3.2 per cent",
+    "guid": "https://www.business-standard.com/article/economy-policy/govt-will-meet-fiscal-deficit-target-of-3-3-this-year-piyush-goyal-118061800230_1.html",
+    "isoDate": "2018-06-18T06:46:00.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.16666666666666666,
+        "tokens": [
+            "govt",
+            "will",
+            "meet",
+            "fiscal",
+            "deficit",
+            "target",
+            "of",
+            "33",
+            "this",
+            "year",
+            "piyush",
+            "goyal"
+        ],
+        "words": [
+            "deficit"
+        ],
+        "positive": [],
+        "negative": [
+            "deficit"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "earlier",
+        "revised",
+        "meet",
+        "fiscal",
+        "18"
+    ],
+    "nouns": [
+        "year",
+        "government",
+        "deficit",
+        "meet",
+        "cent",
+        "will",
+        "target",
+        "18",
+        "estimate",
+        "Budget",
+        "February"
+    ],
+    "verbs": [
+        "meet",
+        "will",
+        "target",
+        "estimate",
+        "Budget"
+    ]
+}

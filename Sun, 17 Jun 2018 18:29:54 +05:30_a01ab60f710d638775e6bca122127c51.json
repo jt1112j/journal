@@ -1,0 +1,50 @@
+{
+    "creator": "IANS",
+    "title": "New Facebook AI system could ‘open’ closed eyes in photo",
+    "link": "https://www.financialexpress.com/industry/technology/new-facebook-ai-system-could-open-closed-eyes-in-photo/1209642/",
+    "pubDate": "Sun, 17 Jun 2018 18:29:54 +05:30",
+    "dc:creator": "IANS",
+    "content": "Facebook researchers are now working on a new Artificial Intelligence (AI) system that can make closed eyes look convincingly open.",
+    "contentSnippet": "Facebook researchers are now working on a new Artificial Intelligence (AI) system that can make closed eyes look convincingly open.",
+    "guid": "https://www.financialexpress.com/?p=1209642",
+    "categories": [
+        "Industry",
+        "Technology"
+    ],
+    "isoDate": "2018-06-17T12:59:54.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "new",
+            "facebook",
+            "ai",
+            "system",
+            "could",
+            "‘open’",
+            "closed",
+            "eyes",
+            "in",
+            "photo"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {
+        "title": "New Facebook AI system could ‘open’ closed eyes in photo",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1209647\" src=\"https://images.financialexpress.com/2018/06/facebook-6.jpg\" alt=\"facebook, facebook researchers, Artificial Intelligence, closed eyes , images, machine, TechCrunch\" srcset=\"https://images.financialexpress.com/2018/06/facebook-6.jpg 660w, https://images.financialexpress.com/2018/06/facebook-6-300x200.jpg 300w, https://images.financialexpress.com/2018/06/facebook-6-620x413.jpg 620w, https://images.financialexpress.com/2018/06/facebook-6-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> Facebook researchers are now working on a new Artificial Intelligence (AI) system that can make closed eyes look convincingly open</figure>\n\t\t\t</section></div><span>\n</span><p>Facebook researchers are now working on a new Artificial Intelligence (AI) system that can make closed eyes look convincingly open. With retouching of images using various tools before posting them on social media platforms becoming a habit for many, the new system could be of immense use for users as an effective handy tool to replace closed eyes with open ones are now hard to come by.</p><span>\n</span><p>In a paper, Facebook researchers presented a Generative Adversarial Network (GAN), essentially a machine learning system that tries to fool itself into thinking its creations are real, TechCrunch reported on Saturday. With data from the target people when they kept their eyes open, the GAN system learns what eyes should go on the person on the basis of shape, colour and other features of the eyes of a particular person.</p><span>\n</span><p>The Facebook researchers found the results quite promising. “Exemplar GANs provide a useful solution for image generation or in-painting when a region of that image has some sort of identifying a feature,” the researchers wrote in the paper.</p><span>\n</span><p>“They provide superior perceptual results because they incorporate identifying information stored in reference images or perceptual codes,” the paper said. In testing, people mistook the fake eyes-opened photos for real ones or said they couldn’t be sure which was which, more than half the time, the TechCrunch report said.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "open",
+        "working",
+        "New",
+        "new",
+        "Artificial",
+        "closed"
+    ],
+    "verbs": [
+        "open",
+        "look"
+    ]
+}

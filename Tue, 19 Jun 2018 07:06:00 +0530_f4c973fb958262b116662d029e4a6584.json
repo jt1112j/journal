@@ -1,0 +1,52 @@
+{
+    "title": "India's largest national data centre to come up in Bhopal",
+    "link": "https://www.business-standard.com/article/economy-policy/india-s-largest-national-data-centre-to-come-up-in-bhopal-118061900020_1.html",
+    "pubDate": "Tue, 19 Jun 2018 07:06:00 +0530",
+    "content": "Electronics and information technology minister Ravi Shankar Prasad said data protection and privacy were important and its misuse would not be allowed",
+    "contentSnippet": "Electronics and information technology minister Ravi Shankar Prasad said data protection and privacy were important and its misuse would not be allowed",
+    "guid": "https://www.business-standard.com/article/economy-policy/india-s-largest-national-data-centre-to-come-up-in-bhopal-118061900020_1.html",
+    "isoDate": "2018-06-19T01:36:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "india's",
+            "largest",
+            "national",
+            "data",
+            "centre",
+            "to",
+            "come",
+            "up",
+            "in",
+            "bhopal"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "national",
+        "important"
+    ],
+    "nouns": [
+        "India",
+        "protection",
+        "Shankar",
+        "misuse",
+        "centre",
+        "information",
+        "national",
+        "data",
+        "Electronics",
+        "technology",
+        "minister",
+        "privacy"
+    ],
+    "verbs": [
+        "misuse",
+        "centre",
+        "minister"
+    ]
+}

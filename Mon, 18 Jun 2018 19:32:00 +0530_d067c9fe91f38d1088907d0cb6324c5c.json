@@ -1,0 +1,49 @@
+{
+    "title": "HDFC Bank to mull relying on Indian market in $2.3 bn share sale",
+    "link": "https://www.business-standard.com/article/finance/hdfc-bank-to-mull-relying-on-indian-market-in-2-3-bn-share-sale-118061800931_1.html",
+    "pubDate": "Mon, 18 Jun 2018 19:32:00 +0530",
+    "content": "HDFC Bank said in December its board had approved a potential equity offering of as much as Rs 240 billion",
+    "contentSnippet": "HDFC Bank said in December its board had approved a potential equity offering of as much as Rs 240 billion",
+    "guid": "https://www.business-standard.com/article/finance/hdfc-bank-to-mull-relying-on-indian-market-in-2-3-bn-share-sale-118061800931_1.html",
+    "isoDate": "2018-06-18T14:02:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.07692307692307693,
+        "tokens": [
+            "hdfc",
+            "bank",
+            "to",
+            "mull",
+            "relying",
+            "on",
+            "indian",
+            "market",
+            "in",
+            "23",
+            "bn",
+            "share",
+            "sale"
+        ],
+        "words": [
+            "share"
+        ],
+        "positive": [
+            "share"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "Indian",
+        "approved",
+        "potential",
+        "billion"
+    ],
+    "verbs": [
+        "market",
+        "share",
+        "Bank",
+        "board",
+        "mull"
+    ]
+}

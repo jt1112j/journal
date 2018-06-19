@@ -1,0 +1,70 @@
+{
+    "title": "Brokerages seek tax exemption enjoyed by foreign funds in Gujarat's GIFT",
+    "link": "https://www.business-standard.com/article/markets/brokerages-seek-tax-exemption-enjoyed-by-foreign-funds-in-gujarat-s-gift-118061800096_1.html",
+    "pubDate": "Mon, 18 Jun 2018 08:56:00 +0530",
+    "content": "The National Stock Exchange of India Ltd. is trying to woo foreign investors to trade at venues in Gujarat's Gift City after a fight with Singapore Exchange Ltd",
+    "contentSnippet": "The National Stock Exchange of India Ltd. is trying to woo foreign investors to trade at venues in Gujarat's Gift City after a fight with Singapore Exchange Ltd",
+    "guid": "https://www.business-standard.com/article/markets/brokerages-seek-tax-exemption-enjoyed-by-foreign-funds-in-gujarat-s-gift-118061800096_1.html",
+    "isoDate": "2018-06-18T03:26:00.000Z",
+    "sentiment": {
+        "score": 4,
+        "comparative": 0.36363636363636365,
+        "tokens": [
+            "brokerages",
+            "seek",
+            "tax",
+            "exemption",
+            "enjoyed",
+            "by",
+            "foreign",
+            "funds",
+            "in",
+            "gujarat's",
+            "gift"
+        ],
+        "words": [
+            "gift",
+            "enjoyed"
+        ],
+        "positive": [
+            "gift",
+            "enjoyed"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "Stock",
+        "foreign",
+        "National",
+        "trying"
+    ],
+    "nouns": [
+        "India",
+        "seek",
+        "Stock",
+        "trade",
+        "National",
+        "funds",
+        "Singapore",
+        "exemption",
+        "tax",
+        "Exchange",
+        "City",
+        "Gujarat",
+        "GIFT",
+        "Gift",
+        "fight"
+    ],
+    "verbs": [
+        "seek",
+        "Stock",
+        "trade",
+        "tax",
+        "Exchange",
+        "GIFT",
+        "Gift",
+        "woo",
+        "fight"
+    ]
+}

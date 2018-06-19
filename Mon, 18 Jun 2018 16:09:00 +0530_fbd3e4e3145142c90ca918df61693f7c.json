@@ -1,0 +1,62 @@
+{
+    "title": "Kerala government to start registration for its ambitious NRI chit scheme",
+    "link": "https://www.business-standard.com/article/economy-policy/kerala-government-to-start-registration-for-its-ambitious-nri-chit-scheme-118061800432_1.html",
+    "pubDate": "Mon, 18 Jun 2018 16:09:00 +0530",
+    "content": "It will enable online banking facilities along with a specially designed mobile app so that anybody from anywhere in the world can take part in the scheme",
+    "contentSnippet": "It will enable online banking facilities along with a specially designed mobile app so that anybody from anywhere in the world can take part in the scheme",
+    "guid": "https://www.business-standard.com/article/economy-policy/kerala-government-to-start-registration-for-its-ambitious-nri-chit-scheme-118061800432_1.html",
+    "isoDate": "2018-06-18T10:39:00.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.18181818181818182,
+        "tokens": [
+            "kerala",
+            "government",
+            "to",
+            "start",
+            "registration",
+            "for",
+            "its",
+            "ambitious",
+            "nri",
+            "chit",
+            "scheme"
+        ],
+        "words": [
+            "ambitious"
+        ],
+        "positive": [
+            "ambitious"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "world",
+        "mobile",
+        "ambitious",
+        "online",
+        "designed"
+    ],
+    "nouns": [
+        "part",
+        "banking",
+        "government",
+        "chit",
+        "world",
+        "start",
+        "will",
+        "mobile",
+        "scheme",
+        "It",
+        "registration",
+        "so"
+    ],
+    "verbs": [
+        "part",
+        "start",
+        "will",
+        "scheme",
+        "enable"
+    ]
+}

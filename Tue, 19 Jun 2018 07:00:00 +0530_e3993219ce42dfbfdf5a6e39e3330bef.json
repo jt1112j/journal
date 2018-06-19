@@ -1,0 +1,61 @@
+{
+    "title": "Low profits, high NPAs: Task cut out for Sandeep Bakhshi as ICICI Bank COO",
+    "link": "https://www.business-standard.com/article/finance/low-profits-high-npas-task-cut-out-for-sandeep-bakhshi-as-icici-bank-coo-118061900030_1.html",
+    "pubDate": "Tue, 19 Jun 2018 07:00:00 +0530",
+    "content": "In addition, he will have to move swiftly to control any damage that may have been caused to the bank's image and investor confidence due to the loan controversy",
+    "contentSnippet": "In addition, he will have to move swiftly to control any damage that may have been caused to the bank's image and investor confidence due to the loan controversy",
+    "guid": "https://www.business-standard.com/article/finance/low-profits-high-npas-task-cut-out-for-sandeep-bakhshi-as-icici-bank-coo-118061900030_1.html",
+    "isoDate": "2018-06-19T01:30:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.07142857142857142,
+        "tokens": [
+            "low",
+            "profits",
+            "high",
+            "npas",
+            "task",
+            "cut",
+            "out",
+            "for",
+            "sandeep",
+            "bakhshi",
+            "as",
+            "icici",
+            "bank",
+            "coo"
+        ],
+        "words": [
+            "cut",
+            "profits"
+        ],
+        "positive": [
+            "profits"
+        ],
+        "negative": [
+            "cut"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "high",
+        "cut",
+        "Low",
+        "In",
+        "due"
+    ],
+    "verbs": [
+        "cut",
+        "Low",
+        "Bank",
+        "bank",
+        "move",
+        "will",
+        "control",
+        "COO",
+        "Task",
+        "damage",
+        "image",
+        "loan"
+    ]
+}

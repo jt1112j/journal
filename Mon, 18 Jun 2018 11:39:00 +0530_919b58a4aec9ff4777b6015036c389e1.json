@@ -1,0 +1,60 @@
+{
+    "title": "MARKET WRAP: Indices end marginally lower; Nifty tests 10,800; metals drag",
+    "link": "https://www.business-standard.com/article/markets/markets-live-nifty-sensex-bse-nse-markets-asian-shares-global-cues-118061800085_1.html",
+    "pubDate": "Mon, 18 Jun 2018 11:39:00 +0530",
+    "content": "Markets ended marginally lower on Monday amid weak global cues",
+    "contentSnippet": "Markets ended marginally lower on Monday amid weak global cues",
+    "guid": "https://www.business-standard.com/article/markets/markets-live-nifty-sensex-bse-nse-markets-asian-shares-global-cues-118061800085_1.html",
+    "isoDate": "2018-06-18T06:09:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.09090909090909091,
+        "tokens": [
+            "market",
+            "wrap",
+            "indices",
+            "end",
+            "marginally",
+            "lower",
+            "nifty",
+            "tests",
+            "10800",
+            "metals",
+            "drag"
+        ],
+        "words": [
+            "drag",
+            "nifty"
+        ],
+        "positive": [
+            "nifty"
+        ],
+        "negative": [
+            "drag"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "10",
+        "Nifty",
+        "global",
+        "ended",
+        "weak"
+    ],
+    "nouns": [
+        "10",
+        "MARKET",
+        "Monday",
+        "end",
+        "lower",
+        "WRAP",
+        "drag"
+    ],
+    "verbs": [
+        "MARKET",
+        "end",
+        "lower",
+        "WRAP",
+        "drag"
+    ]
+}

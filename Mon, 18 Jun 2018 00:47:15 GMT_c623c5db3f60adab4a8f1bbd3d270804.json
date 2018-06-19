@@ -1,0 +1,96 @@
+{
+    "title": "Sebi gives illegal trade info on 15,000 entities",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/illegal-trades-sebi-gives-tax-dept-government-information-on-15000-entities/articleshow/64627274.cms",
+    "pubDate": "Mon, 18 Jun 2018 00:47:15 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/illegal-trades-sebi-gives-tax-dept-government-information-on-15000-entities/articleshow/64627274.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64627274.cms\" /></a>Continuing efforts to crack down on illegal trading activities, Sebi has shared its findings on nearly 15,000 entities that have indulged in non-genuine trades through illiquid stock options with the income tax (I-T) department and the ministry of corporate affairs, according to a senior official.",
+    "contentSnippet": "Continuing efforts to crack down on illegal trading activities, Sebi has shared its findings on nearly 15,000 entities that have indulged in non-genuine trades through illiquid stock options with the income tax (I-T) department and the ministry of corporate affairs, according to a senior official.",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/illegal-trades-sebi-gives-tax-dept-government-information-on-15000-entities/articleshow/64627274.cms",
+    "isoDate": "2018-06-18T00:47:15.000Z",
+    "sentiment": {
+        "score": -3,
+        "comparative": -0.375,
+        "tokens": [
+            "sebi",
+            "gives",
+            "illegal",
+            "trade",
+            "info",
+            "on",
+            "15000",
+            "entities"
+        ],
+        "words": [
+            "illegal"
+        ],
+        "positive": [],
+        "negative": [
+            "illegal"
+        ]
+    },
+    "article": {
+        "title": "Illegal trades: Sebi gives tax dept, government information on 15,000 entities",
+        "content": "<section class=\"title_section clearfix\"><meta itemprop=\"headline\" content=\"Illegal trades: Sebi gives tax dept, government information on 15,000 entities\"><p>Continuing efforts to crack down on illegal trading activities, Sebi has shared its findings on nearly 15,000 entities that have indulged in non-genuine trades through illiquid stock options with the income tax (I-T) department and the ministry of corporate affairs, according to a senior official.</p></section>"
+    },
+    "adjectives": [
+        "10",
+        "left",
+        "top",
+        "right",
+        "senior",
+        "stock",
+        "shared",
+        "corporate",
+        "according",
+        "official",
+        "down",
+        "genuine",
+        "illegal",
+        "15",
+        "Continuing",
+        "crack",
+        "I"
+    ],
+    "nouns": [
+        "india",
+        "business",
+        "border",
+        "10",
+        "left",
+        "style",
+        "margin",
+        "top",
+        "right",
+        "photo",
+        "senior",
+        "ministry",
+        "stock",
+        "income",
+        "findings",
+        "info",
+        "information",
+        "trade",
+        "trading",
+        "government",
+        "official",
+        "down",
+        "15",
+        "crack",
+        "tax",
+        "department",
+        "T",
+        "I",
+        "affairs"
+    ],
+    "verbs": [
+        "border",
+        "align",
+        "style",
+        "top",
+        "right",
+        "stock",
+        "trade",
+        "down",
+        "crack",
+        "tax"
+    ]
+}

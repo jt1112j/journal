@@ -1,0 +1,50 @@
+{
+    "title": "Indivior's shares rise after US court blocks Dr Reddy's generic drug",
+    "link": "https://www.business-standard.com/article/markets/indivior-s-shares-rise-after-us-court-blocks-dr-reddy-s-generic-drug-118061800335_1.html",
+    "pubDate": "Mon, 18 Jun 2018 15:05:00 +0530",
+    "content": "Indivior stuck to its 2018 revenue guidance on Friday but said it would revisit the forecast if Dr Reddy's launches the cheaper drug",
+    "contentSnippet": "Indivior stuck to its 2018 revenue guidance on Friday but said it would revisit the forecast if Dr Reddy's launches the cheaper drug",
+    "guid": "https://www.business-standard.com/article/markets/indivior-s-shares-rise-after-us-court-blocks-dr-reddy-s-generic-drug-118061800335_1.html",
+    "isoDate": "2018-06-18T09:35:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.09090909090909091,
+        "tokens": [
+            "indivior's",
+            "shares",
+            "rise",
+            "after",
+            "us",
+            "court",
+            "blocks",
+            "dr",
+            "reddy's",
+            "generic",
+            "drug"
+        ],
+        "words": [
+            "blocks",
+            "rise",
+            "shares"
+        ],
+        "positive": [
+            "rise",
+            "shares"
+        ],
+        "negative": [
+            "blocks"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "generic",
+        "stuck"
+    ],
+    "verbs": [
+        "court",
+        "rise",
+        "forecast",
+        "drug",
+        "revisit"
+    ]
+}

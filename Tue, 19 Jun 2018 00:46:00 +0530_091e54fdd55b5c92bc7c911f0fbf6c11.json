@@ -1,0 +1,65 @@
+{
+    "title": "Rising oil prices: Can't afford petro excise duty cut, says Arun Jaitley",
+    "link": "https://www.business-standard.com/article/economy-policy/can-t-afford-petro-excise-duty-cut-says-arun-jaitley-118061900017_1.html",
+    "pubDate": "Tue, 19 Jun 2018 00:46:00 +0530",
+    "content": "This is not the time to upset fiscal mathematics, says Union minister",
+    "contentSnippet": "This is not the time to upset fiscal mathematics, says Union minister",
+    "guid": "https://www.business-standard.com/article/economy-policy/can-t-afford-petro-excise-duty-cut-says-arun-jaitley-118061900017_1.html",
+    "isoDate": "2018-06-18T19:16:00.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.08333333333333333,
+        "tokens": [
+            "rising",
+            "oil",
+            "prices",
+            "can't",
+            "afford",
+            "petro",
+            "excise",
+            "duty",
+            "cut",
+            "says",
+            "arun",
+            "jaitley"
+        ],
+        "words": [
+            "cut"
+        ],
+        "positive": [],
+        "negative": [
+            "cut"
+        ]
+    },
+    "article": {},
+    "adjectives": [
+        "cut",
+        "fiscal",
+        "Rising",
+        "upset",
+        "Union"
+    ],
+    "nouns": [
+        "cut",
+        "Can",
+        "mathematics",
+        "minister",
+        "time",
+        "Rising",
+        "oil",
+        "excise",
+        "duty",
+        "upset",
+        "Union"
+    ],
+    "verbs": [
+        "cut",
+        "Can",
+        "minister",
+        "time",
+        "oil",
+        "afford",
+        "excise",
+        "upset"
+    ]
+}

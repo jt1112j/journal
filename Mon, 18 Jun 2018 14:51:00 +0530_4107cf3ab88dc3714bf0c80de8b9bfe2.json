@@ -1,0 +1,72 @@
+{
+    "title": "GDP growth will reach 10% by fourth quarter of FY 19: Piyush Goyal",
+    "link": "https://www.business-standard.com/article/economy-policy/gdp-growth-will-reach-10-by-fourth-quarter-of-fy-19-piyush-goyal-118061800343_1.html",
+    "pubDate": "Mon, 18 Jun 2018 14:51:00 +0530",
+    "content": "Goyal said the government was monitoring rising global crude oil prices on a real-time basis",
+    "contentSnippet": "Goyal said the government was monitoring rising global crude oil prices on a real-time basis",
+    "guid": "https://www.business-standard.com/article/economy-policy/gdp-growth-will-reach-10-by-fourth-quarter-of-fy-19-piyush-goyal-118061800343_1.html",
+    "isoDate": "2018-06-18T09:21:00.000Z",
+    "sentiment": {
+        "score": 3,
+        "comparative": 0.23076923076923078,
+        "tokens": [
+            "gdp",
+            "growth",
+            "will",
+            "reach",
+            "10",
+            "by",
+            "fourth",
+            "quarter",
+            "of",
+            "fy",
+            "19",
+            "piyush",
+            "goyal"
+        ],
+        "words": [
+            "reach",
+            "growth"
+        ],
+        "positive": [
+            "reach",
+            "growth"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "verbs": [
+        "quarter",
+        "will",
+        "time",
+        "oil",
+        "reach"
+    ],
+    "adjectives": [
+        "global",
+        "10",
+        "rising",
+        "fourth",
+        "crude",
+        "real",
+        "19"
+    ],
+    "nouns": [
+        "monitoring",
+        "quarter",
+        "10",
+        "government",
+        "growth",
+        "basis",
+        "will",
+        "time",
+        "rising",
+        "oil",
+        "fourth",
+        "crude",
+        "reach",
+        "real",
+        "GDP",
+        "19"
+    ]
+}

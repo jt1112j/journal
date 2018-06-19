@@ -1,0 +1,60 @@
+{
+    "title": "Jubilant FoodWorks hits new high ahead of 1:1 bonus",
+    "link": "https://www.business-standard.com/article/markets/jubilant-foodworks-hits-new-high-ahead-of-1-1-bonus-118061800388_1.html",
+    "pubDate": "Mon, 18 Jun 2018 14:05:00 +0530",
+    "content": "In past one month, Jubilant FoodWorks has outperformed the market by gaining 12% as compared to 2% rise in the S&P BSE Sensex.",
+    "contentSnippet": "In past one month, Jubilant FoodWorks has outperformed the market by gaining 12% as compared to 2% rise in the S&P BSE Sensex.",
+    "guid": "https://www.business-standard.com/article/markets/jubilant-foodworks-hits-new-high-ahead-of-1-1-bonus-118061800388_1.html",
+    "isoDate": "2018-06-18T08:35:00.000Z",
+    "sentiment": {
+        "score": 3,
+        "comparative": 0.3333333333333333,
+        "tokens": [
+            "jubilant",
+            "foodworks",
+            "hits",
+            "new",
+            "high",
+            "ahead",
+            "of",
+            "11",
+            "bonus"
+        ],
+        "words": [
+            "jubilant"
+        ],
+        "positive": [
+            "jubilant"
+        ],
+        "negative": []
+    },
+    "article": {},
+    "adjectives": [
+        "one",
+        "high",
+        "In",
+        "new",
+        "Jubilant",
+        "ahead",
+        "past",
+        "12"
+    ],
+    "nouns": [
+        "market",
+        "month",
+        "BSE",
+        "one",
+        "high",
+        "rise",
+        "In",
+        "bonus",
+        "past",
+        "12",
+        "S",
+        "P"
+    ],
+    "verbs": [
+        "market",
+        "rise"
+    ]
+}
