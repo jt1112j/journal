@@ -1,0 +1,58 @@
+{
+    "creator": "PTI",
+    "title": "RBI tightens remittance norms",
+    "link": "https://www.financialexpress.com/industry/banking-finance/rbi-tightens-remittance-norms/1212533/",
+    "pubDate": "Tue, 19 Jun 2018 22:48:16 +05:30",
+    "dc:creator": "PTI",
+    "content": "The RBI today tightened norms for LRS by making quoting of permanent account number (PAN) mandatory even for transactions below $25,000.",
+    "contentSnippet": "The RBI today tightened norms for LRS by making quoting of permanent account number (PAN) mandatory even for transactions below $25,000.",
+    "guid": "https://www.financialexpress.com/?p=1212533",
+    "categories": [
+        "Banking & Finance",
+        "Industry"
+    ],
+    "isoDate": "2018-06-19T17:18:16.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "rbi",
+            "tightens",
+            "remittance",
+            "norms"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {
+        "title": "RBI tightens remittance norms",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1212536\" src=\"https://images.financialexpress.com/2018/06/rbi-11.jpg\" alt=\"rbi, reserve bank of india, economy\" srcset=\"https://images.financialexpress.com/2018/06/rbi-11.jpg 660w, https://images.financialexpress.com/2018/06/rbi-11-300x200.jpg 300w, https://images.financialexpress.com/2018/06/rbi-11-620x413.jpg 620w, https://images.financialexpress.com/2018/06/rbi-11-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> Individuals can avail of foreign exchange facility for the purposes within the limit of USD 2,50,000 only.</figure>\n\t\t\t</section></div><span>\n</span><p>The <a target=\"_blank\" href=\"http://www.financialexpress.com/tag/rbi/\">RBI</a> today tightened norms for Liberalised Remittance Scheme (LRS) by making quoting of permanent account number (PAN) mandatory even for transactions below $25,000.</p><span>\n</span><p>Under the LRS, all resident individuals, including minors, are allowed to freely remit up to USD 2,50,000 per financial year for any permissible current or capital account transaction or a combination of both.</p><span>\n</span><p>Individuals can avail of foreign exchange facility for the purposes within the limit of USD 2,50,000 only.</p><span>\n</span><p>“It has been decided that furnishing of PAN, which hitherto was not to be insisted upon while putting through permissible current account transactions of up to USD 25,000, shall now be mandatory for making all remittances under LRS,” the Reserve Bank of India (RBI) said in a notification issued with regards to harmonisation of data and definitions.</p><span>\n</span><p>Further, in the context of remittances allowed under LRS for maintenance of close relatives, it has been decided, in consultation with government, to align the definition of ‘relative’ with the definition given in Companies Act, 2013 instead of Companies Act, 1956, it added.</p><span>\n</span><p>Earlier, a system for daily reporting of individual transactions under the LRS by banks was been put in place.</p><span>\n</span><p>This system enables the banks to view the remittances already sent by an individual during the financial year, thus improving monitoring and ensuring compliance with the LRS limits.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "permanent",
+        "mandatory",
+        "even",
+        "25"
+    ],
+    "nouns": [
+        "RBI",
+        "remittance",
+        "today",
+        "making",
+        "permanent",
+        "number",
+        "PAN",
+        "account",
+        "even",
+        "mandatory",
+        "transactions",
+        "25"
+    ],
+    "verbs": [
+        "number",
+        "account",
+        "PAN",
+        "even"
+    ]
+}

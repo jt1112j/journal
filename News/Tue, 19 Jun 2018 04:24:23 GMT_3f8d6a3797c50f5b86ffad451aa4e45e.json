@@ -1,0 +1,84 @@
+{
+    "title": "US unveils world’s most powerful supercomputer",
+    "link": "https://timesofindia.indiatimes.com/business/international-business/us-unveils-worlds-most-powerful-supercomputer/articleshow/64643030.cms",
+    "pubDate": "Tue, 19 Jun 2018 04:24:23 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/international-business/us-unveils-worlds-most-powerful-supercomputer/articleshow/64643030.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64643030.cms\" /></a>The US Department of Energy’s Oak Ridge National Laboratory (ORNL) supercomputer called Summit will be eight times more powerful than its previous top-ranked system, Titan. Summit possesses over 10 petabytes of memory.",
+    "contentSnippet": "The US Department of Energy’s Oak Ridge National Laboratory (ORNL) supercomputer called Summit will be eight times more powerful than its previous top-ranked system, Titan. Summit possesses over 10 petabytes of memory.",
+    "guid": "https://timesofindia.indiatimes.com/business/international-business/us-unveils-worlds-most-powerful-supercomputer/articleshow/64643030.cms",
+    "isoDate": "2018-06-19T04:24:23.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.3333333333333333,
+        "tokens": [
+            "us",
+            "unveils",
+            "world’s",
+            "most",
+            "powerful",
+            "supercomputer"
+        ],
+        "words": [
+            "powerful"
+        ],
+        "positive": [
+            "powerful"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "US unveils world’s most powerful supercomputer",
+        "content": "<section class=\"title_section clearfix\"><meta itemprop=\"headline\" content=\"US unveils world’s most powerful supercomputer\"><p>The US Department of Energy’s Oak Ridge National Laboratory (ORNL) supercomputer called Summit will be eight times more powerful than its previous top-ranked system, Titan. Summit possesses over 10 petabytes of memory.</p></section>"
+    },
+    "adjectives": [
+        "world",
+        "international",
+        "National",
+        "eight",
+        "previous",
+        "ranked",
+        "10",
+        "powerful",
+        "left",
+        "top",
+        "right"
+    ],
+    "nouns": [
+        "times",
+        "will",
+        "world",
+        "Department",
+        "photo",
+        "international",
+        "US",
+        "us",
+        "National",
+        "eight",
+        "memory",
+        "supercomputer",
+        "margin",
+        "border",
+        "system",
+        "10",
+        "Energy",
+        "business",
+        "left",
+        "style",
+        "top",
+        "right",
+        "Laboratory",
+        "Summit",
+        "Ridge",
+        "Titan",
+        "Oak"
+    ],
+    "verbs": [
+        "will",
+        "border",
+        "align",
+        "style",
+        "top",
+        "right",
+        "Summit",
+        "Ridge"
+    ]
+}

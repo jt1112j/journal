@@ -1,0 +1,74 @@
+{
+    "creator": "IANS",
+    "title": "Google to patch Home, Chromecast bug that leaks user location",
+    "link": "https://www.financialexpress.com/industry/technology/google-to-patch-home-chromecast-bug-that-leaks-user-location/1212113/",
+    "pubDate": "Tue, 19 Jun 2018 16:27:49 +05:30",
+    "dc:creator": "IANS",
+    "content": "Google is mulling to release a patch in the next few weeks to fix a security flaw in its \"Home\" smart speaker and Chromecast TV streaming stick.",
+    "contentSnippet": "Google is mulling to release a patch in the next few weeks to fix a security flaw in its \"Home\" smart speaker and Chromecast TV streaming stick.",
+    "guid": "https://www.financialexpress.com/?p=1212113",
+    "categories": [
+        "Industry",
+        "Technology"
+    ],
+    "isoDate": "2018-06-19T10:57:49.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "google",
+            "to",
+            "patch",
+            "home",
+            "chromecast",
+            "bug",
+            "that",
+            "leaks",
+            "user",
+            "location"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {
+        "title": "Google to patch Home, Chromecast bug that leaks user location",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1212116\" src=\"https://images.financialexpress.com/2018/06/google-9.jpg\" alt=\"google, Chromecast bug, technology\" srcset=\"https://images.financialexpress.com/2018/06/google-9.jpg 660w, https://images.financialexpress.com/2018/06/google-9-300x200.jpg 300w, https://images.financialexpress.com/2018/06/google-9-620x413.jpg 620w, https://images.financialexpress.com/2018/06/google-9-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> Google confirmed the same day that it plans to patch the issue in July, the CNET reported late on Monday. (Reuters)</figure>\n\t\t\t</section></div><span>\n</span><p><a target=\"_blank\" href=\"http://www.financialexpress.com/tag/google/\">Google</a> is mulling to release a patch in the next few weeks to fix a security flaw in its “Home” smart speaker and Chromecast TV streaming stick that lets a website collect precise user location data, the media reported.</p><span>\n</span><p>According to a report by security reporter Brian Krebs, the flaw, disclosed by researcher Craig Young at a security firm named Tripwire, works by exploiting a loophole in Google’s systems to cross-check a list of nearby wireless networks with Google’s precise geo-location look-up services.</p><span>\n</span><p>Google confirmed the same day that it plans to patch the issue in July, the CNET reported late on Monday.</p><span>\n</span><p>“Young found he could use the web browser on a computer as a stepping stone to reach a Chromecast or Google Home smart speaker that was connected to the same router. In his test, he was able to harvest information about his own location from his Chromecast,” the report added.</p><span>\n</span><p>The fix for the bug is expected to arrive sometime in the middle of July.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "Home",
+        "next",
+        "few",
+        "smart",
+        "streaming"
+    ],
+    "nouns": [
+        "patch",
+        "Google",
+        "Home",
+        "bug",
+        "user",
+        "location",
+        "release",
+        "few",
+        "fix",
+        "security",
+        "flaw",
+        "smart",
+        "speaker",
+        "TV",
+        "streaming",
+        "stick"
+    ],
+    "verbs": [
+        "patch",
+        "Google",
+        "Home",
+        "bug",
+        "release",
+        "fix",
+        "flaw",
+        "smart",
+        "stick"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "creator": "Associated Press",
+    "title": "IBM pits computer against human debaters",
+    "link": "https://www.financialexpress.com/industry/technology/ibm-pits-computer-against-human-debaters/1212300/",
+    "pubDate": "Tue, 19 Jun 2018 18:35:59 +05:30",
+    "dc:creator": "Associated Press",
+    "content": "IBM pitted a computer against two human debaters in the first public demonstration of artificial intelligence technology it's been working on for more than five years.",
+    "contentSnippet": "IBM pitted a computer against two human debaters in the first public demonstration of artificial intelligence technology it's been working on for more than five years.",
+    "guid": "https://www.financialexpress.com/?p=1212300",
+    "categories": [
+        "Industry",
+        "Technology"
+    ],
+    "isoDate": "2018-06-19T13:05:59.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "ibm",
+            "pits",
+            "computer",
+            "against",
+            "human",
+            "debaters"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {
+        "title": "IBM pits computer against human debaters",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"wp-image-1212303 size-full\" src=\"https://images.financialexpress.com/2018/06/ibm.jpg\" alt=\"ibm, it company ibm\" srcset=\"https://images.financialexpress.com/2018/06/ibm.jpg 660w, https://images.financialexpress.com/2018/06/ibm-300x200.jpg 300w, https://images.financialexpress.com/2018/06/ibm-620x413.jpg 620w, https://images.financialexpress.com/2018/06/ibm-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> The company unveiled its Project Debater in San Francisco on Monday</figure>\n\t\t\t</section></div><span>\n</span><p>IBM pitted a computer against two human debaters in the first public demonstration of artificial intelligence technology it’s been working on for more than five years.</p><span>\n</span><p>The company unveiled its Project Debater in San Francisco on Monday, asking it to make a case for government-subsidised space research – a topic it hadn’t studied in advance but championed fiercely with just a few awkward gaps in reasoning.</p><span>\n</span><p>“Subsidising space exploration is like investing in really good tires,” argued the computer system, its female voice embodied in a 5-foot-tall machine shaped like a monolith with TV screens on its sides.</p><span>\n</span><p>Such research would enrich the human mind, inspire young people and be a “very sound investment,” it said, making it more important even than good roads, schools or health care.</p><span>\n</span><p>The computer delivered its opening argument by pulling in evidence from its huge internal repository of newspapers, journals and other sources. It then listened to a professional human debater’s counter-argument and spent four minutes rebutting it.</p><span>\n</span><p>After closing arguments it moved on to a second debate about telemedicine.</p><span>\n</span><p>An IBM research team based in Israel began working on the project not long after IBM’s Watson computer beat two human quizmasters on a “Jeopardy” challenge in 2011.</p><span>\n</span><p>But rather than just scanning a giant trove of data in search of factoids, IBM’s latest project taps into several more complex branches of AI. Search engine algorithms used by <a target=\"_blank\" href=\"http://www.financialexpress.com/tag/google/\">Google</a> and <a target=\"_blank\" href=\"http://www.financialexpress.com/tag/microsoft/\">Microsoft</a>’s Bing use similar technology to digest and summarize written content and compose new paragraphs.</p><span>\n</span><p>Voice assistants such as <a target=\"_blank\" href=\"http://www.financialexpress.com/tag/amazon/\">Amazon</a>’s Alexa rely on listening comprehension to answer questions posed by people. Google recently demonstrated an eerily human-like voice assistant that can call hair salons or restaurants to make appointments.</p><span>\n</span><p>But IBM says it’s breaking new ground by creating a system that tackles deeper human practices of rhetoric and analysis, and how they’re used to discuss big questions whose answers aren’t always clear.</p><span>\n</span><p>“If you think of the rules of debate, they’re far more open-ended than the rules of a board game,” said Ranit Aharonov, who manages the debater project.</p><span>\n</span><p>As expected, the machine tends to be better than humans at bringing in numbers and other detailed supporting evidence. It’s also able to latch onto the most salient and attention-getting elements of an argument, and can even deliver some self-referential jokes about being a computer.</p><span>\n</span><p>But it lacks tact, researchers said. Sometimes the jokes don’t come out right. And on Monday, some of the sources it cited – such as a German official and an Arab sheikh – didn’t seem particularly germane.</p><span>\n</span><p>“Humans tend to be better at using more expressive language, more original language,” said Dario Gil, IBM’s vice president of AI research.</p><span>\n</span><p>“They bring in their own personal experience as a way to illustrate the point. The machine doesn’t live in the real world or have a life that it’s able to tap into.” There are no immediate plans to turn Project Debater into a commercial product, but Gil said it could be useful in the future in helping lawyers or other human workers make informed decisions.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "pitted",
+        "human",
+        "two",
+        "first",
+        "public",
+        "artificial",
+        "working",
+        "five"
+    ],
+    "verbs": []
+}

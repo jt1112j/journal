@@ -1,0 +1,63 @@
+{
+    "title": "Indian, Brazilian firms most vulnerable to interest rate hikes: McKinsey",
+    "link": "https://www.business-standard.com/article/current-affairs/indian-brazilian-firms-most-vulnerable-to-interest-rate-hikes-mckinsey-118061900065_1.html",
+    "pubDate": "Tue, 19 Jun 2018 09:22:00 +0530",
+    "content": "McKinsey researchers found more companies had shifted to bond market financing after the 2008 crisis",
+    "contentSnippet": "McKinsey researchers found more companies had shifted to bond market financing after the 2008 crisis",
+    "guid": "https://www.business-standard.com/article/current-affairs/indian-brazilian-firms-most-vulnerable-to-interest-rate-hikes-mckinsey-118061900065_1.html",
+    "isoDate": "2018-06-19T03:52:00.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.1,
+        "tokens": [
+            "indian",
+            "brazilian",
+            "firms",
+            "most",
+            "vulnerable",
+            "to",
+            "interest",
+            "rate",
+            "hikes",
+            "mckinsey"
+        ],
+        "words": [
+            "interest",
+            "vulnerable"
+        ],
+        "positive": [
+            "interest"
+        ],
+        "negative": [
+            "vulnerable"
+        ]
+    },
+    "article": {
+        "title": "Indian, Brazilian firms most vulnerable to interest rate hikes: McKinsey",
+        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t\n<p>\n\tA 200 basis-point increase in <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/interest-rates\" target=\"_blank\">interest rates </a>could spark a sharp rise in the proportion of emerging market <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/corporate-debt\" target=\"_blank\">corporate debt </a>issues at risk of default, with Brazilian and <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/indian-firms\" target=\"_blank\">Indian firms </a>most vulnerable, a report from <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/mckinsey\" target=\"_blank\">McKinsey </a>Global Institute showed.</p>\n<p>\n\tFollowing a decade of loose <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/monetary-policy\" target=\"_blank\">monetary policy </a>and historically low-<a class=\"storyTags\" href=\"https://www.business-standard.com/topic/interest-rates\" target=\"_blank\">interest rates </a>aimed at boosting economic growth after the 2008-9 financial crisis, global <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/central-banks\" target=\"_blank\">central banks </a>including the U.S. Federal Reserve and the <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/european-central-bank\" target=\"_blank\">European Central Bank </a>are either raising <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/interest-rates\" target=\"_blank\">interest rates </a>or signalling an end to accommodative policies.\n\n\n</p>\n<!-- INPAGE_BANNER -->\n<p>\n\tThat is pushing many <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/central-banks\" target=\"_blank\">central banks </a>in the developing world into raising rates too, with India, for instance, upping rates for the first time since 2014.</p>\n<p>\n\t<a class=\"storyTags\" href=\"https://www.business-standard.com/topic/mckinsey\" target=\"_blank\">McKinsey </a>researchers found more companies had shifted to bond market financing after the 2008 crisis, with nearly 20 per cent of <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/corporate-debt\" target=\"_blank\">corporate debt </a>now in the form of bonds -- around double the levels of a decade ago.</p>\n<p>\n\tHigher interest rates will push up refinancing costs and put more bonds at risk of default by lowering companies' interest coverage ratio -- a gauge of how easily a company can pay interest on its debt.</p>\n<p>\n\t\"In advanced economies, the impact of rising interest rates on companies' ability to service their debt will likely be modest,\" <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/mckinsey\" target=\"_blank\">McKinsey </a>analysts told clients.</p>\n<p>\n\t\"In developing countries, it could raise the portion of bonds at risk of default even higher,\" they said in their paper which simulated the effect of a 200 bps rate rise on companies.</p>\n<p>\n\tUnder such a scenario, the share of bonds at higher risk of default would rise to one-third from 24 per cent in Brazil and to 27 per cent from 18 per cent in India.</p>\n<p>\n\tChina's share of <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/corporate-bonds\" target=\"_blank\">corporate bonds </a>at higher risk of default could rise to 43 per cent -- $850 billion versus 2017 levels of $475 billion -- McKinsey estimated, adding they expected Beijing policymakers to manage the situation by avoiding any large rise in interest rates.</p>\n<p>\n\tIn the developed world, companies were seen faring better, with the exception of Australia, where the share of bonds with higher default risk could jump to 15 per cent from the current one per cent, McKinsey said.</p>\n<p>\n\tCertain sectors could be vulnerable, though, with 18 per cent of U.S. energy sector bonds -- worth some $104 billion -- seen at higher risk of default in event of a 200-bps rate rise.</p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
+    },
+    "adjectives": [
+        "Indian",
+        "found",
+        "Brazilian",
+        "vulnerable"
+    ],
+    "nouns": [
+        "Indian",
+        "crisis",
+        "rate",
+        "financing",
+        "interest",
+        "found",
+        "market",
+        "Brazilian",
+        "bond"
+    ],
+    "verbs": [
+        "rate",
+        "interest",
+        "found",
+        "market",
+        "bond"
+    ]
+}

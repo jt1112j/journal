@@ -1,0 +1,56 @@
+{
+    "creator": "IANS",
+    "title": "Internet now has 333.8 million domain names",
+    "link": "https://www.financialexpress.com/industry/technology/internet-now-has-333-8-million-domain-names/1212423/",
+    "pubDate": "Tue, 19 Jun 2018 20:32:42 +05:30",
+    "dc:creator": "IANS",
+    "content": "VeriSign on Tuesday announced that the first quarter of 2018 saw approximately 1.4 million domain name registrations.",
+    "contentSnippet": "VeriSign on Tuesday announced that the first quarter of 2018 saw approximately 1.4 million domain name registrations.",
+    "guid": "https://www.financialexpress.com/?p=1212423",
+    "categories": [
+        "Industry",
+        "Technology"
+    ],
+    "isoDate": "2018-06-19T15:02:42.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "internet",
+            "now",
+            "has",
+            "3338",
+            "million",
+            "domain",
+            "names"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {
+        "title": "Internet now has 333.8 million domain names",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1212426\" src=\"https://images.financialexpress.com/2018/06/internet.jpg\" alt=\"internet, it sector\" srcset=\"https://images.financialexpress.com/2018/06/internet.jpg 660w, https://images.financialexpress.com/2018/06/internet-300x200.jpg 300w, https://images.financialexpress.com/2018/06/internet-620x413.jpg 620w, https://images.financialexpress.com/2018/06/internet-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> New “.com” and “.net” domain name registrations totalled approximately 9.6 million at the end of the first quarter of 2018</figure>\n\t\t\t</section></div><span>\n</span><p>Global leader in domain names and Internet security VeriSign on Tuesday announced that the first quarter of 2018 saw approximately 1.4 million domain name registrations, taking their total number to approximately 333.8 million across all top-level domains (TLDs).</p><span>\n</span><p>The “.com” and “.net” TLDs had a combined total of approximately 148.3 million domain name registrations in the domain name base — registered but not configured — at the end of the first quarter of 2018, the company said in a statement.</p><span>\n</span><p>This represents an increase of approximately 1.9 million domain name registrations, or 1.3 per cent, compared to the fourth quarter of 2017, it added.</p><span>\n</span><p>The “.com” and “.net” TLDs had a combined increase of approximately 4.6 million domain name registrations, or 3.2 per cent, year over year.</p><span>\n</span><p>New “.com” and “.net” domain name registrations totalled approximately 9.6 million at the end of the first quarter of 2018, compared to 9.5 million domain name registrations for the first quarter of 2017.</p><span>\n</span><p>As of March 31, 2018, the “.com” domain name base totalled approximately 133.9 million domain name registrations, while the “.net” domain name base totalled approximately 14.4 million domain name registrations.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "announced",
+        "million",
+        "first"
+    ],
+    "nouns": [
+        "Internet",
+        "million",
+        "domain",
+        "names",
+        "name",
+        "Tuesday",
+        "first",
+        "quarter",
+        "saw"
+    ],
+    "verbs": [
+        "name",
+        "quarter",
+        "saw"
+    ]
+}

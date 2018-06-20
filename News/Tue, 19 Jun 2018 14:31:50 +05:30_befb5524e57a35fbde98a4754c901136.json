@@ -1,0 +1,73 @@
+{
+    "creator": "Bloomberg",
+    "title": "Should employees be given leaves or should the office TV be turned on? How costly is the FIFA World Cup?",
+    "link": "https://www.financialexpress.com/economy/should-employees-be-given-leaves-or-should-the-office-tv-be-turned-on-how-costly-is-the-fifa-world-cup/1211944/",
+    "pubDate": "Tue, 19 Jun 2018 14:31:50 +05:30",
+    "dc:creator": "Bloomberg",
+    "content": "Its games against Serbia and Costa Rica both seem likely to be costly, since they interrupt workdays. ",
+    "contentSnippet": "Its games against Serbia and Costa Rica both seem likely to be costly, since they interrupt workdays.",
+    "guid": "https://www.financialexpress.com/?p=1211944",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-19T09:01:50.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.1,
+        "tokens": [
+            "should",
+            "employees",
+            "be",
+            "given",
+            "leaves",
+            "or",
+            "should",
+            "the",
+            "office",
+            "tv",
+            "be",
+            "turned",
+            "on?",
+            "how",
+            "costly",
+            "is",
+            "the",
+            "fifa",
+            "world",
+            "cup?"
+        ],
+        "words": [
+            "costly"
+        ],
+        "positive": [],
+        "negative": [
+            "costly"
+        ]
+    },
+    "article": {
+        "title": "Should employees be given leaves or should the office TV be turned on? How costly is the FIFA World Cup?",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1211950\" src=\"https://images.financialexpress.com/2018/06/wc-1-1.jpg\" alt=\"office employees, fifa world cup 2018, office tv, local office hours, fifa world cup 2018 office economy\" srcset=\"https://images.financialexpress.com/2018/06/wc-1-1.jpg 660w, https://images.financialexpress.com/2018/06/wc-1-1-300x200.jpg 300w, https://images.financialexpress.com/2018/06/wc-1-1-620x413.jpg 620w, https://images.financialexpress.com/2018/06/wc-1-1-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> Every four years, as football fans gear up for the World Cup, researchers engage in a game of their own: trying to determine just how costly the tournament is to employers and economies.</figure>\n\t\t\t</section></div><span>\n</span><p>Every four years, as football fans gear up for the World Cup, researchers engage in a game of their own: trying to determine just how costly the tournament is to employers and economies. Our own contribution to this genre suggests that the calculation is a bit more complex than is generally acknowledged.</p><span>\n</span><p>To calculate the number of productive hours at risk in this year’s tournament, we assume local office hours are between 9:00 a.m. and 5:00 p.m., and that 50 percent of each country’s workforce will be interested in watching the games. We estimate that a total of $11.9 billion in gross domestic product worldwide could be at risk in the first two weeks of the tournament.From there, though, the story gets more complicated.</p><span>\n</span><p>Perhaps counterintuitively, watching football could actually make for a more productive workday. As one recent paper demonstrates, watching soccer can affect a fan’s happiness an hour before kickoff and up to three hours after the players disappear down the tunnel. Other research has shown that boosting people’s happiness can make them about 10 percent to 12 percent more productive at work — implying that a good day on the pitch will lead to a good day at the office. The catch is that the negative effect of seeing your team lose is twice as big as the boost to happiness of watching them win.So what does this tell us about the World Cup?</p><span>\n</span><p>Using these figures as a baseline, we calculated how much the expected outcome of each game — based on odds from U.K. bookies — would affect workers’ productivity. In all, we found that half of the 48 group-stage games could have economic consequences. Although such calculations are inherently speculative, they can nonetheless tell a useful economic story. And in this case, it doesn’t look good.</p><span>\n</span><p>Take the Portugal-Morocco game. That match is scheduled for 1:00 p.m. (Portugal time) on a Wednesday, meaning that Portuguese workers will be on the job an hour before and two hours after the game. Because Portugal has a high probability of winning this game, we estimate that Portuguese workers will be 2.6 percent more productive that day, which implies a $19 million boost in GDP. That may sound like good news. Yet this boost doesn’t come close to compensating for the $180 million lost during the two hours of the game itself — to say nothing of the blow to productive work if Portugal lost in an upset.Brazil offers another cautionary tale.</p><span>\n</span><p>Its games against Serbia and Costa Rica both seem likely to be costly, since they interrupt workdays. Although Brazil is among the favorites to win the Cup, the increased productivity from these wins would not be significant or lasting enough to compensate for those lost working hours. An unexpected loss, meanwhile, could be a disaster: If Brazil were defeated by Costa Rica, productivity could decline by 14.4 percent in the hours after the match.</p><span>\n</span><p>Since these games are likely to act as a net drag on productivity, what steps should be taken to prepare?</p><span>\n</span><p>Brazil’s government has come up with one approach. It said recently that it will allow state workers to adjust their hours when the national team competes. For the first round of games, most public agencies will let employees leave early when there’s an afternoon match or come in late when Brazil plays in the morning, an approach that at least recognizes economic reality.</p><span>\n</span><p>Outside of soccer-mad Brazil, though, few countries are likely to take such a step. So it will be up to employers to decide how to deal with the games. Given what we know about how sports affect happiness and productivity, what should they do?</p><span>\n</span><p>One option is to just ignore the whole thing and expect employees to show up like normal. Another might be to negotiate: Let workers adjust their schedules to watch the games in return for making up the lost time in some other way. Both these tactics would minimize disruptions to the workday. But they also might be a missed opportunity.A third approach is to take a cue from the Dutch football legend Johan Cruyff, who once said: “The attack is the best defense.” In that spirit, why not turn on the office TV and invite employees to watch the games together? True, not much work will get done.</p><span>\n</span><p>But think of it as an opportunity to improve engagement, cultivate a stronger sense of community, and build up some good will for the longer term.The benefits of such an approach would be harder to quantify than lost working hours. But remember that the highest satisfactions of football, and of sports more generally, are usually intangible — and that the true costs and benefits of the World Cup almost certainly can’t be measured in dollars.</p><span>\n\t\t\t\t</span></div>"
+    },
+    "adjectives": [
+        "World",
+        "given",
+        "turned",
+        "costly",
+        "likely"
+    ],
+    "nouns": [
+        "World",
+        "given",
+        "office",
+        "TV",
+        "Costa",
+        "Cup",
+        "interrupt",
+        "Serbia"
+    ],
+    "verbs": [
+        "seem",
+        "Cup",
+        "interrupt"
+    ]
+}

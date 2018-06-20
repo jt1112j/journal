@@ -1,0 +1,84 @@
+{
+    "title": "Elon Musk alleges 'extensive' employee sabotage",
+    "link": "https://timesofindia.indiatimes.com/business/international-business/teslas-elon-musk-alleges-extensive-employee-sabotage/articleshow/64641926.cms",
+    "pubDate": "Tue, 19 Jun 2018 02:19:45 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/international-business/teslas-elon-musk-alleges-extensive-employee-sabotage/articleshow/64641926.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64641926.cms\" /></a>Musk said an employee had made code changes to the company's operating system and exported \"large amounts of highly sensitive Tesla data to unknown third parties,\" according to the email",
+    "contentSnippet": "Musk said an employee had made code changes to the company's operating system and exported \"large amounts of highly sensitive Tesla data to unknown third parties,\" according to the email",
+    "guid": "https://timesofindia.indiatimes.com/business/international-business/teslas-elon-musk-alleges-extensive-employee-sabotage/articleshow/64641926.cms",
+    "isoDate": "2018-06-19T02:19:45.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.3333333333333333,
+        "tokens": [
+            "elon",
+            "musk",
+            "alleges",
+            "'extensive'",
+            "employee",
+            "sabotage"
+        ],
+        "words": [
+            "sabotage"
+        ],
+        "positive": [],
+        "negative": [
+            "sabotage"
+        ]
+    },
+    "article": {
+        "title": "Tesla's Elon Musk alleges 'extensive' employee sabotage",
+        "content": "<div class=\"section1\"><div class=\"Normal\"><span>SAN FRANCISCO: </span><a class=\"key_underline\" href=\"https://timesofindia.indiatimes.com/topic/Tesla\">Tesla</a><span> Inc chief executive </span><a class=\"key_underline\" href=\"https://timesofindia.indiatimes.com/topic/Elon-Musk\">Elon Musk</a><p> accused an employee of \"extensive and damaging sabotage\" to the company's operations in an email sent on Monday to company employees.\n\n</p><p>Musk said an employee had made code changes to the company's operating system and exported \"large amounts of highly sensitive Tesla data to unknown third parties,\" according to the email, which was obtained by Reuters.\n</p><p>The company is investigating whether the employee \"was working with any outside organizations,\" the email said.\n</p><span>\"As you know, there are a long list of organizations that want Tesla to die,\" Musk wrote, listing </span><a class=\"key_underline\" href=\"https://timesofindia.indiatimes.com/topic/Wall-Street\">Wall Street</a><p> short-sellers, oil and gas companies, and car company rivals.\n</p><span>\n</span><br><span>A company spokeswoman did not respond to requests for comment.\n</span><br><span>\n</span><br><span>The accusations of sabotage come a week after Musk announced layoffs for 9 percent of the company's workforce. Although Musk said the reorganization does not impact production associates and is not expected to delay manufacturing targets, thousands of employees lost their jobs.\n</span><br><span>\n</span><br><span>Tesla has struggled to ramp up production of its Model 3 sedan, which is intended for mass production and critical to helping the company achieve long-term profitability.\n</span><br><span>\n</span><br><span>Tesla's stock price slipped 53 cents to $370.30 in after-hours trading. \n</span><br><span>\n</span></div></div>"
+    },
+    "adjectives": [
+        "third",
+        "made",
+        "according",
+        "international",
+        "large",
+        "10",
+        "operating",
+        "extensive",
+        "sensitive",
+        "unknown",
+        "left",
+        "top",
+        "right"
+    ],
+    "nouns": [
+        "employee",
+        "third",
+        "company",
+        "photo",
+        "international",
+        "large",
+        "data",
+        "margin",
+        "border",
+        "system",
+        "10",
+        "sensitive",
+        "code",
+        "unknown",
+        "email",
+        "business",
+        "left",
+        "style",
+        "top",
+        "right",
+        "Tesla",
+        "sabotage",
+        "Musk",
+        "musk"
+    ],
+    "verbs": [
+        "company",
+        "border",
+        "sabotage",
+        "code",
+        "email",
+        "align",
+        "style",
+        "top",
+        "right"
+    ]
+}

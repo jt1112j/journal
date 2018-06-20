@@ -1,0 +1,59 @@
+{
+    "creator": "PTI",
+    "title": "Google announces training programme for journalists to take on fake news",
+    "link": "https://www.financialexpress.com/industry/technology/google-announces-training-programme-for-journalists-to-take-on-fake-news/1212188/",
+    "pubDate": "Tue, 19 Jun 2018 17:14:16 +05:30",
+    "dc:creator": "PTI",
+    "content": "Technology giant Google today announced the launch of a training programme for journalists",
+    "contentSnippet": "Technology giant Google today announced the launch of a training programme for journalists",
+    "guid": "https://www.financialexpress.com/?p=1212188",
+    "categories": [
+        "Industry",
+        "Technology"
+    ],
+    "isoDate": "2018-06-19T11:44:16.000Z",
+    "sentiment": {
+        "score": -3,
+        "comparative": -0.2727272727272727,
+        "tokens": [
+            "google",
+            "announces",
+            "training",
+            "programme",
+            "for",
+            "journalists",
+            "to",
+            "take",
+            "on",
+            "fake",
+            "news"
+        ],
+        "words": [
+            "fake"
+        ],
+        "positive": [],
+        "negative": [
+            "fake"
+        ]
+    },
+    "article": {
+        "title": "Google announces training programme for journalists to take on fake news",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1212189\" src=\"https://images.financialexpress.com/2018/06/goo-1.jpg\" alt=\"google, search engine giant google, google compnay\" srcset=\"https://images.financialexpress.com/2018/06/goo-1.jpg 660w, https://images.financialexpress.com/2018/06/goo-1-300x200.jpg 300w, https://images.financialexpress.com/2018/06/goo-1-620x413.jpg 620w, https://images.financialexpress.com/2018/06/goo-1-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> Google News Lab Lead (Asia-Pacific) Irene Jay Liu said supporting trusted, authoritative media sources is a top priority for Google. (Reuters)</figure>\n\t\t\t</section></div><span>\n</span><p>Technology giant <a target=\"_blank\" href=\"http://www.financialexpress.com/tag/google/\">Google</a> today announced the launch of a training programme for journalists, aimed at raising awareness against misinformation and providing new tools to the fourth estate against fake news.</p><span>\n</span><p>“The Google News Initiative India Training Network will provide training to 8,000 journalists in English and six other Indian languages in the next one year,” Google said in a statement.</p><span>\n</span><p>For this, the network will select 200 journalists from cities across India, who will hone their skills in verification and training during five-day boot camps that will be organised for English and six other Indian languages, it added.</p><span>\n</span><p>This network of certified trainers will then train more journalists and the workshops will be conducted in English, Hindi, Tamil, Telugu, Bengali, Marathi and Kannada in cities across India, it added.</p><span>\n</span><p>“The focus of the training will be fact-checking, online verification and digital hygiene for journalists, using a curriculum built by experts from First Draft, Storyful, AltNews, BoomLive, Factchecker.in, and DataLeads,” the statement said.</p><span>\n</span><p>Google News Lab Lead (Asia-Pacific) Irene Jay Liu said supporting trusted, authoritative media sources is a top priority for Google.</p><span>\n</span><p>“When journalists and communities work together, armed with the online tools to verify information, they can build a bulwark of trusted media to fight the tide of misinformation,” Liu added.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "giant",
+        "fake",
+        "announced"
+    ],
+    "nouns": [
+        "Google",
+        "training",
+        "programme",
+        "news",
+        "Technology",
+        "fake",
+        "giant",
+        "today",
+        "launch"
+    ]
+}

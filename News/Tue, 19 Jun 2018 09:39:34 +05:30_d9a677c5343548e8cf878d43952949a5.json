@@ -1,0 +1,81 @@
+{
+    "creator": "FE Online",
+    "title": "Sensex tanks over 100 points, Nifty50 down 40 points on rising US-China trade war concerns",
+    "link": "https://www.financialexpress.com/market/sensex-tanks-over-100-points-nifty50-down-40-points-on-rising-us-china-trade-war-concerns/1211529/",
+    "pubDate": "Tue, 19 Jun 2018 09:39:34 +05:30",
+    "dc:creator": "FE Online",
+    "content": "Amid escalating trade war worries between two biggest global economies, Indian stock markets opened on a lower note on Tuesday.",
+    "contentSnippet": "Amid escalating trade war worries between two biggest global economies, Indian stock markets opened on a lower note on Tuesday.",
+    "guid": "https://www.financialexpress.com/?p=1211529",
+    "categories": [
+        "Market"
+    ],
+    "isoDate": "2018-06-19T04:09:34.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.13333333333333333,
+        "tokens": [
+            "sensex",
+            "tanks",
+            "over",
+            "100",
+            "points",
+            "nifty50",
+            "down",
+            "40",
+            "points",
+            "on",
+            "rising",
+            "us-china",
+            "trade",
+            "war",
+            "concerns"
+        ],
+        "words": [
+            "war"
+        ],
+        "positive": [],
+        "negative": [
+            "war"
+        ]
+    },
+    "article": {
+        "title": "Sensex tanks over 100 points, Nifty50 down 40 points on rising US-China trade war concerns",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1186022\" src=\"https://images.financialexpress.com/2018/05/bse-sensex-l-pti-1.jpg\" alt=\"Finolex Industries,&nbsp;EBITDA,&nbsp;Finolex Cables\" srcset=\"https://images.financialexpress.com/2018/05/bse-sensex-l-pti-1.jpg 660w, https://images.financialexpress.com/2018/05/bse-sensex-l-pti-1-300x200.jpg 300w, https://images.financialexpress.com/2018/05/bse-sensex-l-pti-1-620x413.jpg 620w, https://images.financialexpress.com/2018/05/bse-sensex-l-pti-1-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> Indian stock markets opened on a lower note on Tuesday, with the BSE Sensex diving over 100 points and the Nifty50 slipping almost 40 points in early trade.</figure>\n\t\t\t</section></div><span>\n</span><p><span>Amid escalating trade war worries between two biggest global economies, Indian stock markets opened on a lower note on Tuesday, with the <a target=\"_blank\" href=\"http://www.financialexpress.com/tag/bse-sensex/\">BSE Sensex</a> diving over 100 points and the Nifty50 of the National Stock Exchange slipping almost 40 points in early trade. Almost all the sectoral indices on the BSE traded in the red, led by oil and gas, consumer durables, auto and metal sectors. Out of 1,222 &nbsp;trading companies on the BSE, 745 declined as compared to 430 advances indicating a bearish trend in the market.</span></p><span>\n</span><p><span>The BSE Sensex tanked 103.64 points to a low of 35,444.62 points, while the NSE Nifty50 gave up 39.55 points to hit a low of 10,760.30 points during the early morning trade on Tuesday. Shares of Vedanta tanked over 1 per cent on the BSE, followed by &nbsp;Hindustan Unilever, Infosys, Bajaj Auto, Wipro, Coal India, and NTPC. Bharti Airtel, <a target=\"_blank\" href=\"http://www.financialexpress.com/auto/new-cars/tata/\">Tata</a> Steel, ONGC, Tata Motors and HDFC Bank led the pack of gainers. The NSE Bank Nifty edged lower by 0.17 per cent.</span></p><span>\n</span><p><span>On Tuesday, Asian stocks slipped to a four-month low on Tuesday as U.S. President Donald Trump threatened new tariffs on Chinese goods in an escalating tit-for-tat trade war between the world’s two biggest economies that has rattled financial markets, Reuters reported. The Shanghai Composite Index, Hong Kong’s Hang Seng and Japan’s Nikkei fell. South Korea’s KOSPI retreated 0.85 per cent while Australian stocks added 0.3 per cent.</span></p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "100",
+        "down",
+        "40",
+        "rising",
+        "two",
+        "global",
+        "Indian",
+        "stock",
+        "opened"
+    ],
+    "nouns": [
+        "100",
+        "down",
+        "40",
+        "rising",
+        "US",
+        "China",
+        "trade",
+        "war",
+        "two",
+        "Indian",
+        "stock",
+        "lower",
+        "note",
+        "Tuesday"
+    ],
+    "verbs": [
+        "down",
+        "trade",
+        "war",
+        "stock",
+        "lower",
+        "note"
+    ]
+}

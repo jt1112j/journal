@@ -1,0 +1,68 @@
+{
+    "title": "Sensex slumps 260 points as US-China trade war escalates",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/sensex-slumps-260-points-as-us-china-trade-war-escalates/articleshow/64647817.cms",
+    "pubDate": "Tue, 19 Jun 2018 10:16:27 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/sensex-slumps-260-points-as-us-china-trade-war-escalates/articleshow/64647817.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64647817.cms\" /></a>",
+    "contentSnippet": "",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/sensex-slumps-260-points-as-us-china-trade-war-escalates/articleshow/64647817.cms",
+    "isoDate": "2018-06-19T10:16:27.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.2222222222222222,
+        "tokens": [
+            "sensex",
+            "slumps",
+            "260",
+            "points",
+            "as",
+            "us-china",
+            "trade",
+            "war",
+            "escalates"
+        ],
+        "words": [
+            "war"
+        ],
+        "positive": [],
+        "negative": [
+            "war"
+        ]
+    },
+    "article": {
+        "title": "Sensex slumps 260 points as US-China trade war escalates",
+        "content": "<div class=\"loadingblock ajaxarticleloading\"><div class=\"loadingnext\"><p><span class=\"loadingnextstory\"><b>Narayana Murthy made it all happen, says Infosys ex-CFO at 25 years of listing</b></span></p></div></div>"
+    },
+    "adjectives": [
+        "10",
+        "left",
+        "top",
+        "right"
+    ],
+    "nouns": [
+        "india",
+        "photo",
+        "trade",
+        "US",
+        "us",
+        "China",
+        "china",
+        "margin",
+        "border",
+        "10",
+        "business",
+        "left",
+        "style",
+        "top",
+        "right",
+        "war"
+    ],
+    "verbs": [
+        "trade",
+        "border",
+        "align",
+        "style",
+        "top",
+        "right",
+        "war"
+    ]
+}

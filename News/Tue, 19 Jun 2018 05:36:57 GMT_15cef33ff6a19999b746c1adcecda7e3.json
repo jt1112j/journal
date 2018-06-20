@@ -1,0 +1,67 @@
+{
+    "title": "ICICI Bank COO position seen as temporary: Jefferies",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/icici-bank-coo-position-seen-as-temporary-jefferies/articleshow/64643749.cms",
+    "pubDate": "Tue, 19 Jun 2018 05:36:57 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/icici-bank-coo-position-seen-as-temporary-jefferies/articleshow/64643749.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64643749.cms\" /></a>",
+    "contentSnippet": "",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/icici-bank-coo-position-seen-as-temporary-jefferies/articleshow/64643749.cms",
+    "isoDate": "2018-06-19T05:36:57.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "icici",
+            "bank",
+            "coo",
+            "position",
+            "seen",
+            "as",
+            "temporary",
+            "jefferies"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {
+        "title": "ICICI Bank COO position seen as temporary: Jefferies",
+        "content": "<div class=\"loadingblock ajaxarticleloading\"><div class=\"loadingnext\"><p><span class=\"loadingnextstory\"><b>Markets stay under pressure, Sensex loses 150 points early on</b></span></p></div></div>"
+    },
+    "adjectives": [
+        "temporary",
+        "10",
+        "left",
+        "top",
+        "right"
+    ],
+    "verbs": [
+        "Bank",
+        "bank",
+        "position",
+        "border",
+        "COO",
+        "coo",
+        "align",
+        "style",
+        "top",
+        "right"
+    ],
+    "nouns": [
+        "margin",
+        "Bank",
+        "bank",
+        "position",
+        "india",
+        "border",
+        "temporary",
+        "business",
+        "10",
+        "left",
+        "style",
+        "top",
+        "photo",
+        "right",
+        "COO",
+        "coo"
+    ]
+}

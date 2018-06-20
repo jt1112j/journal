@@ -1,0 +1,67 @@
+{
+    "title": "Frustrated by long train delays? Railways has a plan to cheer you up",
+    "link": "https://www.business-standard.com/article/economy-policy/frustrated-by-long-train-delays-railways-has-a-plan-to-cheer-you-up-118061801011_1.html",
+    "pubDate": "Wed, 20 Jun 2018 07:47:00 +0530",
+    "content": "The Railways will provide free meals and refreshments to the passengers travelling on reserved tickets if the train gets delayed on Sunday",
+    "contentSnippet": "The Railways will provide free meals and refreshments to the passengers travelling on reserved tickets if the train gets delayed on Sunday",
+    "guid": "https://www.business-standard.com/article/economy-policy/frustrated-by-long-train-delays-railways-has-a-plan-to-cheer-you-up-118061801011_1.html",
+    "isoDate": "2018-06-20T02:17:00.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "frustrated",
+            "by",
+            "long",
+            "train",
+            "delays?",
+            "railways",
+            "has",
+            "a",
+            "plan",
+            "to",
+            "cheer",
+            "you",
+            "up"
+        ],
+        "words": [
+            "cheer",
+            "frustrated"
+        ],
+        "positive": [
+            "cheer"
+        ],
+        "negative": [
+            "frustrated"
+        ]
+    },
+    "article": {
+        "title": "Frustrated by long train delays? Railways has a plan to cheer you up",
+        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t\n<p>\n\tRailway Minister <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/piyush-goyal\" target=\"_blank\">Piyush Goyal </a>on Monday said the <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/indian-railways\" target=\"_blank\">Indian Railways </a>will provide free meals to passengers on board if trains get delayed on a Sunday by five-six hours due to planned maintenance works on tracks.</p>\n<p>\n\t\"The Railways will provide free meals and refreshments to the passengers travelling on reserved tickets if the train gets delayed on Sunday due to the planned maintenance work of its assets,\" Goyal told the media in New Delhi.\n\n\n</p>\n<!-- INPAGE_BANNER -->\n<p>\n\tThe food and refreshments would be provided by Indian Rail Catering and Tourism Corp (IRCTC). \"We are also considering free meals to passengers travelling on unreserved tickets.\"</p>\n<p>\n\tThe Minister said the railways will come up with a new timetable on August 15 that will inform passengers about the likely delay in schedule of trains due to planned maintenance work on the tracks.</p>\n<p>\n\t\"In the last seven to eight days, I had a detailed review meeting with the General Managers of seven zonal railways. And we have decided to carry out the maintenance of the railway assets in a planned manner,\" he said.</p>\n<p>\n\t\"Efforts to improve punctuality will be taken and there will not be any compromise on safety. Works related to safety will be given the highest priority,\" he added.</p>\n<p>\n\tGoyal said maintenance of tracks will be taken up for about two hours on weekdays and for about six hours on Sundays when the volume of traffic is lower. And wherever possible, safety-related works will be done during planned stoppage of trains.</p>\n<p>\n\tAsking the zonal railways to identify congested lines so that new elevated corridors could be developed, he said a new line will be laid between Allahabad and Mughalsarai in Uttar Pradesh to deal with congestion.</p>\n<p>\n\t\"The Railway Board has approved the new line between Allahabad and Mughalsarai at a cost of Rs 20 billion. This will be completed in three to four years,\" he said.</p>\n<p>\n\tStressing on the quality of food served in the trains, Goyal said that the 16 base kitchens of the IRCTC would be connected through CCTV cameras and the passengers can view how food is prepared.</p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
+    },
+    "adjectives": [
+        "free",
+        "reserved",
+        "Frustrated",
+        "long",
+        "delayed"
+    ],
+    "verbs": [
+        "train",
+        "provide",
+        "will",
+        "free",
+        "long",
+        "plan",
+        "cheer"
+    ],
+    "nouns": [
+        "train",
+        "travelling",
+        "will",
+        "free",
+        "cheer",
+        "plan",
+        "Sunday"
+    ]
+}

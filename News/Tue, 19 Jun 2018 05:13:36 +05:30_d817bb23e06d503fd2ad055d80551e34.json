@@ -1,0 +1,59 @@
+{
+    "creator": "Sumit Jha",
+    "title": "GST: Centre staff cite reasons for alleged under-performance",
+    "link": "https://www.financialexpress.com/economy/gst-centre-staff-cite-reasons-for-alleged-under-performance/1211360/",
+    "pubDate": "Tue, 19 Jun 2018 05:13:36 +05:30",
+    "dc:creator": "Sumit Jha",
+    "content": "The GST Network doesn’t unfailingly provide differentiated data on taxpayer compliance under the Centre and states, neither does it give field formations with segregated data on revenue collections by the two authorities, according to tax officials under the Centre.",
+    "contentSnippet": "The GST Network doesn’t unfailingly provide differentiated data on taxpayer compliance under the Centre and states, neither does it give field formations with segregated data on revenue collections by the two authorities, according to tax officials under the Centre.",
+    "guid": "https://www.financialexpress.com/?p=1211360",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-18T23:43:36.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "gst",
+            "centre",
+            "staff",
+            "cite",
+            "reasons",
+            "for",
+            "alleged",
+            "under-performance"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {
+        "title": "GST: Centre staff cite reasons for alleged under-performance",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1211369\" src=\"https://images.financialexpress.com/2018/06/gst-11-2.jpg\" alt=\"GST,&nbsp;GST Network, income tax,&nbsp;GSTN, centre\" srcset=\"https://images.financialexpress.com/2018/06/gst-11-2.jpg 660w, https://images.financialexpress.com/2018/06/gst-11-2-300x200.jpg 300w, https://images.financialexpress.com/2018/06/gst-11-2-620x413.jpg 620w, https://images.financialexpress.com/2018/06/gst-11-2-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> The GST Network doesn’t unfailingly provide differentiated data on taxpayer compliance under the Centre and states, neither does it give field formations with segregated data on revenue collections by the two authorities, according to tax officials under the Centre.</figure>\n\t\t\t</section></div><span>\n</span><p>The GST Network doesn’t unfailingly provide differentiated data on taxpayer compliance under the Centre and states, neither does it give field formations with segregated data on revenue collections by the two authorities, according to tax officials under the Centre. In their responses sent to the Central Board of Indirect taxes and Customs (CBIC), the zones under the board said in the absence of such data, a meaningful analysis of the performance of central GST officials would be difficult. Further, officials are also dealing with mismatches between data provided by their own systems and the GSTN. As reported by FE earlier, finance secretary Hasmukh Adhia had written to the CBIC, asking why tax filing and revenue collections under central officials lagged behind the same under state administrations.</p><span>\n</span><p>The Bhopal zone’s response to an earlier CBIC missive, seen by FE, said GSTN data don’t provide separate numbers of non-compliant taxpayers under two different tax administrations. Sources said similar feedback has been received by the board from 20 other zones as well. “Many of the tools which are available to state government officers are not available to central tax officers. GSTN may be requested to provide application programming interface (API) for all applications so that central officials can use it for effective monitoring,” the Bhopal zone wrote. Further, many taxpayers, who have cancelled GST registration, continue to be in the system as field formations have not approved it from the back-end. This is because central officials, as a matter of practice since the excise era, scrutinise cancellation application to ensure there is no outstanding tax liability on the taxpayer.</p><span>\n</span><p>However, state officials have been approving such cancellation, which could be one the reasons for reflecting a better percentage of return-filer in their jurisdiction, the letter reasoned. The zone also argued that its efforts in revenue analysis and detection of tax evasion which have led to recovery of additional revenue even from state-assigned taxpayers are not given due reflection when the comparison between two tax administrations is made. “Though the field formations are making all-out efforts in detecting tax evasion and facilitating the taxpayer, these success indicators are not reflected on GSTN. It is felt that GSNT may develop a module which will indicate such efforts by field formations,” it said. Despite a higher-than-average GST collection in April, the revenue shortfall compared with the Budget estimate remained a concern for the government. CGST collected for April was Rs 28,797 crore, and assuming half the balance IGST collected for the month also goes to the Centre’s kitty, the CGST collection for the month may eventually go up to Rs 40,800 crore. However, even this figure is short of the Budget estimate for CGST of Rs 50,325 core per month.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "alleged",
+        "differentiated",
+        "neither",
+        "segregated",
+        "two",
+        "according"
+    ],
+    "nouns": [
+        "Centre",
+        "staff",
+        "performance",
+        "Network",
+        "data",
+        "taxpayer",
+        "tax",
+        "compliance",
+        "give",
+        "field",
+        "cite",
+        "revenue",
+        "two",
+        "authorities"
+    ]
+}
