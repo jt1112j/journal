@@ -1,0 +1,75 @@
+{
+    "title": "Satyam scam: Sebi revokes ban on various entities following SC order",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/satyam-scam-sebi-revokes-ban-on-various-entities-following-sc-order/articleshow/64688000.cms",
+    "pubDate": "Thu, 21 Jun 2018 17:58:28 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/satyam-scam-sebi-revokes-ban-on-various-entities-following-sc-order/articleshow/64688000.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64688000.cms\" /></a>",
+    "contentSnippet": "",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/satyam-scam-sebi-revokes-ban-on-various-entities-following-sc-order/articleshow/64688000.cms",
+    "isoDate": "2018-06-21T17:58:28.000Z",
+    "sentiment": {
+        "score": -4,
+        "comparative": -0.36363636363636365,
+        "tokens": [
+            "satyam",
+            "scam",
+            "sebi",
+            "revokes",
+            "ban",
+            "on",
+            "various",
+            "entities",
+            "following",
+            "sc",
+            "order"
+        ],
+        "words": [
+            "ban",
+            "scam"
+        ],
+        "positive": [],
+        "negative": [
+            "ban",
+            "scam"
+        ]
+    },
+    "article": {
+        "title": "Satyam scam: Sebi revokes ban on various entities following SC order",
+        "content": "<div class=\"section1\"><div class=\"Normal\"><span>NEW DELHI: Sebi has revoked the seven-year ban imposed on various entities in the Satyam Computer Services case following a </span><a class=\"key_underline\" href=\"https://timesofindia.indiatimes.com/topic/supreme-court-of-india\">Supreme Court</a><p> order, according to the BSE.\n\n</p><p>In September 2015, Sebi had barred various entities from the securities markets for seven years and also directed them to disgorge unlawful gains \"jointly and severally\" with B Ramalinga Raju and his brother B Rama Raju.\n</p><span>The Securities Appellate Tribunal (SAT), in August 2017, had asked Sebi to pass a fresh order on fines against six entities including relatives of the erstwhile IT firm's founder B Ramalinga Raju. The tribunal had also upheld the regulator's decision that they violated </span><a class=\"key_underline\" href=\"https://timesofindia.indiatimes.com/topic/insider-trading\">insider trading</a><p> norms.\n</p><span>This SAT order was challenged in the Supreme Court.\n</span><br><span>\n</span><br><span>In a circular, the BSE said that Sebi's latest decision to vacate restrictions imposed on seven entities in the case is pursuant to a Supreme Court order, dated May 14.\n</span><br><span>\n</span><br><span>The appeals filed by Late Anjiraju Chintalapati, B Appalanarasamma, B Rama Raju Jr, B Teja Raju, Chintalapati Holdings Pvt Ltd and Chintalapati Srinivasa Raju against the SAT order were allowed by the apex court, as per the circular.\n</span><br><span>\n</span><br><span>Against this backdrop, the circular said that Sebi vide an e-mail today informed that the period of restraint imposed on certain entities stands vacated.\n</span><br><span>\n</span><p>The entities are Late Anjiraju Chintalapati, B Appalanarasamma, B Jhansi Rani, B Rama Raju Jr, B Teja Raju, Chintalapati Holdings and Chintalapati Srinivasa Raju. \n</p><span>\n</span></div></div>"
+    },
+    "adjectives": [
+        "various",
+        "following",
+        "10",
+        "left",
+        "top",
+        "right"
+    ],
+    "nouns": [
+        "ban",
+        "following",
+        "SC",
+        "sc",
+        "order",
+        "india",
+        "business",
+        "scam",
+        "border",
+        "10",
+        "left",
+        "style",
+        "margin",
+        "top",
+        "right",
+        "photo"
+    ],
+    "verbs": [
+        "scam",
+        "ban",
+        "order",
+        "border",
+        "align",
+        "style",
+        "top",
+        "right"
+    ]
+}

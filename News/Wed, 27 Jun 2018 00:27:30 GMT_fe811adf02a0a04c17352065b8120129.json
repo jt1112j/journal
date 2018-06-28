@@ -1,0 +1,80 @@
+{
+    "title": "Instagram is now worth over $100 billion",
+    "link": "https://timesofindia.indiatimes.com/business/international-business/instagrams-worth-over-100-billion/articleshow/64755790.cms",
+    "pubDate": "Wed, 27 Jun 2018 00:27:30 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/international-business/instagrams-worth-over-100-billion/articleshow/64755790.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64755790.cms\" /></a>Facebook’s Instagram is estimated to be worth more than $100 billion, if it were a stand-alone company, marking a 100-fold return for the photo-sharing app that was purchased in 2012, according to data compiled by Bloomberg Intelligence.",
+    "contentSnippet": "Facebook’s Instagram is estimated to be worth more than $100 billion, if it were a stand-alone company, marking a 100-fold return for the photo-sharing app that was purchased in 2012, according to data compiled by Bloomberg Intelligence.",
+    "guid": "https://timesofindia.indiatimes.com/business/international-business/instagrams-worth-over-100-billion/articleshow/64755790.cms",
+    "isoDate": "2018-06-27T00:27:30.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.2857142857142857,
+        "tokens": [
+            "instagram",
+            "is",
+            "now",
+            "worth",
+            "over",
+            "100",
+            "billion"
+        ],
+        "words": [
+            "worth"
+        ],
+        "positive": [
+            "worth"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "Instagram’s worth over $100 billion",
+        "content": "<section class=\"title_section clearfix\"><meta itemprop=\"headline\" content=\"Instagram’s worth over $100 billion\"><p>Facebook’s Instagram is estimated to be worth more than $100 billion, if it were a stand-alone company, marking a 100-fold return for the photo-sharing app that was purchased in 2012, according to data compiled by Bloomberg Intelligence.</p></section>"
+    },
+    "adjectives": [
+        "worth",
+        "100",
+        "billion",
+        "alone",
+        "sharing",
+        "according",
+        "international",
+        "10",
+        "left",
+        "top",
+        "right"
+    ],
+    "nouns": [
+        "worth",
+        "100",
+        "billion",
+        "stand",
+        "company",
+        "marking",
+        "margin",
+        "fold",
+        "return",
+        "photo",
+        "sharing",
+        "data",
+        "Intelligence",
+        "international",
+        "business",
+        "border",
+        "10",
+        "left",
+        "style",
+        "top",
+        "right"
+    ],
+    "verbs": [
+        "stand",
+        "company",
+        "fold",
+        "return",
+        "border",
+        "align",
+        "style",
+        "top",
+        "right"
+    ]
+}

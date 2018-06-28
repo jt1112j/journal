@@ -1,0 +1,73 @@
+{
+    "creator": "FE Bureau",
+    "title": "NDTV stock surges 20% after open offer order",
+    "link": "https://www.financialexpress.com/money/ndtv-stock-surges-20-after-open-offer-order/1223000/",
+    "pubDate": "Thu, 28 Jun 2018 01:48:38 +05:30",
+    "dc:creator": "FE Bureau",
+    "content": "The share price of NDTV rose 20% and ended the session at Rs 39 on Wednesday after markets regulator ordered Vishvapradhan Commercial to make an open offer to acquire control in the company.",
+    "contentSnippet": "The share price of NDTV rose 20% and ended the session at Rs 39 on Wednesday after markets regulator ordered Vishvapradhan Commercial to make an open offer to acquire control in the company.",
+    "guid": "https://www.financialexpress.com/?p=1223000",
+    "categories": [
+        "Market",
+        "Money"
+    ],
+    "isoDate": "2018-06-27T20:18:38.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "ndtv",
+            "stock",
+            "surges",
+            "20",
+            "after",
+            "open",
+            "offer",
+            "order"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {
+        "title": "NDTV stock surges 20% after open offer order",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1223001\" src=\"https://images.financialexpress.com/2018/06/1-204.jpg\" alt=\"\" srcset=\"https://images.financialexpress.com/2018/06/1-204.jpg 660w, https://images.financialexpress.com/2018/06/1-204-300x200.jpg 300w, https://images.financialexpress.com/2018/06/1-204-620x413.jpg 620w, https://images.financialexpress.com/2018/06/1-204-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> NDTV’s promoters was ‘not a normal investment transaction’, says SEBI</figure>\n\t\t\t</section></div><span>\n</span><p>A Securities and Exchange Board (Sebi) order saying the 10-year loan advanced in 2009 by Vishvapradhan Commercial private (VCPL) to NDTV’s promoters was ‘not a normal investment transaction’ and that the primary purpose of the loan was to acquire the shares of NDTV, sent the television broadcasters stock soaring on Wednesday.</p><span>\n</span><p>The share price of NDTV rose 20% and ended the session at Rs 39 on Wednesday after markets regulator ordered Vishvapradhan Commercial to make an open offer to acquire control in the company.<br>According to the Sebi order, an open offer was made by the promoters of NDTV in 2008, and a loan of Rs 540 crore was taken by the promoters from Indiabulls Financial Services to fund the open offer. To repay the loan, another loan of Rs 375 crore was taken from ICICI Bank. The loan taken from ICICI Bank was repaid in 2009 by taking another loan of Rs 350 crore from Vishvapradhan Commercial Private Limited (VCPL), through an agreement dated July 21, 2009. VCPL sourced the money for the loan from Reliance Strategic Investment, a subsidiary of Reliance Industries Limited (RIL), the order said.</p><span>\n</span><p>Moreover, the order said it is clear that VCPL and ‘its associated companies had neither the history of advancing such loans nor do they appear to have had the financial wherewithal to advance loans on such liberal terms’.</p><span>\n</span><p>The order further said the loan agreement and call option agreements were used to shroud the true nature of the transaction which was the acquisition of the beneficial interest in NDTV. The order said ” that a conjoint reading of the facts and circumstances involved in this case brings out its uniqueness and leads me to conclude that the, i.e., VCPL did indirectly acquire control in NDTV Ltd., by entering into the Loan agreement and the Call Option agreements on 21st July 2009, thereby obligating it to make a public announcement of an open offer.”</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "stock",
+        "20",
+        "open",
+        "ordered",
+        "rose",
+        "ended",
+        "39",
+        "Commercial"
+    ],
+    "nouns": [
+        "stock",
+        "20",
+        "open",
+        "offer",
+        "order",
+        "share",
+        "price",
+        "session",
+        "Wednesday",
+        "regulator",
+        "Commercial",
+        "company",
+        "control",
+        "rose"
+    ],
+    "verbs": [
+        "stock",
+        "open",
+        "offer",
+        "order",
+        "share",
+        "price",
+        "company",
+        "acquire",
+        "control"
+    ]
+}

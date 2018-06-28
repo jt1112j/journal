@@ -1,0 +1,82 @@
+{
+    "title": "India hopes to open Iran's Chabahar port by 2019",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/india-hopes-to-open-irans-chabahar-port-by-2019/articleshow/64696526.cms",
+    "pubDate": "Fri, 22 Jun 2018 09:42:33 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/india-hopes-to-open-irans-chabahar-port-by-2019/articleshow/64696526.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64696526.cms\" /></a>US President Donald Trump's decision to withdraw from a 2015 nuclear deal and penalise financial institutions for doing business with Tehran is clouding Chabahar's viability.",
+    "contentSnippet": "US President Donald Trump's decision to withdraw from a 2015 nuclear deal and penalise financial institutions for doing business with Tehran is clouding Chabahar's viability.",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/india-hopes-to-open-irans-chabahar-port-by-2019/articleshow/64696526.cms",
+    "isoDate": "2018-06-22T09:42:33.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.2222222222222222,
+        "tokens": [
+            "india",
+            "hopes",
+            "to",
+            "open",
+            "iran's",
+            "chabahar",
+            "port",
+            "by",
+            "2019"
+        ],
+        "words": [
+            "hopes"
+        ],
+        "positive": [
+            "hopes"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "India hopes to open Iran's Chabahar port by 2019",
+        "content": "<section class=\"title_section clearfix\"><meta itemprop=\"headline\" content=\"India hopes to open Iran's Chabahar port by 2019\"><p>US President Donald Trump's decision to withdraw from a 2015 nuclear deal and penalise financial institutions for doing business with Tehran is clouding Chabahar's viability.</p></section>"
+    },
+    "adjectives": [
+        "financial",
+        "10",
+        "right",
+        "open",
+        "port",
+        "nuclear",
+        "left",
+        "top"
+    ],
+    "nouns": [
+        "India",
+        "india",
+        "US",
+        "margin",
+        "President",
+        "border",
+        "10",
+        "clouding",
+        "right",
+        "open",
+        "port",
+        "decision",
+        "deal",
+        "Iran",
+        "business",
+        "Tehran",
+        "Trump",
+        "left",
+        "style",
+        "top",
+        "photo",
+        "viability"
+    ],
+    "verbs": [
+        "withdraw",
+        "border",
+        "right",
+        "open",
+        "port",
+        "Trump",
+        "deal",
+        "penalise",
+        "align",
+        "style",
+        "top"
+    ]
+}

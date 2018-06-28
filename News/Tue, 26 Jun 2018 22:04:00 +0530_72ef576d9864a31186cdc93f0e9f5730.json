@@ -1,0 +1,58 @@
+{
+    "title": "Gold, silver prices turn weak on global cues, subdued demand",
+    "link": "https://www.business-standard.com/article/markets/gold-silver-prices-turn-weak-on-global-cues-subdued-demand-118062600886_1.html",
+    "pubDate": "Tue, 26 Jun 2018 22:04:00 +0530",
+    "content": "Gold prices fell by Rs 120 per ten grams at the bullion market",
+    "contentSnippet": "Gold prices fell by Rs 120 per ten grams at the bullion market",
+    "guid": "https://www.business-standard.com/article/markets/gold-silver-prices-turn-weak-on-global-cues-subdued-demand-118062600886_1.html",
+    "isoDate": "2018-06-26T16:34:00.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.1,
+        "tokens": [
+            "gold",
+            "silver",
+            "prices",
+            "turn",
+            "weak",
+            "on",
+            "global",
+            "cues",
+            "subdued",
+            "demand"
+        ],
+        "words": [
+            "demand",
+            "weak",
+            "gold"
+        ],
+        "positive": [
+            "gold"
+        ],
+        "negative": [
+            "demand",
+            "weak"
+        ]
+    },
+    "article": {
+        "title": "Gold, silver prices turn weak on global cues, subdued demand",
+        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t\n<p>\n\t<a class=\"storyTags\" href=\"https://www.business-standard.com/topic/gold\" target=\"_blank\">Gold </a>prices fell by Rs 120 per ten grams at the <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=bullion+market\" target=\"_blank\"></a><a class=\"storyTags\" href=\"https://www.business-standard.com/topic/bullion\" target=\"_blank\">bullion </a>market here today, tracking a weak trend overseas amid slackened demand from local jewellers.</p>\n<p>\n\tSilver prices also dipped and lost Rs 330 to Rs 39,490 per kg due to reduced offtake by industrial units.\n\n\n</p>\n<!-- INPAGE_BANNER -->\n<p>\n\tStandard <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/gold\" target=\"_blank\">gold </a>(99.5 purity) fell by Rs 120 to conclude at Rs 30,440 per 10 grams from Monday's closing level of Rs 30,560.</p>\n<p>\n\tPure <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/gold\" target=\"_blank\">gold </a>(99.9 purity) also shed by a similar margin to end at Rs 30,590 per 10 grams compared to Rs 30,710 earlier.</p>\n<p>\n\tSilver (.999 fineness) slumped by Rs 330 to finish at Rs 39,490 per kg from Rs 39,820 previously.</p>\n<p>\n\tGlobally, gold hit its lowest in more than six months as a sell off in global risk assets eased and the precious metal remained under pressure from the prospect that rising US interest rates will further support the dollar.</p>\n<p>\n\tSpot gold was down by 0.6 per cent at USD 1,256.45 an ounce, at early trade.</p>\n<p>\n\tIn other precious metals, silver was down by 0.7 per cent at USD 16.19 an ounce.</p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
+    },
+    "adjectives": [
+        "Gold",
+        "weak",
+        "silver",
+        "global",
+        "subdued",
+        "fell",
+        "120",
+        "ten"
+    ],
+    "verbs": [
+        "market",
+        "turn",
+        "demand",
+        "silver",
+        "fell"
+    ]
+}

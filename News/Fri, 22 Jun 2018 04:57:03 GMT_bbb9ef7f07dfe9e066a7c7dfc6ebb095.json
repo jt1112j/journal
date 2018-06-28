@@ -1,0 +1,95 @@
+{
+    "title": "Zuckerberg, 34, now as rich as Warren Buffett, 87",
+    "link": "https://timesofindia.indiatimes.com/business/international-business/zuckerberg-34-now-as-rich-as-warren-buffett-87/articleshow/64692574.cms",
+    "pubDate": "Fri, 22 Jun 2018 04:57:03 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/international-business/zuckerberg-34-now-as-rich-as-warren-buffett-87/articleshow/64692574.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64692574.cms\" /></a>Just $29 million separates Facebook founder Mark Zuckerberg from becoming the world's third richest man, ahead of Warren Buffett of Berkshire Hathaway—they are tied for third with a net worth of $81.6 billion if approximated.",
+    "contentSnippet": "Just $29 million separates Facebook founder Mark Zuckerberg from becoming the world's third richest man, ahead of Warren Buffett of Berkshire Hathaway—they are tied for third with a net worth of $81.6 billion if approximated.",
+    "guid": "https://timesofindia.indiatimes.com/business/international-business/zuckerberg-34-now-as-rich-as-warren-buffett-87/articleshow/64692574.cms",
+    "isoDate": "2018-06-22T04:57:03.000Z",
+    "sentiment": {
+        "score": 2,
+        "comparative": 0.2222222222222222,
+        "tokens": [
+            "zuckerberg",
+            "34",
+            "now",
+            "as",
+            "rich",
+            "as",
+            "warren",
+            "buffett",
+            "87"
+        ],
+        "words": [
+            "rich"
+        ],
+        "positive": [
+            "rich"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "Mark Zuckerberg, 34, now as rich as Warren Buffett, 87",
+        "content": "<section class=\"title_section clearfix\"><meta itemprop=\"headline\" content=\"Mark Zuckerberg, 34, now as rich as Warren Buffett, 87\"><p>Just $29 million separates Facebook founder Mark Zuckerberg from becoming the world's third richest man, ahead of Warren Buffett of Berkshire Hathaway—they are tied for third with a net worth of $81.6 billion if approximated.</p></section>"
+    },
+    "adjectives": [
+        "34",
+        "rich",
+        "87",
+        "Just",
+        "29",
+        "million",
+        "becoming",
+        "world",
+        "worth",
+        "third",
+        "ahead",
+        "tied",
+        "net",
+        "81",
+        "billion",
+        "international",
+        "10",
+        "left",
+        "top",
+        "right"
+    ],
+    "nouns": [
+        "Warren",
+        "warren",
+        "29",
+        "million",
+        "founder",
+        "Mark",
+        "margin",
+        "world",
+        "worth",
+        "third",
+        "man",
+        "rich",
+        "Berkshire",
+        "Hathaway",
+        "billion",
+        "net",
+        "business",
+        "international",
+        "border",
+        "10",
+        "left",
+        "style",
+        "top",
+        "right",
+        "photo"
+    ],
+    "verbs": [
+        "founder",
+        "Mark",
+        "man",
+        "net",
+        "border",
+        "align",
+        "style",
+        "top",
+        "right"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Firm alleges ex-Infosys CEO stole trade secrets",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/cloud-firm-teradata-says-sikka-stole-trade-secrets/articleshow/64689864.cms",
+    "pubDate": "Fri, 22 Jun 2018 00:31:18 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/cloud-firm-teradata-says-sikka-stole-trade-secrets/articleshow/64689864.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64689864.cms\" /></a>",
+    "contentSnippet": "",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/cloud-firm-teradata-says-sikka-stole-trade-secrets/articleshow/64689864.cms",
+    "isoDate": "2018-06-22T00:31:18.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.2857142857142857,
+        "tokens": [
+            "firm",
+            "alleges",
+            "ex-infosys",
+            "ceo",
+            "stole",
+            "trade",
+            "secrets"
+        ],
+        "words": [
+            "stole"
+        ],
+        "positive": [],
+        "negative": [
+            "stole"
+        ]
+    },
+    "article": {
+        "title": "Cloud firm Teradata says Vishal Sikka stole trade secrets",
+        "content": "<div class=\"section1\"><div class=\"Normal\"><span>BENGALURU: Business and cloud analytics firm Teradata has filed a lawsuit against SAP for allegedly stealing trade secrets, copyright infringement and anti-trust violations related to its flagship product. It also named </span><a class=\"key_underline\" href=\"https://timesofindia.indiatimes.com/topic/vishal-sikka\">Vishal Sikka</a><p> of being complicit during his stint as the chief technology officer (CTO) of the German enterprise software company.\n\n</p><span>In the lawsuit filed in California, \n</span><span class=\"newsincontext nic_handler\" id=\"nic64687373\" pg=\"NIC#PARENT-business/india-business/cloud-firm-teradata-says-sikka-stole-trade-secrets:64689864-CHILD-:64687373~OPEN-Article\" data-id=\"nic64689864\" data-nic_msid=\"64687373\" data-nic_mstype=\"2\" data-nic_mssubtype=\"0\" data-nic_host=\"83\">\n  Teradata accuses SAP\n <span>+</span></span><p> of stealing trade secrets in building its HANA platform and subsequently coercing customers to use its product, jettisoning Teradata, thus leading to the loss of revenue, profit and market share for the latter.\n</p><p>Sikka, CTO of SAP between 2007 and 2014, and hailed as the mastermind behind HANA, is accused of being \"aware of” and supportive of “SAP’s misappropriation of Teradata’s trade secrets during the development of HANA.” The product helped SAP revive its offering in the market.\n</p><span>Teradata says that while building HANA, SAP faced the same set of challenges that it and Teradata encountered while working on a JV between 2009 and 2011 – speed, efficiency and effectiveness of interoperation between SAP’s front-end software and an MPP database engine as it attempted to store large amounts of data.\n</span><br><span>\n</span><br><span>“To overcome this challenge during HANA development, the HANA developers, at the direction of Dr Sikka, utilized the same solution developed by Teradata’s engineers and developers during the Bridge Project — using Teradata’s trade-secret techniques for optimising the execution of analytical queries and the speed of data storage and retrieval in large-scale databases,” the lawsuit alleges.\n</span><br><span>\n</span><br><span>The lawsuit also says that Sikka restructured SAP’s engineering teams to develop and deploy SAP HANA in less than a year, “an extremely short time frame for a project of such magnitude.” In an emailed response to TOI on Monday, Sikka said, “As with all my endeavours, my work with SAP HANA was carried out with the highest integrity, professionalism and respect for all obligations towards trade secrets and intellectual property. Although this lawsuit is not directed at me, I categorically deny the baseless and outrageous allegations made by TeraData that attempt to diminish the hard work, passion, and the irrefutable and fully legitimate achievements by the Hana team, including myself.” \n</span><br><span>\n</span><br><span>Sikka had run into a similar controversy last year while he was helming Infosys, when SAP came down on the company’s artificial intelligence platform MANA, saying it sounded similar to HANA, and described it as a trademark violation. The matter was buried when </span><a class=\"key_underline\" href=\"https://timesofindia.indiatimes.com/topic/vishal-sikka\">Infosys</a><span> rechristened the platform as Nia and presented it as a new upgraded system.\n</span><br><span>\n</span><p>SAP, which has a market value of more than $140 billion, is shifting customers increasingly to integrated cloud-based services. The Teradata suit relates to its earlier generation of HANA database products, hosted on company premises, that are still widely in use.\n</p><span>\n</span></div></div>"
+    },
+    "adjectives": [
+        "Firm",
+        "firm",
+        "ex",
+        "10",
+        "left",
+        "top",
+        "right"
+    ],
+    "nouns": [
+        "Firm",
+        "firm",
+        "ex",
+        "CEO",
+        "stole",
+        "trade",
+        "india",
+        "business",
+        "cloud",
+        "border",
+        "10",
+        "left",
+        "style",
+        "margin",
+        "top",
+        "right",
+        "photo"
+    ],
+    "verbs": [
+        "Firm",
+        "firm",
+        "trade",
+        "cloud",
+        "border",
+        "align",
+        "style",
+        "top",
+        "right"
+    ]
+}

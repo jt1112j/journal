@@ -1,0 +1,101 @@
+{
+    "title": "Donald Trump backs off imposing China investment limits",
+    "link": "https://timesofindia.indiatimes.com/business/international-business/donald-trump-backs-off-imposing-china-investment-limits/articleshow/64767636.cms",
+    "pubDate": "Wed, 27 Jun 2018 15:22:01 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/international-business/donald-trump-backs-off-imposing-china-investment-limits/articleshow/64767636.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64767636.cms\" /></a>Instead of immediate bans on Chinese investment designed to protect sensitive US technology industries, the administration said it would work with Congress to pass a bill that will provide \"enhancements\" to the foreign investment reviews under the existing Committee on Foreign Investment in the US.",
+    "contentSnippet": "Instead of immediate bans on Chinese investment designed to protect sensitive US technology industries, the administration said it would work with Congress to pass a bill that will provide \"enhancements\" to the foreign investment reviews under the existing Committee on Foreign Investment in the US.",
+    "guid": "https://timesofindia.indiatimes.com/business/international-business/donald-trump-backs-off-imposing-china-investment-limits/articleshow/64767636.cms",
+    "isoDate": "2018-06-27T15:22:01.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.125,
+        "tokens": [
+            "donald",
+            "trump",
+            "backs",
+            "off",
+            "imposing",
+            "china",
+            "investment",
+            "limits"
+        ],
+        "words": [
+            "limits",
+            "imposing",
+            "backs"
+        ],
+        "positive": [
+            "backs"
+        ],
+        "negative": [
+            "limits",
+            "imposing"
+        ]
+    },
+    "article": {
+        "title": "Donald Trump backs off imposing China investment limits",
+        "content": "<div class=\"Normal\"><span>WASHINGTON: US President </span><a class=\"key_underline\" href=\"https://timesofindia.indiatimes.com/topic/Donald-Trump\">Donald Trump</a><p> is shifting away from a proposal to impose limits on Chinese investment in American technology companies and high-tech exports to China. Instead, the president is calling on Congress to enhance an existing review process.\n\n</p><p>The announcement Wednesday followed intense internal battles over the issue and published reports of impending bans on Chinese investment that had sent financial markets into a nose dive at the beginning of the week.\n</p><p>Instead of immediate bans on Chinese investment designed to protect sensitive US technology industries, the administration said it would work with Congress to pass a bill that will provide \"enhancements\" to the foreign investment reviews under the existing Committee on Foreign Investment in the United States.\n</p><p>Treasury Secretary Steven Mnuchin, who chairs the investment committee, rejected the idea that the administration had softened its stance after seeing the turbulence in financial markets. Published reports has said the administration was about to embark on a far tougher approach.\n</p><p>\"For those who want to say this is being weak on China, the answer is no,\" Mnuchin told reporters at briefing on the decision. \"I don't think this is a question of weaker or stronger. ... The question was: What were the appropriate tools?\"\n</p><p>Mnuchin noted that the House approved by a lopsided vote legislation to enhance the powers of the committee that decides whether foreign investment would pose a security risk to the United States. He said if this measure does not ultimately make it through Congress, the administration would return to a review of the powers at its disposal to protect sensitive U.S. technology.\n</p><p>The administration's move, after weeks of escalating tensions between the world's two largest economies, was likely to be viewed as a conciliatory effort to lessen the risks of a full-blown trade war.\n</p><p>The comments Wednesday stood in contrast to a White House statement on May 29 that said \"the United States will implement specific investment restrictions and enhanced export controls for Chinese persons and entities related to the acquisition of industrially significant technology.\" That announcement said that controls would be announced by June 30 and would \"be implemented shortly thereafter.\"\n</p><p>Asked about this apparent change in position, Mnuchin said, \"It is not a question of whether we are focusing on China or we are not focusing on China\" but rather an issue of using all available tools to deal with US-China trade disputes. Mnuchin also said that recent adverse market reactions to rising trade tensions had not played a role in the president's decision.\n</p><p>Trump on Tuesday pushed back on recent reports that the US was preparing the investment restrictions. He said the interagency investment committee, known as CFIUS, provided a lot of ways to protect technology.\n</p><span>\"We have to protect these companies. We can't let people steal their technology,\" Trump said Tuesday.\n</span><br><span>\n</span><br><span>The House on Tuesday approved a bill that would strengthen the CFIUS law and that bill was expected to be considered as part of a joint House-Senate conference committee reviewing a Senate-approved defense policy bill.\n</span><br><span>\n</span><br><span>The debate inside the administration on how to deal with China had reportedly become intense between hardliners urging for a tough approach with China and moderates led by Mnuchin who argued for a less confrontational approach.\n</span><br><span>\n</span><br><span>Mnuchin told reporters that these differences had been overblown and there was unanimous backing for the approach being unveiled Wednesday when it was presented to the president for his final approval at a White House meeting the day before.\n</span><br><span>\n</span><p>\"At the end of the day, all the president's advisers were 100 percent unanimous when we sat down with the president,\" Mnuchin said.\n</p><span>\n</span></div>"
+    },
+    "adjectives": [
+        "off",
+        "imposing",
+        "Chinese",
+        "immediate",
+        "designed",
+        "sensitive",
+        "pass",
+        "foreign",
+        "Foreign",
+        "existing",
+        "international",
+        "10",
+        "left",
+        "top",
+        "right"
+    ],
+    "nouns": [
+        "Trump",
+        "trump",
+        "China",
+        "Chinese",
+        "china",
+        "investment",
+        "Investment",
+        "sensitive",
+        "US",
+        "technology",
+        "administration",
+        "work",
+        "Congress",
+        "pass",
+        "will",
+        "Committee",
+        "business",
+        "international",
+        "border",
+        "10",
+        "left",
+        "style",
+        "margin",
+        "top",
+        "right",
+        "photo",
+        "bill"
+    ],
+    "verbs": [
+        "Trump",
+        "trump",
+        "off",
+        "protect",
+        "provide",
+        "work",
+        "pass",
+        "bill",
+        "will",
+        "border",
+        "align",
+        "style",
+        "top",
+        "right"
+    ]
+}

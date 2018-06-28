@@ -1,0 +1,54 @@
+{
+    "title": "Physical settlement of stock derivatives: Some stocks may get squeezed",
+    "link": "https://www.business-standard.com/article/markets/physical-settlement-of-stock-derivatives-some-stocks-may-get-squeezed-118062200126_1.html",
+    "pubDate": "Fri, 22 Jun 2018 06:45:00 +0530",
+    "content": "Physical settlement to deter traders to boost bearish wagers",
+    "contentSnippet": "Physical settlement to deter traders to boost bearish wagers",
+    "guid": "https://www.business-standard.com/article/markets/physical-settlement-of-stock-derivatives-some-stocks-may-get-squeezed-118062200126_1.html",
+    "isoDate": "2018-06-22T01:15:00.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.1,
+        "tokens": [
+            "physical",
+            "settlement",
+            "of",
+            "stock",
+            "derivatives",
+            "some",
+            "stocks",
+            "may",
+            "get",
+            "squeezed"
+        ],
+        "words": [
+            "settlement"
+        ],
+        "positive": [
+            "settlement"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "Physical settlement of stock derivatives: Some stocks may get squeezed",
+        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t<p>\n\t\n\tBears in some Indian companies, including a supplier of gas to homes and cabs in Mumbai, risk getting caught out when exchanges move to physical settlement of <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=stock+derivatives\" target=\"_blank\">stock </a><a class=\"storyTags\" href=\"https://www.business-standard.com/topic/derivatives\" target=\"_blank\">derivatives </a>next month, says Emkay Global Financial Services.</p>\n<p>\n\tThe brokerage sees a potential for a “short squeeze” in seven of 45 stocks whose contracts will be physically delivered July expiry onward. The companies have been analyzed based on valuations, open interest, institutional holding and price movement over past few months, Emkay said in a note this week.\n\n\n</p>\n<!-- INPAGE_BANNER -->\n<p>\n\tShares of BEML Ltd., a maker of earth-moving equipment, CG Power and Industrial Solutions Ltd., <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/mahanagar-gas\" target=\"_blank\">Mahanagar Gas </a>Ltd., <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=godrej+industries+ltd\" target=\"_blank\"></a><a class=\"storyTags\" href=\"https://www.business-standard.com/topic/godrej-industries\" target=\"_blank\">Godrej Industries </a>Ltd., NHPC Ltd., Siemens Ltd. and Gujarat State Fertilizers &amp; Chemicals Ltd. have slumped between 20 percent and 50 percent this year amid a selloff in the broader market. Traders will now be deterred from piling on bearish wagers on stocks that are already beaten down, according to Emkay.</p>\n\n<p>\n\tThe market regulator began public consultations last year for making physical settlement mandatory for equity <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/derivatives\" target=\"_blank\">derivatives </a>to curb excessive speculation, noting that the turnover in equity <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/derivatives\" target=\"_blank\">derivatives </a>was more than 15 times that of cash market. Currently, stock futures and options contracts are cash settled.</p>\n<hr>\n\t<em><strong>©2018Bloomberg</strong></em>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
+    },
+    "adjectives": [
+        "stock",
+        "Physical",
+        "Some",
+        "bearish"
+    ],
+    "nouns": [
+        "stock",
+        "stocks",
+        "may",
+        "settlement",
+        "boost"
+    ],
+    "verbs": [
+        "stock",
+        "deter",
+        "boost"
+    ]
+}

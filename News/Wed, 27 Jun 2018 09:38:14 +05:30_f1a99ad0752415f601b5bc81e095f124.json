@@ -1,0 +1,78 @@
+{
+    "creator": "FE Online",
+    "title": "Financial Stability Report: RBI says rising global protectionist sentiments pose risk to outlook",
+    "link": "https://www.financialexpress.com/economy/financial-stability-report-rbi-says-rising-global-protectionist-sentiments-pose-risk-to-outlook/1221828/",
+    "pubDate": "Wed, 27 Jun 2018 09:38:14 +05:30",
+    "dc:creator": "FE Online",
+    "content": "Even as we continue to see developments around a potential trade war between China and the US, RBI, noted that evolving geopolitical developments and rising protectionist sentiments pose added risks.",
+    "contentSnippet": "Even as we continue to see developments around a potential trade war between China and the US, RBI, noted that evolving geopolitical developments and rising protectionist sentiments pose added risks.",
+    "guid": "https://www.financialexpress.com/?p=1221828",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-27T04:08:14.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.15384615384615385,
+        "tokens": [
+            "financial",
+            "stability",
+            "report",
+            "rbi",
+            "says",
+            "rising",
+            "global",
+            "protectionist",
+            "sentiments",
+            "pose",
+            "risk",
+            "to",
+            "outlook"
+        ],
+        "words": [
+            "risk"
+        ],
+        "positive": [],
+        "negative": [
+            "risk"
+        ]
+    },
+    "article": {
+        "title": "Financial Stability Report: RBI says rising global protectionist sentiments pose risk to outlook",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"wp-image-1221837 size-full\" src=\"https://images.financialexpress.com/2018/06/rbi-pti-2-2-2.jpg\" alt=\"\" srcset=\"https://images.financialexpress.com/2018/06/rbi-pti-2-2-2.jpg 660w, https://images.financialexpress.com/2018/06/rbi-pti-2-2-2-300x200.jpg 300w, https://images.financialexpress.com/2018/06/rbi-pti-2-2-2-620x413.jpg 620w, https://images.financialexpress.com/2018/06/rbi-pti-2-2-2-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> “The gross non-performing assets (GNPAs) in the Indian banking system is likely to rise from 11.6% in March 2018 to 12.2% by the end of March next year,” said the RBI.</figure>\n\t\t\t</section></div><span>\n</span><p><span>Even as we continue to see developments around a potential trade war between China and the United States, India’s central bank <a target=\"_blank\" href=\"http://www.financialexpress.com/tag/rbi/\">RBI</a>, in its latest Financial Stability Report, noted that evolving geopolitical developments and rising protectionist sentiments pose added risks. According to the apex bank, tightening of liquidity conditions in the developed markets alongside expansionary US fiscal policy and a strong US dollar have started to adversely impact emerging market currencies, bonds and capital flows. According to a Reuters report, the U.S. Treasury Department had been working on a proposal to ban acquisitions of U.S. firms with “industrially significant technology” by companies with at least 25 percent Chinese ownership. </span></p><span>\n</span><p><span>Last week, the US administration had slapped 25% tariffs on $50 billion worth of Chinese goods that are imported into the US, prompting vows of swift retaliation from China. &nbsp;“The US has kept changing its mind and now launched a trade war,” China’s Commerce Ministry said in response to the announcement.</span></p><span>\n</span><p><span>So, while there are global risks, the RBI also pointed out that on the domestic front, while economic growth is firming up, conditions that buttressed fiscal consolidation, inflation moderation and a benign current account deficit over the last few years are changing, thereby warranting caution. “In the domestic financial markets, structural shifts are altering the pattern of credit intermediation and impacting market interest rates. These developments call for greater vigilance on the domestic macroeconomic front to reinforce financial stability,” RBI noted in its report. </span></p><span>\n</span><p><span>“The gross non-performing assets (GNPAs) in the Indian banking system is likely to rise from 11.6% in March 2018 to 12.2% by the end of March next year,” said the RBI. “Macro-stress tests indicate that under the baseline scenario of current macroeconomic outlook, SCBs’ (scheduled commercial banks) GNPA ratio may rise from 11.6 per cent in March 2018 to 12.2 per cent by March 2019,” the central bank noted. </span></p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "Financial",
+        "rising",
+        "global",
+        "Even",
+        "potential",
+        "noted",
+        "geopolitical"
+    ],
+    "nouns": [
+        "Stability",
+        "Report",
+        "RBI",
+        "rising",
+        "risk",
+        "protectionist",
+        "pose",
+        "outlook",
+        "Even",
+        "trade",
+        "war",
+        "China",
+        "US",
+        "potential"
+    ],
+    "verbs": [
+        "Report",
+        "risk",
+        "pose",
+        "Even",
+        "continue",
+        "trade",
+        "war"
+    ]
+}

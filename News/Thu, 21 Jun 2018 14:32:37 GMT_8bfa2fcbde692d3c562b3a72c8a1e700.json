@@ -1,0 +1,50 @@
+{
+    "title": "RBI asks banks to upgrade ATMs for greater security",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/rbi-asks-banks-to-upgrade-atms-for-greater-security/articleshow/64685451.cms",
+    "pubDate": "Thu, 21 Jun 2018 14:32:37 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/rbi-asks-banks-to-upgrade-atms-for-greater-security/articleshow/64685451.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64685451.cms\" /></a>",
+    "contentSnippet": "",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/rbi-asks-banks-to-upgrade-atms-for-greater-security/articleshow/64685451.cms",
+    "isoDate": "2018-06-21T14:32:37.000Z",
+    "sentiment": {
+        "score": 3,
+        "comparative": 0.3333333333333333,
+        "tokens": [
+            "rbi",
+            "asks",
+            "banks",
+            "to",
+            "upgrade",
+            "atms",
+            "for",
+            "greater",
+            "security"
+        ],
+        "words": [
+            "greater"
+        ],
+        "positive": [
+            "greater"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "RBI asks banks to upgrade ATMs for greater security",
+        "content": "<div class=\"Normal\"><p>MUMBAI: Taking a serious note of slow progress by banks in addressing security issues, the Reserve Bank on Thursday gave them strict timelines to upgrade their ATMs or else face action.\n\n</p><p>As per the timeline, banks have to implement a host of security measures by August and upgrade all ATMs with supported version of operating in a phased manner by June next year.\n</p><p>There were over 2.06 lakh ATMs across the country till February-end.\n</p><span>In April 2017, the </span><a class=\"key_underline\" href=\"https://timesofindia.indiatimes.com/topic/Reserve-Bank-of-India\">RBI</a><p> through a \"confidential circular\" to banks had highlighted concerns about the ATMs running on Windows XP and/or other unsupported operating systems.\n</p><p>The banks were also asked to put in place, with immediate effect, suitable controls enumerated in the illustrative list of controls.\n</p><p>\"The slow progress on the part of the banks in addressing these issues has been viewed seriously by the RBI,\" the central bank said in a circular to heads of banks and white label ATM operators.\n</p><p>The instruction has been issued in wake of increasing number of ATM frauds.\n</p><p>The RBI said that the vulnerability arising from the ATMs operating on unsupported version of operating system and non-implementation of other security measures could potentially affect the interests of the banks' customers adversely, apart from such occurrences, if any, impinging on the image of the bank.\n</p><p>\"It may be noted that any deficiency in timely and effective compliance with the instructions contained in this circular may invite appropriate supervisory enforcement action under applicable provisions of the Banking Regulation Act, 1949 and/or Payment and Settlement Systems Act, 2007,\" it said.\n</p><p>Banks and white label ATM operators have been asked to implement security measures such as BIOS password, disabling USB ports, disabling auto-run facility, applying the latest patches of operating system and other softwares, terminal security solution, time-based admin access by August.\n</p><p>They have to implement anti-skimming and whitelisting solution by March 2019.\n</p><span>Further, all the ATMs have to upgraded with supported versions of operating system.\n</span><br><span>\n</span><br><span>The RBI has asked them to upgrade not less than 25 per cent of their ATMs with supported operating system by September and 50 per cent by December.\n</span><br><span>\n</span><br><span>All the ATMs should be upgraded by June 2019, as per the timeline notified by the RBI.\n</span><br><span>\n</span><br><span>Banks have been asked to take the circular before the board of directors at ensuing meeting, along with the proposed action plan for implementation of the measures, and report to the RBI by July.\n</span><br><span>\n</span><p>\"The progress made in implementation of these measure should be closely monitored to ensure meeting the prescribed timelines,\" the circular added. \n</p><span>\n</span></div>"
+    },
+    "adjectives": [
+        "top",
+        "right",
+        "10",
+        "left",
+        "greater"
+    ],
+    "verbs": [
+        "top",
+        "right",
+        "border",
+        "align",
+        "style",
+        "upgrade"
+    ]
+}

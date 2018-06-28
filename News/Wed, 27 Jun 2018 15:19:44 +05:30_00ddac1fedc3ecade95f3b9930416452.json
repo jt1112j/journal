@@ -1,0 +1,74 @@
+{
+    "creator": "FE Online",
+    "title": "US threatens sanctions on India for Iran oil imports; says, ‘no exemption’ for anyone dealing with Iran",
+    "link": "https://www.financialexpress.com/economy/us-threatens-india-trump-warns-sanctions-against-any-country-dealing-with-iran-key-things-to-note/1222238/",
+    "pubDate": "Wed, 27 Jun 2018 15:19:44 +05:30",
+    "dc:creator": "FE Online",
+    "content": "Issuing a strict warning, the US on Wednesday threatened all countries including India and China to stop oil imports from Iran or face sanctions. ",
+    "contentSnippet": "Issuing a strict warning, the US on Wednesday threatened all countries including India and China to stop oil imports from Iran or face sanctions.",
+    "guid": "https://www.financialexpress.com/?p=1222238",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-27T09:49:44.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.11764705882352941,
+        "tokens": [
+            "us",
+            "threatens",
+            "sanctions",
+            "on",
+            "india",
+            "for",
+            "iran",
+            "oil",
+            "imports",
+            "says",
+            "‘no",
+            "exemption’",
+            "for",
+            "anyone",
+            "dealing",
+            "with",
+            "iran"
+        ],
+        "words": [
+            "threatens"
+        ],
+        "positive": [],
+        "negative": [
+            "threatens"
+        ]
+    },
+    "article": {
+        "title": "US threatens sanctions on India for Iran oil imports; says, ‘no exemption’ for anyone dealing with Iran",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1219200\" src=\"https://images.financialexpress.com/2018/06/trump-24.jpg\" alt=\"\" srcset=\"https://images.financialexpress.com/2018/06/trump-24.jpg 660w, https://images.financialexpress.com/2018/06/trump-24-300x200.jpg 300w, https://images.financialexpress.com/2018/06/trump-24-620x413.jpg 620w, https://images.financialexpress.com/2018/06/trump-24-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> After Iraq and Saudi Arabia, Iran is the third-largest oil supplied globally.</figure>\n\t\t\t</section></div><span>\n</span><p>Issuing a strict warning, the US on Wednesday threatened all countries including India and China to stop oil imports from Iran or face sanctions. There would be ‘zero’ waivers to any nation dealing with Iran, the US said, PTI reported. “On China and India, yes, certainly,” PTI reported citing an unidentified state department official when asked if the US has told all countries, including India and China, to stop all their imports of Iranian oil by November 4.</p><span>\n</span><p>After Iraq and Saudi Arabia, Iran is the third-largest oil supplied globally. During April 2017 and January 2018 (first 10 months of 2017-18 fiscal), Iran supplied 18.4 million tonnes of crude oil.</p><span>\n</span><p>In May, the US withdrew from the Iran nuclear deal to create more pressure against Tehran’s atomic programme. The Donald Trump administration issued foreign companies either 90 or 180 days to wind down their business with Iranian companies.</p><span>\n</span><p>PTI reported the same official saying that the Indian and Chinese companies would be subject to the same sanctions as those in other nations. “Their (India and China) companies will be subject to the same sanctions that everybody else’s are if they engage in those sectors of the economy that are sanctionable, where there were sanctions imposed prior to 2015. And yes, we will certainly be requesting that their oil imports go to zero,” PTI reported citing an unidentified state official.</p><span>\n</span><p>PTI quoted the official saying this is part of the Donald Trump administration’s effort to isolate streams of Iranian funding and are looking to highlight the totality of Iran’s malign behaviour across the region.</p><span>\n</span><p>“We remain engaged with the EU-3 throughout this process, and we are going to continue to branch out in new countries and reach new partners as the weeks go forward,” PTI reported citing the official.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "threatened",
+        "no",
+        "strict",
+        "warning"
+    ],
+    "nouns": [
+        "US",
+        "India",
+        "Iran",
+        "oil",
+        "no",
+        "exemption",
+        "Issuing",
+        "dealing",
+        "Wednesday",
+        "warning",
+        "China",
+        "stop",
+        "face"
+    ],
+    "verbs": [
+        "oil",
+        "stop",
+        "face"
+    ]
+}

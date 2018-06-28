@@ -1,0 +1,103 @@
+{
+    "title": "RBI rings alarm bells over weak PSU banks",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/rbi-stress-test-rings-alarm-bells-over-weak-psu-banks/articleshow/64755257.cms",
+    "pubDate": "Tue, 26 Jun 2018 22:30:00 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/rbi-stress-test-rings-alarm-bells-over-weak-psu-banks/articleshow/64755257.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64755257.cms\" /></a>The Reserve Bank of India (RBI) has sounded the alarm on 11 public sector banks (PSBs) placed under its prompt corrective action — the term used for lending restrictions on banks with a high level of bad loans and weak capital.",
+    "contentSnippet": "The Reserve Bank of India (RBI) has sounded the alarm on 11 public sector banks (PSBs) placed under its prompt corrective action — the term used for lending restrictions on banks with a high level of bad loans and weak capital.",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/rbi-stress-test-rings-alarm-bells-over-weak-psu-banks/articleshow/64755257.cms",
+    "isoDate": "2018-06-26T22:30:00.000Z",
+    "sentiment": {
+        "score": -4,
+        "comparative": -0.5,
+        "tokens": [
+            "rbi",
+            "rings",
+            "alarm",
+            "bells",
+            "over",
+            "weak",
+            "psu",
+            "banks"
+        ],
+        "words": [
+            "weak",
+            "alarm"
+        ],
+        "positive": [],
+        "negative": [
+            "weak",
+            "alarm"
+        ]
+    },
+    "article": {
+        "title": "RBI stress test rings alarm bells over weak PSU banks",
+        "content": "<section class=\"title_section clearfix\"><meta itemprop=\"headline\" content=\"RBI stress test rings alarm bells over weak PSU banks\"><p>The Reserve Bank of India (RBI) has sounded the alarm on 11 public sector banks (PSBs) placed under its prompt corrective action — the term used for lending restrictions on banks with a high level of bad loans and weak capital.</p></section>"
+    },
+    "adjectives": [
+        "high",
+        "prompt",
+        "capital",
+        "10",
+        "left",
+        "top",
+        "right",
+        "weak",
+        "11",
+        "public",
+        "placed",
+        "corrective",
+        "used",
+        "level",
+        "bad"
+    ],
+    "nouns": [
+        "high",
+        "India",
+        "india",
+        "action",
+        "prompt",
+        "RBI",
+        "rbi",
+        "capital",
+        "banks",
+        "Bank",
+        "business",
+        "border",
+        "10",
+        "left",
+        "style",
+        "margin",
+        "top",
+        "right",
+        "photo",
+        "rings",
+        "Reserve",
+        "11",
+        "public",
+        "sector",
+        "corrective",
+        "term",
+        "lending",
+        "level",
+        "bad",
+        "stress",
+        "test",
+        "alarm"
+    ],
+    "verbs": [
+        "action",
+        "prompt",
+        "Bank",
+        "border",
+        "align",
+        "style",
+        "top",
+        "right",
+        "alarm",
+        "Reserve",
+        "term",
+        "level",
+        "stress",
+        "test"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "creator": "Sumit Jha",
+    "title": "HC admits plea challenging GST on sale of land",
+    "link": "https://www.financialexpress.com/economy/hc-admits-plea-challenging-gst-on-sale-of-land/1223093/",
+    "pubDate": "Thu, 28 Jun 2018 04:53:37 +05:30",
+    "dc:creator": "Sumit Jha",
+    "content": "Real estate developers have moved the Bombay High Court challenging a goods and services tax (GST) notification that seeks to bring sale of land under the GST ambit. The high court has issued notices to the central government, the Maharashtra government and the GST Council in this matter. In January, the GST Council issued a [&#8230;]",
+    "contentSnippet": "Real estate developers have moved the Bombay High Court challenging a goods and services tax (GST) notification that seeks to bring sale of land under the GST ambit. The high court has issued notices to the central government, the Maharashtra government and the GST Council in this matter. In January, the GST Council issued a […]",
+    "guid": "https://www.financialexpress.com/?p=1223093",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-27T23:23:37.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.1111111111111111,
+        "tokens": [
+            "hc",
+            "admits",
+            "plea",
+            "challenging",
+            "gst",
+            "on",
+            "sale",
+            "of",
+            "land"
+        ],
+        "words": [
+            "admits"
+        ],
+        "positive": [],
+        "negative": [
+            "admits"
+        ]
+    },
+    "article": {
+        "title": "HC admits plea challenging GST on sale of land",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1223094\" src=\"https://images.financialexpress.com/2018/06/1-229.jpg\" alt=\"\" srcset=\"https://images.financialexpress.com/2018/06/1-229.jpg 660w, https://images.financialexpress.com/2018/06/1-229-300x200.jpg 300w, https://images.financialexpress.com/2018/06/1-229-620x413.jpg 620w, https://images.financialexpress.com/2018/06/1-229-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> Bombay HC admits plea challenging GST on sale of land</figure>\n\t\t\t</section></div><span>\n</span><p>Real estate developers have moved the Bombay High Court challenging a goods and services tax (GST) notification that seeks to bring sale of land under the GST ambit. The high court has issued notices to the central government, the Maharashtra government and the GST Council in this matter.</p><span>\n</span><p>In January, the GST Council issued a notification saying the GST would be payable by both the land owner and developer entering into a joint development agreement (JDA). JDAs are a common feature in the real estate sector. These pacts detail the transfer of land from owners to developer in lieu of units or flats in the constructed property.</p><span>\n</span><p>Experts say it was possible to avail of tax credit, but it would be difficult to set off such credit since tax is paid at the time of conveyance deed – as mandated in the notification – which is towards the end of the project. This has led to concerns that tax costs on construction projects will increase.</p><span>\n</span><p>The petition was filed by Nashik-based developer Shweta Infrastructure &amp; Housing challenging levy of the GST on landowners in such transactions. The petition contended that the GST notification went beyond the scope of the GST Act, under which no GST is payable on sale of land or building.</p><span>\n</span><p>“Due to levy of GST on procurement of land, it became difficult for us to finalise the consideration with land owners. Given the scenario, we had to approach the high court,” Sujoy Gupta, CMD of Shweta Infrastructure &amp; Housing, said. The petition also pointed out that the essence of a JDA was transfer of land title by the land owner in lieu of constructed flats and the practice was mandated by real estate laws.</p><span>\n</span><p>“The service tax regime recognised transfer of land and construction as two distinct activities under a JDA. However, this GST notification seeks to levy tax on land owners. The GST notification is ultra vires the CGST Act, which excludes sale of land and building from its ambit under Schedule III,” Rashmi Deshpande, associate partner at Khaitan &amp; Co, said.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "challenging",
+        "Real",
+        "moved",
+        "High",
+        "high",
+        "central",
+        "In"
+    ],
+    "nouns": [
+        "Real",
+        "estate",
+        "plea",
+        "sale",
+        "land",
+        "Bombay",
+        "High",
+        "high",
+        "Court",
+        "court",
+        "Council",
+        "tax",
+        "services",
+        "notification",
+        "ambit",
+        "government",
+        "Maharashtra",
+        "central",
+        "In",
+        "matter",
+        "January"
+    ]
+}

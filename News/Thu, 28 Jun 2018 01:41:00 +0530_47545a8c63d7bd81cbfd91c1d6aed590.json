@@ -1,0 +1,72 @@
+{
+    "title": "US envoy Nikki Haley meets Modi, asks India to cut imports of Iranian oil",
+    "link": "https://www.business-standard.com/article/economy-policy/us-envoy-nikki-haley-meets-modi-asks-india-to-cut-imports-of-iranian-oil-118062800071_1.html",
+    "pubDate": "Thu, 28 Jun 2018 01:41:00 +0530",
+    "content": "Haley has used her role at the UN to regularly attack and ramp up pressure on Iran, accusing it of meddling in Syria and Yemen",
+    "contentSnippet": "Haley has used her role at the UN to regularly attack and ramp up pressure on Iran, accusing it of meddling in Syria and Yemen",
+    "guid": "https://www.business-standard.com/article/economy-policy/us-envoy-nikki-haley-meets-modi-asks-india-to-cut-imports-of-iranian-oil-118062800071_1.html",
+    "isoDate": "2018-06-27T20:11:00.000Z",
+    "sentiment": {
+        "score": -1,
+        "comparative": -0.07142857142857142,
+        "tokens": [
+            "us",
+            "envoy",
+            "nikki",
+            "haley",
+            "meets",
+            "modi",
+            "asks",
+            "india",
+            "to",
+            "cut",
+            "imports",
+            "of",
+            "iranian",
+            "oil"
+        ],
+        "words": [
+            "cut"
+        ],
+        "positive": [],
+        "negative": [
+            "cut"
+        ]
+    },
+    "article": {
+        "title": "US envoy Nikki Haley meets Modi, asks India to cut imports of Iranian oil",
+        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t<p>US Ambassador to the United Nations <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/nikki-haley\" target=\"_blank\">Nikki Haley </a>told Prime Minister Narendra Modi on Wednesday it was important India cut Iranian oil use, but said the US would work to allow India to use an Iranian port as corridor to Afghanistan.</p><p>\n“Sanctions are coming (on Iran) and we're going forward on that, and with India and the US building strong relationships we hoped that they would lessen their dependence on Iran,” Haley, a member of US President Donald Trump’s cabinet, told two reporters after her meeting with Modi in New Delhi.</p><p>\nThe US said on Tuesday it had told countries to cut all imports of Iranian oil from November and was unlikely to offer any exemptions as the Trump administration ramps up pressure on allies to cut off funding to Iran. India is one of the largest importers of Iran's oil. \"There's a will, a political will, from both sides to figure out how to make this work,\" Haley said. \"Prime Minister Modi very much understands where we are with Iran, he didn't question it, he didn't criticise it, he understood it and he also understands that (India's) relationship with the US is strong and important and needs to stay that way.\"<br></p>\n <br>\n<!-- INPAGE_BANNER -->\nThe US push to curb countries' imports of Iranian oil comes after Trump in May withdrew from a 2015 deal between Iran and six world powers aimed at stalling Tehran's nuclear capabilities in return for the lifting of some sanctions. Trump ordered the reimposition of US sanctions that were suspended under the accord. Haley said the implications of Iran-related sanctions would be discussed when the foreign and defence ministers of India and the US meet shortly.<div><span>\n\t</span><img align=\"left\" alt=\"chart\" class=\"imgCont\" height=\"342\" src=\"https://bsmedia.business-standard.com/_media/bs/img/article/2018-06/28/full/1530131257-8816.jpg\" title=\"chart\" width=\"620\"><a class=\"storyTags\" href=\"https://www.business-standard.com/topic/japan\" target=\"_blank\">Japan </a><span>and South Korea, also major buyers of Iranian oil, are in talks with the </span><a class=\"storyTags\" href=\"https://www.business-standard.com/topic/us-government\" target=\"_blank\">US government </a><span>in a bid to avoid the adverse effects of sanctions.</span></div>\n <br>Haley said she also discussed with Modi the Indian-backed <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/chabahar-port\" target=\"_blank\">Chabahar port </a>complex in Iran, being developed as part of a new transportation corridor for landlocked Afghanistan and which could open the way for millions of dollars in trade and cut Afghanistan's dependence on neighboring Pakistan. \"We know the port has to happen and the US is going to work with India to do that,\" Haley said. \"We know that they are being a great partner with us in Afghanistan and really trying to assist the U.S. and trying to do more. The port's vital in trying to do that.\"<br>\"We realize we are threading a needle when we do that,\" said Haley, describing a balancing act of ensuring Indian use of the port in Iran while Washington is at the same time trying to once again cut Tehran off from international markets.<p>\nHaley has used her role at the UN to regularly attack and ramp up pressure on Iran, accusing it of meddling in Syria and Yemen. She said she spoke with US Secretary of State Mike Pompeo early on Wednesday, before meeting with Modi. Despite rising trade tensions between the US and India, Haley said, \"the idea of a trade war wasn't even an option.\"<br>Bilateral trade rose to $115 billion in 2016, but the Trump administration wants to narrow its $31 billion deficit with India, and is pressing New Delhi to ease trade barriers. Haley said she also discussed military cooperation with Modi as the Trump administration has launched an effort to deepen military and economic ties with India as a way to balance China's assertive posture across Asia.</p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
+    },
+    "adjectives": [
+        "cut",
+        "accusing",
+        "Iranian",
+        "used",
+        "meddling"
+    ],
+    "nouns": [
+        "role",
+        "India",
+        "oil",
+        "cut",
+        "US",
+        "attack",
+        "envoy",
+        "Haley",
+        "Iranian",
+        "Iran",
+        "UN",
+        "ramp",
+        "pressure",
+        "meddling",
+        "Syria",
+        "Yemen"
+    ],
+    "verbs": [
+        "oil",
+        "cut",
+        "attack",
+        "ramp",
+        "pressure"
+    ]
+}

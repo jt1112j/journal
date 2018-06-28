@@ -1,0 +1,65 @@
+{
+    "title": "PSU banks more prone to frauds, says RBI's financial stability report",
+    "link": "https://www.business-standard.com/article/economy-policy/psu-banks-more-prone-to-frauds-says-rbi-s-financial-stability-report-118062700050_1.html",
+    "pubDate": "Wed, 27 Jun 2018 02:02:00 +0530",
+    "content": "More than 85 per cent of the frauds happened with public sector banks, which significantly exceeded their relative business share in credit of around 65 per cent",
+    "contentSnippet": "More than 85 per cent of the frauds happened with public sector banks, which significantly exceeded their relative business share in credit of around 65 per cent",
+    "guid": "https://www.business-standard.com/article/economy-policy/psu-banks-more-prone-to-frauds-says-rbi-s-financial-stability-report-118062700050_1.html",
+    "isoDate": "2018-06-26T20:32:00.000Z",
+    "sentiment": {
+        "score": -4,
+        "comparative": -0.36363636363636365,
+        "tokens": [
+            "psu",
+            "banks",
+            "more",
+            "prone",
+            "to",
+            "frauds",
+            "says",
+            "rbi's",
+            "financial",
+            "stability",
+            "report"
+        ],
+        "words": [
+            "frauds"
+        ],
+        "positive": [],
+        "negative": [
+            "frauds"
+        ]
+    },
+    "article": {
+        "title": "PSU banks more prone to frauds, says RBI's financial stability report",
+        "content": "<span class=\"p-content\">\n\t            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\t\t      <style>span.p-content div[id^=\"div-gpt\"]{line-height:0;font-size:0}</style>\n\t\t\t\t    \t<p>\n\t\n\tFrauds in the Indian banking system are on the rise, with public sector banks (PSBs) being the favourite hunting ground for scamsters, observed the Reserve Bank of India’s (RBI’s) financial stability report (FSR).</p>\n<p>\n\t“In recent years, frauds reported (for amount = Rs 100,000) in the banking sector show an increasing trend both in terms of number and quantum,” the <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=fsr\" target=\"_blank\">FSR </a>said.</p>\n<p>\n\tMore than 85 per cent of the frauds happened with public sector banks, which significantly exceeded their relative business share in credit of around 65 per cent. The <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=fsb\" target=\"_blank\">FSB </a>observation on frauds holds significance after it was found that celebrated jeweller <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/nirav-modi\" target=\"_blank\">Nirav Modi </a>defrauded Punjab National Bank of Rs 130 billion in collusion with some mid-level employees of the bank. Worryingly for retail customers, card and internet related frauds witnessed a sharp jump in total share of frauds in 2017-18. “The sharp increase in number of frauds owing to card/internet banking related issues are pointers to the underlying vulnerability of this delivery channel,” the <a class=\"storyTags\" href=\"https://www.business-standard.com/search?type=news&amp;q=fsr\" target=\"_blank\">FSR </a>said.<br></p><p>\n\t\t<strong class=\"read_more\">ALSO READ: <a href=\"https://www.business-standard.com/article/finance/bank-npa-ratio-to-hit-12-may-reach-highest-level-since-2000-rbi-report-118062601155_1.html\" target=\"_blank\">Bank NPA ratio to hit 12%, may reach highest level since 2000: RBI report</a></strong></p>\n\n<p>\n\tAccording to the report, lax internal controls in banks under <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/prompt-corrective-action\" target=\"_blank\">prompt corrective action </a>(PCA) makes them vulnerable to frauds. The frauds committed in these banks “is well in excess of their relative share in credit.”</p>\n<p>\n\t“It could be that somewhat lax internal controls in these bank cohorts have magnified their stressed asset positions compared to non-PCA PSBs.”</p>\n<p>\n\tLoans and advances accounted for most of the frauds in the banking system, although the relative potency of frauds relative to income was sharply different between the public sector and private banks.</p>\n<p>\n\t“The dominance of loans, particularly working capital loans in <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/psb\" target=\"_blank\">PSB </a>frauds points to co-ordination issues in implementing the ‘three lines of defence architecture’,” the report noted.<br></p>\n<!-- INPAGE_BANNER -->\n\t<p>\n\t\t<strong class=\"read_more\">ALSO READ: <a href=\"https://www.business-standard.com/article/economy-policy/ucbs-with-deposits-of-rs-1bn-should-have-boards-of-management-says-rbi-118062500980_1.html\" target=\"_blank\">UCBs with deposits of Rs 1bn should have Boards of Management, says RBI</a></strong></p>\n\n<p>\n\t“A significant deterioration in such assets in the <a class=\"storyTags\" href=\"https://www.business-standard.com/topic/psb\" target=\"_blank\">PSB </a>segment possibly owes a lot to poor credit screening, deficiency in oversight of the account by the lead bank and information asymmetry among participating banks” in a consortium arrangement, the report said.</p>\n<p>\n\t“In addition, integration of information technology in audit oversight is well thought out in private banks allowing them to optimise the human resource as compared to PSBs,” the report said.</p>\t\t\t\t\n\t\t\t\t    \t\t\t\t     \t            </span>"
+    },
+    "adjectives": [
+        "prone",
+        "financial",
+        "More",
+        "85",
+        "public",
+        "relative",
+        "65"
+    ],
+    "nouns": [
+        "banks",
+        "sector",
+        "RBI",
+        "stability",
+        "report",
+        "More",
+        "cent",
+        "public",
+        "relative",
+        "business",
+        "share",
+        "credit"
+    ],
+    "verbs": [
+        "report",
+        "share",
+        "credit"
+    ]
+}

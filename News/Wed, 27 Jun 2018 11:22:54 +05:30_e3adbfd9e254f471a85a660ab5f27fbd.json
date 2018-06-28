@@ -1,0 +1,70 @@
+{
+    "creator": "PTI",
+    "title": "GSTN to go in for third-party audit of its software, says CEO Prakash Kumar",
+    "link": "https://www.financialexpress.com/economy/gstn-to-go-in-for-third-party-audit-of-its-software-says-ceo-prakash-kumar/1221963/",
+    "pubDate": "Wed, 27 Jun 2018 11:22:54 +05:30",
+    "dc:creator": "PTI",
+    "content": "GSTN operates the IT backbone for the collection of Goods and Services Tax (GST) data of over 1.11 crore registered business entities.",
+    "contentSnippet": "GSTN operates the IT backbone for the collection of Goods and Services Tax (GST) data of over 1.11 crore registered business entities.",
+    "guid": "https://www.financialexpress.com/?p=1221963",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-27T05:52:54.000Z",
+    "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+            "gstn",
+            "to",
+            "go",
+            "in",
+            "for",
+            "third-party",
+            "audit",
+            "of",
+            "its",
+            "software",
+            "says",
+            "ceo",
+            "prakash",
+            "kumar"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+    },
+    "article": {
+        "title": "GSTN to go in for third-party audit of its software, says CEO Prakash Kumar",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1221970\" src=\"https://images.financialexpress.com/2018/06/prakash-kumar.jpg\" alt=\"gst, gstn, gst network, goods and service tax, gstn ceo, prakash kumar, gst&nbsp;third party audit, gst tax regime\" srcset=\"https://images.financialexpress.com/2018/06/prakash-kumar.jpg 660w, https://images.financialexpress.com/2018/06/prakash-kumar-300x200.jpg 300w, https://images.financialexpress.com/2018/06/prakash-kumar-620x413.jpg 620w, https://images.financialexpress.com/2018/06/prakash-kumar-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> GST Network Chief Executive Prakash Kumar said third-party audit is a standard practice which is followed by banking and financial institutions. (PTI Photo)</figure>\n\t\t\t</section></div><span>\n</span><p>GST Network has decided to go in for a third-party audit of its software developed by Infosys to ensure that all changes in the law are adequately captured and its performance is not lagging on any count, a senior official said. GSTN operates the IT backbone for the collection of Goods and Services Tax (GST) data of over 1.11 crore registered business entities. A third-party audit will ensure that data filed with GSTN is adequately secured and there are no glitches.</p><span>\n</span><p>GST Network Chief Executive Prakash Kumar said third-party audit is a standard practice which is followed by banking and financial institutions. “Whenever the law is changed or any circular is issued, we have to change the software. We need to have a third party to audit whatever software changes have been made by Infosys. So this is third-party expert audit,” Kumar told PTI in an interview. He said currently the GSTN team audits the software changes which are brought about after any change in the law. “But we want a third-party auditor to certify that whatever changes have been brought about in the law, similarly the software has been changed, not more, not less,” Kumar said.</p><span>\n</span><p>Last year, the Standardisation Testing and Quality Certification (STQC) Directorate, which is under the Department of Electronics and Information Technology, had audited GSTN to check the security of the system. The audit also encompassed other aspects like mechanism to enhance the resilience of the critical and sensitive GST IT network. “Entire product which has been developed by Infosys it has been audited once by STQC. STQC will not audit every time. But, for all the changes that have been made I need a third-party to certify. “This will be a continuous audit of what changes have been made, as per ISO requirement. Not only functional audit, but also performance audit. These would be technological auditors,” Kumar said.</p><span>\n</span><p>Since the rollout of the GST from July 1, 2017, GSTN has handled 11.5 crore returns and processed 376 crore invoices. Currently, over 1.11 crore businesses are registered under the GST regime, of which 63.76 lakh have migrated from the erstwhile service tax and VAT regime, and 47.72 lakh are new registrants. As many as 17.61 lakh businesses have opted for composition scheme under GST.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "registered",
+        "go",
+        "third",
+        "11"
+    ],
+    "nouns": [
+        "party",
+        "go",
+        "third",
+        "audit",
+        "software",
+        "CEO",
+        "IT",
+        "backbone",
+        "collection",
+        "Services",
+        "Tax",
+        "data",
+        "11",
+        "crore",
+        "business"
+    ],
+    "verbs": [
+        "party",
+        "go",
+        "audit",
+        "Tax"
+    ]
+}

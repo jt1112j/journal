@@ -1,0 +1,58 @@
+{
+    "creator": "AFP",
+    "title": "Largest US banks would survive recession: US Federal Reserve",
+    "link": "https://www.financialexpress.com/economy/largest-us-banks-would-survive-recession-us-federal-reserve/1215612/",
+    "pubDate": "Fri, 22 Jun 2018 03:49:23 +05:30",
+    "dc:creator": "AFP",
+    "content": "The largest US banks are \"strongly capitalized\" and would survive a severe global economic recession, the Federal Reserve has announced. ",
+    "contentSnippet": "The largest US banks are \"strongly capitalized\" and would survive a severe global economic recession, the Federal Reserve has announced.",
+    "guid": "https://www.financialexpress.com/?p=1215612",
+    "categories": [
+        "Economy"
+    ],
+    "isoDate": "2018-06-21T22:19:23.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.2222222222222222,
+        "tokens": [
+            "largest",
+            "us",
+            "banks",
+            "would",
+            "survive",
+            "recession",
+            "us",
+            "federal",
+            "reserve"
+        ],
+        "words": [
+            "recession"
+        ],
+        "positive": [],
+        "negative": [
+            "recession"
+        ]
+    },
+    "article": {
+        "title": "Largest US banks would survive recession: US Federal Reserve",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1215620\" src=\"https://images.financialexpress.com/2018/06/fed-reut1.jpg\" alt=\"US banks,&nbsp;recession,&nbsp;Largest US banks,&nbsp;US Federal Reserve\" srcset=\"https://images.financialexpress.com/2018/06/fed-reut1.jpg 660w, https://images.financialexpress.com/2018/06/fed-reut1-300x200.jpg 300w, https://images.financialexpress.com/2018/06/fed-reut1-620x413.jpg 620w, https://images.financialexpress.com/2018/06/fed-reut1-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> The largest US banks are “strongly capitalized” and would survive a severe global economic recession, the Federal Reserve has announced.</figure>\n\t\t\t</section></div><span>\n</span><p>The largest US banks are “strongly capitalized” and would survive a severe global economic recession, the Federal Reserve has announced. So-called stress testing by the central bank showed that in the event of pronounced economic troubles — in which unemployment shot up to 10 percent, GDP shrank and financial conditions worsened — the nation’s 35 biggest financial institutions would still be able to lend to households and businesses, according to the Fed. However, certain changes in December’s sweeping tax overhaul and a harsher hypothetical scenario led to much steeper projected losses than were calculated last year, the central bank said in a statement yesterday.</p><span>\n</span><p>Randal Quarles, the Fed’s recently appointed vice chairman for banking supervision, said the testing showed that banks would end the next recession in better shape than they started the last one. “Despite a tough scenario and other factors that affected this year’s test, the capital levels of the firms after the hypothetical severe global recession are higher than the actual capital levels of large banks in the years leading up to the most recent recession,” he said. The tests also showed the ratio of capital, which allows lenders to absorb losses, to risk-weighted assets would drop from 12.3 per cent at the end of last year to 7.9 per cent — weaker than 9.2 per cent calculated a year ago. Projected losses for the 35 banks amounted to USD 578 billion over nine quarters, up sharply from the USD 383 billion in losses for 34 banks calculated last year.</p><span>\n</span><p>Officials said the higher projected losses reflected the fact that December’s sweeping corporate tax cuts resulted in one-time accounting-related charges and also removed some benefits banks had relied on during prior recessions. The scenario also envisioned a deeper economic shock than the prior round of tests. Together the 35 banks account for 80 per cent of all the assets of banks operating in the United States. The stress tests were required under the 2010 Dodd-Frank financial reform laws enacted in the wake of the global financial crisis.</p><span>\n</span><p>President Donald Trump in May signed a rollback of Dodd-Frank regulations, freeing small and medium-sized banks from the law’s stress-test requirements, among other changes. Trump said at the time that Dodd-Frank’s strictures had restricted lending, suppressing economic growth. But the Federal Deposit Insurance Corporation in May that the US banking sector, small community lenders as well as major financial institutions, just had the most profitable quarter ever.</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "Federal",
+        "severe",
+        "global",
+        "economic",
+        "announced"
+    ],
+    "nouns": [
+        "US",
+        "banks",
+        "recession",
+        "Federal",
+        "Reserve"
+    ],
+    "verbs": [
+        "survive",
+        "Reserve"
+    ]
+}

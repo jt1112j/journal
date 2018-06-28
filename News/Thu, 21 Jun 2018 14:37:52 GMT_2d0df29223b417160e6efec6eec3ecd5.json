@@ -1,0 +1,100 @@
+{
+    "title": "Sebi looking into alleged violations in ICICI Sec IPO: Ajay Tyagi",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/sebi-looking-into-alleged-violations-in-icici-sec-ipo-tyagi/articleshow/64685517.cms",
+    "pubDate": "Thu, 21 Jun 2018 14:37:52 GMT",
+    "content": "<a href=\"https://timesofindia.indiatimes.com/business/india-business/sebi-looking-into-alleged-violations-in-icici-sec-ipo-tyagi/articleshow/64685517.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/64685517.cms\" /></a>ICICI Securities had in March reduced the size of its initial public offer (IPO) to a little over Rs 3,500 crore after the sale elicited a sluggish response, especially from high net-worth individuals.",
+    "contentSnippet": "ICICI Securities had in March reduced the size of its initial public offer (IPO) to a little over Rs 3,500 crore after the sale elicited a sluggish response, especially from high net-worth individuals.",
+    "guid": "https://timesofindia.indiatimes.com/business/india-business/sebi-looking-into-alleged-violations-in-icici-sec-ipo-tyagi/articleshow/64685517.cms",
+    "isoDate": "2018-06-21T14:37:52.000Z",
+    "sentiment": {
+        "score": -2,
+        "comparative": -0.18181818181818182,
+        "tokens": [
+            "sebi",
+            "looking",
+            "into",
+            "alleged",
+            "violations",
+            "in",
+            "icici",
+            "sec",
+            "ipo",
+            "ajay",
+            "tyagi"
+        ],
+        "words": [
+            "violations"
+        ],
+        "positive": [],
+        "negative": [
+            "violations"
+        ]
+    },
+    "article": {
+        "title": "Sebi looking into alleged violations in ICICI Sec IPO: Ajay Tyagi",
+        "content": "<section class=\"title_section clearfix\"><meta itemprop=\"headline\" content=\"Sebi looking into alleged violations in ICICI Sec IPO: Ajay Tyagi\"><p>ICICI Securities had in March reduced the size of its initial public offer (IPO) to a little over Rs 3,500 crore after the sale elicited a sluggish response, especially from high net-worth individuals.</p></section>"
+    },
+    "adjectives": [
+        "looking",
+        "alleged",
+        "Sec",
+        "sec",
+        "reduced",
+        "size",
+        "initial",
+        "public",
+        "little",
+        "500",
+        "elicited",
+        "sluggish",
+        "high",
+        "net",
+        "worth",
+        "10",
+        "left",
+        "top",
+        "right"
+    ],
+    "nouns": [
+        "looking",
+        "Sec",
+        "sec",
+        "IPO",
+        "ipo",
+        "March",
+        "margin",
+        "size",
+        "initial",
+        "public",
+        "offer",
+        "500",
+        "crore",
+        "response",
+        "sale",
+        "little",
+        "high",
+        "net",
+        "worth",
+        "india",
+        "business",
+        "border",
+        "10",
+        "left",
+        "style",
+        "top",
+        "right",
+        "photo"
+    ],
+    "verbs": [
+        "March",
+        "size",
+        "initial",
+        "offer",
+        "net",
+        "border",
+        "align",
+        "style",
+        "top",
+        "right"
+    ]
+}

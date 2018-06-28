@@ -1,0 +1,68 @@
+{
+    "creator": "Reuters",
+    "title": "Oil prices rise on uncertainty ahead of OPEC meeting",
+    "link": "https://www.financialexpress.com/market/commodities/oil-prices-rise-on-uncertainty-ahead-of-opec-meeting/1215711/",
+    "pubDate": "Fri, 22 Jun 2018 08:49:44 +05:30",
+    "dc:creator": "Reuters",
+    "content": "Brent crude futures, the international benchmark for oil prices, were at $73.88 per barrel at 0144 GMT, up 83 cents, or 1.1 percent, from their last close. ",
+    "contentSnippet": "Brent crude futures, the international benchmark for oil prices, were at $73.88 per barrel at 0144 GMT, up 83 cents, or 1.1 percent, from their last close.",
+    "guid": "https://www.financialexpress.com/?p=1215711",
+    "categories": [
+        "Commodities",
+        "Market"
+    ],
+    "isoDate": "2018-06-22T03:19:44.000Z",
+    "sentiment": {
+        "score": 1,
+        "comparative": 0.1111111111111111,
+        "tokens": [
+            "oil",
+            "prices",
+            "rise",
+            "on",
+            "uncertainty",
+            "ahead",
+            "of",
+            "opec",
+            "meeting"
+        ],
+        "words": [
+            "rise"
+        ],
+        "positive": [
+            "rise"
+        ],
+        "negative": []
+    },
+    "article": {
+        "title": "Oil prices rise on uncertainty ahead of OPEC meeting",
+        "content": "<div class=\"main-story-content\" itemprop=\"articleBody\"><span>\n\t\t\t\t\t</span><div class=\"custom-caption\"><section class=\"imgsection alignnone\"><figure><img class=\"size-full wp-image-1206825\" src=\"https://images.financialexpress.com/2018/06/oil-3.jpg\" alt=\"oil, opec, oil market\" srcset=\"https://images.financialexpress.com/2018/06/oil-3.jpg 660w, https://images.financialexpress.com/2018/06/oil-3-300x200.jpg 300w, https://images.financialexpress.com/2018/06/oil-3-620x413.jpg 620w, https://images.financialexpress.com/2018/06/oil-3-401x267.jpg 401w\" sizes=\"(max-width: 660px) 100vw, 660px\"> Oil prices rose by more than 1 percent in early Asian trading on Friday.</figure>\n\t\t\t</section></div><span>\n</span><p>Oil prices rose by more than 1 percent in early Asian trading on Friday, pushed up by uncertainty over whether OPEC would manage to agree a production increase at a meeting in Vienna later in the day. Brent crude futures, the international benchmark for oil prices, were at $73.88 per barrel at 0144 GMT, up 83 cents, or 1.1 percent, from their last close. U.S. West Texas Intermediate (WTI) crude futures were at $66.30 a barrel, up 76 cents, or 1.2 percent.</p><span>\n</span><p>The Organization of the Petroleum Exporting Countries (OPEC), a producer cartel de-facto led by top exporter Saudi Arabia, is meeting together with some non-OPEC members including top producer Russia at its headquarters in the Austrian capital to discuss output policy. The group started withholding supply in 2017 to prop up prices. Amid strong demand, the market has since tightened significantly, pushing up crude prices and triggering calls by consumers to increase supplies. Saudi Arabia and Russia are in favour of raising output. Other OPEC-members, including Iran, have opposed this, resulting in a flurry of backdoor diplomacy ahead of the meeting, which starts on Friday.</p><span>\n</span><p>“The actual decision by OPEC and its partners – which may not actually become apparent until Saturday – is the big one traders are watching,” said Greg McKenna, chief market strategist at futures brokerage AxiTrader. ANZ bank said it expected OPEC to slightly increase output to make up for some unplanned supply disruptions from places such as Venezuela, Angola and Iran. “Even with this increase, we see the market remaining in deficit in H2 2018, which should see prices remain well supported,” ANZ said.</p><span>\n</span><p>The other big uncertainty in markets is potential Chinese tariffs on U.S. crude imports that Beijing may impose in an escalating trade dispute between the United States on one side and China, the European Union and India on the other. Should the 25 percent duty on U.S. crude imports be implemented by Beijing, American oil would become uncompetitive in China, forcing it to seek buyers elsewhere.</p><span>\n</span><p>Chinese buyers are already starting to scale back orders, with a drop in supplies expected from September. “If China’s import demand dries up, more than 300,000 barrels per day of U.S. crude will have to find a new destination,” energy consultancy FGE said, adding that “this will certainly depress U.S. Gulf Coast prices”.<br>(Reporting by Henning Gloystein Editing by Joseph Radford)</p><span>\n\t\t\t\t</span></div><div class=\"common-bottom-text\"><p>Get live <a href=\"https://www.financialexpress.com/market/stock-market/\" target=\"_blank\">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href=\"https://www.financialexpress.com/mutual-funds-india/\" target=\"_blank\">Mutual Funds</a>, calculate your tax by <a href=\"https://www.financialexpress.com/income-tax-calculator/\" target=\"_blank\">Income Tax Calculator</a>, know market’s <a href=\"https://www.financialexpress.com/market/stock-market/nse-top-gainers/\" target=\"_blank\">Top Gainers</a>, <a href=\"http://www.financialexpress.com/market/stock-market/nse-top-losers/\" target=\"_blank\">Top Losers</a> &amp; <a href=\"https://www.financialexpress.com/mutual-funds-india/equity-funds/\" target=\"_blank\">Best Equity Funds</a>. Like us on <a href=\"https://www.facebook.com/thefinancialexpress\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://twitter.com/FinancialXpress\" target=\"_blank\">Twitter</a>.</p></div>"
+    },
+    "adjectives": [
+        "ahead",
+        "crude",
+        "international",
+        "73",
+        "88",
+        "83",
+        "close",
+        "last"
+    ],
+    "nouns": [
+        "rise",
+        "Oil",
+        "oil",
+        "uncertainty",
+        "Brent",
+        "crude",
+        "international",
+        "benchmark",
+        "meeting",
+        "OPEC",
+        "percent",
+        "last",
+        "GMT",
+        "barrel",
+        "close"
+    ]
+}
